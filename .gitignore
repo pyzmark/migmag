@@ -1,5 +1,7 @@
 .swp
 .DS_Store
+.#migmag.org
+.streamlit/config.toml
 .migmag.org.~undo-tree~
 Odyssey/.odyssey.py.~undo-tree~
 Odyssey/.odyssey_dash.py.~undo-tree~
