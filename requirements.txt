@@ -1,3 +1,4 @@
 streamlit_folium
 altair
 geojson
+pandas
