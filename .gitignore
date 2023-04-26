@@ -1,3 +1,11 @@
 .swp
 .DS_Store
+.migmag.org.~undo-tree~
+Odyssey/.odyssey.py.~undo-tree~
+Odyssey/.odyssey_dash.py.~undo-tree~
+Odyssey/.odyssey_func.py.~undo-tree~
+Odyssey/.odyssey_updater.py.~undo-tree~
+Odyssey/Pipfile
+Odyssey/Temp/
+Odyssey/__pycache__/
 migmag.org
