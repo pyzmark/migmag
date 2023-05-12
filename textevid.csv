@@ -1,612 +1,688 @@
-﻿"nodegoat ID","Object ID",Name
-ngWD3A68iYNO1YNq1Wv40ltLxXK,12695136,"Dionysios of Halikarnassos Ant. Rom. 1.11-13"
-ngIP4I88uKPA0KZE3I96vxfRjIc,12536648,"Dionysios of Halikarnassos Ant. Rom. 2.1.2"
-ngHO4L78tHYZ8JYx2IQ51weUiJV,12536647,"Pausanias 8.3.5"
-ngIP2E28uJfAtKZc7Ih05xfBjIc,14455222,"Antiochus of Syrakuse FGRHist 555 f5"
-ngHO2D18tIuZtJYZ6Hg9uwegiIb,14455221,"Dionysios of Halikarnassos Ant. Rom. 1.35.1"
-ngRY3J18dSeJcTIp6RA9egomsTF,14392631,"Pausanias 4.23.7"
-ngMT5Y28yNjEzODU7NF07bjRnOA,13961152,"Zenobios 3.42"
-ngGN4G68sGtY1IXU1GZ49vdbhGU,12695146,"Virgil Aen. 7.37"
-ngEL4I48qEVWrGVI9FX29tbJfGS,12695144,"Virgil Aen. 1.520"
-ngZG3D98lBQR0BQV4A071owMaZN,12411839,"Vellius Paterculus 1.1.1-2"
-ngVC0D98hViNgXMp4Wu70ksSwGJ,14389409,"Timaeos of Tauromenion FGrHist 566 f12"
-ngOV0G28aObGbQFO7On03dljpQC,14000902,"Timaeos of Tauromenion FGrHist 566 f51"
-ngRY8D38dTYJ7TIl8RK1bgoAsSl,13962583,"Thucydides 6.44.3"
-ngRY8D38dTYJ7TIh8TK1egomsSF,13961183,"Thucydides 6.4.5"
-ngMT2I68yMTEzODQ1Nl46bjRnMA,13960426,"Thucydides 5.5.3"
-ngZG1p38lAmR8BQZ8ZI1jowEaKN,12498913,"Suda mu. 1473"
-ngMT2E68yOTE9ODg1M748bjNnMg,12411826,"Strabo 8.7.5"
-ngTA0L78fTqL7VKF2VM57iqkuTn,14000907,"Strabo 6.3.2-3"
-ngUB8s68gWBM6WLU1UD47jrZvVI,12629686,"Strabo 6.2.4"
-ngYF3C88kAFQ9APw3AH6lnvVzAM,12411838,"Strabo 6.1.15"
-ngJQ2F38vKwB4LAz8KS1wygSkJd,13024123,"Strabo 6.1.14"
-ngLS2H58xLSDvNCL0NE38aiEmMf,12604625,"Strabo 6.1.12"
-ngGN4K68sGNY8IXS1IP4tvdPhHa,12528746,"Strabo 6.1.10."
-ngBI6r78nDST2DSX2CU59qyQcCP,12378467,"Strabo 6.1.7-8"
-ngCJ1G68oEJU9ETw1EL4przPdNQ,12411816,"Strabo 6.1.6"
-ngBI4F18nCIT2DSP6CK91qyCcBv,12695141,"Strabo 6.1.4"
-ngKR2G48wMBCxMBK9LT27zhflMY,12695124,"Antiochus of Syrakuse FGrHist 555 f3a"
-ngMT2I68yMTEyODU1NF46bjJnNA,13954426,"Strabo 6.1.3."
-ngTA3P38fTALeVKH8VM1fiqkuTn,12498533,"Strabo 6.1.1."
-ngSZ3O28eSJK2UJE7S30ehpntSG,13961232,"Strabo 5.4.9"
-ngNU7Z98zPEF9PEN4OW7xckKoOB,14000779,"Strabo 5.4.7"
-ngOV8A08aPbGbQFe5PH85dlLpPC,13961180,"Strabo 5.4.4"
-ngZG3D98lZmR0BQL4ZS7kowqaAt,12695139,"Strabo 5.1"
-ngVC0H98hVsNiXMN4VE7hksKwGJ,14000909,"Strabo 6.3.3"
-ngBI4F18nCyT5DSX6DK9mqyUcCv,12411841,"Strabo 6.1.5"
-ngMT2I68yMTEwODI1Nl41bjVnNg,13657326,"Stephanos of Byzantion s.v. Matauros"
-ngFM9d78rFWX1HWX2GO5pucKgGT,12498897,"Stephanos of Byzantion s. v. Mesma"
-ngGN9a88sINY1IXU3Gf69vdPhGa,12498898,"Stephanos of Byzantion s. v. Medme"
-ngYF1o28kYvQiAPG7AR04nvNzJM,13961112,"Stephanos of Byzantion s. v. Kaulonia"
-ngOV2G88aQFGyQFG3P968dlDpOC,12411828,"St. Jerome Ab Abr. B708"
-ngUB0M88gUrM3WLo3V963jrNvUo,12411808,"St. Jerome Ab Abr. B679"
-ngKR2G48wMBC7MBe9Lj29zhXlKY,13019624,"Solinos Polyhistor 4.2"
-ngFM1B98rGcX3HWN4Fe7rucegFz,12411819,"Solinos 2.10-11"
-ngVC0V98hWsN0XMt4VO7fksAwGJ,12411809,"Servius Aen. 3.399"
-ngDK4D38pEqV8FUb8Ec1psaIeDR,13961143,"Servius Ad. Aen. 3.553"
-ngIP7y48uJvA6KZg9I527xfFjJW,13962574,"Pseudo-Skymnos 247-252"
-ngAH1S48mBHS6CRy9AJ26pzlbAE,14000914,"Pseudo-Skymnos 300-340"
-ngAH1S48mCRSkCRW9BT28pzlbAE,13961214,"Pseudo-Skylax 12"
-ngQX8C28cSXI5SHo7SJ05fnFrSE,13029582,"Pseudo-Apollodoros Biblioteca 2.7.6"
-ngNU0F18zNUF3PEZ6PG9xckGoNh,12411801,"Polybius Hist. 12.5-12"
-ngTA3P38fTALdVKn8U41fiqMuTn,12411833,"Plutarch Per. 11.5"
-ngUB3Y48gVBMfWLo9UD2hjrHvUI,12411834,"Plutarch Nic. 5.2"
-ngJQ4J98vKgB3LAV4K070ygGkLX,12695149,"Pliny the Elder HN 3.7"
-ngIP4I88uJPA2KZW3KR6txfdjIW,12695148,"Pliny the Elder HN 3.5.10"
-ngZG1R38lBGR5BQH8Z413owEaKN,14000913,"Plato Leg. 637B"
-ngDK1Z78pFKV1FUP2EW50saueEx,12695117,"Pherekydes FGrHist 3 f156"
-ngMT7c88yNDE1ODU3MV62bjBnMA,13019678,"Pausanias 10.17.5"
-ngHO2D18tIOZ1JYf6IA9rweyiIb,13019621,"Pausanias 10.17.2"
-ngWD1E08iWDO4YNm5Wv8gltBxHK,13961110,"Pausanias 6.3.12"
-ngEL9c68qELW0GVA1EN4ptbTfFS,12498896,"Pausanias 3.3.1"
-ngBI4F18nCyT5DSF6BU9mqywcCP,12407941,"Ovid Met. 15.1"
-ngCJ4C28oETU7ETK7Cb06rztdCw,13961242,"Livy 8.22.6"
-ngSZ0K68eTJK9UJA1Sr4dhpFtSG,12411806,"Konon Narr. 18."
-ngQX0I48cRXIcSHE9RZ28fnZrQk,14000904,"Justin 20.2"
-ngQX3I08cSHIcSHI5Q185fnFrRE,14389030,"Horace Od. 2.6"
-ngNU5Z38zOUFaPEl8PG1zckCoNB,13961153,"Hippys FGrHist 554, f1"
-ngOV5A48aOFGzQFG9PX29dlTpQC,13961154,"Herodotos 8.47"
-ngTA0L78fTqL8VKL2TM5fiqMuTn,13961207,"Herodotos 6.21"
-ngUB0M88gUBM8WLQ3Ut6gjrHvWI,13961108,"Herodotos 1.166-7"
-ngGN9a88sHtYsIXa3G96rvdPhHa,14000798,"Heraklides Lembus 55"
-ngIP2E28uJPA5KZE7KR04xfdjIW,14389022,"Hekataios FGrHist 1 f81"
-ngFM1F98rFsX0HWX4FO7rucagGT,14389019,"Hekataios FGrHist 1 f84"
-ngWD1E08iWtOhYNK5Xv81ltTxHK,14000910,"Ephoros FGRHist 70 f216"
-ngTA0L78fTqL8VKL2Ts52iqQuUH,13962607,"Dionysios of Halikarnassos Ant. Rom. 19.2"
-ngSZ8q48eUJKeUJm9SB26hpHtTG,13961184,"Dionysios of Halikarnassos Ant. Rom. 7.3.1"
-ngUB3Y48gVhMeWLU9V525jrRvVI,12695134,"Dionysios of Halikarnassos Ant. Rom. 2.35.7"
-ngLS2H58xLSDvNCL0LE3waiMmMf,12695125,"Dionysios of Halikarnassos Ant. Rom. 1.73.3-5"
-ngVC3Z58hWiN9XMt0VE30ksWwWp,12695135,"Dionysios of Halikarnassos Ant. Rom. 1.60.3"
-ngBI1X58nCITnDSJ0BK3oqyOcMP,12695115,"Dionysios of Halikarnassos Ant. Rom. 1.13.1"
-ngHO2D18tIOZuJYV6IA91weQiIb,12695121,"Dionysios of Halikarnassos Ant. Rom. 1.12.3"
-ngTA8r58fUgLeVKr0UC3diqkuTn,13962585,"Diodorus Siculus 14.40.1"
-ngKR2G48wLxC5MBe9LT25zhTlKe,13960424,"Diodorus Siculus 12.36.4"
-ngRY3N18dReJcTIJ6R292goEsSF,12411831,"Diodorus Siculus 12.35.1-3"
-ngPW2H98bQcHzRGH4P07cemEqPD,12411829,"Diodorus Siculus 12.10-11"
-ngPW8f18bPGH3RGH6QI95emEqPD,13962581,"Diodorus Siculus 11.59.4"
-ngRY0J58dSYJ8TIZ0TK3cgoGsRF,12411805,"Diodorus Siculus 8.32.1-3"
-ngIP2I28uIfA2KZW7JR0sxfFjJW,12411822,"Diodorus Siculus 8.17.1-2"
-ngBI1J58nDITmDSz0Ba30qyYcMP,12411815,"Diodorus Siculus 4.85.3-4"
-ngZG3D98lAQRjBQV4Ay79owSaAt,13029539,"Diodorus Siculus 4.29"
-ngJQ2J38vJQBwLAh8LS1uygOkLX,12411823,"Diodorus Siculus 4.24.5-7"
-ngCJ1Y68oCpUmETw1CL48rzHdNQ,14000916,"Diodorus Siculus 11.90.3-4"
-ngDK1D78pDUV9FUH2E851saAeER,14000917,"Diodorus Siculus 12.10.3"
-ngNU5V38zPUF6PEV8Om1xckSoNB,12528753,"Cassiodorus Var. 12.15.1"
-ngNU0F18zOEFaPEN6PG94ckOoOh,14000901,"Athenaios Deipnosophistes 12.25.523"
-ngYF1o28kYFQ4APG7AR0invDzJM,14000912,"Aristotle Pol. 1306b"
-ngQX3I08cRdI4SHI5RJ84fnprQk,12695130,"Aristotle Pol. 1329B"
-ngWD3A68iWjO6YNu1YF4iltLxYK,12411836,"Aristotle Pol. 5.1303a"
-ngIP4I88uJvAuKZM3Jh6txfzjJc,14386448,"Pseudo-Apollodoros Epitome 6.15b"
-ngSZ0q68eSJKfUJW1SL4fhpFtDG,14000906,"Antoninus Liberalis Metamorphoses 8"
-ngDK4D38pFUV5FUV8FW14saQeDR,14386343,"Antiochus of Syrakuse FGrHist 555 f8"
-ngCJ4C28oEJU4ETC7D305rzxdCQ,14386342,"Antiochus of Syrakuse FGrHist 555 t2b"
-ngOV2K88aPFGyQFC3OH63dlHpPi,12695128,"Antiochus of Syrakuse FGrHist 555 f9"
-ngDK1D78pDUV9FUR2FW59saIeER,13961217,"Antiochus of Syrakuse FGrHist 555, f12"
-ngUB0M88gUBM8WLG3VN6hjrDvVo,14000908,"Antiochus of Syrakuse FGRHist 555 f13"
-ngMT2I68yMjEwODg1OF4ybjRnNA,12695126,"Antiochus of Syrakuse FGrHist 555 f6"
-ngIP2E28uJfAvKZc7J302xfFjIW,12695122,"Antiochus of Syrakuse FGrHist 555 f2"
-ngHO2D18tIeZ3JYP6Hg91weyiIb,13960421,"Antiochus of Syrakuse FGRHist 555 f11"
-ngDK9x58pEUVqFUV0EM37saAeDR,12498895,"Ammianus Marcellinus Hist. 15.9.7"
-ngAH1S48mBRS7CRO9CT29pxXbLO,12695114,"Hekataios FGrHist 1 f64-71"
-ngKR5W08wKxCvMBC5Lj8uzhflLY,12695150,"Eusebius Chron. 102"
-ngYF1U28kZlQiAPo7YR0inxjzYs,12375312,"Herodotos 1.142-150"
-ngCJ1G68oETU8ETa1D74mrzRdNQ,12375316,"Herodotos 1.172"
-ngDK1Z78pFKVnFUZ2DW5osaueEx,12375317,"Herodotos 1.173"
-ngBI1N58nBSTnDSX0Ba39qyQcMP,12375315,"Herodotos 1.171"
-ngOV2G88aPbG3QFC3Pn6ydlnpOi,12498528,"Herodotos 1.162-7"
-ngLS7X78xNSDvNCf2Lk57aicmLf,12375577,"Thucydides 2.15"
-ngRY8h38dRYJ4TIR8S414gomsSF,12375583,"Ioannes Tzetzes Schol. Lyc. Alex. 980"
-ngMT7Y88yODEwODg3M962bjVnNg,12375478,"Pseudo-Apollodoros Epitome 6.2-4"
-ngYF3C88kAFQ0APY3Zx69nvDzYM,12375138,"Agias Nostoi F1"
-ngJQ4J98vKgBvLAd4LS74ygekLX,14321249,"Proclus Chestomathia II"
-ngEL9c68qELW1GVu1F747tbdfFy,12375196,"Kallinos of Ephesos in Strabo 14.4.3"
-ngYF6G48kYPQ5APG9YR2invLzAM,14235764,"Strabo 14.4.3"
-ngWD8u88iWjO0YNm3YF6jltLxXK,14235888,"Strabo 14.1.27"
-ngMT0E08yMjEzODc5NV81bjBnMA,12375500,"Eustathios On Odyssey 3.4"
-ngGN2C08sHNY3IXG5G18tvdLhGU,12380920,"Schol. Hom. Il 20.404 (Geneva)"
-ngOV0G28aOFG4QFG7QH03dlPpOi,12375502,"Schol. Hom. Od. 8.291"
-ngIP7c48uIZAuKZI9KR25xfdjJW,12375474,"Ps-Hesiod Melampodia F278 M-W"
-ngUB3Y48gVBMfWLY9VD29jrpvVI,12375434,"Pherekydes BNJ 3 F142"
-ngTA5B98fUAL3VKF4Ts79iqouVH,14235759,"Euphorion F102 Lightfoot"
-ngRY0p58dSeJbTIp0SA39gomsCF,14235805,"Schol. Hom. Od. 13.259"
-ngZG6H58lZmR6BQZ0BS35owAaZt,14235765,"Schol. Lyc. Alexandria 424"
-ngWD6E28iXtO5YNu7XF03ltFxXq,14235762,"Lykophron Alexandra 424-30"
-ngVC6D18hXMNfXMJ6VE91ksqwXJ,14235761,"Servius ad Virg. Ecl. 6.72"
-ngGN7a28sGdY2IXU7Hf04vdPhGa,12375572,"Theopompos BNJ 115 F346"
-ngRY0J58dRIJbTIF0S635goOsSF,14000905,"Pseudo-Skymnos 336"
-ngSZ8q48eUJKeUJi9UB29hprtTm,13962584,"Pseudo-Skymnos 311-12"
-ngPW5B58bPGH5RGB0RY38emoqPj,13961155,"Pseudo-Skymnos 328"
-ngXE1r18jXEP3ZOT6Yw91muMyIL,13961111,"Pseudo-Skymnos 318-9"
-ngZG6H58lAGR9BQt0Z63kowAaAt,12411765,"Pindar Pyth. 2.15"
-ngPW0H38bQGH6RGX8Po1cemUqRD,13576003,"Strabo 4.1.4"
-ngWD3A68iWjOjYNq1X74gltPxWq,12375536,"Strabo 14.1.21"
-ngDK9x58pEUVpFUR0FW37saIeDR,12375595,"Zenobios Proverbs 4.33"
-ngTA8r58fUKL6VKB0UC30iqGuTH,12375585,"Vellius Paterculus 1.4"
-ngEL9c68qELW1GVu1F74ptbRfFS,12375596,"Zenobios Proverbs 5.17"
-ngBI9v38nCyToDSJ8Ca1nqyQcBP,12375593,"Zenobios Proverbs 5.71"
-ngGN9a88sINY2IXC3HP60vdHhHa,12375598,"Zosimos Life of Isocrates"
-ngJQ7z58vJQB7LAN0JS37ygekJX,13029975,"Strabo 14.5.8"
-ngWD3A68iYDOgYNW1Wv49ltTxWK,13038436,"Strabo 14.5.11-12"
-ngVC3Z58hXMNfXMl0VO39ksmwWp,13038435,"Strabo 14.5.10"
-ngTA3P38fTKL4VKr8VC15iqIuUH,13038433,"Strabo 14.5.9"
-ngLS2H58xLSD5NCj0LE3waiImNZ,13024125,"Athenaios 12.25"
-ngKR2K48wKBCwMBG9L525zhHlKY,12375224,"Douris of Samos FGrHist 76 F25 Samian Annals"
-ngYF6G48kZlQiAPK9Y528nvDzYM,12375264,"Hekataios BNJ 1 F11"
-ngCJ9w48oDJUpETK9DV24rzZdDQ,12498894,"Pseudo-Skymnos 262"
-ngFM9d78rFWX2HWN2GY59ucagFT,12375597,"Zopyros of Magnesia FGrHist 494 F1"
-ngCJ9w48oDJUnETa9EV24rzZdEQ,12375594,"Zenobios Proverbs 4.3"
-ngAH9u28mBnSnCRq7AT03pxBbAu,12375592,"Zenis of Chios FGrHist 393 F1"
-ngZG9x18lAwR5BQp6BI96owuaAN,12375591,"Xenophanes of Kolophon FGrHist 450 T1"
-ngYF9w08kAPQiAPC5YH83nvZzYs,12375590,"Xenophanes of Kolophon F3 Diels/IEG (F6 Graham)"
-ngVC8t78hVsNhXMp2XE59ksuwWp,12375587,"Xanthos the Lydian FGrHist 765 F23"
-ngWD8u88iYDO0YNA3X969ltPxXq,12375588,"Xanthos the Lydian FGrHist 765 F15"
-ngXE8v98jZEPhZOF4XG74muoyYr,12375589,"Xanthos the Lydian FGrHist 765 F14"
-ngUB8s68gUhM6WLM1UN47jrZvUI,12375586,"Vitruvius 4.1.4-5"
-ngSZ8q48eTZK5UJm9Sr25hpTtSm,12375584,"Vellius Paterculus 1.2"
-ngOV8e08aPFGbQFC5QX8adlBpOC,12375580,"Timotheos F791, 235-6 #Persae"
-ngNU7d98zOUFaPEF4PW79ckioPB,12375579,"Thucydides 7.57.4"
-ngMT7Y88yODEwODg3NF69bjRnMA,12375578,"Thucydides 6.82.3-4"
-ngJQ7z58vJQBvLAN0LS35ygGkKX,12375575,"Thucydides 1.8"
-ngIP7c48uIZAuKZI9KB26xfVjIW,12375574,"Thucydides 1.4"
-ngHO7b38tHOZuJYf8Hg1tweUiIV,12375573,"Thucydides 1.2.6"
-ngKR7a68wKBCwMBK1Lj4uzhXlMY,12375576,"Thucydides 1.12"
-ngDK6t98pEqVqFUV4DW74saEeEx,12375569,"Theopompos BNJ 115 F59"
-ngBI6r78nDST2DSB2C85mqyOcDP,12375567,"Theopompos BNJ 115 F351"
-ngFM7z18rFsX2HWB6G291ucOgGz,12375571,"Theopompos BNJ 115 F305"
-ngEL7u08qFbWpGVQ5FN80tbzfFS,12375570,"Theopompos BNJ 115 F276"
-ngCJ6s88oDpU3ETQ3Db68rzDdDw,12375568,"Theopompos BNJ 115 F23"
-ngAH6I68mBRS0CRy1Az4lpxzbBu,12375566,"Theopompos BNJ 115 F118"
-ngZG6H58lAGR0BQN0Zy35owIaAt,12375565,"Theopompos BNJ 115 F117"
-ngYF6G48kZlQiAPK9ZR2knvLzAM,12375564,"Theopompos BNJ 115 F103"
-ngXE6F38jZOPiZOr8YG1hmusyZL,12375563,"Theophrastos F631 Rose (Ath 4.74, 173e)"
-ngWD6E28iWNO6YNO7WP06ltBxXK,12375562,"Theokritos Idylls 28.3"
-ngVC6D18hVCN1XMV6XE9gksAwWJ,12375561,"Themistagoras FHG iv. 514 F3"
-ngTA5B98fTgL0VKj4VM79iqMuUn,12375559,"Themistagoras FHG iv. 512 F1"
-ngUB6C08gUrM0WLU5Ut85jrtvVo,12375560,"Themistagoras FHG iv. 512 F2"
-ngSZ5E88eSpK3UJm3UB69hpjtSm,12375558,"Tacitus Annals 3.61"
-ngRY5D78dSIJcTIJ2TK59goGsRF,12375557,"Suda s.v.Τὸν Κολοφῶνα ἐπίθες (Adler no.765)"
-ngPW5B58bQmHbRGj0Po35emCqQD,12375555,"Suda s.v. Philiskos Milesios"
-ngNU5V38zPUF4PEJ8NG1yckKoNB,12375553,"Suda s.v. Kadmos (Adler no.K21)"
-ngOV5A48aPlG8QFi9Pn2zdljpQC,12375554,"Suda s.v. Kadmos (Adler no.K22)"
-ngQX5C68cRXIcSHY1SZ41fnRrQk,12375556,"Suda s.v. Ionia (Adler I.494)"
-ngMT5Y28yMDE4ODY7NV03bjRnMA,12375552,"Suda s.v. Aristarchos (Alder A.3894)"
-ngLS5X18xLSD4NCj6LE96aiYmLZ,12375551,"Suda s.v. Apatouria (Adler A.2940)"
-ngFM9d78rFWX1HWN2GY50ucUgGT,12408997,"Strabo 13.1.68"
-ngAH4E08mBnS0CRM5CT85pxvbCO,12375540,"Strabo 9.2.3"
-ngBI4F18nCyT5DSr6Ba92qywcCP,12375541,"Strabo 9.2.12"
-ngZG3D98lBQR1BQR4AI7lowMaAN,12375539,"Strabo 8.6.15"
-ngVC3Z58hWMN6XMZ0VE36ksSwVJ,12375535,"Strabo 7.7.2"
-ngYF3C88kAFQ0APY3Zx60nvHzYs,12375538,"Strabo 14.5.16"
-ngXE3B78jXuPkZOn2X851muCyZL,12375537,"Strabo 14.2.27-8"
-ngHO4L78tHYZ7JYZ2JA50weQiHb,12375547,"Strabo 14.1.6-7"
-ngGN4K68sGNY6IXC1IP40vdbhHU,12375546,"Strabo 14.1.5"
-ngJQ4J98vLAB2LAh4Ji72ygikJd,12375549,"Strabo 14.1.15"
-ngKR5W08wKhC4MBC5Kj8xzhHlLY,12375550,"Strabo 14.1.20"
-ngUB3Y48gVBMfWLY9Vt2ejrpvVI,12375534,"Strabo 14.1.2-4"
-ngIP4I88uKPA1KZc3IR6vxfdjKW,12375548,"Strabo 14.1.12"
-ngFM4F58rGWXqHWR0FY30ucGgGz,12375545,"Strabo 13.3.3"
-ngDK4D38pEaVqFUV8Dc1psaSeFR,12375543,"Strabo 12.3.21"
-ngEL4E48qFLWrGVA9E526tbBfES,12375544,"Strabo 12.8.5"
-ngCJ4C28oDpU2ETK7DV02rzRdDQ,12375542,"Strabo 11.5.4"
-ngEL1A88qFrW3GVS3EX61tbvfEy,12375518,"Stephanos of Byzantion Ethnika s.v. Tremile"
-ngTA3P38fTALdVKH8TC15iqCuUn,12375533,"Stephanos of Byzantion Ethnika s.v. Teos"
-ngSZ3O28eSpKdUJW7S306hpPtSG,12375532,"Stephanos of Byzantion Ethnika s.v. Smyrna"
-ngRY3N18dReJcTIV6RK93goGsTF,12375531,"Stephanos of Byzantion Ethnika s.v. Samos"
-ngPW2H98bQmH4RGH4RY71emYqQj,12375529,"Stephanos of Byzantion Ethnika s.v. Priene"
-ngQX3M08cRHIcSHo5RZ8bfnRrQk,12375530,"Stephanos of Byzantion Ethnika s.v. Phokaia"
-ngOV2G88aQFGyQFS3PX68dlfpPi,12375528,"Stephanos of Byzantion Ethnika s.v. Mykale"
-ngNU2F78zPEF9PEd2OG59ckeoNh,12375527,"Stephanos of Byzantion Ethnika s.v. Miletos"
-ngMT2E68yOTE8ODg1N740bjFnMg,12375526,"Stephanos of Byzantion Ethnika s.v. Melia"
-ngLS2H58xLCD9NCZ0NU36aiQmMZ,12375525,"Stephanos of Byzantion Ethnika s.v. Kaunos"
-ngJQ2J38vJQBwLAV8LS17ygekLX,12375523,"Stephanos of Byzantion Ethnika s.v. Erythrai"
-ngKR2K48wKBCwMBG9L527zhPlKY,12375524,"Stephanos of Byzantion Ethnika s.v. Ephesos"
-ngIP2I28uIfA2KZc7KR03xfdjIW,12375522,"Stephanos of Byzantion Ethnika s.v. Didyma"
-ngFM1B98rGcX2HWJ4Fe7qucegFz,12375519,"Stephanos of Byzantion Ethnika s.v. Chios"
-ngHO2H18tHuZ2JYD6HQ9tweWiJV,12375521,"Stephanos of Byzantion Ethnika s.v. Byblos"
-ngGN2C08sHNY3IXC5IZ85vdThHU,12375520,"Stephanos of Byzantion Ethnika s.v. Bolissos"
-ngOV2G88aQFGyQFS3QH6adlDpPC,12380928,"Stephanos of Byzantion Ethnika s.v. Benna"
-ngCJ1G68oETU8ETa1D749rzZdNQ,12375516,"Solon F4a IEG/Bergk"
-ngDK1Z78pFKVnFUZ2DW5qsaueEx,12375517,"Solon F36 IEG"
-ngBI1N58nBSTnDSX0Ba3lqywcMP,12375515,"Simonides of Keos FGrHist 8 F2"
-ngAH1q48mARSlCRq9AT2mpxPbLO,12375514,"Servius Commentary on Virgil's Aeneid 10.763"
-ngZG1p38lAwRmBQp8BI18owWaKN,12375513,"Semonides of Amorgos FGrHist 534 T1a"
-ngUB0M88gUhMeWLo3UN61jrJvUI,12375508,"Schol. Nikandr. Ther. 958"
-ngQX0k48cRHI8SHQ9RZ28fnlrBE,12375504,"Schol. Lyc. Alexandria 1385"
-ngVC0V98hWCN1XMZ4VE71ksqwGJ,12375509,"Schol. Nikandr. Alex. 9c"
-ngWD1S08iXDO1YNW5WP8iltrxHK,12375510,"Schol. Nikandr. Alex 9h"
-ngYF1U28kZlQiAPo7ZH04nxjzYs,12375512,"Schol. Nikandr. Alex 11c"
-ngXE1P18jYOPhZOL6YG96muUyIL,12375511,"Schol. Nikandr. Alex 11a"
-ngSZ0K68eTJK9UJO1TB4dhpHtSG,12375506,"Schol. Lyc. Alexandria 881"
-ngRY0J58dSYJ9TIV0SK37goqsSl,12375505,"Schol. Lyc. Alexandria 440"
-ngTA0L78fUKLeVKH2UM5diqsuUn,12375507,"Schol. Lyc. Alexandria 1384"
-ngPW0n38bQmHbRGf8RI14emCqAD,12375503,"Schol. Lyc. Alexandria 1379"
-ngHO9b98tJYZ1JYb4H073weEiJV,12375499,"Schol. Kallim. Ad Jovem 77b"
-ngNU0F18zNUF4PEd6PW9yckmoNh,12375501,"Schol. Hom. Od. CMVamouX on Homer, on Odyssey 11.281"
-ngGN9a88sINY2IXC3HP63vdDhGU,12375498,"Schol. Aristoph. Vesp. 1490a"
-ngFM9d78rFWX2HWN2F851ucCgFT,12375497,"Schol. Aristeides Panathenaikos 110.18"
-ngEL9c68qELW1GVu1F74qtbNfFy,12375496,"Schol. Arat. Phaen. 636"
-ngDK9x58pEUVpFUR0FM37saIeER,12375495,"Schol. Apol. Rhod. 3.997-1004α"
-ngCJ9w48oDJUnETa9EV2orzLdDw,12375494,"Schol. Apol. Rhod. 1.955-60e"
-ngYF9w08kAPQiAPC5YR85nvVzAM,12375490,"Schol. Apol. Rhod. 1.308b"
-ngBI9v38nCyToDSJ8Ca16qyGcBP,12375493,"Schol. Apol. Rhod. 1.185-8c"
-ngAH9u28mBnSnCRM7CJ07pxXbCO,12375492,"Schol. Apol. Rhod. 1.185-8b"
-ngZG9x18lAwR5BQt6ZS9lowqaAt,12375491,"Schol. Apol. Rhod. 1.185-8a"
-ngXE8v98jZEPhZOF4Xw7hmuoyYr,12375489,"Quintus Smyrnaeus Posthomerica 14.36"
-ngWD8u88iYDO0YNA3YP69ltLxXK,12375488,"Pseudo-Plutarch Life of Homer 2.3"
-ngUB8s68gUhM6WLM1UD4fjrpvVI,12375486,"Pseudo-Herodotos Life of Homer 2"
-ngVC8t78hVsNhXMp2XE5iksAwVJ,12375487,"Pseudo-Herodotos Life of Homer 14, Epigram 4 line 6"
-ngTA8r58fUKL6VKB0UC3giqIuTH,12375485,"Pseudo-Herodotos Life of Homer 1"
-ngSZ8q48eTZK5UJm9Sr29hpTtTm,12375484,"Pseudo-Apollodoros Epitome 3.32-3"
-ngRY8h38dRYJ4TIR8Sq15goEsRF,12375483,"Pseudo-Apollodoros Epitome 1.9"
-ngLS7X78xNSDvNCf2Lk51aiImLZ,12375477,"Pseudo-Apollodoros Bibliotheca 3.7.4"
-ngQX8g28cQnI3SHY7Qp0afnFrQE,12375482,"Pseudo-Apollodoros Bibliotheca 3.14.4"
-ngPW8f18bPcHaRGj6PY9aemkqPD,12375481,"Pseudo-Apollodoros Bibliotheca 3.1.2"
-ngOV8e08aPFGbQFC5QH85dlDpPC,12375480,"Pseudo-Apollodoros Bibliotheca 1.9.9"
-ngNU7d98zOUFaPEJ4NG7yckeoNh,12375479,"Pseudo-Apollodoros Bibliotheca 1.4.3"
-ngJQ7z58vJQBvLAN0LS3wygKkJd,12375475,"Ps-Hesiod Melampodia F279 M-W"
-ngKR7a68wKBCwMBK1LT4vzhPlLY,12375476,"Ps-Hesiod Catalogue of Women F238 M-W"
-ngHO7b38tHOZuJYf8HQ18weAiIb,12375473,"Pomponius Mela De situ orbis 1.80-86"
-ngFM7z18rFsX2HWB6Ge95ucYgFz,12375471,"Pomponius Mela De situ orbis 1.76-9"
-ngGN7a28sGdY2IXU7H30svdPhHa,12375472,"Pomponius Mela De situ orbis 1.74-5"
-ngEL7u08qFbWpGVQ5FN84tbJfES,12375470,"Polybius Histories 16.12"
-ngDK6t98pEqVqFUV4DW7nsaMeDx,12375469,"Polyainos Strategemata 8.43"
-ngCJ6s88oDpU3ETQ3Db6przPdCQ,12375468,"Polyainos Strategemata 8.35"
-ngWD6E28iWNO6YNK7YF07ltJxYK,12375462,"Plutarch Theseus 20"
-ngAH6I68mBRS0CRy1AJ49pxrbBu,12375466,"Plutarch Questiones Graecae 56"
-ngZG6H58lAGR0BQN0Z63jowMaBN,12375465,"Plutarch Questiones Graecae 20"
-ngBI6r78nDST2DSB2DU5mqyQcBP,12375467,"Plutarch Mulierum virtutes 16"
-ngYF6G48kZlQiAPK9Y526nvHzZs,12375464,"Plutarch De. Glor. Ath. 7"
-ngXE6F38jZOPiZOr8YG1jmuKyXL,12375463,"Plutarch De Exilio 17"
-ngVC6D18hVCN1XMV6XO96ksqwVJ,12375461,"Pliny the Elder Natural History 5.37"
-ngUB6C08gUrM0WLU5U184jrHvVI,12375460,"Pliny the Elder Natural History 5.38"
-ngTA5B98fTgL0VKj4VM7diqIuUH,12375459,"Pliny the Elder Natural History 5.31"
-ngSZ5E88eSpK3UJm3UB63hpntTG,12375458,"Plato Euthydemus 302C"
-ngAH6I68mBRS0CRS1Bz47pxJbAu,12398466,"Pindar Pind. O.9. 49-75"
-ngRY5D78dSIJcTIJ2S852goqsSl,12375457,"Pindar Nemean 11 34-36"
-ngQX5C68cRXIcSHC1QJ4afnlrSE,12375456,"Pindar in Pausanias 7.2.6-9"
-ngFM7z18rFsX2HWF6HY9pucUgGT,12378471,"Photios Bibliotheca 186"
-ngLS2H58xLCD9NCZ0NU36aiEmMf,12375425,"Pausanias 3.1.7-8"
-ngOV5A48aPlG8QFi9Pn2ydlBpPC,12375454,"Philostratos On Heroes 43.7"
-ngNU5V38zPUF4PEJ8NG18ckmoOh,12375453,"Philostratos Imagines 2.8.6"
-ngMT5Y28yMDE4ODY7NV0xbjdnNg,12375452,"Philostratos Epistles 5"
-ngPW5B58bQmHbRGj0PY36emoqQj,12375455,"Philostratos Apollo of Tyana 8.7.25"
-ngLS5X18xLSD4NCj6LE95aiYmNZ,12375451,"Philostephanos On the cities of Asia"
-ngKR5W08wKhC4MBC5Kj8xzhTlKe,12375450,"Philiskos of Miletos BNJ 496 F9"
-ngVC3Z58hWMN6XMZ0VE35ksuwVp,12375435,"Pherekydes Manchette label on MS of Antoninus Liberalis 34"
-ngFM4F58rGWXqHWR0FY30ucSgGT,12375445,"Pherekydes BNJ 3 F58"
-ngEL4E48qFLWrGVA9E525tbBfGS,12375444,"Pherekydes BNJ 3 F38"
-ngDK4D38pEaVqFUV8Dc1qsaSeFR,12375443,"Pherekydes BNJ 3 F36"
-ngCJ4C28oDpU2ETK7DV0przPdEQ,12375442,"Pherekydes BNJ 3 F33"
-ngBI4F18nCyT5DSr6Ba93qywcCP,12375441,"Pherekydes BNJ 3 F22c"
-ngAH4E08mBnS0CRM5CJ8kpxTbBu,12375440,"Pherekydes BNJ 3 F22a"
-ngZG3D98lBQR1BQR4AI7kowyaAt,12375439,"Pherekydes BNJ 3 F21"
-ngYF3C88kAFQ0APY3Zx60nvtzAM,12375438,"Pherekydes BNJ 3 F15c"
-ngXE3B78jXuPkZOn2X850muwyYr,12375437,"Pherekydes BNJ 3 F15b"
-ngWD3A68iWjOjYNq1X74hltTxYK,12375436,"Pherekydes BNJ 3 F15a"
-ngTA3P38fTALdVKH8TC15iqsuTn,12375433,"Pherekydes BNJ 3 F155"
-ngJQ4J98vLAB2LAh4Ji72ygWkKX,12375449,"Pherekydes BNJ 3 F154"
-ngIP4I88uKPA1KZc3IR68xfdjIW,12375448,"Pherekydes BNJ 3 F119"
-ngHO4L78tHYZ7JYZ2JA50weIiHb,12375447,"Pherekydes BNJ 3 F117"
-ngGN4K68sGNY6IXC1IP49vdxhHa,12375446,"Pherekydes BNJ 3 F102"
-ngSZ3O28eSpKdUJW7S305hpntTG,12375432,"Phanodikos FGrHist397 F4b"
-ngRY3N18dReJcTIV6RK94goKsSl,12375431,"Phanodikos FGrHist397 F4a"
-ngQX3M08cRHIcSHo5RZ8afnlrSE,12375430,"Pausanias 9.37.8"
-ngFM1B98rGcX2HWJ4Fe7pucGgGz,12375419,"Pausanias 9.33.2"
-ngEL1A88qFrW3GVS3EX62tbRfFS,12375418,"Pausanias 9.10.3"
-ngOV2G88aQFGyQFS3PX69dlHpOi,12375428,"Pausanias 7.5.4-13"
-ngNU2F78zPEF9PEd2OG58ckioNB,12375427,"Pausanias 7.5.1-3"
-ngPW2H98bQmH4RGH4RY70emYqQj,12375429,"Pausanias 7.24.5-6"
-ngCJ1G68oETU8ETa1Db49rzZdNQ,12375416,"Pausanias 7.2"
-ngJQ2J38vJQBwLAV8LS16ygekLX,12375423,"Pausanias 2.31.6"
-ngSZ3O28eSpKdUJW7S303hpntTG,12375232,"Ephoros BNJ 70 F18b"
-ngMT2E68yOTE8ODg1N741bjBnNA,12375426,"Pausanias 7.1"
-ngDK1Z78pFKVnFUZ2DW5psayeER,12375417,"Pausanias 7.4"
-ngAH1q48mARSlCRq9AJ2kpxFbLO,12375414,"Pausanias 7.3"
-ngKR2K48wKBCwMBG9L528zhLlKe,12375424,"Pausanias 3.1.1"
-ngIP2I28uIfA2KZc7KR05xfBjIc,12375422,"Pausanias 2.26.1"
-ngGN2C08sHNY3IXC5IZ84vdPhHa,12375420,"Pausanias 2.2.2"
-ngQX0k48cRHI8SHQ9SJ2afnVrBE,12375304,"Hellanikos FGrHist 4 F124"
-ngRY0J58dSYJ9TIV0SK38goSsSl,12375305,"Hellanikos FGrHist 4 F125"
-ngQX5C68cRXIcSHC1QJ4bfnprRk,12375356,"Konon BNJ 26 F1.39"
-ngHO2H18tHuZ2JYD6HQ9uweAiIb,12375421,"Pausanias 2.18.8-9"
-ngBI1N58nBSTnDSX0B639qyQcMP,12375415,"Pausanias 1.35.6"
-ngZG1p38lAwRmBQp8BS1lowuaKN,12375413,"Parthenios Love Stories 20"
-ngYF1U28kZlQiAPK7YR0inxjzYs,12375412,"Parthenios Love Stories 14"
-ngXE1P18jYOPhZOL6Y292muKyIL,12375411,"Parthenios Love Stories 11"
-ngWD1S08iXDO1YNS5YF8iltrxHK,12375410,"Panyassis F25K"
-ngUB0M88gUhMeWLo3UN61jrtvUo,12375408,"Panyassis F24Ka"
-ngTA0L78fUKLeVKH2UM5fiqQuTH,12375407,"Panyassis F18K"
-ngSZ0K68eTJK9UJO1TL41hpXtTG,12375406,"Panyassis F17b"
-ngRY0J58dSYJ9TIV0SK39goSsSl,12375405,"Panyassis F17Ka"
-ngQX0k48cRHI8SHQ9R526fnlrBE,12375404,"Panyassis BNJ 440 T1 Ionika"
-ngOV0G28aOFG4QFG7QH0bdlBpQC,12375402,"Ovid Metamorphoses 9.441-665"
-ngPW0n38bQmHbRGf8Q415emUqAD,12375403,"Ovid Metamorphoses 10.298-518"
-ngMT0E08yMjEzODc5NV80bjBnMA,12375400,"Olympichos FGrHist 537 F2b"
-ngCJ6s88oDpU3ETQ3Db6orzPdEQ,12375368,"Maiandrios/Laeandrios FGrHist 491-2 F1"
-ngHO9b98tJYZ1JYb4H074weEiJV,12375399,"Olympichos FGrHist 537 F2a"
-ngGN9a88sINY2IXC3HP62vdHhHa,12375398,"Olympichos FGrHist 537 F1"
-ngFM9d78rFWX2HWN2F852ucSgHT,12375397,"Nonnus Dionysiaca 13.546-565"
-ngEL9c68qELW1GVu1F74rtbJfGS,12375396,"Nikolaos of Damaskos FGrHist 90 F53"
-ngDK9x58pEUVpFUR0FM35sayeDR,12375395,"Nikolaos of Damaskos FGrHist 90 F52"
-ngCJ9w48oDJUnETa9EV2nrzRdCQ,12375394,"Nikolaos of Damaskos FGrHist 90 F51"
-ngAH9u28mBnSnCRM7CJ06pxBbBu,12375392,"Nikander of Kolophon F46 (Gow and Schofiled 1953)"
-ngBI9v38nCyToDSJ8Ca17qyacCv,12375393,"Nikander of Kolophon BNJ 271-2 F5"
-ngXE8v98jZEPhZOF4Xw7jmuMyZL,12375389,"Nikander of Kolophon BNJ 271-2 T2"
-ngYF9w08kAPQiAPC5YH8invtzZM,12375390,"Nikander of Kolophon BNJ 271-2 F9a and 9b"
-ngZG9x18lAwR5BQt6ZS9kowAaAt,12375391,"Nikander of Kolophon BNJ 271-2 F28"
-ngWD8u88iYDO0YNA3YP6jltFxXq,12375388,"Nikander of Kolophon Alexipharmaka 9-11"
-ngUB8s68gUhM6WLM1UD4gjrRvUI,12375386,"Nearchos FGrHist 133 F29"
-ngVC8t78hVsNhXMp2XE57ksuwWp,12375387,"Nearchos FGrHist 133 F17"
-ngTA8r58fUKL6VKB0UC3fiqIuTH,12375385,"Mimnermos FGrHist 578 F6"
-ngRY8h38dRYJ4TIR8Sq17gomsTF,12375383,"Mimnermos FGrHist 578 F2 (F9 Bergk)"
-ngSZ8q48eTZK5UJm9Sr27hpntSG,12375384,"Mimnermos FGrHist 578 F1"
-ngPW8f18bPcHaRGj6PI96emUqQD,12375381,"Metrodoros BNJ 184 F9"
-ngQX8g28cQnI3SHY7Qp0bfnFrSE,12375382,"Metrodoros BNJ 184 F16"
-ngNU7d98zOUFaPEJ4NG7zckCoNB,12375379,"Menodotos BNJ 541 F1"
-ngMT7Y88yODEwODg3M962bjJnOA,12375378,"Menekrates of Elea On the Founding of Cities"
-ngLS7X78xNSDvNCf2Lk59aiUmMf,12375377,"Maximus of Tyre Oration 29.7"
-ngOV8e08aPFGbQFC5QX8ydlBpOC,12375380,"Menodotos BNJ 541 F2"
-ngKR7a68wKBCwMBK1LT4xzhblKe,12375376,"Malakos BNJ 552 F1"
-ngEL7u08qFbWpGVQ5FN82tbzfFS,12375370,"Maiandrios/Laeandrios FGrHist 491-2 F9"
-ngDK6t98pEqVqFUV4DW7nsayeDR,12375369,"Maiandrios/Laeandrios FGrHist 491-2 F4"
-ngJQ7z58vJQBvLAN0LS3vygGkKX,12375375,"Maiandrios/Laeandrios FGrHist 491-2 F17"
-ngIP7c48uIZAuKZI9KR2vxfdjKW,12375374,"Maiandrios/Laeandrios FGrHist 491-2 F15"
-ngHO7b38tHOZuJYf8Hg1rweciHV,12375373,"Maiandrios/Laeandrios FGrHist 491-2 F12"
-ngGN7a28sGdY2IXU7H30tvdHhGa,12375372,"Maiandrios/Laeandrios FGrHist 491-2 F11"
-ngFM7z18rFsX2HWB6Ge94ucwgGz,12375371,"Maiandrios/Laeandrios FGrHist 491-2 F10"
-ngBI6r78nDST2DSB2C851qywcBP,12375367,"Lykourgos Against Leocrates 84-87"
-ngYF6G48kZlQiAPK9Y524nvVzAM,12375364,"Libanios Orations 5,34"
-ngXE6F38jZOPiZOr8YG13muQyYr,12375363,"Libanios Orations 11.168"
-ngLS5X18xLSD4NCj6LE94aicmMf,12375351,"Konon BNJ 26 F1.4"
-ngRY5D78dSIJcTIJ2S851goisRl,12375357,"Konon BNJ 26 F1.41"
-ngSZ5E88eSpK3UJm3UB62hpntTG,12375358,"Konon BNJ 26 F1.44"
-ngTA5B98fTgL0VKj4VM7eiqQuTH,12375359,"Konon BNJ 26 F1.47"
-ngUB6C08gUrM0WLU5U183jrJvWI,12375360,"Kreophylos FGrHist 417 F1 Ephesion Horois"
-ngWD6E28iWNO6YNO7WP0gltLxXK,12375362,"Kritias Elegies DK 88 B"
-ngVC6D18hVCN1XMV6XO96ksAwWJ,12375361,"Kritias Elegies F1 Diehl"
-ngMT5Y28yMDE4ODY7NV0zbjRnMA,12375352,"Konon BNJ 26 F1.26"
-ngPW5B58bQmHbRGj0PY37emkqRD,12375355,"Konon BNJ 26 F1.37"
-ngOV5A48aPlG8QFi9PX29dlDpQC,12375354,"Konon BNJ 26 F1.33"
-ngNU5V38zPUF4PEJ8NG17ckOoNh,12375353,"Konon BNJ 26 F1.32"
-ngKR5W08wKhC4MBC5Kj8wzhXlMY,12375350,"Konon BNJ 26 F1.2"
-ngQX0k48cRHI8SHQ9RJ24fnFrBE,12375204,"Klytos of Miletos FGrHist 490 F2"
-ngPW0n38bQmHbRGj8PI18emMqAD,12375203,"Klytos of Miletos FGrHist 490 F1"
-ngJQ4J98vLAB2LAh4Ji73ygOkLX,12375349,"Kleitophon GEF F5"
-ngMT0E08yMjEzODc5NV8ybjBnMA,12375200,"Klearchos in Ath. Deip. 12.26"
-ngHO9b98tJYZ1JYb4H071weAiIb,12375199,"Kastor of Rhodos Peri tou Neileou (?)"
-ngGN9a88sINY2IXC3Hf6svdThGU,12375198,"Kallisthenes FGrHist 124 F30 Alexandrou Praxeis"
-ngFM9d78rFWX2HWN2F852ucegFz,12375197,"Kallinos of Ephesos F2 Bergk"
-ngAH9u28mBnSnCRq7AT0lpxBbAu,12375192,"Kallimachos Hymn to Artemis 237-47"
-ngBI9v38nCyToDSJ8Ca14qyOcDP,12375193,"Kallimachos Hymn to Artemis 225-7"
-ngDK9x58pEUVpFUR0FM3qsaAeFR,12375195,"Kallimachos Epigram 5 line 11-12"
-ngCJ9w48oDJUnETa9EV2mrzPdCQ,12375194,"Kallimachos Aetia Bk3 80-83b Harder"
-ngIP4I88uKPA1KZc3IR69xfzjIc,12375348,"Kadmos FGrHist 489 T1b"
-ngHO4L78tHYZ7JYZ2JA58weUiJV,12375347,"Kadmos FGrHist 489 T1a"
-ngFM4F58rGWXqHWR0FO3qucCgFT,12375345,"Isokrates Panegyricus 122"
-ngGN4K68sGNY6IXC1IP41vdLhGU,12375346,"Isokrates BNJ 496 F8"
-ngDK4D38pEaVqFUV8Dc1osaEeEx,12375343,"Ion of Chios FGrHist 392 F1 Chiou Ktisis"
-ngEL4E48qFLWrGVA9E524tbFfFy,12375344,"Ion of Chios 29 von Blumenthal"
-ngPW8f18bPcHaRGj6PI9bemUqRD,12375581,"Ioannes Tzetzes Schol. Lyc. Alex. 1378"
-ngCJ4C28oDpU2ETK7DV02rzbdCw,12375342,"Iamblichos De Vita Pythagoras 2"
-ngBI4F18nCyT5DSr6Ba94qywcCP,12375341,"Hyginus Fabulae 275.7"
-ngZG3D98lBQR1BQR4AI7mowIaZt,12375339,"Hyginus Fabulae 14.3"
-ngAH4E08mBnS0CRM5CT85pxPbAO,12375340,"Hyginus Fabulae 14.14-6"
-ngTA3P38fTALdVKH8TC14iqouUH,12375333,"Homer Odyssey 11.254-267"
-ngQX3M08cRHIcSHo5RJ85fnRrQk,12375330,"Homer Iliad 8.203-4"
-ngNU2F78zPEF9PEd2OG57ckSoNB,12375327,"Homer Iliad 2.867-873"
-ngSZ3O28eSpKdUJW7S306hpjtTm,12375332,"Homer Iliad 20.403-5"
-ngPW2H98bQmH4RGH4RY72emIqPj,12375329,"Homer Iliad 2.646-649"
-ngRY3N18dReJcTIV6RK95goGsTF,12375331,"Homer Iliad 13.686-8"
-ngOV2G88aQFGyQFS3PX60dlfpPi,12375328,"Homer Iliad 2.631-635"
-ngVC3Z58hWMN6XMZ0VE36ksuwVp,12375335,"Homeric Hymns Hymn to Delian Apollo 30-46"
-ngUB3Y48gVBMfWLY9VD29jrJvUI,12375334,"Homeric Hymns Hymn to Delian Apollo 146-55"
-ngZG3D98lBQR1BQR4AI7kowIaZt,12375139,"Alkidamas Odysseus 100"
-ngWD3A68iWjOjYNq1X74hltFxXq,12375136,"Aelius Aristeides Concerning the Prohibition of Comedy 29.27"
-ngLS7X78xNSDvNCf2L85waiImNZ,12375177,"Aristotle F556 Rose"
-ngIP7c48uIZAuKZI9KR2vxfBjJc,12375174,"Aristotle F515 Rose Constitution of the Colophonians"
-ngHO7b38tHOZuJYf8HQ15weMiHV,12375173,"Aristokritos FGrHist 493 F4"
-ngFM7z18rFsX2HWB6G29pucagHT,12375171,"Aristokritos FGrHist 493 F3 Peri Milesiou"
-ngDK6t98pEqVqFUV4DW7psayeDR,12375169,"Aristarchos of Samothrake in Pseudo-Plutarch, Life of Homer 3"
-ngXE6F38jZOPiZOr8YG16muQyXr,12375163,"Apollonios of Rhodes Argonautica 4.209-10"
-ngYF6G48kZlQiAPK9Y527nvDzYM,12375164,"Apollonios of Rhodes Argonautica 4.1260"
-ngVC6D18hVCN1XMV6XO93ksqwVJ,12375161,"Apollonios of Rhodes Argonautica 1,159"
-ngUB6C08gUrM0WLU5U180jrRvWI,12375160,"Apollonios of Rhodes Argonautica 2.865-7"
-ngWD6E28iWNO6YNO7WP0iltrxXK,12375162,"Apollonios of Rhodes Argonautica 1.185-9"
-ngSZ0K68eTJK9UJO1TL49hpFtSG,12375206,"Demon FGrHist 327 F1 Atthis"
-ngWD1S08iXDO1YNW5Wv83ltTxHK,12375210,"Diodorus Siculus 4.67.1"
-ngTA0L78fUKLeVKH2UM57iqIuUH,12375207,"Demon FGrHist 327 F22 On Proverbs"
-ngZG9x18lAwR5BQt6ZS92owqaAt,12375191,"Bias FGrHist 439 T1 Peri Ionias"
-ngQX8g28cQnI3SHY7Qp0dfnFrSE,12375182,"Aristotle Rhetoric 2.25 (1402b4-5)"
-ngJQ2J38vJQBwLAz8JC1vygGkLX,12375223,"Dionysios Periegetes 822-9"
-ngZG3D98lBQR1BQR4AS74owyaAt,12375239,"Ephoros BNJ 70 F103"
-ngAH4E08mBnS0CRM5CT82pxrbAu,12375240,"Ephoros BNJ 70 F109"
-ngRY3N18dReJcTIV6RK91goSsSl,12375231,"Ephoros BNJ 70 F11"
-ngMT2E68yOTE8ODg1N748bjRnMA,12375226,"Ephoros BNJ 70 F114a"
-ngBI1N58nBSTnDSX0CU36qyYcMP,12375215,"Diodorus Siculus 5.81.4-8"
-ngPW5B58bQmHbRGj0PY38emkqPD,12375255,"Euripides Ion 74"
-ngWD3A68iWjOjYNq1Xv41ltnxWq,12375336,"Homeric Hymns Homeric Hymn to Artemis 1-8"
-ngVC8t78hVsNiXMt2VO5gksIwWJ,12398487,"Homer Hom. Il. 2.511, 527-535"
-ngMT2E68yOTE8ODg1N740bjBnNA,12375326,"Hesychios Lexicon s.v. Kadmeioi (same as Hellanicus F101)"
-ngLS2H58xLCD9NCZ0NU37aiQmNZ,12375325,"Heropythos FGrHist 448 F1 Kolophonion"
-ngKR2K48wKBCwMBG9L529zhPlKY,12375324,"Herodotos 9.97"
-ngJQ2J38vJQBwLAV8LS17ygCkKd,12375323,"Herodotos 8.22"
-ngIP2I28uIfA2KZc7KR04xfFjIW,12375322,"Herodotos 7.94"
-ngGN2C08sHNY3IXC5IZ84vdDhIU,12375320,"Herodotos 5.97.2"
-ngFM1B98rGcX2HWJ4Fe7qucGgGz,12375319,"Herodotos 5.65"
-ngAH1q48mARSlCRq9Az2kpxFbLO,12375314,"Herodotos 1.170.3"
-ngZG1p38lAwRmBQp8A418owWaKN,12375313,"Herodotos 1.157"
-ngEL1A88qFrW3GVS3EX62tbJfFS,12375318,"Herodotos 3.26"
-ngUB0M88gUhMeWLo3UN61jrZvUI,12375308,"Herakleides Pontikos F41 Stork et al On Pleasure"
-ngVC0V98hWCN1XMZ4VE7gksSwGJ,12375309,"Herakleides Pontikos F23 Stork et al On Justice"
-ngWD1S08iXDO1YNS5YP82ltLxHK,12375310,"Herakleides Pontikos F114 Stork et al On Music"
-ngTA0L78fUKLeVKH2UM5giqMuTn,12375307,"Herakleides Pontikos F26a Stork et al"
-ngXE1P18jYOPhZOL6Y294muKyIL,12375311,"Herodoros BNJ 31 F45 Argonautica"
-ngNU0F18zNUF4PEd6PW9zckSoPB,12375301,"Hellanikos FGrHist 4 F71c"
-ngMT0E08yMjEzODc5NV8zbjBnMA,12375300,"Hellanikos FGrHist 4 F71b"
-ngHO9b98tJYZ1JYb4IA7rweEiJV,12375299,"Hellanikos FGrHist 4 F71a"
-ngOV0G28aOFG4QFG7QH02dlfpPi,12375302,"Hellanikos FGrHist 4 F51"
-ngGN9a88sINY2IXC3HP62vdThHU,12375298,"Hellanikos FGrHist 4 F48"
-ngFM9d78rFWX2HWN2F851ucwgGz,12375297,"Hellanikos FGrHist 4 F32"
-ngEL9c68qELW1GVu1F746tbJfES,12375296,"Hellanikos FGrHist 4 F25b"
-ngDK9x58pEUVpFUR0FM3qsaQeER,12375295,"Hellanikos FGrHist 4 F25a"
-ngCJ9w48oDJUnETa9D529rzPdCQ,12375294,"Hellanikos FGrHist 4 F24c"
-ngBI9v38nCyToDSJ8Ca14qyGcBP,12375293,"Hellanikos FGrHist 4 F24b"
-ngSZ0K68eTJK9UJO1TL41hpLtTm,12375306,"Hellanikos FGrHist 4 F161"
-ngPW0n38bQmHbRGf8Qo16emMqAD,12375303,"Hellanikos FGrHist 4 F101"
-ngAH9u28mBnSnCRq7AT0mpxXbBO,12375292,"Hellanikos FGrHist 4 24a"
-ngVC6D18hVCN1XMV6XO95ksAwWJ,12375261,"Hekataios BNJ 1 T15b"
-ngRY8h38dRYJ4TIR8Sq18gomsTF,12375283,"Hekataios BNJ 1 F235"
-ngTA8r58fUKL6VKB0UC37iqQuVH,12375285,"Hekataios BNJ 1 F239"
-ngUB8s68gUhM6WLM1UN40jrlvUo,12375286,"Hekataios BNJ 1 F240"
-ngYF9w08kAPQiAPC5YH8jnvpzZs,12375290,"Hekataios BNJ 1 F343"
-ngUB6C08gUrM0WLU5U181jrpvVI,12375260,"Hekataios BNJ 1 T1"
-ngXE8v98jZEPhZOF4Xw7kmuMyZL,12375289,"Hekataios BNJ 1 F310"
-ngWD8u88iYDO0YNA3YP6hltvxWq,12375288,"Hekataios BNJ 1 F255"
-ngVC8t78hVsNhXMp2XE5gksAwVJ,12375287,"Hekataios BNJ 1 F241"
-ngSZ8q48eTZK5UJm9S52dhpPtSG,12375284,"Hekataios BNJ 1 F236"
-ngPW8f18bPcHaRGj6PI95emYqPj,12375281,"Hekataios BNJ 1 F233"
-ngOV8e08aPFGbQFC5QH83dlDpPC,12375280,"Hekataios BNJ 1 F232"
-ngQX8g28cQnI3SHY7Qp0cfnFrQE,12375282,"Hekataios BNJ 1 F234"
-ngMT7Y88yODEwODg3NF6xbjZnOA,12375278,"Hekataios BNJ 1 F229"
-ngNU7d98zOUFaPEF4PW73ckAoNB,12375279,"Hekataios BNJ 1 F230"
-ngLS7X78xNSDvNCf2L85vaiMmMf,12375277,"Hekataios BNJ 1 F228"
-ngKR7a68wKBCwMBK1LT46zhblKe,12375276,"Hekataios BNJ 1 F226"
-ngEL7u08qFbWpGVQ5Fd8otbJfES,12375270,"Hekataios BNJ 1 F21"
-ngDK6t98pEqVqFUV4DW7psaMeDx,12375269,"Hekataios BNJ 1 F16"
-ngCJ6s88oDpU3ETQ3Db6nrzPdCQ,12375268,"Hekataios BNJ 1 F15"
-ngJQ7z58vJQBvLAN0LS3uygKkJd,12375275,"Hekataios BNJ 1 F142"
-ngIP7c48uIZAuKZI9KR2uxfdjKW,12375274,"Hekataios BNJ 1 F141"
-ngHO7b38tHOZuJYf8HQ16weIiHb,12375273,"Hekataios BNJ 1 F140"
-ngBI6r78nDST2DSB2C850qywcDP,12375267,"Hekataios BNJ 1 F14"
-ngAH6I68mBRS0CRy1AJ47pxzbAu,12375266,"Hekataios BNJ 1 F13"
-ngGN7a28sGdY2IXU7Hf07vdZhGa,12375272,"Hekataios BNJ 1 F127"
-ngZG6H58lAGR0BQN0Zy38owEaZN,12375265,"Hekataios BNJ 1 F12"
-ngFM7z18rFsX2HWB6G29qucCgGT,12375271,"Hekataios BNJ 1 F119"
-ngXE6F38jZOPiZOr8YG14muGyYr,12375263,"Hekataios BNJ 1 F10"
-ngZG9x18lAwR5BQt6ZS92owIaAt,12375291,"Hegesippus FGrHist 391"
-ngTA5B98fTgL0VKj4U073iqUuUn,12375259,"Harpokration Lexicon s.v. Έρυθραῖοι"
-ngSZ5E88eSpK3UJq3SL6ehprtTm,12375258,"Eustathios Comm. Diony. Periegetes 823"
-ngRY5D78dSIJcTIJ2TK5cgoEsSF,12375257,"Eusebius Chronicle 65-68"
-ngQX5C68cRXIcSHC1QJ4dfnZrQk,12375256,"Euripides Ion 1585-7"
-ngOV5A48aPlG8QFi9PX28dljpOC,12375254,"Euripides F73a"
-ngKR5W08wKhC4MBC5Kj81zhTlKe,12375250,"Eumelos of Korinth FGrHist 451 T2"
-ngLS5X18xLSD4NCj6LU9waikmMf,12375251,"Eumelos of Korinth FGrHist 451 F4"
-ngNU5V38zPUF4PEJ8NG15ckioOB,12375253,"Eumelos of Korinth FGrHist 451 F2c"
-ngMT5Y28yMDE4ODY7NF06bjRnOA,12375252,"Eumelos of Korinth FGrHist 451 F2a"
-ngJQ4J98vLAB2LAh4J07tygakKd,12375249,"Eumelos of Korinth FGrHist 451 F1a"
-ngGN4K68sGNY6IXC1IP49vdLhGU,12375146,"Etymologicum Magnum s.v. Ephesos"
-ngKR5W08wKhC4MBC5Kj80zhXlMY,12375150,"Etymologicum Magnum s.v. aselgainein, Elegeis"
-ngIP4I88uKPA1KZc3IR60xfVjJW,12375248,"Erxias FGrHist 449 F1"
-ngHO4L78tHYZ7JYZ2JA58weMiJV,12375247,"Eratosthenes BNJ 241 F1a"
-ngYF3C88kAFQ0APY3Zx6lnvpzZs,12375238,"Ephoros BNJ 70 F78"
-ngXE3B78jXuPkZOn2YQ5imuUyYL,12375237,"Ephoros BNJ 70 F59b"
-ngWD3A68iWjOjYNq1X74jltPxWq,12375236,"Ephoros BNJ 70 F59a"
-ngUB3Y48gVBMfWLY9VD28jrJvUI,12375234,"Ephoros BNJ 70 F25"
-ngVC3Z58hWMN6XMZ0VE39ksSwVJ,12375235,"Ephoros BNJ 70 F26"
-ngTA3P38fTALdVKH8TC1giqGuUH,12375233,"Ephoros BNJ 70 F22"
-ngGN4K68sGNY6IXC1IP47vdxhHa,12375246,"Ephoros BNJ 70 F195"
-ngFM4F58rGWXqHWR0FY37ucSgHT,12375245,"Ephoros BNJ 70 F183"
-ngEL4E48qFLWrGVA9E528tbNfFy,12375244,"Ephoros BNJ 70 F166"
-ngPW2H98bQmH4RGH4RY73emCqRD,12375229,"Ephoros BNJ 70 F165"
-ngDK4D38pEaVqFUV8Dc13saceDx,12375243,"Ephoros BNJ 70 F162"
-ngOV2G88aQFGyQFS3PX62dlDpQC,12375228,"Ephoros BNJ 70 F127"
-ngNU2F78zPEF9PEd2OG5ackSoPB,12375227,"Ephoros BNJ 70 F126"
-ngCJ4C28oDpU2ETK7DV05rzVdCw,12375242,"Ephoros BNJ 70 F125"
-ngBI4F18nCyT5DSr6Ba95qywcCP,12375241,"Ephoros BNJ 70 F117"
-ngQX3M08cRHIcSHo5RZ8dfnFrRE,12375230,"Ephoros BNJ 70 F1"
-ngLS2H58xLCD9NCZ0NU3xaiMmMf,12375225,"Douris of Samos FGrHist 76 F74 Samian Annals"
-ngIP2I28uIfA2KZc7KR05xfdjJW,12375222,"Dionysios of Halikarnassos 4.25.4-6"
-ngHO2H18tHuZ2JYD6HQ92weAiIb,12375221,"Dionysios of Halikarnassos 1.27.1-1.29.1"
-ngGN2C08sHNY3IXC5IZ82vdPhHa,12375220,"Diogenes Laertios 1.5.83"
-ngFM1B98rGcX2HWJ4FO74ucagFT,12375219,"Diogenes Laertios 1.1.29"
-ngEL1A88qFrW3GVS3EX68tbBfFS,12375218,"Diogenes Laertios 1.1.22"
-ngAH1q48mARSlCRq9Az28pxvbLO,12375214,"Diodorus Siculus 5.79.3"
-ngCJ1G68oETU9ETQ1CL4nrzZdNQ,12375216,"Diodorus Siculus 5.84.2-4"
-ngZG1p38lAwRmBQp8Ay15owOaKN,12375213,"Diodorus Siculus 5.79.1-2"
-ngYF1U28kZlQiAPG7ZR02nxjzYs,12375212,"Diodorus Siculus 4.68.3-6"
-ngVC0V98hWCN1XMZ4WE7iksSwGJ,12375209,"Diodorus Siculus 4.66.5-6"
-ngDK1Z78pFKVnFUZ2DW58saceEx,12375217,"Diodorus Siculus 15.49.1-3"
-ngXE1P18jYOPhZOL6YQ9jmusyIL,12375211,"Diodorus Siculus 1.5.1"
-ngUB0M88gUhMeWLo3UN62jrVvUo,12375208,"Demon FGrHist 327 F17 On Proverbs"
-ngRY0J58dSYJ9TIV0SK3egoqsSl,12375205,"Demokritos in Diogenes Laertius 1.1.22"
-ngNU0F18zNUF4PEd6PW9ackSoPB,12375201,"Clemens of Alexandria Stromata 1.21.117.1-3"
-ngYF6G48kZlQiAPG9Yx2jnvxzYs,12378464,"Athenaios Deipnosophistae 8.361d"
-ngYF9w08kAPQiAPC5YH8jnvDzYM,12375190,"Athenaios Deipnosophistae 12.26"
-ngUB8s68gUhM6WLM1UN41jrJvWI,12375186,"Asklepiades of Samos Palatine Anthology 9.63"
-ngVC8t78hVsNhXMp2XE5fksAwVJ,12375187,"Asios F7 GEF"
-ngXE8v98jZEPhZOF4Xw79muMyZL,12375189,"Asios F14 Kinkel"
-ngTA8r58fUKL6VKB0UC36iqQuVH,12375185,"Arrian Anabasis  5.6.4"
-ngSZ8q48eTZK5UJm9S52ehpPtSG,12375184,"Armenidas FGrHist378 F5 Thebaika"
-ngJQ7z58vJQBvLAN0LS3tygGkKX,12375175,"Aristotle F76 Rose On Poetry"
-ngMT7Y88yODEwODg3NF6xbjRnMA,12375178,"Aristotle F557 Rose"
-ngNU7d98zOUFaPEF4PW73ckioPB,12375179,"Aristotle F570 Rose"
-ngKR7a68wKBCwMBK1LT46zhPlLY,12375176,"Aristotle F473 Rose Politics"
-ngRY8h38dRYJ4TIR8Sq18goOsTF,12375183,"Aristotle Constitution of the Athenians 41,2"
-ngEL7u08qFbWpGVQ5Fd8ptbJfES,12375170,"Aristoboulos of Kassandreia FGrHist 139 F6"
-ngCJ6s88oDpU3ETQ3Db6mrzPdEQ,12375168,"Aristarchos of Samothrake in Clement of Alexandria, Stromata 1.21.117"
-ngAH6I68mBRS0CRy1AJ49pxBbAu,12375166,"Aristainetos On Phaselis BNJ 771 F1"
-ngBI6r78nDST2DSB2C859qyCcBv,12375167,"Aristainetos Letters 1.15"
-ngZG6H58lAGR0BQN0Zy39owIaAt,12375165,"Aratos Phaenomena 1.637-40"
-ngSZ5E88eSpK3UJq3SL6dhprtTm,12375158,"Apollodoros of Athens FGrHist 244 F62"
-ngQX5C68cRXIcSHC1QJ47fnNrRE,12375156,"Antoninus Liberalis Metamorphoses 34"
-ngPW5B58bQmHbRGj0PY39emgqPj,12375155,"Antoninus Liberalis Metamorphoses 30"
-ngMT5Y28yMDE4ODY7NV0wbjFnMg,12375152,"Antimachos Epigonoi F3"
-ngIP4I88uKPA1KZc3IR61xfdjKW,12375148,"Anon Palatine Anthology 11:442"
+nodegoat ID,Object ID,Name
 ngNU2F78zPEF9PEd2OG5zckSoNB,12375127,"Ailianos Varia Historia 8,5"
 ngOV2G88aQFGyQFS3PX62dlTpPC,12375128,"Ailianos Varia Historia 13,17"
-ngXE3B78jXuPkZOn2X852muKyXL,12375137,"Aethlios of Samos Horon Samion  FGrHist 536 F3"
-ngTA3P38fTALdVKH8TC1fiqQuUH,12375133,"Aelius Aristeides The Smyrnaean Oration II 21.3-4"
-ngUB3Y48gVBMfWLY9VD26jrpvVI,12375134,"Aelius Aristeides The Smyrnaean Oration II 21.20"
-ngQX3M08cRHIcSHo5RZ8cfnhrRk,12375130,"Aelius Aristeides The Smyrnaean Oration I 17.6"
-ngVC3Z58hWMN6XMZ0VE30ksSwVJ,12375135,"Aelius Aristeides The Eleusinian Oration 22.5"
-ngEL4E48qFLWrGVA9E527tbRfFS,12375144,"Andron of Halikarnassos FGrHist 10"
-ngFM4F58rGWXqHWR0FY39ucCgGT,12375145,"Ekloge Historion F16a"
-ngOV5A48aPlG8QFi9PX27dlLpPC,12375154,"Antipater of Thessalonika Palatine Anthology 7.398"
-ngNU5V38zPUF4PEJ8NG14ckKoNB,12375153,"Antipater of Sidon Palatine Anthology 9.790"
-ngLS5X18xLSD4NCj6LU9vaicmLf,12375151,"Etymologicum Magnum s.v. Astypalaia"
-ngHO4L78tHYZ7JYZ2JA5uweciIV,12375147,"Anon BNJ 496 F4"
-ngDK4D38pEaVqFUV8Dc1qsaAeDR,12375143,"Anakreon F463"
-ngCJ4C28oDpU2ETK7DV06rzRdDQ,12375142,"Ammianus Marcellinus Res Gestae 22.8.12"
-ngBI4F18nCyT5DSr6Ba96qywcCP,12375141,"Ammianus Marcellinus Res Gestae 28.1.4"
-ngAH4E08mBnS0CRM5CT81pxvbCO,12375140,"Alexander of Aetolia Apollo F3 (Magnelli)"
-ngSZ3O28eSpKdUJW7S305hpXtSG,12375132,"Aelius Aristeides Palinode for Smyrna 20.20"
-ngRY3N18dReJcTIV6RK92goOsTF,12375131,"Aelius Aristeides Monody for Smyrna 18.2"
-ngPW2H98bQmH4RGL4PI7zemMqQD,12375129,"Aelius Aristeides The Smyrnaean Oration I 17.1-5"
-ngKR2K48wKBCwMBC9Kj26zhDlKe,12380924,"Schol. Plato Hipparch. 229d (T+); Symp. 208d"
+ngPW2H98bQmH4RGL4PI7zemMqQD,12375129,Aelius Aristeides The Smyrnaean Oration I 17.1-5
+ngQX3M08cRHIcSHo5RZ8cfnhrRk,12375130,Aelius Aristeides The Smyrnaean Oration I 17.6
+ngRY3N18dReJcTIV6RK92goOsTF,12375131,Aelius Aristeides Monody for Smyrna 18.2
+ngSZ3O28eSpKdUJW7S305hpXtSG,12375132,Aelius Aristeides Palinode for Smyrna 20.20
+ngTA3P38fTALdVKH8TC1fiqQuUH,12375133,Aelius Aristeides The Smyrnaean Oration II 21.3-4
+ngUB3Y48gVBMfWLY9VD26jrpvVI,12375134,Aelius Aristeides The Smyrnaean Oration II 21.20
+ngVC3Z58hWMN6XMZ0VE30ksSwVJ,12375135,Aelius Aristeides The Eleusinian Oration 22.5
+ngWD3A68iWjOjYNq1X74hltFxXq,12375136,Aelius Aristeides Concerning the Prohibition of Comedy 29.27
+ngXE3B78jXuPkZOn2X852muKyXL,12375137,Aethlios of Samos Horon Samion  FGrHist 536 F3
+ngYF3C88kAFQ0APY3Zx69nvDzYM,12375138,Agias Nostoi F1
+ngZG3D98lBQR1BQR4AI7kowIaZt,12375139,Alkidamas Odysseus 100
+ngAH4E08mBnS0CRM5CT81pxvbCO,12375140,Alexander of Aetolia Apollo F3 (Magnelli)
+ngBI4F18nCyT5DSr6Ba96qywcCP,12375141,Ammianus Marcellinus Res Gestae 28.1.4
+ngCJ4C28oDpU2ETK7DV06rzRdDQ,12375142,Ammianus Marcellinus Res Gestae 22.8.12
+ngDK4D38pEaVqFUV8Dc1qsaAeDR,12375143,Anakreon F463
+ngEL4E48qFLWrGVA9E527tbRfFS,12375144,Andron of Halikarnassos FGrHist 10
+ngFM4F58rGWXqHWR0FY39ucCgGT,12375145,Ekloge Historion F16a
+ngGN4K68sGNY6IXC1IP49vdLhGU,12375146,Etymologicum Magnum s.v. Ephesos
+ngHO4L78tHYZ7JYZ2JA5uweciIV,12375147,Anon BNJ 496 F4
+ngIP4I88uKPA1KZc3IR61xfdjKW,12375148,Anon Palatine Anthology 11:442
+ngJQ4J98vLAB2LAh4J07uygWkJX,12375149,Anon Palatine Anthology 9.670
+ngKR5W08wKhC4MBC5Kj80zhXlMY,12375150,"Etymologicum Magnum s.v. aselgainein, Elegeis"
+ngLS5X18xLSD4NCj6LU9vaicmLf,12375151,Etymologicum Magnum s.v. Astypalaia
+ngMT5Y28yMDE4ODY7NV0wbjFnMg,12375152,Antimachos Epigonoi F3
+ngNU5V38zPUF4PEJ8NG14ckKoNB,12375153,Antipater of Sidon Palatine Anthology 9.790
+ngOV5A48aPlG8QFi9PX27dlLpPC,12375154,Antipater of Thessalonika Palatine Anthology 7.398
+ngPW5B58bQmHbRGj0PY39emgqPj,12375155,Antoninus Liberalis Metamorphoses 30
+ngQX5C68cRXIcSHC1QJ47fnNrRE,12375156,Antoninus Liberalis Metamorphoses 34
+ngRY5D78dSIJcTIJ2TK5bgoisRl,12375157,Apollodoros of Athens FGrHist 244 F61
+ngSZ5E88eSpK3UJq3SL6dhprtTm,12375158,Apollodoros of Athens FGrHist 244 F62
+ngTA5B98fTgL0VKj4U074iqQuTH,12375159,Apollodoros of Athens FGrHist 244 F63b
+ngUB6C08gUrM0WLU5U180jrRvWI,12375160,Apollonios of Rhodes Argonautica 2.865-7
+ngVC6D18hVCN1XMV6XO93ksqwVJ,12375161,"Apollonios of Rhodes Argonautica 1,159"
+ngWD6E28iWNO6YNO7WP0iltrxXK,12375162,Apollonios of Rhodes Argonautica 1.185-9
+ngXE6F38jZOPiZOr8YG16muQyXr,12375163,Apollonios of Rhodes Argonautica 4.209-10
+ngYF6G48kZlQiAPK9Y527nvDzYM,12375164,Apollonios of Rhodes Argonautica 4.1260
+ngZG6H58lAGR0BQN0Zy39owIaAt,12375165,Aratos Phaenomena 1.637-40
+ngAH6I68mBRS0CRy1AJ49pxBbAu,12375166,Aristainetos On Phaselis BNJ 771 F1
+ngBI6r78nDST2DSB2C859qyCcBv,12375167,Aristainetos Letters 1.15
+ngCJ6s88oDpU3ETQ3Db6mrzPdEQ,12375168,"Aristarchos of Samothrake in Clement of Alexandria, Stromata 1.21.117"
+ngDK6t98pEqVqFUV4DW7psayeDR,12375169,"Aristarchos of Samothrake in Pseudo-Plutarch, Life of Homer 3"
+ngEL7u08qFbWpGVQ5Fd8ptbJfES,12375170,Aristoboulos of Kassandreia FGrHist 139 F6
+ngFM7z18rFsX2HWB6G29pucagHT,12375171,Aristokritos FGrHist 493 F3 Peri Milesiou
+ngGN7a28sGdY2IXU7H30qvdDhGU,12375172,Aristokritos FGrHist 493 F1 Peri Milesiou
+ngHO7b38tHOZuJYf8HQ15weMiHV,12375173,Aristokritos FGrHist 493 F4
+ngIP7c48uIZAuKZI9KR2vxfBjJc,12375174,Aristotle F515 Rose Constitution of the Colophonians
+ngJQ7z58vJQBvLAN0LS3tygGkKX,12375175,Aristotle F76 Rose On Poetry
+ngKR7a68wKBCwMBK1LT46zhPlLY,12375176,Aristotle F473 Rose Politics
+ngLS7X78xNSDvNCf2L85waiImNZ,12375177,Aristotle F556 Rose
+ngMT7Y88yODEwODg3NF6xbjRnMA,12375178,Aristotle F557 Rose
+ngNU7d98zOUFaPEF4PW73ckioPB,12375179,Aristotle F570 Rose
+ngOV8e08aPFGbQFC5QH82dlPpPi,12375180,Aristotle F571 Rose
+ngPW8f18bPcHaRGj6PI95emgqPj,12375181,Aristotle F631 Rose
+ngQX8g28cQnI3SHY7Qp0dfnFrSE,12375182,Aristotle Rhetoric 2.25 (1402b4-5)
+ngRY8h38dRYJ4TIR8Sq18goOsTF,12375183,"Aristotle Constitution of the Athenians 41,2"
+ngSZ8q48eTZK5UJm9S52ehpPtSG,12375184,Armenidas FGrHist378 F5 Thebaika
+ngTA8r58fUKL6VKB0UC36iqQuVH,12375185,Arrian Anabasis  5.6.4
+ngUB8s68gUhM6WLM1UN41jrJvWI,12375186,Asklepiades of Samos Palatine Anthology 9.63
+ngVC8t78hVsNhXMp2XE5fksAwVJ,12375187,Asios F7 GEF
+ngWD8u88iYDO0YNA3YP6hltnxWq,12375188,Asios F3 GEF
+ngXE8v98jZEPhZOF4Xw79muMyZL,12375189,Asios F14 Kinkel
+ngYF9w08kAPQiAPC5YH8jnvDzYM,12375190,Athenaios Deipnosophistae 12.26
+ngZG9x18lAwR5BQt6ZS92owqaAt,12375191,Bias FGrHist 439 T1 Peri Ionias
+ngAH9u28mBnSnCRq7AT0lpxBbAu,12375192,Kallimachos Hymn to Artemis 237-47
+ngBI9v38nCyToDSJ8Ca14qyOcDP,12375193,Kallimachos Hymn to Artemis 225-7
+ngCJ9w48oDJUnETa9EV2mrzPdCQ,12375194,Kallimachos Aetia Bk3 80-83b Harder
+ngDK9x58pEUVpFUR0FM3qsaAeFR,12375195,Kallimachos Epigram 5 line 11-12
+ngEL9c68qELW1GVu1F747tbdfFy,12375196,Kallinos of Ephesos in Strabo 14.4.3
+ngFM9d78rFWX2HWN2F852ucegFz,12375197,Kallinos of Ephesos F2 Bergk
+ngGN9a88sINY2IXC3Hf6svdThGU,12375198,Kallisthenes FGrHist 124 F30 Alexandrou Praxeis
+ngHO9b98tJYZ1JYb4H071weAiIb,12375199,Kastor of Rhodos Peri tou Neileou (?)
+ngMT0E08yMjEzODc5NV8ybjBnMA,12375200,Klearchos in Ath. Deip. 12.26
+ngNU0F18zNUF4PEd6PW9ackSoPB,12375201,Clemens of Alexandria Stromata 1.21.117.1-3
+ngOV0G28aOFG4QFG7QH06dlLpPC,12375202,Clemens of Alexandria Stromata 1.15.66.1-3
+ngPW0n38bQmHbRGj8PI18emMqAD,12375203,Klytos of Miletos FGrHist 490 F1
+ngQX0k48cRHI8SHQ9RJ24fnFrBE,12375204,Klytos of Miletos FGrHist 490 F2
+ngRY0J58dSYJ9TIV0SK3egoqsSl,12375205,Demokritos in Diogenes Laertius 1.1.22
+ngSZ0K68eTJK9UJO1TL49hpFtSG,12375206,Demon FGrHist 327 F1 Atthis
+ngTA0L78fUKLeVKH2UM57iqIuUH,12375207,Demon FGrHist 327 F22 On Proverbs
+ngUB0M88gUhMeWLo3UN62jrVvUo,12375208,Demon FGrHist 327 F17 On Proverbs
+ngVC0V98hWCN1XMZ4WE7iksSwGJ,12375209,Diodorus Siculus 4.66.5-6
+ngWD1S08iXDO1YNW5Wv83ltTxHK,12375210,Diodorus Siculus 4.67.1
+ngXE1P18jYOPhZOL6YQ9jmusyIL,12375211,Diodorus Siculus 1.5.1
+ngYF1U28kZlQiAPG7ZR02nxjzYs,12375212,Diodorus Siculus 4.68.3-6
+ngZG1p38lAwRmBQp8Ay15owOaKN,12375213,Diodorus Siculus 5.79.1-2
+ngAH1q48mARSlCRq9Az28pxvbLO,12375214,Diodorus Siculus 5.79.3
+ngBI1N58nBSTnDSX0CU36qyYcMP,12375215,Diodorus Siculus 5.81.4-8
+ngCJ1G68oETU9ETQ1CL4nrzZdNQ,12375216,Diodorus Siculus 5.84.2-4
+ngDK1Z78pFKVnFUZ2DW58saceEx,12375217,Diodorus Siculus 15.49.1-3
+ngEL1A88qFrW3GVS3EX68tbBfFS,12375218,Diogenes Laertios 1.1.22
+ngFM1B98rGcX2HWJ4FO74ucagFT,12375219,Diogenes Laertios 1.1.29
+ngGN2C08sHNY3IXC5IZ82vdPhHa,12375220,Diogenes Laertios 1.5.83
+ngHO2H18tHuZ2JYD6HQ92weAiIb,12375221,Dionysios of Halikarnassos 1.27.1-1.29.1
+ngIP2I28uIfA2KZc7KR05xfdjJW,12375222,Dionysios of Halikarnassos 4.25.4-6
+ngJQ2J38vJQBwLAz8JC1vygGkLX,12375223,Dionysios Periegetes 822-9
+ngKR2K48wKBCwMBG9L525zhHlKY,12375224,Douris of Samos FGrHist 76 F25 Samian Annals
+ngLS2H58xLCD9NCZ0NU3xaiMmMf,12375225,Douris of Samos FGrHist 76 F74 Samian Annals
+ngMT2E68yOTE8ODg1N748bjRnMA,12375226,Ephoros BNJ 70 F114a
+ngNU2F78zPEF9PEd2OG5ackSoPB,12375227,Ephoros BNJ 70 F126
+ngOV2G88aQFGyQFS3PX62dlDpQC,12375228,Ephoros BNJ 70 F127
+ngPW2H98bQmH4RGH4RY73emCqRD,12375229,Ephoros BNJ 70 F165
+ngQX3M08cRHIcSHo5RZ8dfnFrRE,12375230,Ephoros BNJ 70 F1
+ngRY3N18dReJcTIV6RK91goSsSl,12375231,Ephoros BNJ 70 F11
+ngSZ3O28eSpKdUJW7S303hpntTG,12375232,Ephoros BNJ 70 F18b
+ngTA3P38fTALdVKH8TC1giqGuUH,12375233,Ephoros BNJ 70 F22
+ngUB3Y48gVBMfWLY9VD28jrJvUI,12375234,Ephoros BNJ 70 F25
+ngVC3Z58hWMN6XMZ0VE39ksSwVJ,12375235,Ephoros BNJ 70 F26
+ngWD3A68iWjOjYNq1X74jltPxWq,12375236,Ephoros BNJ 70 F59a
+ngXE3B78jXuPkZOn2YQ5imuUyYL,12375237,Ephoros BNJ 70 F59b
+ngYF3C88kAFQ0APY3Zx6lnvpzZs,12375238,Ephoros BNJ 70 F78
+ngZG3D98lBQR1BQR4AS74owyaAt,12375239,Ephoros BNJ 70 F103
+ngAH4E08mBnS0CRM5CT82pxrbAu,12375240,Ephoros BNJ 70 F109
+ngBI4F18nCyT5DSr6Ba95qywcCP,12375241,Ephoros BNJ 70 F117
+ngCJ4C28oDpU2ETK7DV05rzVdCw,12375242,Ephoros BNJ 70 F125
+ngDK4D38pEaVqFUV8Dc13saceDx,12375243,Ephoros BNJ 70 F162
+ngEL4E48qFLWrGVA9E528tbNfFy,12375244,Ephoros BNJ 70 F166
+ngFM4F58rGWXqHWR0FY37ucSgHT,12375245,Ephoros BNJ 70 F183
+ngGN4K68sGNY6IXC1IP47vdxhHa,12375246,Ephoros BNJ 70 F195
+ngHO4L78tHYZ7JYZ2JA58weMiJV,12375247,Eratosthenes BNJ 241 F1a
+ngIP4I88uKPA1KZc3IR60xfVjJW,12375248,Erxias FGrHist 449 F1
+ngJQ4J98vLAB2LAh4J07tygakKd,12375249,Eumelos of Korinth FGrHist 451 F1a
+ngKR5W08wKhC4MBC5Kj81zhTlKe,12375250,Eumelos of Korinth FGrHist 451 T2
+ngLS5X18xLSD4NCj6LU9waikmMf,12375251,Eumelos of Korinth FGrHist 451 F4
+ngMT5Y28yMDE4ODY7NF06bjRnOA,12375252,Eumelos of Korinth FGrHist 451 F2a
+ngNU5V38zPUF4PEJ8NG15ckioOB,12375253,Eumelos of Korinth FGrHist 451 F2c
+ngOV5A48aPlG8QFi9PX28dljpOC,12375254,Euripides F73a
+ngPW5B58bQmHbRGj0PY38emkqPD,12375255,Euripides Ion 74
+ngQX5C68cRXIcSHC1QJ4dfnZrQk,12375256,Euripides Ion 1585-7
+ngRY5D78dSIJcTIJ2TK5cgoEsSF,12375257,Eusebius Chronicle 65-68
+ngSZ5E88eSpK3UJq3SL6ehprtTm,12375258,Eustathios Comm. Diony. Periegetes 823
+ngTA5B98fTgL0VKj4U073iqUuUn,12375259,Harpokration Lexicon s.v. Έρυθραῖοι
+ngUB6C08gUrM0WLU5U181jrpvVI,12375260,Hekataios BNJ 1 T1
+ngVC6D18hVCN1XMV6XO95ksAwWJ,12375261,Hekataios BNJ 1 T15b
+ngWD6E28iWNO6YNO7WP0hltTxWK,12375262,Hekataios BNJ 1 F1
+ngXE6F38jZOPiZOr8YG14muGyYr,12375263,Hekataios BNJ 1 F10
+ngYF6G48kZlQiAPK9Y528nvDzYM,12375264,Hekataios BNJ 1 F11
+ngZG6H58lAGR0BQN0Zy38owEaZN,12375265,Hekataios BNJ 1 F12
+ngAH6I68mBRS0CRy1AJ47pxzbAu,12375266,Hekataios BNJ 1 F13
+ngBI6r78nDST2DSB2C850qywcDP,12375267,Hekataios BNJ 1 F14
+ngCJ6s88oDpU3ETQ3Db6nrzPdCQ,12375268,Hekataios BNJ 1 F15
+ngDK6t98pEqVqFUV4DW7psaMeDx,12375269,Hekataios BNJ 1 F16
+ngEL7u08qFbWpGVQ5Fd8otbJfES,12375270,Hekataios BNJ 1 F21
+ngFM7z18rFsX2HWB6G29qucCgGT,12375271,Hekataios BNJ 1 F119
+ngGN7a28sGdY2IXU7Hf07vdZhGa,12375272,Hekataios BNJ 1 F127
+ngHO7b38tHOZuJYf8HQ16weIiHb,12375273,Hekataios BNJ 1 F140
+ngIP7c48uIZAuKZI9KR2uxfdjKW,12375274,Hekataios BNJ 1 F141
+ngJQ7z58vJQBvLAN0LS3uygKkJd,12375275,Hekataios BNJ 1 F142
+ngKR7a68wKBCwMBK1LT46zhblKe,12375276,Hekataios BNJ 1 F226
+ngLS7X78xNSDvNCf2L85vaiMmMf,12375277,Hekataios BNJ 1 F228
+ngMT7Y88yODEwODg3NF6xbjZnOA,12375278,Hekataios BNJ 1 F229
+ngNU7d98zOUFaPEF4PW73ckAoNB,12375279,Hekataios BNJ 1 F230
+ngOV8e08aPFGbQFC5QH83dlDpPC,12375280,Hekataios BNJ 1 F232
+ngPW8f18bPcHaRGj6PI95emYqPj,12375281,Hekataios BNJ 1 F233
+ngQX8g28cQnI3SHY7Qp0cfnFrQE,12375282,Hekataios BNJ 1 F234
+ngRY8h38dRYJ4TIR8Sq18gomsTF,12375283,Hekataios BNJ 1 F235
+ngSZ8q48eTZK5UJm9S52dhpPtSG,12375284,Hekataios BNJ 1 F236
+ngTA8r58fUKL6VKB0UC37iqQuVH,12375285,Hekataios BNJ 1 F239
+ngUB8s68gUhM6WLM1UN40jrlvUo,12375286,Hekataios BNJ 1 F240
+ngVC8t78hVsNhXMp2XE5gksAwVJ,12375287,Hekataios BNJ 1 F241
+ngWD8u88iYDO0YNA3YP6hltvxWq,12375288,Hekataios BNJ 1 F255
+ngXE8v98jZEPhZOF4Xw7kmuMyZL,12375289,Hekataios BNJ 1 F310
+ngYF9w08kAPQiAPC5YH8jnvpzZs,12375290,Hekataios BNJ 1 F343
+ngZG9x18lAwR5BQt6ZS92owIaAt,12375291,Hegesippus FGrHist 391
+ngAH9u28mBnSnCRq7AT0mpxXbBO,12375292,Hellanikos FGrHist 4 24a
+ngBI9v38nCyToDSJ8Ca14qyGcBP,12375293,Hellanikos FGrHist 4 F24b
+ngCJ9w48oDJUnETa9D529rzPdCQ,12375294,Hellanikos FGrHist 4 F24c
+ngDK9x58pEUVpFUR0FM3qsaQeER,12375295,Hellanikos FGrHist 4 F25a
+ngEL9c68qELW1GVu1F746tbJfES,12375296,Hellanikos FGrHist 4 F25b
+ngFM9d78rFWX2HWN2F851ucwgGz,12375297,Hellanikos FGrHist 4 F32
+ngGN9a88sINY2IXC3HP62vdThHU,12375298,Hellanikos FGrHist 4 F48
+ngHO9b98tJYZ1JYb4IA7rweEiJV,12375299,Hellanikos FGrHist 4 F71a
+ngMT0E08yMjEzODc5NV8zbjBnMA,12375300,Hellanikos FGrHist 4 F71b
+ngNU0F18zNUF4PEd6PW9zckSoPB,12375301,Hellanikos FGrHist 4 F71c
+ngOV0G28aOFG4QFG7QH02dlfpPi,12375302,Hellanikos FGrHist 4 F51
+ngPW0n38bQmHbRGf8Qo16emMqAD,12375303,Hellanikos FGrHist 4 F101
+ngQX0k48cRHI8SHQ9SJ2afnVrBE,12375304,Hellanikos FGrHist 4 F124
+ngRY0J58dSYJ9TIV0SK38goSsSl,12375305,Hellanikos FGrHist 4 F125
+ngSZ0K68eTJK9UJO1TL41hpLtTm,12375306,Hellanikos FGrHist 4 F161
+ngTA0L78fUKLeVKH2UM5giqMuTn,12375307,Herakleides Pontikos F26a Stork et al
+ngUB0M88gUhMeWLo3UN61jrZvUI,12375308,Herakleides Pontikos F41 Stork et al On Pleasure
+ngVC0V98hWCN1XMZ4VE7gksSwGJ,12375309,Herakleides Pontikos F23 Stork et al On Justice
+ngWD1S08iXDO1YNS5YP82ltLxHK,12375310,Herakleides Pontikos F114 Stork et al On Music
+ngXE1P18jYOPhZOL6Y294muKyIL,12375311,Herodoros BNJ 31 F45 Argonautica
+ngYF1U28kZlQiAPo7YR0inxjzYs,12375312,Herodotos 1.142-150
+ngZG1p38lAwRmBQp8A418owWaKN,12375313,Herodotos 1.157
+ngAH1q48mARSlCRq9Az2kpxFbLO,12375314,Herodotos 1.170.3
+ngBI1N58nBSTnDSX0Ba39qyQcMP,12375315,Herodotos 1.171
+ngCJ1G68oETU8ETa1D74mrzRdNQ,12375316,Herodotos 1.172
+ngDK1Z78pFKVnFUZ2DW5osaueEx,12375317,Herodotos 1.173
+ngEL1A88qFrW3GVS3EX62tbJfFS,12375318,Herodotos 3.26
+ngFM1B98rGcX2HWJ4Fe7qucGgGz,12375319,Herodotos 5.65
+ngGN2C08sHNY3IXC5IZ84vdDhIU,12375320,Herodotos 5.97.2
+ngIP2I28uIfA2KZc7KR04xfFjIW,12375322,Herodotos 7.94
+ngJQ2J38vJQBwLAV8LS17ygCkKd,12375323,Herodotos 8.22
+ngKR2K48wKBCwMBG9L529zhPlKY,12375324,Herodotos 9.97
+ngLS2H58xLCD9NCZ0NU37aiQmNZ,12375325,Heropythos FGrHist 448 F1 Kolophonion
+ngMT2E68yOTE8ODg1N740bjBnNA,12375326,Hesychios Lexicon s.v. Kadmeioi (same as Hellanicus F101)
+ngNU2F78zPEF9PEd2OG57ckSoNB,12375327,Homer Iliad 2.867-873
+ngOV2G88aQFGyQFS3PX60dlfpPi,12375328,Homer Iliad 2.631-635
+ngPW2H98bQmH4RGH4RY72emIqPj,12375329,Homer Iliad 2.646-649
+ngQX3M08cRHIcSHo5RJ85fnRrQk,12375330,Homer Iliad 8.203-4
+ngRY3N18dReJcTIV6RK95goGsTF,12375331,Homer Iliad 13.686-8
+ngSZ3O28eSpKdUJW7S306hpjtTm,12375332,Homer Iliad 20.403-5
+ngTA3P38fTALdVKH8TC14iqouUH,12375333,Homer Odyssey 11.254-267
+ngUB3Y48gVBMfWLY9VD29jrJvUI,12375334,Homeric Hymns Hymn to Delian Apollo 146-55
+ngVC3Z58hWMN6XMZ0VE36ksuwVp,12375335,Homeric Hymns Hymn to Delian Apollo 30-46
+ngWD3A68iWjOjYNq1Xv41ltnxWq,12375336,Homeric Hymns Homeric Hymn to Artemis 1-8
+ngXE3B78jXuPkZOn2X859muYyXr,12375337,Hyginus Fabulae 10
+ngYF3C88kAFQ0APY3Zx62nvHzYs,12375338,Hyginus Fabulae 58
+ngZG3D98lBQR1BQR4AI7mowIaZt,12375339,Hyginus Fabulae 14.3
+ngAH4E08mBnS0CRM5CT85pxPbAO,12375340,Hyginus Fabulae 14.14-6
+ngBI4F18nCyT5DSr6Ba94qywcCP,12375341,Hyginus Fabulae 275.7
+ngCJ4C28oDpU2ETK7DV02rzbdCw,12375342,Iamblichos De Vita Pythagoras 2
+ngDK4D38pEaVqFUV8Dc1osaEeEx,12375343,Ion of Chios FGrHist 392 F1 Chiou Ktisis
+ngEL4E48qFLWrGVA9E524tbFfFy,12375344,Ion of Chios 29 von Blumenthal
+ngFM4F58rGWXqHWR0FO3qucCgFT,12375345,Isokrates Panegyricus 122
+ngGN4K68sGNY6IXC1IP41vdLhGU,12375346,Isokrates BNJ 496 F8
+ngHO4L78tHYZ7JYZ2JA58weUiJV,12375347,Kadmos FGrHist 489 T1a
+ngIP4I88uKPA1KZc3IR69xfzjIc,12375348,Kadmos FGrHist 489 T1b
+ngJQ4J98vLAB2LAh4Ji73ygOkLX,12375349,Kleitophon GEF F5
+ngKR5W08wKhC4MBC5Kj8wzhXlMY,12375350,Konon BNJ 26 F1.2
+ngLS5X18xLSD4NCj6LE94aicmMf,12375351,Konon BNJ 26 F1.4
+ngMT5Y28yMDE4ODY7NV0zbjRnMA,12375352,Konon BNJ 26 F1.26
+ngNU5V38zPUF4PEJ8NG17ckOoNh,12375353,Konon BNJ 26 F1.32
+ngOV5A48aPlG8QFi9PX29dlDpQC,12375354,Konon BNJ 26 F1.33
+ngPW5B58bQmHbRGj0PY37emkqRD,12375355,Konon BNJ 26 F1.37
+ngQX5C68cRXIcSHC1QJ4bfnprRk,12375356,Konon BNJ 26 F1.39
+ngRY5D78dSIJcTIJ2S851goisRl,12375357,Konon BNJ 26 F1.41
+ngSZ5E88eSpK3UJm3UB62hpntTG,12375358,Konon BNJ 26 F1.44
+ngTA5B98fTgL0VKj4VM7eiqQuTH,12375359,Konon BNJ 26 F1.47
+ngUB6C08gUrM0WLU5U183jrJvWI,12375360,Kreophylos FGrHist 417 F1 Ephesion Horois
+ngVC6D18hVCN1XMV6XO96ksAwWJ,12375361,Kritias Elegies F1 Diehl
+ngWD6E28iWNO6YNO7WP0gltLxXK,12375362,Kritias Elegies DK 88 B
+ngXE6F38jZOPiZOr8YG13muQyYr,12375363,Libanios Orations 11.168
+ngYF6G48kZlQiAPK9Y524nvVzAM,12375364,"Libanios Orations 5,34"
+ngZG6H58lAGR0BQN0Z63kowIaZt,12375365,Lykophron Alexandra 1374-7
+ngAH6I68mBRS0CRy1Az4kpxTbAu,12375366,Lykophron Alexandra 1377-86
+ngBI6r78nDST2DSB2C851qywcBP,12375367,Lykourgos Against Leocrates 84-87
+ngCJ6s88oDpU3ETQ3Db6orzPdEQ,12375368,Maiandrios/Laeandrios FGrHist 491-2 F1
+ngDK6t98pEqVqFUV4DW7nsayeDR,12375369,Maiandrios/Laeandrios FGrHist 491-2 F4
+ngEL7u08qFbWpGVQ5FN82tbzfFS,12375370,Maiandrios/Laeandrios FGrHist 491-2 F9
+ngFM7z18rFsX2HWB6Ge94ucwgGz,12375371,Maiandrios/Laeandrios FGrHist 491-2 F10
+ngGN7a28sGdY2IXU7H30tvdHhGa,12375372,Maiandrios/Laeandrios FGrHist 491-2 F11
+ngHO7b38tHOZuJYf8Hg1rweciHV,12375373,Maiandrios/Laeandrios FGrHist 491-2 F12
+ngIP7c48uIZAuKZI9KR2vxfdjKW,12375374,Maiandrios/Laeandrios FGrHist 491-2 F15
+ngJQ7z58vJQBvLAN0LS3vygGkKX,12375375,Maiandrios/Laeandrios FGrHist 491-2 F17
+ngKR7a68wKBCwMBK1LT4xzhblKe,12375376,Malakos BNJ 552 F1
+ngLS7X78xNSDvNCf2Lk59aiUmMf,12375377,Maximus of Tyre Oration 29.7
+ngMT7Y88yODEwODg3M962bjJnOA,12375378,Menekrates of Elea On the Founding of Cities
+ngNU7d98zOUFaPEJ4NG7zckCoNB,12375379,Menodotos BNJ 541 F1
+ngOV8e08aPFGbQFC5QX8ydlBpOC,12375380,Menodotos BNJ 541 F2
+ngPW8f18bPcHaRGj6PI96emUqQD,12375381,Metrodoros BNJ 184 F9
+ngQX8g28cQnI3SHY7Qp0bfnFrSE,12375382,Metrodoros BNJ 184 F16
+ngRY8h38dRYJ4TIR8Sq17gomsTF,12375383,Mimnermos FGrHist 578 F2 (F9 Bergk)
+ngSZ8q48eTZK5UJm9Sr27hpntSG,12375384,Mimnermos FGrHist 578 F1
+ngTA8r58fUKL6VKB0UC3fiqIuTH,12375385,Mimnermos FGrHist 578 F6
+ngUB8s68gUhM6WLM1UD4gjrRvUI,12375386,Nearchos FGrHist 133 F29
+ngVC8t78hVsNhXMp2XE57ksuwWp,12375387,Nearchos FGrHist 133 F17
+ngWD8u88iYDO0YNA3YP6jltFxXq,12375388,Nikander of Kolophon Alexipharmaka 9-11
+ngXE8v98jZEPhZOF4Xw7jmuMyZL,12375389,Nikander of Kolophon BNJ 271-2 T2
+ngYF9w08kAPQiAPC5YH8invtzZM,12375390,Nikander of Kolophon BNJ 271-2 F9a and 9b
+ngZG9x18lAwR5BQt6ZS9kowAaAt,12375391,Nikander of Kolophon BNJ 271-2 F28
+ngAH9u28mBnSnCRM7CJ06pxBbBu,12375392,Nikander of Kolophon F46 (Gow and Schofiled 1953)
+ngBI9v38nCyToDSJ8Ca17qyacCv,12375393,Nikander of Kolophon BNJ 271-2 F5
+ngCJ9w48oDJUnETa9EV2nrzRdCQ,12375394,Nikolaos of Damaskos FGrHist 90 F51
+ngDK9x58pEUVpFUR0FM35sayeDR,12375395,Nikolaos of Damaskos FGrHist 90 F52
+ngEL9c68qELW1GVu1F74rtbJfGS,12375396,Nikolaos of Damaskos FGrHist 90 F53
+ngFM9d78rFWX2HWN2F852ucSgHT,12375397,Nonnus Dionysiaca 13.546-565
+ngGN9a88sINY2IXC3HP62vdHhHa,12375398,Olympichos FGrHist 537 F1
+ngHO9b98tJYZ1JYb4H074weEiJV,12375399,Olympichos FGrHist 537 F2a
+ngMT0E08yMjEzODc5NV80bjBnMA,12375400,Olympichos FGrHist 537 F2b
+ngNU0F18zNUF4PEd6PW9zckmoNh,12375401,Oppianos Halieutica 3.400-13
+ngOV0G28aOFG4QFG7QH0bdlBpQC,12375402,Ovid Metamorphoses 9.441-665
+ngPW0n38bQmHbRGf8Q415emUqAD,12375403,Ovid Metamorphoses 10.298-518
+ngQX0k48cRHI8SHQ9R526fnlrBE,12375404,Panyassis BNJ 440 T1 Ionika
+ngRY0J58dSYJ9TIV0SK39goSsSl,12375405,Panyassis F17Ka
+ngSZ0K68eTJK9UJO1TL41hpXtTG,12375406,Panyassis F17b
+ngTA0L78fUKLeVKH2UM5fiqQuTH,12375407,Panyassis F18K
+ngUB0M88gUhMeWLo3UN61jrtvUo,12375408,Panyassis F24Ka
+ngVC0V98hWCN1XMZ4VO72ksIwGJ,12375409,Panyassis F24Kb
+ngWD1S08iXDO1YNS5YF8iltrxHK,12375410,Panyassis F25K
+ngXE1P18jYOPhZOL6Y292muKyIL,12375411,Parthenios Love Stories 11
+ngYF1U28kZlQiAPK7YR0inxjzYs,12375412,Parthenios Love Stories 14
+ngZG1p38lAwRmBQp8BS1lowuaKN,12375413,Parthenios Love Stories 20
+ngAH1q48mARSlCRq9AJ2kpxFbLO,12375414,Pausanias 7.3
+ngBI1N58nBSTnDSX0B639qyQcMP,12375415,Pausanias 1.35.6
+ngCJ1G68oETU8ETa1Db49rzZdNQ,12375416,Pausanias 7.2
+ngDK1Z78pFKVnFUZ2DW5psayeER,12375417,Pausanias 7.4
+ngEL1A88qFrW3GVS3EX62tbRfFS,12375418,Pausanias 9.10.3
+ngFM1B98rGcX2HWJ4Fe7pucGgGz,12375419,Pausanias 9.33.2
+ngGN2C08sHNY3IXC5IZ84vdPhHa,12375420,Pausanias 2.2.2
+ngHO2H18tHuZ2JYD6HQ9uweAiIb,12375421,Pausanias 2.18.8-9
+ngIP2I28uIfA2KZc7KR05xfBjIc,12375422,Pausanias 2.26.1
+ngJQ2J38vJQBwLAV8LS16ygekLX,12375423,Pausanias 2.31.6
+ngKR2K48wKBCwMBG9L528zhLlKe,12375424,Pausanias 3.1.1
+ngLS2H58xLCD9NCZ0NU36aiEmMf,12375425,Pausanias 3.1.7-8
+ngMT2E68yOTE8ODg1N741bjBnNA,12375426,Pausanias 7.1
+ngNU2F78zPEF9PEd2OG58ckioNB,12375427,Pausanias 7.5.1-3
+ngOV2G88aQFGyQFS3PX69dlHpOi,12375428,Pausanias 7.5.4-13
+ngPW2H98bQmH4RGH4RY70emYqQj,12375429,Pausanias 7.24.5-6
+ngQX3M08cRHIcSHo5RZ8afnlrSE,12375430,Pausanias 9.37.8
+ngRY3N18dReJcTIV6RK94goKsSl,12375431,Phanodikos FGrHist397 F4a
+ngSZ3O28eSpKdUJW7S305hpntTG,12375432,Phanodikos FGrHist397 F4b
+ngTA3P38fTALdVKH8TC15iqsuTn,12375433,Pherekydes BNJ 3 F155
+ngUB3Y48gVBMfWLY9VD29jrpvVI,12375434,Pherekydes BNJ 3 F142
+ngVC3Z58hWMN6XMZ0VE35ksuwVp,12375435,Pherekydes Manchette label on MS of Antoninus Liberalis 34
+ngWD3A68iWjOjYNq1X74hltTxYK,12375436,Pherekydes BNJ 3 F15a
+ngXE3B78jXuPkZOn2X850muwyYr,12375437,Pherekydes BNJ 3 F15b
+ngYF3C88kAFQ0APY3Zx60nvtzAM,12375438,Pherekydes BNJ 3 F15c
+ngZG3D98lBQR1BQR4AI7kowyaAt,12375439,Pherekydes BNJ 3 F21
+ngAH4E08mBnS0CRM5CJ8kpxTbBu,12375440,Pherekydes BNJ 3 F22a
+ngBI4F18nCyT5DSr6Ba93qywcCP,12375441,Pherekydes BNJ 3 F22c
+ngCJ4C28oDpU2ETK7DV0przPdEQ,12375442,Pherekydes BNJ 3 F33
+ngDK4D38pEaVqFUV8Dc1qsaSeFR,12375443,Pherekydes BNJ 3 F36
+ngEL4E48qFLWrGVA9E525tbBfGS,12375444,Pherekydes BNJ 3 F38
+ngFM4F58rGWXqHWR0FY30ucSgGT,12375445,Pherekydes BNJ 3 F58
+ngGN4K68sGNY6IXC1IP49vdxhHa,12375446,Pherekydes BNJ 3 F102
+ngHO4L78tHYZ7JYZ2JA50weIiHb,12375447,Pherekydes BNJ 3 F117
+ngIP4I88uKPA1KZc3IR68xfdjIW,12375448,Pherekydes BNJ 3 F119
+ngJQ4J98vLAB2LAh4Ji72ygWkKX,12375449,Pherekydes BNJ 3 F154
+ngKR5W08wKhC4MBC5Kj8xzhTlKe,12375450,Philiskos of Miletos BNJ 496 F9
+ngLS5X18xLSD4NCj6LE95aiYmNZ,12375451,Philostephanos On the cities of Asia
+ngMT5Y28yMDE4ODY7NV0xbjdnNg,12375452,Philostratos Epistles 5
+ngNU5V38zPUF4PEJ8NG18ckmoOh,12375453,Philostratos Imagines 2.8.6
+ngOV5A48aPlG8QFi9Pn2ydlBpPC,12375454,Philostratos On Heroes 43.7
+ngPW5B58bQmHbRGj0PY36emoqQj,12375455,Philostratos Apollo of Tyana 8.7.25
+ngQX5C68cRXIcSHC1QJ4afnlrSE,12375456,Pindar in Pausanias 7.2.6-9
+ngRY5D78dSIJcTIJ2S852goqsSl,12375457,Pindar Nemean 11 34-36
+ngSZ5E88eSpK3UJm3UB63hpntTG,12375458,Plato Euthydemus 302C
+ngTA5B98fTgL0VKj4VM7diqIuUH,12375459,Pliny the Elder Natural History 5.31
+ngUB6C08gUrM0WLU5U184jrHvVI,12375460,Pliny the Elder Natural History 5.38
+ngVC6D18hVCN1XMV6XO96ksqwVJ,12375461,Pliny the Elder Natural History 5.37
+ngWD6E28iWNO6YNK7YF07ltJxYK,12375462,Plutarch Theseus 20
+ngXE6F38jZOPiZOr8YG1jmuKyXL,12375463,Plutarch De Exilio 17
+ngYF6G48kZlQiAPK9Y526nvHzZs,12375464,Plutarch De. Glor. Ath. 7
+ngZG6H58lAGR0BQN0Z63jowMaBN,12375465,Plutarch Questiones Graecae 20
+ngAH6I68mBRS0CRy1AJ49pxrbBu,12375466,Plutarch Questiones Graecae 56
+ngBI6r78nDST2DSB2DU5mqyQcBP,12375467,Plutarch Mulierum virtutes 16
+ngCJ6s88oDpU3ETQ3Db6przPdCQ,12375468,Polyainos Strategemata 8.35
+ngDK6t98pEqVqFUV4DW7nsaMeDx,12375469,Polyainos Strategemata 8.43
+ngEL7u08qFbWpGVQ5FN84tbJfES,12375470,Polybius Histories 16.12
+ngFM7z18rFsX2HWB6Ge95ucYgFz,12375471,Pomponius Mela De situ orbis 1.76-9
+ngGN7a28sGdY2IXU7H30svdPhHa,12375472,Pomponius Mela De situ orbis 1.74-5
+ngHO7b38tHOZuJYf8HQ18weAiIb,12375473,Pomponius Mela De situ orbis 1.80-86
+ngIP7c48uIZAuKZI9KR25xfdjJW,12375474,Ps-Hesiod Melampodia F278 M-W
+ngJQ7z58vJQBvLAN0LS3wygKkJd,12375475,Ps-Hesiod Melampodia F279 M-W
+ngKR7a68wKBCwMBK1LT4vzhPlLY,12375476,Ps-Hesiod Catalogue of Women F238 M-W
+ngLS7X78xNSDvNCf2Lk51aiImLZ,12375477,Pseudo-Apollodoros Bibliotheca 3.7.4
+ngMT7Y88yODEwODg3M962bjVnNg,12375478,Pseudo-Apollodoros Epitome 6.2-4
+ngNU7d98zOUFaPEJ4NG7yckeoNh,12375479,Pseudo-Apollodoros Bibliotheca 1.4.3
+ngOV8e08aPFGbQFC5QH85dlDpPC,12375480,Pseudo-Apollodoros Bibliotheca 1.9.9
+ngPW8f18bPcHaRGj6PY9aemkqPD,12375481,Pseudo-Apollodoros Bibliotheca 3.1.2
+ngQX8g28cQnI3SHY7Qp0afnFrQE,12375482,Pseudo-Apollodoros Bibliotheca 3.14.4
+ngRY8h38dRYJ4TIR8Sq15goEsRF,12375483,Pseudo-Apollodoros Epitome 1.9
+ngSZ8q48eTZK5UJm9Sr29hpTtTm,12375484,Pseudo-Apollodoros Epitome 3.32-3
+ngTA8r58fUKL6VKB0UC3giqIuTH,12375485,Pseudo-Herodotos Life of Homer 1
+ngUB8s68gUhM6WLM1UD4fjrpvVI,12375486,Pseudo-Herodotos Life of Homer 2
+ngVC8t78hVsNhXMp2XE5iksAwVJ,12375487,"Pseudo-Herodotos Life of Homer 14, Epigram 4 line 6"
+ngWD8u88iYDO0YNA3YP69ltLxXK,12375488,Pseudo-Plutarch Life of Homer 2.3
+ngXE8v98jZEPhZOF4Xw7hmuoyYr,12375489,Quintus Smyrnaeus Posthomerica 14.36
+ngYF9w08kAPQiAPC5YR85nvVzAM,12375490,Schol. Apol. Rhod. 1.308b
+ngZG9x18lAwR5BQt6ZS9lowqaAt,12375491,Schol. Apol. Rhod. 1.185-8a
+ngAH9u28mBnSnCRM7CJ07pxXbCO,12375492,Schol. Apol. Rhod. 1.185-8b
+ngBI9v38nCyToDSJ8Ca16qyGcBP,12375493,Schol. Apol. Rhod. 1.185-8c
+ngCJ9w48oDJUnETa9EV2orzLdDw,12375494,Schol. Apol. Rhod. 1.955-60e
+ngDK9x58pEUVpFUR0FM37saIeER,12375495,Schol. Apol. Rhod. 3.997-1004α
+ngEL9c68qELW1GVu1F74qtbNfFy,12375496,Schol. Arat. Phaen. 636
+ngFM9d78rFWX2HWN2F851ucCgFT,12375497,Schol. Aristeides Panathenaikos 110.18
+ngGN9a88sINY2IXC3HP63vdDhGU,12375498,Schol. Aristoph. Vesp. 1490a
+ngHO9b98tJYZ1JYb4H073weEiJV,12375499,Schol. Kallim. Ad Jovem 77b
+ngMT0E08yMjEzODc5NV81bjBnMA,12375500,Eustathios On Odyssey 3.4
+ngNU0F18zNUF4PEd6PW9yckmoNh,12375501,"Schol. Hom. Od. CMVamouX on Homer, on Odyssey 11.281"
+ngOV0G28aOFG4QFG7QH03dlPpOi,12375502,Schol. Hom. Od. 8.291
+ngPW0n38bQmHbRGf8RI14emCqAD,12375503,Schol. Lyc. Alexandria 1379
+ngQX0k48cRHI8SHQ9RZ28fnlrBE,12375504,Schol. Lyc. Alexandria 1385
+ngRY0J58dSYJ9TIV0SK37goqsSl,12375505,Schol. Lyc. Alexandria 440
+ngSZ0K68eTJK9UJO1TB4dhpHtSG,12375506,Schol. Lyc. Alexandria 881
+ngTA0L78fUKLeVKH2UM5diqsuUn,12375507,Schol. Lyc. Alexandria 1384
+ngUB0M88gUhMeWLo3UN61jrJvUI,12375508,Schol. Nikandr. Ther. 958
+ngVC0V98hWCN1XMZ4VE71ksqwGJ,12375509,Schol. Nikandr. Alex. 9c
+ngWD1S08iXDO1YNW5WP8iltrxHK,12375510,Schol. Nikandr. Alex 9h
+ngXE1P18jYOPhZOL6YG96muUyIL,12375511,Schol. Nikandr. Alex 11a
+ngYF1U28kZlQiAPo7ZH04nxjzYs,12375512,Schol. Nikandr. Alex 11c
+ngZG1p38lAwRmBQp8BI18owWaKN,12375513,Semonides of Amorgos FGrHist 534 T1a
+ngAH1q48mARSlCRq9AT2mpxPbLO,12375514,Servius Commentary on Virgil's Aeneid 10.763
+ngBI1N58nBSTnDSX0Ba3lqywcMP,12375515,Simonides of Keos FGrHist 8 F2
+ngCJ1G68oETU8ETa1D749rzZdNQ,12375516,Solon F4a IEG/Bergk
+ngDK1Z78pFKVnFUZ2DW5qsaueEx,12375517,Solon F36 IEG
+ngEL1A88qFrW3GVS3EX61tbvfEy,12375518,Stephanos of Byzantion Ethnika s.v. Tremile
+ngFM1B98rGcX2HWJ4Fe7qucegFz,12375519,Stephanos of Byzantion Ethnika s.v. Chios
+ngGN2C08sHNY3IXC5IZ85vdThHU,12375520,Stephanos of Byzantion Ethnika s.v. Bolissos
+ngHO2H18tHuZ2JYD6HQ9tweWiJV,12375521,Stephanos of Byzantion Ethnika s.v. Byblos
+ngIP2I28uIfA2KZc7KR03xfdjIW,12375522,Stephanos of Byzantion Ethnika s.v. Didyma
+ngJQ2J38vJQBwLAV8LS17ygekLX,12375523,Stephanos of Byzantion Ethnika s.v. Erythrai
+ngKR2K48wKBCwMBG9L527zhPlKY,12375524,Stephanos of Byzantion Ethnika s.v. Ephesos
+ngLS2H58xLCD9NCZ0NU36aiQmMZ,12375525,Stephanos of Byzantion Ethnika s.v. Kaunos
+ngMT2E68yOTE8ODg1N740bjFnMg,12375526,Stephanos of Byzantion Ethnika s.v. Melia
+ngNU2F78zPEF9PEd2OG59ckeoNh,12375527,Stephanos of Byzantion Ethnika s.v. Miletos
+ngOV2G88aQFGyQFS3PX68dlfpPi,12375528,Stephanos of Byzantion Ethnika s.v. Mykale
+ngPW2H98bQmH4RGH4RY71emYqQj,12375529,Stephanos of Byzantion Ethnika s.v. Priene
+ngQX3M08cRHIcSHo5RZ8bfnRrQk,12375530,Stephanos of Byzantion Ethnika s.v. Phokaia
+ngRY3N18dReJcTIV6RK93goGsTF,12375531,Stephanos of Byzantion Ethnika s.v. Samos
+ngSZ3O28eSpKdUJW7S306hpPtSG,12375532,Stephanos of Byzantion Ethnika s.v. Smyrna
+ngTA3P38fTALdVKH8TC15iqCuUn,12375533,Stephanos of Byzantion Ethnika s.v. Teos
+ngUB3Y48gVBMfWLY9Vt2ejrpvVI,12375534,Strabo 14.1.2-4
+ngVC3Z58hWMN6XMZ0VE36ksSwVJ,12375535,Strabo 7.7.2
+ngWD3A68iWjOjYNq1X74gltPxWq,12375536,Strabo 14.1.21
+ngXE3B78jXuPkZOn2X851muCyZL,12375537,Strabo 14.1.27-8
+ngYF3C88kAFQ0APY3Zx60nvHzYs,12375538,Strabo 14.5.16
+ngZG3D98lBQR1BQR4AI7lowMaAN,12375539,Strabo 8.6.15
+ngAH4E08mBnS0CRM5CT85pxvbCO,12375540,Strabo 9.2.3
+ngBI4F18nCyT5DSr6Ba92qywcCP,12375541,Strabo 9.2.12
+ngCJ4C28oDpU2ETK7DV02rzRdDQ,12375542,Strabo 11.5.4
+ngDK4D38pEaVqFUV8Dc1psaSeFR,12375543,Strabo 12.3.21
+ngEL4E48qFLWrGVA9E526tbBfES,12375544,Strabo 12.8.5
+ngFM4F58rGWXqHWR0FY30ucGgGz,12375545,Strabo 13.3.3
+ngGN4K68sGNY6IXC1IP40vdbhHU,12375546,Strabo 14.1.5
+ngHO4L78tHYZ7JYZ2JA50weQiHb,12375547,Strabo 14.1.6-7
+ngIP4I88uKPA1KZc3IR6vxfdjKW,12375548,Strabo 14.1.12
+ngJQ4J98vLAB2LAh4Ji72ygikJd,12375549,Strabo 14.1.15
+ngKR5W08wKhC4MBC5Kj8xzhHlLY,12375550,Strabo 14.1.20
+ngLS5X18xLSD4NCj6LE96aiYmLZ,12375551,Suda s.v. Apatouria (Adler A.2940)
+ngMT5Y28yMDE4ODY7NV03bjRnMA,12375552,Suda s.v. Aristarchos (Alder A.3894)
+ngNU5V38zPUF4PEJ8NG1yckKoNB,12375553,Suda s.v. Kadmos (Adler no.K21)
+ngOV5A48aPlG8QFi9Pn2zdljpQC,12375554,Suda s.v. Kadmos (Adler no.K22)
+ngPW5B58bQmHbRGj0Po35emCqQD,12375555,Suda s.v. Philiskos Milesios
+ngQX5C68cRXIcSHY1SZ41fnRrQk,12375556,Suda s.v. Ionia (Adler I.494)
+ngRY5D78dSIJcTIJ2TK59goGsRF,12375557,Suda s.v.Τὸν Κολοφῶνα ἐπίθες (Adler no.765)
+ngSZ5E88eSpK3UJm3UB69hpjtSm,12375558,Tacitus Annals 3.61
+ngTA5B98fTgL0VKj4VM79iqMuUn,12375559,Themistagoras FHG iv. 512 F1
+ngUB6C08gUrM0WLU5Ut85jrtvVo,12375560,Themistagoras FHG iv. 512 F2
+ngVC6D18hVCN1XMV6XE9gksAwWJ,12375561,Themistagoras FHG iv. 514 F3
+ngWD6E28iWNO6YNO7WP06ltBxXK,12375562,Theokritos Idylls 28.3
+ngXE6F38jZOPiZOr8YG1hmusyZL,12375563,"Theophrastos F631 Rose (Ath 4.74, 173e)"
+ngYF6G48kZlQiAPK9ZR2knvLzAM,12375564,Theopompos BNJ 115 F103
+ngZG6H58lAGR0BQN0Zy35owIaAt,12375565,Theopompos BNJ 115 F117
+ngAH6I68mBRS0CRy1Az4lpxzbBu,12375566,Theopompos BNJ 115 F118
+ngBI6r78nDST2DSB2C85mqyOcDP,12375567,Theopompos BNJ 115 F351
+ngCJ6s88oDpU3ETQ3Db68rzDdDw,12375568,Theopompos BNJ 115 F23
+ngDK6t98pEqVqFUV4DW74saEeEx,12375569,Theopompos BNJ 115 F59
+ngEL7u08qFbWpGVQ5FN80tbzfFS,12375570,Theopompos BNJ 115 F276
+ngFM7z18rFsX2HWB6G291ucOgGz,12375571,Theopompos BNJ 115 F305
+ngGN7a28sGdY2IXU7Hf04vdPhGa,12375572,Theopompos BNJ 115 F346
+ngHO7b38tHOZuJYf8Hg1tweUiIV,12375573,Thucydides 1.2.6
+ngIP7c48uIZAuKZI9KB26xfVjIW,12375574,Thucydides 1.4
+ngJQ7z58vJQBvLAN0LS35ygGkKX,12375575,Thucydides 1.8
+ngKR7a68wKBCwMBK1Lj4uzhXlMY,12375576,Thucydides 1.12
+ngLS7X78xNSDvNCf2Lk57aicmLf,12375577,Thucydides 2.15
+ngMT7Y88yODEwODg3NF69bjRnMA,12375578,Thucydides 6.82.3-4
+ngNU7d98zOUFaPEF4PW79ckioPB,12375579,Thucydides 7.57.4
+ngOV8e08aPFGbQFC5QX8adlBpOC,12375580,"Timotheos F791, 235-6 #Persae"
+ngPW8f18bPcHaRGj6PI9bemUqRD,12375581,Ioannes Tzetzes Schol. Lyc. Alex. 1378
+ngQX8g28cQnI3SHY7QZ07fnFrSE,12375582,Ioannes Tzetzes Schol. Lyc. Alex. 1383
+ngRY8h38dRYJ4TIR8S414gomsSF,12375583,Ioannes Tzetzes Schol. Lyc. Alex. 980
+ngSZ8q48eTZK5UJm9Sr25hpTtSm,12375584,Vellius Paterculus 1.2
+ngTA8r58fUKL6VKB0UC30iqGuTH,12375585,Vellius Paterculus 1.4
+ngUB8s68gUhM6WLM1UN47jrZvUI,12375586,Vitruvius 4.1.4-5
+ngVC8t78hVsNhXMp2XE59ksuwWp,12375587,Xanthos the Lydian FGrHist 765 F23
+ngWD8u88iYDO0YNA3X969ltPxXq,12375588,Xanthos the Lydian FGrHist 765 F15
+ngXE8v98jZEPhZOF4XG74muoyYr,12375589,Xanthos the Lydian FGrHist 765 F14
+ngYF9w08kAPQiAPC5YH83nvZzYs,12375590,Xenophanes of Kolophon F3 Diels/IEG (F6 Graham)
+ngZG9x18lAwR5BQp6BI96owuaAN,12375591,Xenophanes of Kolophon FGrHist 450 T1
+ngAH9u28mBnSnCRq7AT03pxBbAu,12375592,Zenis of Chios FGrHist 393 F1
+ngBI9v38nCyToDSJ8Ca1nqyQcBP,12375593,Zenobios Proverbs 5.71
+ngCJ9w48oDJUnETa9EV24rzZdEQ,12375594,Zenobios Proverbs 4.3
+ngDK9x58pEUVpFUR0FW37saIeDR,12375595,Zenobios Proverbs 4.33
+ngEL9c68qELW1GVu1F74ptbRfFS,12375596,Zenobios Proverbs 5.17
+ngFM9d78rFWX2HWN2GY59ucagFT,12375597,Zopyros of Magnesia FGrHist 494 F1
+ngGN9a88sINY2IXC3HP60vdHhHa,12375598,Zosimos Life of Isocrates
+ngYF6G48kZlQiAPG9Yx2jnvxzYs,12378464,Athenaios Deipnosophistae 8.361d
+ngBI6r78nDST2DSX2CU59qyQcCP,12378467,Strabo 6.1.7-8
+ngFM7z18rFsX2HWF6HY9pucUgGT,12378471,Photios Bibliotheca 186
 ngEL1A88qFrW2GVy3Fd60tbRfGS,12380918,"Excerpta Constantiniana de insidiis, pp. 15, 17–19 de Boor"
-ngZG6H58lAGR0BQN0Z63kowIaZt,12375365,"Lykophron Alexandra 1374-7"
-ngAH6I68mBRS0CRy1Az4kpxTbAu,12375366,"Lykophron Alexandra 1377-86"
-ngQX8g28cQnI3SHY7QZ07fnFrSE,12375582,"Ioannes Tzetzes Schol. Lyc. Alex. 1383"
-ngVC0V98hWCN1XMZ4VO72ksIwGJ,12375409,"Panyassis F24Kb"
-ngNU0F18zNUF4PEd6PW9zckmoNh,12375401,"Oppianos Halieutica 3.400-13"
-ngYF3C88kAFQ0APY3Zx62nvHzYs,12375338,"Hyginus Fabulae 58"
-ngXE3B78jXuPkZOn2X859muYyXr,12375337,"Hyginus Fabulae 10"
-ngWD6E28iWNO6YNO7WP0hltTxWK,12375262,"Hekataios BNJ 1 F1"
-ngOV0G28aOFG4QFG7QH06dlLpPC,12375202,"Clemens of Alexandria Stromata 1.15.66.1-3"
-ngWD8u88iYDO0YNA3YP6hltnxWq,12375188,"Asios F3 GEF"
-ngPW8f18bPcHaRGj6PI95emgqPj,12375181,"Aristotle F631 Rose"
-ngOV8e08aPFGbQFC5QH82dlPpPi,12375180,"Aristotle F571 Rose"
-ngGN7a28sGdY2IXU7H30qvdDhGU,12375172,"Aristokritos FGrHist 493 F1 Peri Milesiou"
-ngTA5B98fTgL0VKj4U074iqQuTH,12375159,"Apollodoros of Athens FGrHist 244 F63b"
-ngRY5D78dSIJcTIJ2TK5bgoisRl,12375157,"Apollodoros of Athens FGrHist 244 F61"
-ngJQ4J98vLAB2LAh4J07uygWkJX,12375149,"Anon Palatine Anthology 9.670"
+ngGN2C08sHNY3IXG5G18tvdLhGU,12380920,Schol. Hom. Il 20.404 (Geneva)
+ngKR2K48wKBCwMBC9Kj26zhDlKe,12380924,Schol. Plato Hipparch. 229d (T+); Symp. 208d
+ngOV2G88aQFGyQFS3QH6adlDpPC,12380928,Stephanos of Byzantion Ethnika s.v. Benna
+ngBI4F18nCyT5DSF6BU9mqywcCP,12407941,Ovid Met. 15.1
+ngFM9d78rFWX1HWN2GY50ucUgGT,12408997,Strabo 13.1.68
+ngZG6H58lAGR9BQt0Z63kowAaAt,12411765,Pindar Pyth. 2.15
+ngNU0F18zNUF3PEZ6PG9xckGoNh,12411801,Polybius Hist. 12.5-12
+ngRY0J58dSYJ8TIZ0TK3cgoGsRF,12411805,Diodorus Siculus 8.32.1-3
+ngSZ0K68eTJK9UJA1Sr4dhpFtSG,12411806,Konon Narr. 18.
+ngUB0M88gUrM3WLo3V963jrNvUo,12411808,St. Jerome Ab Abr. B679
+ngVC0V98hWsN0XMt4VO7fksAwGJ,12411809,Servius Aen. 3.399
+ngBI1J58nDITmDSz0Ba30qyYcMP,12411815,Diodorus Siculus 4.85.3-4
+ngCJ1G68oEJU9ETw1EL4przPdNQ,12411816,Strabo 6.1.6
+ngFM1B98rGcX3HWN4Fe7rucegFz,12411819,Solinos 2.10-11
+ngIP2I28uIfA2KZW7JR0sxfFjJW,12411822,Diodorus Siculus 8.17.1-2
+ngJQ2J38vJQBwLAh8LS1uygOkLX,12411823,Diodorus Siculus 4.24.5-7
+ngMT2E68yOTE9ODg1M748bjNnMg,12411826,Strabo 8.7.5
+ngOV2G88aQFGyQFG3P968dlDpOC,12411828,St. Jerome Ab Abr. B708
+ngPW2H98bQcHzRGH4P07cemEqPD,12411829,Diodorus Siculus 12.10-11
+ngRY3N18dReJcTIJ6R292goEsSF,12411831,Diodorus Siculus 12.35.1-3
+ngTA3P38fTALdVKn8U41fiqMuTn,12411833,Plutarch Per. 11.5
+ngUB3Y48gVBMfWLo9UD2hjrHvUI,12411834,Plutarch Nic. 5.2
+ngWD3A68iWjO6YNu1YF4iltLxYK,12411836,Aristotle Pol. 5.1303a
+ngYF3C88kAFQ9APw3AH6lnvVzAM,12411838,Strabo 6.1.15
+ngZG3D98lBQR0BQV4A071owMaZN,12411839,Vellius Paterculus 1.1.1-2
+ngBI4F18nCyT5DSX6DK9mqyUcCv,12411841,Strabo 6.1.5
+ngOV2G88aPbG3QFC3Pn6ydlnpOi,12498528,Herodotos 1.162-7
+ngTA3P38fTALeVKH8VM1fiqkuTn,12498533,Strabo 6.1.1.
+ngCJ9w48oDJUpETK9DV24rzZdDQ,12498894,Pseudo-Skymnos 262
+ngDK9x58pEUVqFUV0EM37saAeDR,12498895,Ammianus Marcellinus Hist. 15.9.7
+ngEL9c68qELW0GVA1EN4ptbTfFS,12498896,Pausanias 3.3.1
+ngFM9d78rFWX1HWX2GO5pucKgGT,12498897,Stephanos of Byzantion s. v. Mesma
+ngGN9a88sINY1IXU3Gf69vdPhGa,12498898,Stephanos of Byzantion s. v. Medme
+ngZG1p38lAmR8BQZ8ZI1jowEaKN,12498913,Suda mu. 1473
+ngGN4K68sGNY8IXS1IP4tvdPhHa,12528746,Strabo 6.1.10.
+ngNU5V38zPUF6PEV8Om1xckSoNB,12528753,Cassiodorus Var. 12.15.1
+ngHO4L78tHYZ8JYx2IQ51weUiJV,12536647,Pausanias 8.3.5
+ngIP4I88uKPA0KZE3I96vxfRjIc,12536648,Dionysios of Halikarnassos Ant. Rom. 2.1.2
+ngLS2H58xLSDvNCL0NE38aiEmMf,12604625,Strabo 6.1.12
+ngUB8s68gWBM6WLU1UD47jrZvVI,12629686,Strabo 6.2.4
+ngAH1S48mBRS7CRO9CT29pxXbLO,12695114,Hekataios FGrHist 1 f64-71
+ngBI1X58nCITnDSJ0BK3oqyOcMP,12695115,Dionysios of Halikarnassos Ant. Rom. 1.13.1
+ngDK1Z78pFKV1FUP2EW50saueEx,12695117,Pherekydes FGrHist 3 f156
+ngHO2D18tIOZuJYV6IA91weQiIb,12695121,Dionysios of Halikarnassos Ant. Rom. 1.12.3
+ngIP2E28uJfAvKZc7J302xfFjIW,12695122,Antiochus of Syrakuse FGrHist 555 f2
+ngKR2G48wMBCxMBK9LT27zhflMY,12695124,Antiochus of Syrakuse FGrHist 555 f3a
+ngLS2H58xLSDvNCL0LE3waiMmMf,12695125,Dionysios of Halikarnassos Ant. Rom. 1.73.3-5
+ngMT2I68yMjEwODg1OF4ybjRnNA,12695126,Antiochus of Syrakuse FGrHist 555 f6
+ngOV2K88aPFGyQFC3OH63dlHpPi,12695128,Antiochus of Syrakuse FGrHist 555 f9
+ngQX3I08cRdI4SHI5RJ84fnprQk,12695130,Aristotle Pol. 1329B
+ngUB3Y48gVhMeWLU9V525jrRvVI,12695134,Dionysios of Halikarnassos Ant. Rom. 2.35.7
+ngVC3Z58hWiN9XMt0VE30ksWwWp,12695135,Dionysios of Halikarnassos Ant. Rom. 1.60.3
+ngWD3A68iYNO1YNq1Wv40ltLxXK,12695136,Dionysios of Halikarnassos Ant. Rom. 1.11-13
+ngZG3D98lZmR0BQL4ZS7kowqaAt,12695139,Strabo 5.1
+ngBI4F18nCIT2DSP6CK91qyCcBv,12695141,Strabo 6.1.4
+ngEL4I48qEVWrGVI9FX29tbJfGS,12695144,Virgil Aen. 1.520
+ngGN4G68sGtY1IXU1GZ49vdbhGU,12695146,Virgil Aen. 7.37
+ngIP4I88uJPA2KZW3KR6txfdjIW,12695148,Pliny the Elder HN 3.5.10
+ngJQ4J98vKgB3LAV4K070ygGkLX,12695149,Pliny the Elder HN 3.7
+ngKR5W08wKxCvMBC5Lj8uzhflLY,12695150,Eusebius Chron. 102
+ngHO2D18tIOZ1JYf6IA9rweyiIb,13019621,Pausanias 10.17.2
+ngKR2G48wMBC7MBe9Lj29zhXlKY,13019624,Solinos Polyhistor 4.2
+ngMT7c88yNDE1ODU3MV62bjBnMA,13019678,Pausanias 10.17.5
+ngJQ2F38vKwB4LAz8KS1wygSkJd,13024123,Strabo 6.1.14
+ngLS2H58xLSD5NCj0LE3waiImNZ,13024125,Athenaios 12.25
+ngZG3D98lAQRjBQV4Ay79owSaAt,13029539,Diodorus Siculus 4.29
+ngQX8C28cSXI5SHo7SJ05fnFrSE,13029582,Pseudo-Apollodoros Biblioteca 2.7.6
+ngJQ7z58vJQB7LAN0JS37ygekJX,13029975,Strabo 14.5.8
+ngTA3P38fTKL4VKr8VC15iqIuUH,13038433,Strabo 14.5.9
+ngVC3Z58hXMNfXMl0VO39ksmwWp,13038435,Strabo 14.5.10
+ngWD3A68iYDOgYNW1Wv49ltTxWK,13038436,Strabo 14.5.11-12
+ngPW0H38bQGH6RGX8Po1cemUqRD,13576003,Strabo 4.1.4
+ngMT2I68yMTEwODI1Nl41bjVnNg,13657326,Stephanos of Byzantion s.v. Matauros
+ngMT2I68yMTEyODU1NF46bjJnNA,13954426,Strabo 6.1.3.
+ngHO2D18tIeZ3JYP6Hg91weyiIb,13960421,Antiochus of Syrakuse FGRHist 555 f11
+ngKR2G48wLxC5MBe9LT25zhTlKe,13960424,Diodorus Siculus 12.36.4
+ngMT2I68yMTEzODQ1Nl46bjRnMA,13960426,Thucydides 5.5.3
+ngUB0M88gUBM8WLQ3Ut6gjrHvWI,13961108,Herodotos 1.166-7
+ngWD1E08iWDO4YNm5Wv8gltBxHK,13961110,Pausanias 6.3.12
+ngXE1r18jXEP3ZOT6Yw91muMyIL,13961111,Pseudo-Skymnos 318-9
+ngYF1o28kYvQiAPG7AR04nvNzJM,13961112,Stephanos of Byzantion s. v. Kaulonia
+ngDK4D38pEqV8FUb8Ec1psaIeDR,13961143,Servius Ad. Aen. 3.553
+ngMT5Y28yNjEzODU7NF07bjRnOA,13961152,Zenobios 3.42
+ngNU5Z38zOUFaPEl8PG1zckCoNB,13961153,"Hippys FGrHist 554, f1"
+ngOV5A48aOFGzQFG9PX29dlTpQC,13961154,Herodotos 8.47
+ngPW5B58bPGH5RGB0RY38emoqPj,13961155,Pseudo-Skymnos 328
+ngOV8A08aPbGbQFe5PH85dlLpPC,13961180,Strabo 5.4.4
+ngRY8D38dTYJ7TIh8TK1egomsSF,13961183,Thucydides 6.4.5
+ngSZ8q48eUJKeUJm9SB26hpHtTG,13961184,Dionysios of Halikarnassos Ant. Rom. 7.3.1
+ngTA0L78fTqL8VKL2TM5fiqMuTn,13961207,Herodotos 6.21
+ngAH1S48mCRSkCRW9BT28pzlbAE,13961214,Pseudo-Skylax 12
+ngDK1D78pDUV9FUR2FW59saIeER,13961217,"Antiochus of Syrakuse FGrHist 555, f12"
+ngSZ3O28eSJK2UJE7S30ehpntSG,13961232,Strabo 5.4.9
+ngCJ4C28oETU7ETK7Cb06rztdCw,13961242,Livy 8.22.6
+ngIP7y48uJvA6KZg9I527xfFjJW,13962574,Pseudo-Skymnos 247-252
+ngPW8f18bPGH3RGH6QI95emEqPD,13962581,Diodorus Siculus 11.59.4
+ngRY8D38dTYJ7TIl8RK1bgoAsSl,13962583,Thucydides 6.44.3
+ngSZ8q48eUJKeUJi9UB29hprtTm,13962584,Pseudo-Skymnos 311-12
+ngTA8r58fUgLeVKr0UC3diqkuTn,13962585,Diodorus Siculus 14.40.1
+ngTA0L78fTqL8VKL2Ts52iqQuUH,13962607,Dionysios of Halikarnassos Ant. Rom. 19.2
+ngNU7Z98zPEF9PEN4OW7xckKoOB,14000779,Strabo 5.4.7
+ngGN9a88sHtYsIXa3G96rvdPhHa,14000798,Heraklides Lembus 55
+ngNU0F18zOEFaPEN6PG94ckOoOh,14000901,Athenaios Deipnosophistes 12.25.523
+ngOV0G28aObGbQFO7On03dljpQC,14000902,Timaeos of Tauromenion FGrHist 566 f51
+ngQX0I48cRXIcSHE9RZ28fnZrQk,14000904,Justin 20.2
+ngRY0J58dRIJbTIF0S635goOsSF,14000905,Pseudo-Skymnos 336
+ngSZ0q68eSJKfUJW1SL4fhpFtDG,14000906,Antoninus Liberalis Metamorphoses 8
+ngTA0L78fTqL7VKF2VM57iqkuTn,14000907,Strabo 6.3.2-3
+ngUB0M88gUBM8WLG3VN6hjrDvVo,14000908,Antiochus of Syrakuse FGRHist 555 f13
+ngVC0H98hVsNiXMN4VE7hksKwGJ,14000909,Strabo 6.3.3
+ngWD1E08iWtOhYNK5Xv81ltTxHK,14000910,Ephoros FGRHist 70 f216
+ngYF1o28kYFQ4APG7AR0invDzJM,14000912,Aristotle Pol. 1306b
+ngZG1R38lBGR5BQH8Z413owEaKN,14000913,Plato Leg. 637B
+ngAH1S48mBHS6CRy9AJ26pzlbAE,14000914,Pseudo-Skymnos 300-340
+ngCJ1Y68oCpUmETw1CL48rzHdNQ,14000916,Diodorus Siculus 11.90.3-4
+ngDK1D78pDUV9FUH2E851saAeER,14000917,Diodorus Siculus 12.10.3
+ngTA5B98fUAL3VKF4Ts79iqouVH,14235759,Euphorion F102 Lightfoot
+ngVC6D18hXMNfXMJ6VE91ksqwXJ,14235761,Servius ad Virg. Ecl. 6.72
+ngWD6E28iXtO5YNu7XF03ltFxXq,14235762,Lykophron Alexandra 424-30
+ngYF6G48kYPQ5APG9YR2invLzAM,14235764,Strabo 14.4.3
+ngZG6H58lZmR6BQZ0BS35owAaZt,14235765,Schol. Lyc. Alexandria 424
+ngRY0p58dSeJbTIp0SA39gomsCF,14235805,Schol. Hom. Od. 13.259
+ngWD8u88iWjO0YNm3YF6jltLxXK,14235888,Strabo 14.1.27
+ngJQ4J98vKgBvLAd4LS74ygekLX,14321249,Proclus Chestomathia II
+ngCJ4C28oEJU4ETC7D305rzxdCQ,14386342,Antiochus of Syrakuse FGrHist 555 t2b
+ngDK4D38pFUV5FUV8FW14saQeDR,14386343,Antiochus of Syrakuse FGrHist 555 f8
+ngIP4I88uJvAuKZM3Jh6txfzjJc,14386448,Pseudo-Apollodoros Epitome 6.15b
+ngFM1F98rFsX0HWX4FO7rucagGT,14389019,Hekataios FGrHist 1 f84
+ngIP2E28uJPA5KZE7KR04xfdjIW,14389022,Hekataios FGrHist 1 f81
+ngQX3I08cSHIcSHI5Q185fnFrRE,14389030,Horace Od. 2.6
+ngVC0D98hViNgXMp4Wu70ksSwGJ,14389409,Timaeos of Tauromenion FGrHist 566 f12
+ngRY3J18dSeJcTIp6RA9egomsTF,14392631,Pausanias 4.23.7
+ngHO2D18tIuZtJYZ6Hg9uwegiIb,14455221,Dionysios of Halikarnassos Ant. Rom. 1.35.1
+ngIP2E28uJfAtKZc7Ih05xfBjIc,14455222,Antiochus of Syrakuse FGRHist 555 f5
+ngZG1V38lAwR8BQt8Zy17owEaKN,14774813,Athenaios Ath. 2.82
+ngAH1A48mBHS8CRI9BJ2mpxvbLO,14774814,Didymus Chalcenterus Ath. 2.82
+ngBI1F58nBITlDSJ0BU3lqamcCP,14774815,Eustathios Eust. 561 ll.
+ngCJ1U68oDJU8ETs1CV40rzxdNQ,14774816,"Aristotle fr. 574, Gigon; fr. 561, Rose"
+ngDK1D78pDKV2FUH2Ec58saEeDx,14774817,Plutarch Plut. Quaes. Gr. 15
+ngGN2G08sGXY3IXK5IZ82vdxhGa,14774820,"Aristotle fr. 561, Rose"
+ngIP2E28uKZA2KZU7KR0txfVjIW,14774822,"Herodianus π. μον. λεξ. 41, 24"
+ngJQ2F38vKQBwLAV8KS17ygWkJX,14774823,Hekataios FGrHist I F16
+ngKR2G48wLhCwMBS9LD2uzhLlKe,14774824,Homer Hom.Il. 2.527–535.
+ngMT2I68yNDEyODM1NV47bjlnMg,14774826,Schol. Hom. Od. Schol. Hom. Od. λ 326
+ngNU2J78zNUFxPEV2PG59ckKoNB,14774827,Pherekydes FGrHist I f170a
+ngOV2K88aOVG3QFW3PH6ydlHpPi,14774828,Schol. Hom. Od. 11.326
+ngPW2L98bPcHzRGP4RI73emoqPj,14774829,Pherekydes BNJ f170b
+ngQX3I08cSXI4SHC5QZ83fnlrRE,14774830,Pindar Pind.O. 9 40-79
+ngVC3Z58hXCN0XMV0XO39ksSwXJ,14774835,Polybius Plb. 12.5-6
+ngXE3B78jYkP2ZOT2XQ57muQyXr,14774837,Polybius Plb. 12.6b
+ngZG9x18lAQRkBQN6ZI96owSaZt,14774991,Polybius Plb. 12.9-11
+ngCJ9w48oETU7ETU9CL28rzHdDQ,14774994,Polybius Plb. 12.12a
+ngAH4E08mAxS1CRy5Bz8lpxFbAO,14775140,Pseudo-Hesiod F82
+ngSZ8q48eUZK6UJG9TB26hpXtUG,14775284,Stephanos of Byzantion s.v. Physkos
+ngYF1G28kAPQ4APG7AH02nvtzJM,14775712,Kallimachos Fr. 35
+ngZG1V38lAwR8BQt8ZI1lowuaKN,14775713,Schol. Hom. Il Σ AD Il. 13.66
+ngTA5B98fUgL9VKP4TM79iqQuTH,14775859,Lykophron Alexandra 1141-1174
+ngXE6F38jXkPiZOP8YQ1kmuMyXL,14775863,Kallimachos Fr. 35
+ngYF6G48kZPQkAPM9ZH2lnvNzZM,14775864,Schol. Lyc. Alexandria Σ ss3 Lyc. 1141
+ngAH6I68mAHS1CRS1CT46pxvbAO,14775866,Kallimachos Fr. 35
+ngAH9y28mARS5CRW7CT05pxTbAu,14783492,Strabo Strab 9.4.2
+ngCJ9w48oETU6ETw9D527rzZdEQ,14783494,Plutarch Plut. Arist. 20.6
+ngDK9x58pFKV8FUP0D63qsaueDx,14783495,Diodorus Siculus Diod. Sic. 14.82.8-9
+ngEL9y68qFbWrGVc1EX49tbRfES,14783496,Stephanos of Byzantion s.v. Naryx
+ngFM9z78rGsX7HWR2GY5sucKgHT,14783497,Euripides Eur. IA 253
+ngGN9a88sHXY8IXU3G96qvdVhIU,14783498,Pausanias Paus. 3.19.11-13
+ngHO9b98tIOZtJYD4Ig72weMiHV,14783499,Photios Bibliotheca 186/ BNJ 26 F1.3
+ngNU0F18zOUF3PEZ6Nm92ckKoNB,14783501,Konon BNJ 26 F1 (3)
+ngOV0G28aPlG5QFK7QX07dlXpPi,14783502,Photios Bibliotheca 186/ BNJ 26 F1 (18)
+ngPW0H38bPcH5RGD8RY1bemQqPj,14783503,Konon BNJ 26 F1 (18)
+ngQX0I48cRHI4SHQ9QJ29fnJrRk,14783504,Ovid Ov. Met. 14.466-474
+ngSZ0K68eSpK6UJW1T74ehpjtTm,14783506,Aeneas Tacticus Aen.Tact. 31.24
+ngEL1E88qEbW2GVE3Ed6otbNfFy,14783618,Homer Hom. Il. 18.324-342
+ngGN2G08sGXY3IXe5GP8tvdDhIU,14783620,Homer Hom. Il. 23.65-99
+ngTA8L58fTKLdVKF0UM36iqUuUp39,14786785,Homer Hom. Od. 4.495-511
+ngVC8t78hXMNiXMp2XE5fksqwXJ,14786787,Euripides Eur. Tro. 60-97
+ngZG9x18lAQRjBQH6A29mowyaZt,14786791,Hyginus Fab. 97
+ngIP4I88uIvA1KZA3JB6vxfdjJW,14786848,Hyginus Fab. 116
+ngTA5B98fUgL9VKj4UM79iqGuTH,14786859,Virgil Verg. A. 1.34
+ngZG6H58lZQR9BQt0Ay36owyaAt,14786865,Virgil Verg. A. 11.265
+ngHO7x38tIOZ6JYf8H417weEiJV,14786873,Virgil Verg. A. 3.399
+ngPW8B18bQcHbRGL6RI91emMqPD,14786881,Apollonios of Rhodes Ap. Rhod. Argonautica 69-76
+ngXE8v98jYuPhZOr4X071muUyXL,14786889,Strabo Strab. 9.4.7-9
+ngSZ0K68eSpK6UJW1Sr46hpFtUG,14786906,Aischines Aischin. 3 113
+ngVC0l98hVMNgXMl4XE73ksAwGJ,14786909,Pausanias Paus. 9.23.7
+ngZG1V38lAmR4BQV8Z41mowMaKN,14786913,Pausanias Paus. 10.38.1-3
+ngBI1F58nBoTlDSB0Ba39qamcCP,14786915,Pausanias Paus. 10.38.4-7
+ngGN2G08sGXY3IXe5HZ81vdxhGa,14786920,Pausanias Paus. 10.38.9-13
+ngHO2D18tIuZuJYf6Ig94weciIV,14786921,Strabo Strab. 9.5.7-8
+ngJQ2F38vKQB3LAB8LS1wygYkKX,14786923,Diodorus Siculus Diod. 4.39.1
+ngKR2G48wLhCwMBK9K52wzhLlLe,14786924,Pseudo-Apollodoros Apollod. 2.5.8
+ngLS2H58xLyDwNCL0LU3vaicmLf,14786925,Pseudo-Apollodoros Apollod. 3.13.8
+ngNU2J78zNUFxPEd2NW50ckOoOh,14786927,Orphic Argonautica Orph.Arg. 180-184
+ngOV2K88aOVG3QFC3OH63dljpQC,14786928,Orphic Argonautica Orph.Arg. 192
+ngPW2L98bPcHzRGL4QY74emEqQD,14786929,Ioannes Tzetzes Tz.Chil. 2.299
+ngQX3I08cSXI5SHE5R18bfnVrQE,14786930,Servius Serv. A. 3.399
+ngSZ3K28eTfK4UJG7Sr03hpLtTm,14786932,Aischines Aeschin. 1 143-149
+ngVC3Z58hXCN0XMt0Vu3iksuwVp,14786935,Ovid Ov. Pont. 1.3.49
+ngPW5B58bPWH8RGT0PI3zemUqQD,14787055,Stephanos of Byzantion s.v. Kalliaros
+ngSZ5E88eSJK9UJi3Tr68hprtTm,14787058,Hellanikos FGrHist 1  F13
+ngVC6D18hWCN1XMN6WE9hksEwVp,14787061,Stephanos of Byzantion s. v. Kanai
+ngUB0M88gULMfWLC3U962jrHvWI,14787108,Hyginus Hyg. Fab. 14.2
+ngVC0l98hVMNgXMl4XO79ksqwGJ,14787109,Servius Serv. A. 11.265
+ngAH1A48mBHS6CRI9AT2kpxFbLO,14787114,Suda s.v. Naryx
+ngJQ4J98vKAB2LAz4J079ygekJX,14787149,Pausanias Paus. 5.22.3-4
+ngNU7Z98zPUFzPEJ4NW70ckWoNh,14787179,Photios Ph. Bibl. 224.28.9
+ngOV8e08aOFGaQFm5QH8bdlBpPC,14787180,Memnon of Herakleia FGrHist III fr. T1-f1
+ngPW8B18bQcHbRGL6Q293emkqRD,14787181,Strabo Strab. 9.4.13
+ngIP2E28uKZA2KZc7JR0sxfVjKW,14790722,Pseudo-Hesiod Hes. Sh. 1 1-30
+ngPW5B58bPWH8RGP0Qo3cemMqPD,14790755,Pseudo-Apollodoros Apollod. Epit. e.3.11
+ngSZ5E88eSJK9UJi3Sr69hpLtTm,14790758,Pseudo-Apollodoros Apollod. Epit. e.6.20-22
+ngVC6D18hWCN1XMN6VO94ksIwVJ,14790761,Pseudo-Apollodoros Apollod. Epit. e.6.5ß

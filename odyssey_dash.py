@@ -16,7 +16,7 @@ app_title = ':amphora: Odyssey'
 app_subtitle = 'An exploratory tool for mythical journeys. For internal use by MigMag staff.'
 
 # Visualizations
-def display_map(journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, journj):
+def display_map(journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, journj):
     latitude = 38
     longitude = 25
 
@@ -40,6 +40,11 @@ def display_map(journ, agents, evid, places, range_min, range_max, hero_name, jo
     # sub-sets of the main df from those selections
     if journ_name:
         journ = journ[journ['Name'].isin(journ_name)]
+        # This is the only place I will comment on this, but it is repeated below
+        # We must reset the index religiously, or else the various search functions
+        # Fail to work together. And index remnant must be dropped, as after two
+        # layers, they get in the way of further column additions
+        journ = journ.reset_index(drop=True)
         text_display = True
     if hero_name:
         rows = []
@@ -47,13 +52,26 @@ def display_map(journ, agents, evid, places, range_min, range_max, hero_name, jo
             if [ele for ele in i if(ele in hero_name)]:
                 rows.append(row)
         journ = journ.loc[rows]
+        journ = journ.reset_index(drop=True)
         text_display = True
     if dest_name:
         journ = journ[journ['Place to'].isin(dest_name)]
+        journ = journ.reset_index(drop=True)
         text_display = True
     if port_name:
         journ = journ[journ['Place From'].isin(port_name)]
+        journ = journ.reset_index(drop=True)
         text_display = True
+    if trav_type:
+        rows = []
+        agents = agents[agents['Traveller Type'].isin(trav_type)]
+        agents = agents.reset_index(drop=True)
+        agent_list = agents['Name'].tolist()
+        for row, i in enumerate(journ['heroes']):
+            if [ele for ele in i if(ele in agent_list)]:
+                rows.append(row)
+        journ = journ.loc[rows]
+        journ = journ.reset_index(drop=True)
     if range_min > -1200:
         agents = agents.dropna(subset=['Earliest date'])
         # This is needed because someone snuck a few "0-1" into this column and it causes an error
@@ -207,6 +225,7 @@ def main():
     hero_name = ''
     agent_type = ''
     time_period = ''
+    traveller_type = ''
     # Categories for journeys
     journ_name = ''
     dest_name = ''
@@ -280,6 +299,9 @@ def main():
             output = json_search(data, string_value)
         return output
     
+    # Get all of the information you need from JSON files here to put into the skeletal dfs
+    # Starting with Traveller type
+
     # Create an agent searchbar
     journ['heroes'] = journ['Object ID'].apply(hero_grabber)
     hero_list = []
@@ -290,7 +312,7 @@ def main():
     hero_list = [x for x in hero_list if str(x) != 'nan']
     hero_list.sort()
     hero_list = ['All'] + hero_list
-    hero_selector = st.sidebar.multiselect("Select Hero", (hero_list))
+    hero_selector = st.sidebar.multiselect("Select Named Traveller(s)", (hero_list))
     hero_name = hero_selector
     if hero_selector == 'All':
         hero_name = ''
@@ -309,6 +331,8 @@ def main():
     journ_name = searchbar_maker(journ, 'Name', 'Selection Journey by Name')
     dest_name = searchbar_maker(journ, 'Place to', "Select Destination")
     port_name = searchbar_maker(journ,'Place From', "Select Port of Origin")
+    trav_type = searchbar_maker(agents, 'Traveller Type', 'Traveller Type')
+    # we remove 'author' as an option, as this will not be relevant
 
     # Create a time period searchbar
     period_list = ''
@@ -323,7 +347,7 @@ def main():
     # the bottom of the page. modjourn is a modified journ df that comes out of
     # the map, once filters are applied. text_display is a y/n switch that
     # tells the program whether to generate text for the subsection of journeys
-    odyssey_map, export, modjourn, text_display = display_map(journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, journj)
+    odyssey_map, export, modjourn, text_display = display_map(journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, journj)
 
 
 
