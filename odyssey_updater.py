@@ -280,8 +280,20 @@ for row, i in enumerate(journ['Place to - Object ID']):
 # Resetting the index created a column called "index". We drop it
 journ = journ.drop(columns=['index'])
 
+# We want to assign authors to all journeys
+# the list-set-list format at the start is to weed out doubled journeys (like Ionian migration)
+all_passages = []
+for i in journ['Object ID']:
+    passage_list = grabber(journj, str(i), '35524', 'object_definition_ref_object_id')
+    authors_in_this_journey = []
+    for i in passage_list:
+        authors_in_this_journey.append(grabber(evidj, str(i), '35557', 'object_definition_value'))
+    authors_in_this_journey = list(set(authors_in_this_journey))
+    all_passages.append(authors_in_this_journey)
+journ['Authors'] = all_passages
+
 journ.to_csv('mythjour.csv', index=False)
 evid.to_csv('textevid.csv', index=False)
 places.to_csv('places.csv', index=False)
-periods.to_csv('periods.csv', index=False)
+periods.to_csv('period.csv', index=False)
 agents.to_csv('agents.csv', index=False)

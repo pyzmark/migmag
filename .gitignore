@@ -8,6 +8,7 @@
 .odyssey_func.py.~undo-tree~
 .odyssey_updater.py.~undo-tree~
 .#odyssey_updater.py
+.#odyssey_func.py
 Pipfile
 Temp/
 __pycache__/

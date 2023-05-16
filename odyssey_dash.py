@@ -16,7 +16,7 @@ app_title = ':amphora: Odyssey'
 app_subtitle = 'An exploratory tool for mythical journeys. For internal use by MigMag staff.'
 
 # Visualizations
-def display_map(journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, journj):
+def display_map(journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, journj, agentsj, evidj):
     latitude = 38
     longitude = 25
 
@@ -72,17 +72,36 @@ def display_map(journ, agents, evid, places, range_min, range_max, hero_name, jo
                 rows.append(row)
         journ = journ.loc[rows]
         journ = journ.reset_index(drop=True)
-    if range_min > -1200:
-        agents = agents.dropna(subset=['Earliest date'])
+    if range_min > -1200 or range_max < 500:
+        authors = agents
         # This is needed because someone snuck a few "0-1" into this column and it causes an error
-        agents['Earliest date'] = agents['Earliest date'].replace('0-1',1)
-        agents['Earliest date'] = agents['Earliest date'].astype(int)
-        agents = agents[agents['Earliest date'] > range_min]
-    if range_max < 500 :
-        agents = agents.dropna(subset=['Latest date'])
-        agents['Latest date'] = agents['Latest date'].replace('0-1',1)
-        agents['Latest date'] = agents['Latest date'].astype(int)
-        agents = agents[agents['Latest date'] < range_max]
+        authors['Earliest'] = authors['Object ID'].map(lambda x: grabber(agentsj, x, '35536', 'object_definition_value'))
+        authors['Latest'] = authors['Object ID'].map(lambda x : grabber(agentsj, x, '35537', 'object_definition_value'))
+        authors = authors.dropna(subset=['Earliest','Latest'])
+        authors['Earliest'] = authors['Earliest'].replace('0-1',1)
+        authors['Latest'] = authors['Latest'].replace('0-1',1)
+        authors['Earliest'] = authors['Earliest'].astype(int)
+        authors['Latest'] = authors['Latest'].astype(int)
+        # We need a dictionary for authors/object_ids. We do this here, before filtering authors down
+        all_authors_names = list(authors['Name'])
+        all_authors_id = list(authors['Object ID'])
+        all_authors = dict(zip(all_authors_names,all_authors_id))
+        # Below is the filter portion of the process
+        authors = authors[authors['Earliest'] > range_min] 
+        authors = authors[authors['Latest'] < range_max]
+        # now that we have a list of relevant authors, we must turn the process around
+        # start from journeys, each of which points to a piece of evidence
+        # from evidence, find authors, whittle down to unique authors
+        # assign these to each journey --- compare the authors on journeys against your
+        # authors df... remove journeys that don't have a relevant author
+        # AND get rid of evidence in the text section that does not match the
+        # date range
+        rows = []
+        for row, i in enumerate(journ['Authors']):
+            if [ele for ele in i if(ele in list(authors['Name']))]:
+                rows.append(row)
+        journ = journ.loc[rows]
+        journ = journ.reset_index(drop=True)
 
     export = journ
 
@@ -183,6 +202,8 @@ def main():
     journ['Place From - Object ID'] = journ['Place From - Object ID'].astype(int)
     journ['Place From - Object ID'] = journ['Place From - Object ID'].astype(str)
     journ['Place to - Object ID'] = journ['Place to - Object ID'].astype(str)
+    # This is needed to make the Authors column readable as a list and not a literal
+    journ['Authors'] = journ.Authors.apply(lambda x: ast.literal_eval(str(x)))
     evid['Object ID'] = evid['Object ID'].astype(str)
     places['Object ID'] = places['Object ID'].astype(str)
 
@@ -291,14 +312,17 @@ def main():
     # This is a proposed "universal grabber" that would replace all of the above. It would be more efficient, but not as human-readable. I may implement it, meaning reworking function-calls that are basically isomorphic. But for now, diffing a hero grabber from a period grabber isn't terrible.
     global grabber
     def grabber(json, object_id, data_type, string_value):
-        data = json_search(json, object_id)
-        if data_type:
-            result = json_search(data, data_type)
-            output = result[string_value]
-        else:
-            output = json_search(data, string_value)
-        return output
-    
+        try:
+            data = json_search(json, object_id)
+            if data_type:
+                result = json_search(data, data_type)
+                output = result[string_value]
+            else:
+                output = json_search(data, string_value)
+        except:
+            output = float('NaN')
+        return output    
+
     # Get all of the information you need from JSON files here to put into the skeletal dfs
     # Starting with Traveller type
 
@@ -347,7 +371,7 @@ def main():
     # the bottom of the page. modjourn is a modified journ df that comes out of
     # the map, once filters are applied. text_display is a y/n switch that
     # tells the program whether to generate text for the subsection of journeys
-    odyssey_map, export, modjourn, text_display = display_map(journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, journj)
+    odyssey_map, export, modjourn, text_display = display_map(journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, journj, agentsj, evidj)
 
 
 

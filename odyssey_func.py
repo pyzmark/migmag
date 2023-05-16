@@ -30,12 +30,15 @@ def apicall(datatype,objectid):
 
 def json_search(data,target):
     for key, value in data.items():
-        if isinstance(value, dict):
-            json_search(value,target)
-        if key == target:
-            global final
-            final = value
-            break
+        try:
+            if isinstance(value, dict):
+                json_search(value,target)
+            if key == target:
+                global final
+                final = value
+                break
+        except:
+            final = float(NaN)
     return final
 # This is needed for the json_search() function. Variable has to be present before
 # the function is used.
