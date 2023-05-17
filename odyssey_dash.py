@@ -405,12 +405,12 @@ def main():
                 # Some problems with failures when JSON querying something that doesn't exist
                 # So the check helps
                 try:
-                    evidence = grabber(journj, i, '35524', 'object_definition_ref_object_id')
+                    evidence = grabber(journj, str(i), '35524', 'object_definition_ref_object_id')
                     for number, y in enumerate(evidence):
-                        author = grabber(evidj, str(y), '35557', 'object_definition_value')
-                        title = grabber(evidj, str(y), '36999', 'object_definition_value')
-                        greek = grabber(evidj, str(y), '37023', 'object_definition_value')
-                        english = grabber(evidj, str(y), '37024', 'object_definition_value')
+                        author = str(grabber(evidj, str(y), '35557', 'object_definition_value'))
+                        title = str(grabber(evidj, str(y), '36999', 'object_definition_value'))
+                        greek = str(grabber(evidj, str(y), '37023', 'object_definition_value'))
+                        english = str(grabber(evidj, str(y), '37024', 'object_definition_value'))
                         number2 = str(number+1)
                         if len(greek) > 5:
                             markdown = f"""
@@ -434,6 +434,8 @@ def main():
                 except:
                     #number = number-1
                     journey_names.append(journey_name)
+                    st.write(journey_names)
+                    st.write("Something isn't WORKING")
                     continue
             else:
                 continue
@@ -441,7 +443,7 @@ def main():
 
     if text_display:
         markdown = text_maker(list(modjourn['Object ID']))
-        st.markdown(markdown)
+        st.write(markdown)
     
 
     # The following generate a data dump button
