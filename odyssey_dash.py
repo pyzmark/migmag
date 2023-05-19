@@ -64,11 +64,8 @@ def display_map(authors, journ, agents, evid, places, range_min, range_max, hero
         text_display = True
     if trav_type:
         rows = []
-        agents = agents[agents['Traveller Type'].isin(trav_type)]
-        agents = agents.reset_index(drop=True)
-        agent_list = agents['Name'].tolist()
-        for row, i in enumerate(journ['heroes']):
-            if [ele for ele in i if(ele in agent_list)]:
+        for row, i in enumerate(journ['Traveller_Types']):
+            if [ele for ele in i if(ele in trav_type)]:
                 rows.append(row)
         journ = journ.loc[rows]
         journ = journ.reset_index(drop=True)
@@ -351,6 +348,15 @@ def main():
     if hero_selector == 'All':
         hero_name = ''
 
+    # We need to make a list of traveller types to feed to the traveller type searchbar
+    traveller_types = []
+    journ['Traveller_Types'] = journ.Traveller_Types.apply(lambda x: ast.literal_eval(str(x)))
+    for i in journ['Traveller_Types']:
+        for y in i:
+            traveller_types.append(y)
+    traveller_types = list(set(traveller_types))
+    trav_type = st.sidebar.multiselect("Traveller Type", (traveller_types))
+
     def searchbar_maker(df, col, title):
         list_name = list(df[col].unique())
         list_name = [x for x in list_name if str(x) != 'nan']
@@ -365,7 +371,6 @@ def main():
     journ_name = searchbar_maker(journ, 'Name', 'Selection Journey by Name')
     dest_name = searchbar_maker(journ, 'Place to', "Select Destination")
     port_name = searchbar_maker(journ,'Place From', "Select Port of Origin")
-    trav_type = searchbar_maker(agents, 'Traveller Type', 'Traveller Type')
     author_name = searchbar_maker(authors, 'Name', 'Author(s) of Evidence for Journeys')
     # we remove 'author' as an option, as this will not be relevant
 
