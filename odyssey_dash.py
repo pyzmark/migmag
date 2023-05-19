@@ -16,7 +16,7 @@ app_title = ':amphora: Odyssey'
 app_subtitle = 'An exploratory tool for mythical journeys. For internal use by MigMag staff.'
 
 # Visualizations
-def display_map(journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, journj, agentsj, evidj):
+def display_map(authors, journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, author_name, journj, agentsj, evidj):
     latitude = 38
     longitude = 25
 
@@ -73,19 +73,6 @@ def display_map(journ, agents, evid, places, range_min, range_max, hero_name, jo
         journ = journ.loc[rows]
         journ = journ.reset_index(drop=True)
     if range_min > -1200 or range_max < 500:
-        authors = agents
-        # This is needed because someone snuck a few "0-1" into this column and it causes an error
-        authors['Earliest'] = authors['Object ID'].map(lambda x: grabber(agentsj, x, '35536', 'object_definition_value'))
-        authors['Latest'] = authors['Object ID'].map(lambda x : grabber(agentsj, x, '35537', 'object_definition_value'))
-        authors = authors.dropna(subset=['Earliest','Latest'])
-        authors['Earliest'] = authors['Earliest'].replace('0-1',1)
-        authors['Latest'] = authors['Latest'].replace('0-1',1)
-        authors['Earliest'] = authors['Earliest'].astype(int)
-        authors['Latest'] = authors['Latest'].astype(int)
-        # We need a dictionary for authors/object_ids. We do this here, before filtering authors down
-        all_authors_names = list(authors['Name'])
-        all_authors_id = list(authors['Object ID'])
-        all_authors = dict(zip(all_authors_names,all_authors_id))
         # Below is the filter portion of the process
         authors = authors[authors['Earliest'] > range_min] 
         authors = authors[authors['Latest'] < range_max]
@@ -102,6 +89,16 @@ def display_map(journ, agents, evid, places, range_min, range_max, hero_name, jo
                 rows.append(row)
         journ = journ.loc[rows]
         journ = journ.reset_index(drop=True)
+    if author_name:
+        authors = authors[authors['Name'].isin(author_name)]
+        rows = []
+        for row, i in enumerate(journ['Authors']):
+            if [ele for ele in i if(ele in list(authors['Name']))]:
+                rows.append(row)
+        journ = journ.loc[rows]
+        journ = journ.reset_index(drop=True)
+        text_display = True
+
 
     export = journ
 
@@ -223,6 +220,7 @@ def main():
     with open('evid.json', 'r') as f:
         evidj = json.load(f)
 
+
     # Create basic visual elements
     st.set_page_config('Odyssey (MigMag)', page_icon='amphora', layout='wide')
     st.title(app_title)
@@ -323,8 +321,20 @@ def main():
             output = float('NaN')
         return output    
 
-    # Get all of the information you need from JSON files here to put into the skeletal dfs
-    # Starting with Traveller type
+    # We need to separate out the authors from travellers, should be done here and passed into map function
+    authors = agents
+    # This is needed because someone snuck a few "0-1" into this column and it causes an error
+    authors['Earliest'] = authors['Object ID'].map(lambda x: grabber(agentsj, x, '35536', 'object_definition_value'))
+    authors['Latest'] = authors['Object ID'].map(lambda x : grabber(agentsj, x, '35537', 'object_definition_value'))
+    authors = authors.dropna(subset=['Earliest','Latest'])
+    authors['Earliest'] = authors['Earliest'].replace('0-1',1)
+    authors['Latest'] = authors['Latest'].replace('0-1',1)
+    authors['Earliest'] = authors['Earliest'].astype(int)
+    authors['Latest'] = authors['Latest'].astype(int)
+    # We need a dictionary for authors/object_ids. We do this here, before filtering authors down
+    all_authors_names = list(authors['Name'])
+    all_authors_id = list(authors['Object ID'])
+    all_authors = dict(zip(all_authors_names,all_authors_id))
 
     # Create an agent searchbar
     journ['heroes'] = journ['Object ID'].apply(hero_grabber)
@@ -356,6 +366,7 @@ def main():
     dest_name = searchbar_maker(journ, 'Place to', "Select Destination")
     port_name = searchbar_maker(journ,'Place From', "Select Port of Origin")
     trav_type = searchbar_maker(agents, 'Traveller Type', 'Traveller Type')
+    author_name = searchbar_maker(authors, 'Name', 'Author(s) of Evidence for Journeys')
     # we remove 'author' as an option, as this will not be relevant
 
     # Create a time period searchbar
@@ -371,12 +382,11 @@ def main():
     # the bottom of the page. modjourn is a modified journ df that comes out of
     # the map, once filters are applied. text_display is a y/n switch that
     # tells the program whether to generate text for the subsection of journeys
-    odyssey_map, export, modjourn, text_display = display_map(journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, journj, agentsj, evidj)
+    odyssey_map, export, modjourn, text_display = display_map(authors, journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, author_name, journj, agentsj, evidj)
 
 
 
     # This begins the mapping function
-    #odyssey = display_map(journ, agents, evid, places, range_min, range_max, hero_name, journ_name, journj)
     st_data = st_folium(odyssey_map, width=950, height=450)
 
 # This function builds the markdown text evidence below the map.
@@ -423,9 +433,10 @@ def main():
 
                         """
                         else:
-                            markdown = """
+                            markdown = f"""
 
-#### No text available for this journey
+#### {number2}. {author} - {title}
+This text is unavailable.
 
                         """
                         sub_total_text = ' '.join((sub_total_text, markdown))
