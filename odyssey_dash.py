@@ -16,7 +16,7 @@ app_title = ':amphora: Odyssey'
 app_subtitle = 'An exploratory tool for mythical journeys. For internal use by MigMag staff.'
 
 # Visualizations
-def display_map(authors, journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, author_name, journj, agentsj, evidj, mode_move):
+def display_map(authors, journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, author_name, journj, agentsj, evidj, mode_move, time_period):
     latitude = 38
     longitude = 25
 
@@ -101,6 +101,9 @@ def display_map(authors, journ, agents, evid, places, range_min, range_max, hero
             if [ele for ele in i if(ele in mode_move)]:
                 rows.append(row)
         journ = journ.loc[rows]
+        journ = journ.reset_index(drop=True)
+    if time_period:
+        journ = journ[journ['Time Period'].isin(time_period)]
         journ = journ.reset_index(drop=True)
 
 
@@ -244,27 +247,6 @@ def main():
             </style>
             """, unsafe_allow_html=True)
 
-    # These are placeholders for filter selections. 
-    # Categories for agents
-    hero_name = ''
-    agent_type = ''
-    time_period = ''
-    traveller_type = ''
-    # Categories for journeys
-    journ_name = ''
-    dest_name = ''
-    place_from = ''
-    place_to = ''
-    story_type = ''
-    movement_mode = ''
-    traveller_type = ''
-    # Categories for evidence
-    evid_name = ''
-    evid_author = ''
-    # Categories for places
-    # This does not seem like a profitable search tab, so I leave this empty for now
-
-
     # Some general use functions that are deployed in the map-making and graph-making functions.
     global hero_grabber
     def hero_grabber(journey_id):
@@ -301,16 +283,6 @@ def main():
         pf_geo = geo_grabber(pf_id)
         pt_geo = geo_grabber(pt_id)
         return name, pf_geo, pt_geo
-
-    global period_grabber
-    def period_grabber(agent_id):
-        data = json_search(agentsj, agent_id)
-        # The below is meant to drill down to data object 33543, which is typically where heroic participants
-        # live in the JSON code. Once you find that, you can 
-        results = json_search(data, '35556')
-    #    hero_ids = results['object_definition_ref_object_id']
-        period = results['object_definition_value']
-        return period
 
     # This is a proposed "universal grabber" that would replace all of the above. It would be more efficient, but not as human-readable. I may implement it, meaning reworking function-calls that are basically isomorphic. But for now, diffing a hero grabber from a period grabber isn't terrible.
     global grabber
@@ -378,8 +350,9 @@ def main():
         return name
 
     journ_name = searchbar_maker(journ, 'Name', 'Selection Journey by Name')
-    dest_name = searchbar_maker(journ, 'Place to', "Select Destination")
-    port_name = searchbar_maker(journ,'Place From', "Select Port of Origin")
+    dest_name = searchbar_maker(journ, 'Place to', 'Select Destination')
+    port_name = searchbar_maker(journ,'Place From', 'Select Port of Origin')
+    time_period = searchbar_maker(journ, 'Time Period', 'Mythical Time Period (Travellers)')
     author_name = searchbar_maker(authors, 'Name', 'Author(s) of Evidence for Journeys')
     #from_region = searchbar_maker(places, 'Region', 'From Region')
     #to_region = searchbar_maker(places, 'Region', 'To Region')
@@ -393,10 +366,6 @@ def main():
     move_list = list(set(move_list))
     mode_move = st.sidebar.multiselect("Type of Movement", (move_list))
 
-
-    # Create a time period searchbar
-    period_list = ''
-
     # Create the date slider
     slider_range = st.sidebar.slider("Author Date Range (Not Relevant to Heroes)", -1200, 500, (-1200,500))
     range_min = slider_range[0]
@@ -407,9 +376,7 @@ def main():
     # the bottom of the page. modjourn is a modified journ df that comes out of
     # the map, once filters are applied. text_display is a y/n switch that
     # tells the program whether to generate text for the subsection of journeys
-    odyssey_map, export, modjourn, text_display = display_map(authors, journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, author_name, journj, agentsj, evidj, mode_move)
-
-
+    odyssey_map, export, modjourn, text_display = display_map(authors, journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, author_name, journj, agentsj, evidj, mode_move, time_period)
 
     # This begins the mapping function
     st_data = st_folium(odyssey_map, width=950, height=450)

@@ -207,7 +207,9 @@ journ = pd.DataFrame(columns=['nodegoat ID',
                                   'Place From - Object ID', 
                                   'Place to', 
                                   'Place to - Object ID',
-                                  'Traveller_Types'])
+                                  'Traveller Types',
+                                  'Movement Type',
+                              'Time Period'])
 
 # Fill df. This was the most complicated one as the last four columns might
 # have multiple entries in lists. These have to be disentangled as separate rows
@@ -217,6 +219,7 @@ for i in journeys:
     name = grabber(journj, i, None, 'object_name')
     traveller_types = grabber(journj, i, '35542', 'object_definition_value')
     mode_move = grabber(journj, i, '35518', 'object_definition_value')
+    time_period = grabber(journj, i, '35555', 'object_definition_value')
     # Apparently this too can be multiple...
     
     place_from = grabber(journj, i, '35546', 'object_definition_value')
@@ -226,14 +229,14 @@ for i in journeys:
     place_to_id = grabber(journj, i, '35547', 'object_definition_ref_object_id')
     if len(place_from) > 1:
         for i in range(len(place_from)):
-            new_row = [nodegoat_id, object_id, name, place_from[i], place_from_id[i], place_to, place_to_id, traveller_types, mode_move]
+            new_row = [nodegoat_id, object_id, name, place_from[i], place_from_id[i], place_to, place_to_id, traveller_types, mode_move, time_period]
             journ.loc[len(journ)] = new_row
     if len(place_to) > 1:
         for i in range(len(place_to)):
-            new_row = [nodegoat_id, object_id, name, place_from, place_from_id, place_to[i], place_to_id[i], traveller_types, mode_move]
+            new_row = [nodegoat_id, object_id, name, place_from, place_from_id, place_to[i], place_to_id[i], traveller_types, mode_move, time_period]
             journ.loc[len(journ)] = new_row
     else:
-        new_row = [nodegoat_id, object_id, name, place_from, place_from_id, place_to, place_to_id, traveller_types, mode_move]
+        new_row = [nodegoat_id, object_id, name, place_from, place_from_id, place_to, place_to_id, traveller_types, mode_move, time_period]
         journ.loc[len(journ)] = new_row
 
 # This is required in order to get rid of remaining multi-item lists
