@@ -313,6 +313,13 @@ def main():
     all_authors_id = list(authors['Object ID'])
     all_authors = dict(zip(all_authors_names,all_authors_id))
 
+    # This is an explainer of the ** emoji, which signals the selectors that will produce text
+    with st.sidebar:
+        with st.expander("What are the asterisks (**) doing?"):
+            st.write(":ghost: :red[Certain filters] do not produce text on their own, because they are sufficiently general to produce an :red[overwhelming amount of it.] Use filters marked :red[**] if you wish to see text.")
+
+
+
     # Create an agent searchbar
     journ['heroes'] = journ['Object ID'].apply(hero_grabber)
     hero_list = []
@@ -323,7 +330,7 @@ def main():
     hero_list = [x for x in hero_list if str(x) != 'nan']
     hero_list.sort()
     hero_list = ['All'] + hero_list
-    hero_selector = st.sidebar.multiselect("Select Named Traveller(s)", (hero_list))
+    hero_selector = st.sidebar.multiselect("Select Named Traveller(s) **", (hero_list))
     hero_name = hero_selector
     if hero_selector == 'All':
         hero_name = ''
@@ -349,11 +356,11 @@ def main():
             name = ''
         return name
 
-    journ_name = searchbar_maker(journ, 'Name', 'Selection Journey by Name')
-    dest_name = searchbar_maker(journ, 'Place to', 'Select Destination')
-    port_name = searchbar_maker(journ,'Place From', 'Select Port of Origin')
+    journ_name = searchbar_maker(journ, 'Name', 'Selection Journey by Name **')
+    dest_name = searchbar_maker(journ, 'Place to', 'Select Destination **')
+    port_name = searchbar_maker(journ,'Place From', 'Select Port of Origin **')
     time_period = searchbar_maker(journ, 'Time Period', 'Mythical Time Period (Travellers)')
-    author_name = searchbar_maker(authors, 'Name', 'Author(s) of Evidence for Journeys')
+    author_name = searchbar_maker(authors, 'Name', 'Author(s) of Evidence for Journeys **')
     #from_region = searchbar_maker(places, 'Region', 'From Region')
     #to_region = searchbar_maker(places, 'Region', 'To Region')
     # we remove 'author' as an option, as this will not be relevant
