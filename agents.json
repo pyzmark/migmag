@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2023-05-12T21:26:05+00:00",
+    "timestamp": "2023-05-19T20:17:01+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -20347,7 +20347,7 @@
                             13550693
                         ],
                         "object_definition_value": [
-                            "Olba - Diocaesarea"
+                            "Diocaesarea"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []

@@ -122,6 +122,7 @@ for i in data['objects']:
 places = pd.DataFrame(columns=['nodegoat ID', 
                                   'Object ID', 
                                   'Name',
+                               'Region',
                                '[GPS Location] Geometry'])
 # Fill df
 for i in placeslist:
@@ -129,8 +130,9 @@ for i in placeslist:
     nodegoat_id = grabber(placesj, i, None, 'nodegoat_id')
     name = grabber(placesj, i, None, 'object_name')
     geometry = grabber(placesj, i, None, 'object_sub_location_geometry')
+    region = grabber(placesj, i, '37737', 'object_definition_value')
     # Apparently this too can be multiple...
-    new_row = [nodegoat_id, object_id, name, geometry]
+    new_row = [nodegoat_id, object_id, name, region, geometry]
     places.loc[len(places)] = new_row
 
 ### Get a list of periods from JSON
@@ -214,6 +216,7 @@ for i in journeys:
     nodegoat_id = grabber(journj, i, None, 'nodegoat_id')
     name = grabber(journj, i, None, 'object_name')
     traveller_types = grabber(journj, i, '35542', 'object_definition_value')
+    mode_move = grabber(journj, i, '35518', 'object_definition_value')
     # Apparently this too can be multiple...
     
     place_from = grabber(journj, i, '35546', 'object_definition_value')
@@ -223,14 +226,14 @@ for i in journeys:
     place_to_id = grabber(journj, i, '35547', 'object_definition_ref_object_id')
     if len(place_from) > 1:
         for i in range(len(place_from)):
-            new_row = [nodegoat_id, object_id, name, place_from[i], place_from_id[i], place_to, place_to_id, traveller_types]
+            new_row = [nodegoat_id, object_id, name, place_from[i], place_from_id[i], place_to, place_to_id, traveller_types, mode_move]
             journ.loc[len(journ)] = new_row
     if len(place_to) > 1:
         for i in range(len(place_to)):
-            new_row = [nodegoat_id, object_id, name, place_from, place_from_id, place_to[i], place_to_id[i], traveller_types]
+            new_row = [nodegoat_id, object_id, name, place_from, place_from_id, place_to[i], place_to_id[i], traveller_types, mode_move]
             journ.loc[len(journ)] = new_row
     else:
-        new_row = [nodegoat_id, object_id, name, place_from, place_from_id, place_to, place_to_id, traveller_types]
+        new_row = [nodegoat_id, object_id, name, place_from, place_from_id, place_to, place_to_id, traveller_types, mode_move]
         journ.loc[len(journ)] = new_row
 
 # This is required in order to get rid of remaining multi-item lists

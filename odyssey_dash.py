@@ -16,7 +16,7 @@ app_title = ':amphora: Odyssey'
 app_subtitle = 'An exploratory tool for mythical journeys. For internal use by MigMag staff.'
 
 # Visualizations
-def display_map(authors, journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, author_name, journj, agentsj, evidj):
+def display_map(authors, journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, author_name, journj, agentsj, evidj, mode_move):
     latitude = 38
     longitude = 25
 
@@ -64,7 +64,7 @@ def display_map(authors, journ, agents, evid, places, range_min, range_max, hero
         text_display = True
     if trav_type:
         rows = []
-        for row, i in enumerate(journ['Traveller_Types']):
+        for row, i in enumerate(journ['Traveller Types']):
             if [ele for ele in i if(ele in trav_type)]:
                 rows.append(row)
         journ = journ.loc[rows]
@@ -95,6 +95,14 @@ def display_map(authors, journ, agents, evid, places, range_min, range_max, hero
         journ = journ.loc[rows]
         journ = journ.reset_index(drop=True)
         text_display = True
+    if mode_move:
+        rows = []
+        for row, i in enumerate(journ['Movement Type']):
+            if [ele for ele in i if(ele in mode_move)]:
+                rows.append(row)
+        journ = journ.loc[rows]
+        journ = journ.reset_index(drop=True)
+
 
 
     export = journ
@@ -350,12 +358,13 @@ def main():
 
     # We need to make a list of traveller types to feed to the traveller type searchbar
     traveller_types = []
-    journ['Traveller_Types'] = journ.Traveller_Types.apply(lambda x: ast.literal_eval(str(x)))
-    for i in journ['Traveller_Types']:
+    journ['Traveller Types'] = journ['Traveller Types'].apply(lambda x: ast.literal_eval(str(x)))
+    for i in journ['Traveller Types']:
         for y in i:
             traveller_types.append(y)
     traveller_types = list(set(traveller_types))
     trav_type = st.sidebar.multiselect("Traveller Type", (traveller_types))
+
 
     def searchbar_maker(df, col, title):
         list_name = list(df[col].unique())
@@ -372,7 +381,18 @@ def main():
     dest_name = searchbar_maker(journ, 'Place to', "Select Destination")
     port_name = searchbar_maker(journ,'Place From', "Select Port of Origin")
     author_name = searchbar_maker(authors, 'Name', 'Author(s) of Evidence for Journeys')
+    #from_region = searchbar_maker(places, 'Region', 'From Region')
+    #to_region = searchbar_maker(places, 'Region', 'To Region')
     # we remove 'author' as an option, as this will not be relevant
+    # Make a list of movement types for searchbar. This requires same method as above bcs it is list of lists
+    move_list = []
+    journ['Movement Type'] = journ['Movement Type'].apply(lambda x: ast.literal_eval(str(x)))
+    for i in journ['Movement Type']:
+        for y in i:
+            move_list.append(y)
+    move_list = list(set(move_list))
+    mode_move = st.sidebar.multiselect("Type of Movement", (move_list))
+
 
     # Create a time period searchbar
     period_list = ''
@@ -387,7 +407,7 @@ def main():
     # the bottom of the page. modjourn is a modified journ df that comes out of
     # the map, once filters are applied. text_display is a y/n switch that
     # tells the program whether to generate text for the subsection of journeys
-    odyssey_map, export, modjourn, text_display = display_map(authors, journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, author_name, journj, agentsj, evidj)
+    odyssey_map, export, modjourn, text_display = display_map(authors, journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, author_name, journj, agentsj, evidj, mode_move)
 
 
 
