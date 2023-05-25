@@ -25,10 +25,11 @@ def display_map(authors, journ, agents, evid, places, range_min, range_max, hero
     odyssey_map = folium.Map(
         location=[latitude, longitude], 
         zoom_start=4, 
-        tiles='https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',
-        attr = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
-        )
+        tiles=None)
 
+    folium.TileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', name='Carto DB - Dark', attr = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>').add_to(odyssey_map)
+
+    folium.TileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}', name='ESRI - World Shader Relief - Light', attr='Tiles &copy; Esri &mdash; Source: Esri').add_to(odyssey_map)
     # This controls whether or not a text_display field is generated in the main function
     # If no journies have been selected in search boxes (see if statemenes below),
     # then that st field will be blank.
@@ -109,10 +110,11 @@ def display_map(authors, journ, agents, evid, places, range_min, range_max, hero
 
 
     export = journ
+    author_export = authors
 
 
     def marker_maker(opacity, fill_opacity, weight, popup, journey_label, pointa_label, pointb_label):
-            sign =  folium.map.FeatureGroup(show=True) 
+            sign =  folium.map.FeatureGroup(show=True, control=False) 
             sign.add_child(
                 folium.PolyLine(path,
                         color='white',
@@ -188,7 +190,7 @@ def display_map(authors, journ, agents, evid, places, range_min, range_max, hero
             continue
 
         journ['Object ID'] = journ['Object ID'].astype(str)
-    return odyssey_map, export, journ, text_display
+    return odyssey_map, export, journ, text_display, author_export
 
 def main():
     # Load Data
@@ -314,7 +316,7 @@ def main():
     all_authors = dict(zip(all_authors_names,all_authors_id))
 
     # This is needed for the searchbars with a scroll
-    tooltip = "Certain filters do not produce text on their own, because they are sufficiently general that they produce an :red[overwhelming amount of it.] Use filters marked :memo: if you wish to generate texts below the map."
+    tooltip = "Certain filters do not generate text on their own (so you won't see it below the map), because they are sufficiently general that they produce an :red[overwhelming amount of it.] Use filters marked :memo: if you wish to generate texts below the map."
 
     # Create an agent searchbar
     journ['heroes'] = journ['Object ID'].apply(hero_grabber)
@@ -379,8 +381,10 @@ def main():
     # the bottom of the page. modjourn is a modified journ df that comes out of
     # the map, once filters are applied. text_display is a y/n switch that
     # tells the program whether to generate text for the subsection of journeys
-    odyssey_map, export, modjourn, text_display = display_map(authors, journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, author_name, journj, agentsj, evidj, mode_move, time_period)
+    odyssey_map, export, modjourn, text_display, author_export = display_map(authors, journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, author_name, journj, agentsj, evidj, mode_move, time_period)
 
+
+    folium.LayerControl().add_to(odyssey_map)
     # This begins the mapping function
     st_data = st_folium(odyssey_map, width=950, height=450)
 
@@ -417,7 +421,7 @@ def main():
                         greek = str(grabber(evidj, str(y), '37023', 'object_definition_value'))
                         english = str(grabber(evidj, str(y), '37024', 'object_definition_value'))
                         number2 = str(number+1)
-                        if len(greek) > 5:
+                        if author in list(author_export['Name']):
                             markdown = f"""
 
 #### {number2}. {author} - {title}
@@ -427,13 +431,15 @@ def main():
 *{greek}*
 
                         """
+                        elif author not in list(author_export['Name']):
+                                continue
                         else:
                             markdown = f"""
 
 #### {number2}. {author} - {title}
-This text is unavailable.
-
+There is no text to show here.
                         """
+                            st.write(author, author_export)
                         sub_total_text = ' '.join((sub_total_text, markdown))
                     total_text = ' '.join((total_text,sub_total_text))
                     journey_names.append(journey_name)
