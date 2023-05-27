@@ -1,253 +1,268 @@
-nodegoat ID,Object ID,Name,Traveller Type
-ngZG9x18lAmRmAmR1ZS93owEaZN,11945191,Herodotos,Author
-ngAH9u28mBnS7Bnq2Az0npxPbBO,12035292,Theseus,Traveller: mythical
-ngHO9b98tJYZtIuZ9JQ73weMiIV,12042299,Homer,Author
-ngSZ0K68eTZK6TfW6UL49hpHtSG,12042306,Ion of Chios,Author
-ngVC0Z98hVMNhWip9VE73ksAwGJ,12042309,Nikander of Kolophon,Author
-ngGN7a28sGNY7HtO2GP0tvdLhGU,12042372,Olympichos,Author
-ngIP7y48uKPA9JvW4KB25xfVjJW,12042374,Panyassis,Author
-ngOV8e08aObG4PbS0PH83dlBpPC,12042380,Xenophanes of Kolophon,Author
-ngQX8g28cQnI6Rdk2Q30afnDrQE,12042382,Thucydides,Author
-ngVC6D18hVCN4WiV1VO9gksmwWp,12150561,Ailianos,Author
-ngWD6E28iWNO3XjS2X307ltrxYK,12150562,Aelius Aristeides,Author
-ngXE6F38jYkP7YkT3ZQ14muUyXL,12150563,Agias,Author
-ngYF6G48kZvQ8ZlU4Yx2lnvpzYs,12150564,Alkidamas,Author
-ngZG6H58lAGR7AmV5ZS3jowEaBN,12150565,Alexander of Aetolia,Author
-ngAH6I68mBRS7BnA6Bz4kpxrbBu,12150566,Ammianus Marcellinus,Author
-ngBI6r78nDST0CoN7BK5oqyCcCv,12150567,Anakreon,Author
-ngCJ6s88oDpU0Dpw8EL60rzPdCQ,12150568,Harpokration,Author
-ngDK6t98pEqV9Eqt9DW79saEeDx,12150569,Hekataios,Author
-ngEL7u08qFbW1FrW0E18rtbRfFS,12150570,Hegesippus,Author
-ngIP7c48uIZA6JvW4I525xfBjJc,12150574,Herodotos,Author
-ngJQ7z58vJAB0KwR5JC37ygikKd,12150575,Heropythos,Author
-ngKR7W68wMRC0LxW6K74uzhTlKe,12150576,Hesychios,Author
-ngMT7Y88yNzE2NzU8MF61bjdnMg,12150578,Homeric Hymns,Author
-ngNU7d98zOUFxOaN9O07yckAoNB,12150579,Hyginus,Author
-ngOV8e08aObG5PbW0O18zdljpQC,12150580,Iamblichos,Author
-ngQX8g28cQnI5Rdo2Q30cfnprQk,12150582,Isokrates,Author
-ngRY8h38dRYJ6SeF3SA1dgoWsRF,12150583,Kadmos,Author
-ngTA8r58fUKL9UgF5Ts39iqouTH,12150585,Konon,Author
-ngUB8s68gUhM8VhY6VN4gjrlvVo,12150586,Kreophylos,Author
-ngVC8t78hVsN9WiV7XO5gksWwWp,12150587,Kritias,Author
-ngWD8u88iYDO3XjE8XP63ltBxYK,12150588,Libanios,Author
-ngXE8v98jZOP2YkF9Xw72muUyXL,12150589,Lykourgos,Author
-ngYF9w08kZlQ2ZlK0AR83nvLzZM,12150590,Malakos,Author
-ngZG9x18lAwR4AmV1BS9kowMaBN,12150591,Maximus of Tyre,Author
-ngAH9u28mBnSkBnq2AJ0npxPbCO,12150592,Menekrates of Elea,Author
-ngBI9v38nCIT8Cov3B415qyUcCv,12150593,Menodotos,Author
-ngCJ9w48oDJUmDpG4D52mrzbdCw,12150594,Metrodoros,Author
-ngDK9x58pDqV0Eqt5EM36saAeFR,12150595,Mimnermos,Author
-ngEL9c68qEbWpFrc6E741tbNfFy,12150596,Nearchos,Author
-ngGN9e88sGXYrHtY8Hf6rvdVhIU,12150598,Nikolaos of Damaskos,Author
-ngHO9b98tJYZ4IuV9HQ70weUiHV,12150599,Nonnus,Author
-ngNU0F18zNUF6OaN1NW9ackioPB,12150601,Oppianos,Author
-ngOV0G28aOFG7Pbm2OH04dlLpPC,12150602,Ovid,Author
-ngQX0k48cRdIaRdE4Q52bfnNrBE,12150604,Parthenios,Author
-ngRY0J58dSoJbSeN5RA35goWsSF,12150605,Pausanias,Author
-ngSZ0K68eTZKcTfK6TB4ehpntSG,12150606,Phanodikos,Author
-ngTA0L78fTgL0Ugr7Us58iqYuTH,12150607,Pherekydes,Author
-ngUB0M88gUrM1VhQ8VN63jrpvVI,12150608,Philiskos of Miletos,Author
-ngVC0V98hViN4WiD9WE74ksIwGJ,12150609,Philostephanos,Author
-ngWD1S08iWjOhXjO0X180ltBxHK,12150610,Philostratos,Author
-ngXE1P18jXEPhYkv1X296muKyIL,12150611,Pindar,Author
-ngYF1Q28kYPQlZlU2YR06nxjzYC,12150612,Plato,Author
-ngZG1p38lAQRlAmN3Zy15owOaKN,12150613,Pliny the Elder,Author
-ngAH1q48mAxS5BnO4AT29pxNbLO,12150614,Plutarch,Author
-ngBI1N58nBIT9CoX5Ca3lqyGcMP,12150615,Polyainos,Author
-ngCJ1K68oCzU6DpU6EV48rzHdNQ,12150616,Polybius,Author
-ngDK1Z78pFKVqEqV7FM50saueDx,12150617,Pomponius Mela,Author
-ngEL1A88qGVWoFrM8EN63tbFfFy,12150618,Pseudo-Hesiod,Author
-ngFM1B98rGsXqGsX9GO7sucYgGz,12150619,Pseudo-Apollodoros,Author
-ngGN2C08sHdYqHtC0H18tvdbhHU,12150620,Pseudo-Herodotos,Author
-ngHO2H18tHuZtIuZ1H292weyiHb,12150621,Pseudo-Plutarch,Author
-ngIP2I28uIfAtJvM2Ih0sxfJjIc,12150622,Quintus Smyrnaeus,Author
-ngJQ2J38vJQBuKwJ3KS16ygakJd,12150623,Schol. Apol. Rhod.,Author
-ngKR2G48wMRC9LxG4KT2vzhblLe,12150624,Schol. Arat. Phaen.,Author
-ngLS2H58xLCD5MyX5LU3vaiAmMZ,12150625,Schol. Aristeides,Author
-ngMT2E68yOTE7NzI6MF4ybjVnNg,12150626,Schol. Aristoph. Vesp.,Author
-ngNU2F78zPEF7OaN7Nm5ackeoNh,12150627,Schol. Kallim.,Author
-ngOV2G88aQFGaPbe8QH69dlBpQC,12150628,Schol. Hom. Od.,Author
-ngPW2H98bQcHbQcf9Qo71emUqQD,12150629,Schol. Lyc. Alexandria,Author
-ngQX3M08cRHI1Rdg0R18bfnFrRE,12150630,Schol. Nikandr.,Author
-ngRY3N18dReJeSeh1SK94goSsRl,12150631,Semonides of Amorgos,Author
-ngSZ3O28eSpKfTfG2S30dhpjtTm,12150632,Servius,Author
-ngTA3P38fTALgUgB3TM1fiqIuUH,12150633,Simonides of Keos,Author
-ngUB3Y48gVBM4VhY4VN24jrZvWI,12150634,Solon,Author
-ngWD3A68iWjOiXjW6XF40ltJxXK,12150636,Strabo,Author
-ngXE3B78jXuPiYkB7Y852muMyZL,12150637,Suda,Author
-ngYF3C88kAFQlZlY8AR6knvtzAM,12150638,Tacitus,Author
-ngZG3D98lBQRlAmL9Ay72owEaBN,12150639,Themistagoras,Author
-ngAH4E08mBnSnBnO0CJ82pxXbBO,12150640,Theokritos,Author
-ngBI4F18nCoTlCoz1BU9oqyUcCv,12150641,Theophrastos,Author
-ngCJ4C28oDpU4DpC2CV0nrzHdDQ,12150642,Theopompos,Author
-ngDK4D38pEaV5Eqt3E41osaIeDR,12150643,Thucydides,Author
-ngEL4E48qFLW6FrS4FN26tbTfGS,12150644,Ioannes Tzetzes,Author
-ngFM4F58rGWX5GsT5F63rucGgGz,12150645,Vellius Paterculus,Author
-ngGN4K68sGNY9Hta6HP40vdLhGU,12150646,Vitruvius,Author
-ngHO4L78tHYZ0IuV7HQ50weyiHb,12150647,Xanthos the Lydian,Author
-ngJQ4J98vLAB9KwF9K073ygWkLX,12150649,Zenis of Chios,Author
-ngKR5W08wKhC2LxK0Lj81zhblLe,12150650,Zenobios,Author
-ngLS5X18xLSD2MyX1MU9vaiQmMZ,12150651,Zopyros of Magnesia,Author
-ngMT5Y28yMDEzNzA2MV0ybjRnMA,12150652,Zosimos,Author
-ngQX5C68cRXIcRdI6R74afnhrRk,12336556,Aethlios of Samos,Author
-ngRY5D78dSIJcSeV7RK58goKsRl,12336557,Andron of Halikarnassos,Author
-ngSZ5E88eSfKcTfS8S96chpHtTG,12336558,Antimachos,Author
-ngTA5B98fTgL0UgF9U072iqGuVH,12336559,Antipater of Sidon,Author
-ngUB6C08gUrM0Vhs0U18gjrlvVo,12336560,Anon,Author
-ngVC6D18hVCNiWip1V293ksuwWp,12336561,Antipater of Thessalonika,Author
-ngWD6E28iWNO6XjW2Wv02ltrxXK,12336562,Antoninus Liberalis,Author
-ngXE6F38jZOPiYkB3Yw1kmuKyXL,12336563,Apollodoros of Athens,Author
-ngYF6G48kZlQiZlY4Z52invDzZM,12336564,Apollonios of Rhodes,Author
-ngZG6H58lAGR0AmL5Zy35owAaZt,12336565,Aratos,Author
-ngAH6I68mBRS0Bnu6BJ48pxNbAO,12336566,Aristainetos,Author
-ngBI6r78nDST2CoF7CU5nqyCcBv,12336567,Aristarchos of Samothrake,Author
-ngCJ6s88oDpU2DpO8D968rzDdDw,12336568,Aristoboulos of Kassandreia,Author
-ngDK6t98pEqVpEqx9D079saIeDR,12336569,Aristokritos,Author
-ngEL7u08qFbWqFrS0GX84tbFfFy,12336570,Aristotle,Author
-ngFM7z18rFsX2GsB1FY93ucKgHT,12336571,Armenidas,Author
-ngGN7a28sGdY2HtY2G30tvdfhHa,12336572,Arrian,Author
-ngHO7b38tHOZuIuH3Ig15weWiJV,12336573,Asklepiades of Samos,Author
-ngIP7c48uIZAuJvU4Ih2txfFjJW,12336574,Asios,Author
-ngJQ7z58vJQBvKwd5LC3vygOkLX,12336575,Athenaios,Author
-ngKR7a68wKBCwLxC6Kj49zhLlKe,12336576,Bias,Author
-ngLS7X78xNSDwMyL7NE5vaikmMf,12336577,Kallimachos,Author
-ngMT7Y88yODEwNzI8OF60bjRnNA,12336578,Kallinos of Ephesos,Author
-ngNU7d98zOUFaOaR9Nm71ckGoOh,12336579,Kallisthenes,Author
-ngOV8e08aPFGaPbA0PX85dlTpOC,12336580,Kastor of Rhodos,Author
-ngPW8f18bPcHaQcX1RI92emMqRD,12336581,Klearchos,Author
-ngQX8g28cQnI4RdE2R30cfnprQk,12336582,Clemens of Alexandria,Author
-ngRY8h38dRYJ4SeR3RK15goGsRF,12336583,Klytos of Miletos,Author
-ngSZ8q48eTZK5Tfm4UB2chpTtTm,12336584,Demokritos,Author
-ngTA8r58fUKL6UgL5Ts3giqUuUn,12336585,Demon,Author
-ngUB8s68gUhM6VhU6V749jrJvUI,12336586,Diodorus Siculus,Author
-ngVC8t78hVsNiWiR7XO5hksIwWJ,12336587,Diogenes Laertios,Author
-ngWD8u88iYDO0XjA8Wv6jltFxXq,12336588,Dionysios Periegetes,Author
-ngXE8v98jZEPhYkF9ZQ7jmuMyZL,12336589,Dionysios of Halikarnassos,Author
-ngYF9w08kZlQ5Zls0YH81nvDzAM,12336590,Douris of Samos,Author
-ngZG9x18lAwR6AmN1Ay96owOaAN,12336591,Ephoros,Author
-ngAH9u28mBnS2BnO2CT06pxNbAO,12336592,Eratosthenes,Author
-ngBI9v38nCyToCoB3CU1nqyYcCP,12336593,Erxias,Author
-ngCJ9w48oDJUoDpK4D526rzDdDw,12336594,Eumelos of Korinth,Author
-ngDK9x58pEUVoEqL5DW3psaQeER,12336595,Euripides,Author
-ngEL9c68qELW1Fry6F747tbTfGS,12336596,Eusebius,Author
-ngFM9d78rFWX2GsX7FY50ucagGT,12336597,Eustathios,Author
-ngGN9a88sINY2HtU8G968vdDhGU,12336598,Hellanikos,Author
-ngHO9b98tJYZ2IuD9Ig73weEiIV,12336599,Herakleides Pontikos,Author
-ngMT0E08yMjEzNzM0Nl82bjBnMA,12336600,Herodoros,Author
-ngOV0G28aOFG4Pbe2P307dlPpPi,12336602,Kleitophon,Author
-ngPW0n38bQWH5Qcj3QI14emMqAD,12336603,Lykophron,Author
-ngQX0k48cRHI9RdQ4SJ2dfnNrBE,12336604,Maiandrios/Laeandrios,Author
-ngRY0J58dSYJ9SeF5SA38gomsRF,12336605,Ps-Hesiod,Author
-ngSZ0K68eTJK8Tfq6UL46hpFtTG,12336606,Stephanos of Byzantion,Author
-ngTA0L78fUKLeUgX7U85eiqMuUn,12336607,Timotheos,Author
-ngDK4D38pEaVqEqH3FW16saAeDR,12345943,Sipylos,Traveller: mythical
-ngFM9d78rFWX2GsN7FY52ucKgHT,12370097,Aischylos,Author
-ngFM1B98rGcX2GsJ9FO72ucegFz,12375119,Ekloge Historion,Author
-ngHO2H18tHuZ2IuD1HQ92weMiIV,12375121,Etymologicum Magnum,Author
-ngDK6t98pEqVqEqR9E07nsaMeDx,12378469,Photios,Author
-ngEL7u08qFbWpFrM0FX8rtbdfEy,12378470,Excerpta Constantiniana,Author
-ngFM1B98rGcX2GsN9FO71ucKgFT,12380919,Schol. Hom. Il,Author
-ngIP2I28uIfA3JvW2JR05xfBjJc,12380922,Schol. Plato,Author
-ngCJ9w48oDJUpDpY4D528rzHdEQ,12398494,Neileus,Traveller: mythical
-ngDK9x58pEUVpEqV5FM3qsaWeEx,12398495,Androklos,Traveller: mythical
-ngTA0L78fUKLdUgB7U858iqouTH,12411807,St. Jerome,Author
-ngDK1Z78pFKVnEqL7FW50saEeDx,12411817,Solinos,Author
-ngNU0F18zNUF3OaZ1O29yckeoNh,12414801,Myskellos,Traveller: mythical
-ngOV0G28aOFG5PbO2OH03dlXpOi,12414802,Evanthes,Traveller: mythical
-ngVC8t78hVsNiWiH7VO5iksSwXJ,12427787,Epeios,Traveller: mythical
-ngYF9w08kZlQ5ZlC0Zx81nvDzYM,12427790,Antimnestos,Traveller: mythical
-ngWD3A68iWjOiXjq6WF4hltrxWK,12498536,Pseudo-Skymnos,Author
-ngIP4I88uKPA0JvU8JR6uxfhjIc,12513148,Leukippos,Traveller: mythical
-ngBI4F18nCyT4CoT1BK9mqyacBv,12528741,Menestheus,Traveller: mythical
-ngKR5W08wKhC3LxS0K18uzhblLe,12528750,Cassiodorus,Author
-ngGN4K68sGNY8HtS6GP40vdbhIU,12536646,Oenotrus,Traveller: mythical
-ngGN2G08sGdY4Hte0Hf8rvdZhHa,12695120,Antiochus of Syrakuse,Author
-ngDK4D38pFKVpEqx3Ec14saAeFR,12695143,Virgil,Author
-ngLS2H58xLSD5Myj5ME36aikmMf,13019625,Sardus,Traveller: mythical
-ngGN4G68sGtY9HtU6H740vdfhHa,13019646,Iolaos,Traveller: mythical
-ngIP4I88uJfAsJvA8IB63xfhjIc,13019648,Aristaios,Traveller: mythical
-ngKR5W08wKxCvLxe0KD82zhLlKe,13019650,Norax,Traveller: mythical
-ngYF3C88kYvQ3ZlC8Y968nvRzZs,13038438,Triptolemos,Traveller: mythical
-ngQX3I08cRnI4Rdg0RZ8bfnlrQE,13573530,Sardanapalus,Traveller: mythical
-ngPW2L98bQGHzQcL9Qo79emkqPD,13657329,Sagaris,Traveller: mythical
-ngVC0H98hVsN2WiN9VE72ksIwGJ,13961109,Typhon of Aegion,Traveller: historical
-ngLS5X18xLyDyMyb1MU92aiMmMf,13961151,Hippys,Author
-ngHO9b98tIeZrIuL9Hg7uweciIV,13961199,Hippokles of Euboean Kyme,Traveller: mythical
-ngNU0F18zOEFaOaF1OW9xckeoOh,13961201,Megasthenes,Traveller: historical
-ngYF1o28kYvQiZlG2Z304nvNzJM,13961212,Pseudo-Skylax,Author
-ngEL1A88qGLWrFry8Fd68tbBfFS,13961218,Nestor,Traveller: mythical
-ngHO2D18tIeZ3IuL1JQ92weUiIV,13961221,Daulios,Traveller: mythical
-ngZG3D98lZwR2AmZ9AS7lowSaZt,13961239,Livy,Author
-ngOV8A08aPbGbPbe0On80dljpPC,13962580,Mikythos,Traveller: historical
-ngFM9z78rGWXpGsX7G85sucegFz,13962597,Artimedes,Traveller: mythical
-ngXE8v98jXkPiYkv9ZG72muYyYr,14000789,Heraklides Lembus,Author
-ngMT0E08yNDEwNzA0MF85bjBnMA,14000900,Timaeos of Tauromenion,Author
-ngPW0H38bQmH3Qcn3PI1zemEqRD,14000903,Justin,Author
-ngEL1A88qGLW8FrW8Ed61tbzfES,14000918,Xenokrites,Traveller: historical
-ngFM1F98rFcX1GsT9F07pucUgFT,14000919,Lampon,Traveller: mythical
-ngOV5A48aOFGbPbi4QH24dlLpOC,14235754,Manto,Traveller: mythical
-ngPW5B58bPGHaQcn5RI3bemkqPD,14235755,Mopsos,Traveller: mythical
-ngRY5D78dRoJeSeh7RK5bgomsRF,14235757,Teiresias,Traveller: mythical
-ngSZ5E88eSZKdTfS8SB60hpPtUG,14235758,Euphorion,Author
-ngUB6C08gVLM5VhM0WN82jrpvVI,14235760,Calchas,Traveller: mythical
-ngUB8s68gWBM1VhQ6VN47jrNvUo,14235886,Amphiareus,Traveller: mythical
-ngIP4I88uJvAvJvE8Jh68xfhjJc,14311248,Podaleirios,Traveller: mythical
-ngFM4J58rFWX9GsF5F637ucwgGz,14321245,Proclus,Author
-ngKR5W08wLBC0Lxi0Lj80zhPlKY,14321250,Menelaos,Traveller: mythical
-ngBI4F18nCST6CoT1DK92qyUcCv,14321441,Agamemnon,Traveller: mythical
-ngCJ1Y68oEJUmDpY6CL40rzxdNQ,14341116,Elais,Traveller: mythical
-ngFM1F98rFsX9GsB9Ge7sucCgFT,14341119,Oino,Traveller: mythical
-ngGN2G08sGdY0HtY0G18svdDhGU,14341120,Spermo,Traveller: mythical
-ngRY8D38dTYJ4Seh3RA13gomsSF,14341683,Aineias,Traveller: mythical
-ngSZ8q48eTfK8TfK4SL27hpFtUG,14341684,Alexander (Trojan),Traveller: mythical
-ngTA8r58fUqL8Ugn5UM3eiqkuTn,14341685,Helen,Traveller: mythical
-ngUB8M68gULMeVhI6WD47jrRvUq46,14341686,Iphigeneia,Traveller: mythical
-ngVC3Z58hWsNhWiZ5WE3iksWwWp,14341735,Achilles,Traveller: mythical
-ngZG3D98lZwRkAmx9Zy7kowWaZN,14341739,Diomedes,Traveller: mythical
-ngEL4I48qELW7FrI4FN27tbvfEy,14341744,Leonteus,Traveller: mythical
-ngFM4J58rFWX9GsJ5GO30ucagGT,14341745,Polypoites,Traveller: mythical
-ngTA5B98fUqLdUgF9VC7eiqIuUH,14341959,Neoptolemos,Traveller: mythical
-ngUB6C08gVLM5VhQ0U181jrDvVo,14341960,Kassandra,Traveller: mythical
-ngWD6E28iXtO5XjK2YP05ltJxXK,14341962,Amphilochos,Traveller: mythical
-ngHO7x38tJOZ5Iub3JA15weMiJV,14341973,Odysseus,Traveller: mythical
-ngMT7c88yMzE3Nzg8Ml69bjhnOA,14341978,Jason,Traveller: mythical
-ngNU7Z98zPEF3Oal9O07yckWoNh,14341979,Dardanos,Traveller: mythical
-ngZG6H58lZmR7Amp5A638owyaZt,14342165,Acamas,Traveller: mythical
-ngCJ6s88oEJU2Dps8DL6mrzxdDQ,14342168,Demophon,Traveller: mythical
-ngDK6x98pDqV2EqD9DM74saAeDR,14342169,Elephenor,Traveller: mythical
-ngFM7v18rGsXsGsR1G292ucegFz,14342171,Agapenor,Traveller: mythical
-ngGN7w28sHdY3HtU2HP06vdLhHU,14342172,Agelaos - Achaian,Traveller: mythical
-ngHO7x38tJOZ5Iuf3HA17weciHV,14342173,Aias the greater,Traveller: mythical
-ngIP7y48uKZA5JvI4JB2uxfFjIW,14342174,Aias the lesser,Traveller: mythical
-ngNU2J78zOEF1OaN7Om5yckWoNh,14343727,Antilochos,Traveller: mythical
-ngUB3Y48gVhM6VhU4U524jrHvWI,14343734,Krethon,Traveller: mythical
-ngPW8f18bPGH6QcT1RI9cemYqQj,14345281,Epeios,Traveller: mythical
-ngSZ8q48eTfK7Tfq4UL29hpXtTG,14345284,Euryalos,Traveller: mythical
-ngXE8v98jXuPkYkJ9X071musyYL,14345289,Machaon,Traveller: mythical
-ngBI9v38nDSToCoT3BU13qyUcBv,14345293,Palamedes,Traveller: mythical
-ngXE1n18jYEP3YkB1ZG92muUyIL,14345311,Periphetes,Traveller: mythical
-ngCJ1Y68oEJUnDpO6CL46rzxdNQ,14345316,Sinon,Traveller: mythical
-ngDK1D78pDKVpEqL7Dc51saEeDx,14345317,Sthenelos,Traveller: mythical
-ngMT2I68yMTE9NzA6NV47bjNnNg,14389026,Horace,Author
-ngOV2K88aPFGbPbi8PH63dljpPC,14391828,Ajax son of Teucer,Traveller: mythical
-ngPW2L98bPcH9QcL9PY73emUqQD,14391829,Teucer,Traveller: mythical
-ngSZ0m68eUZKcTfE6TB4ehpntDG,14392606,Aeneas,Traveller: mythical
-ngVC0D98hViNgWit9Vu74ksSwGJ,14392609,Evander,Traveller: mythical
-ngFM1F98rFsX0GsT9Ge71ucCgHT,14392619,Epeus,Traveller: mythical
-ngNU2J78zOEF1Oah7Om5xckWoNh,14392627,Archias,Traveller: mythical
-ngPW2L98bPcH9QcL9Po7aemQqPj,14392629,Perieres of Chalkis,Traveller: mythical
-ngSZ3O28eSJKfTfE2SL0chpntUG,14392632,Krataemenes of Kyme,Traveller: mythical
-ngWD3A68iYDOjXjI6XF4gltJxXK,14392636,Philoktetes,Traveller: mythical
-ngSZ0K68eSpKfTfm6UL4fhprtSm,14774806,Aischines,Author
-ngTA0r78fTKL1UgL7T85eiqGuEH,14774807,Xenophon,Author
-ngVC0l98hVMN1WiR9XO70ksSwGJ,14774809,Aeneas Tacticus,Author
-ngXE1B18jYkP5YkT1X29hmuMyIL,14774811,Demosthenes,Author
-ngYF1G28kAPQ4Zlo2YH0invDzJM,14774812,Didymus Chalcenterus,Author
-ngHO2D18tIuZ1IuL1JQ95weQiHb,14774821,Herodianus,Author
-ngXE3B78jYkP2YkJ7YG50muoyYr,14786937,Orphic Argonautica,Author
-ngIP7y48uJfA8Jvc4JR2sxfNjJW,14787174,Memnon of Herakleia,Author
-ngKR5W08wLRCwLxC0K184zhPlMY,14790850,Lokros,Traveller: mythical
-ngVC6D18hWCN1WiN1VO96ksSwWJ,14790861,Deukalion,Traveller: mythical
-ngWD6E28iXtOiXjA2WP02ltLxYK,14790862,Pyrrha,Traveller: mythical
-ngZG6H58lZQR9Amt5Zy3jowuaAN,14790865,Protogeneia,Traveller: mythical
-ngFM7v18rHWXqGsX1FO9rucUgGT,14790871,Menoitios,Traveller: mythical
+,nodegoat ID,Object ID,Name,Traveller Type
+0,ngZG9x18lAmRmAmR1ZS93owEaZN,11945191,Herodotos,Author
+1,ngAH9u28mBnS7Bnq2Az0npxPbBO,12035292,Theseus,Traveller: mythical
+2,ngHO9b98tJYZtIuZ9JQ73weMiIV,12042299,Homer,Author
+3,ngSZ0K68eTZK6TfW6UL49hpHtSG,12042306,Ion of Chios,Author
+4,ngVC0Z98hVMNhWip9VE73ksAwGJ,12042309,Nikander of Kolophon,Author
+5,ngGN7a28sGNY7HtO2GP0tvdLhGU,12042372,Olympichos,Author
+6,ngIP7y48uKPA9JvW4KB25xfVjJW,12042374,Panyassis,Author
+7,ngOV8e08aObG4PbS0PH83dlBpPC,12042380,Xenophanes of Kolophon,Author
+8,ngQX8g28cQnI6Rdk2Q30afnDrQE,12042382,Thucydides,Author
+9,ngVC6D18hVCN4WiV1VO9gksmwWp,12150561,Ailianos,Author
+10,ngWD6E28iWNO3XjS2X307ltrxYK,12150562,Aelius Aristeides,Author
+11,ngXE6F38jYkP7YkT3ZQ14muUyXL,12150563,Agias,Author
+12,ngYF6G48kZvQ8ZlU4Yx2lnvpzYs,12150564,Alkidamas,Author
+13,ngZG6H58lAGR7AmV5ZS3jowEaBN,12150565,Alexander of Aetolia,Author
+14,ngAH6I68mBRS7BnA6Bz4kpxrbBu,12150566,Ammianus Marcellinus,Author
+15,ngBI6r78nDST0CoN7BK5oqyCcCv,12150567,Anakreon,Author
+16,ngCJ6s88oDpU0Dpw8EL60rzPdCQ,12150568,Harpokration,Author
+17,ngDK6t98pEqV9Eqt9DW79saEeDx,12150569,Hekataios,Author
+18,ngEL7u08qFbW1FrW0E18rtbRfFS,12150570,Hegesippus,Author
+19,ngIP7c48uIZA6JvW4I525xfBjJc,12150574,Herodotos,Author
+20,ngJQ7z58vJAB0KwR5JC37ygikKd,12150575,Heropythos,Author
+21,ngKR7W68wMRC0LxW6K74uzhTlKe,12150576,Hesychios,Author
+22,ngMT7Y88yNzE2NzU8MF61bjdnMg,12150578,Homeric Hymns,Author
+23,ngNU7d98zOUFxOaN9O07yckAoNB,12150579,Hyginus,Author
+24,ngOV8e08aObG5PbW0O18zdljpQC,12150580,Iamblichos,Author
+25,ngQX8g28cQnI5Rdo2Q30cfnprQk,12150582,Isokrates,Author
+26,ngRY8h38dRYJ6SeF3SA1dgoWsRF,12150583,Kadmos,Author
+27,ngTA8r58fUKL9UgF5Ts39iqouTH,12150585,Konon,Author
+28,ngUB8s68gUhM8VhY6VN4gjrlvVo,12150586,Kreophylos,Author
+29,ngVC8t78hVsN9WiV7XO5gksWwWp,12150587,Kritias,Author
+30,ngWD8u88iYDO3XjE8XP63ltBxYK,12150588,Libanios,Author
+31,ngXE8v98jZOP2YkF9Xw72muUyXL,12150589,Lykourgos,Author
+32,ngYF9w08kZlQ2ZlK0AR83nvLzZM,12150590,Malakos,Author
+33,ngZG9x18lAwR4AmV1BS9kowMaBN,12150591,Maximus of Tyre,Author
+34,ngAH9u28mBnSkBnq2AJ0npxPbCO,12150592,Menekrates of Elea,Author
+35,ngBI9v38nCIT8Cov3B415qyUcCv,12150593,Menodotos,Author
+36,ngCJ9w48oDJUmDpG4D52mrzbdCw,12150594,Metrodoros,Author
+37,ngDK9x58pDqV0Eqt5EM36saAeFR,12150595,Mimnermos,Author
+38,ngEL9c68qEbWpFrc6E741tbNfFy,12150596,Nearchos,Author
+39,ngGN9e88sGXYrHtY8Hf6rvdVhIU,12150598,Nikolaos of Damaskos,Author
+40,ngHO9b98tJYZ4IuV9HQ70weUiHV,12150599,Nonnus,Author
+41,ngNU0F18zNUF6OaN1NW9ackioPB,12150601,Oppianos,Author
+42,ngOV0G28aOFG7Pbm2OH04dlLpPC,12150602,Ovid,Author
+43,ngQX0k48cRdIaRdE4Q52bfnNrBE,12150604,Parthenios,Author
+44,ngRY0J58dSoJbSeN5RA35goWsSF,12150605,Pausanias,Author
+45,ngSZ0K68eTZKcTfK6TB4ehpntSG,12150606,Phanodikos,Author
+46,ngTA0L78fTgL0Ugr7Us58iqYuTH,12150607,Pherekydes,Author
+47,ngUB0M88gUrM1VhQ8VN63jrpvVI,12150608,Philiskos of Miletos,Author
+48,ngVC0V98hViN4WiD9WE74ksIwGJ,12150609,Philostephanos,Author
+49,ngWD1S08iWjOhXjO0X180ltBxHK,12150610,Philostratos,Author
+50,ngXE1P18jXEPhYkv1X296muKyIL,12150611,Pindar,Author
+51,ngYF1Q28kYPQlZlU2YR06nxjzYC,12150612,Plato,Author
+52,ngZG1p38lAQRlAmN3Zy15owOaKN,12150613,Pliny the Elder,Author
+53,ngAH1q48mAxS5BnO4AT29pxNbLO,12150614,Plutarch,Author
+54,ngBI1N58nBIT9CoX5Ca3lqyGcMP,12150615,Polyainos,Author
+55,ngCJ1K68oCzU6DpU6EV48rzHdNQ,12150616,Polybius,Author
+56,ngDK1Z78pFKVqEqV7FM50saueDx,12150617,Pomponius Mela,Author
+57,ngEL1A88qGVWoFrM8EN63tbFfFy,12150618,Pseudo-Hesiod,Author
+58,ngFM1B98rGsXqGsX9GO7sucYgGz,12150619,Pseudo-Apollodoros,Author
+59,ngGN2C08sHdYqHtC0H18tvdbhHU,12150620,Pseudo-Herodotos,Author
+60,ngHO2H18tHuZtIuZ1H292weyiHb,12150621,Pseudo-Plutarch,Author
+61,ngIP2I28uIfAtJvM2Ih0sxfJjIc,12150622,Quintus Smyrnaeus,Author
+62,ngJQ2J38vJQBuKwJ3KS16ygakJd,12150623,Schol. Apol. Rhod.,Author
+63,ngKR2G48wMRC9LxG4KT2vzhblLe,12150624,Schol. Arat. Phaen.,Author
+64,ngLS2H58xLCD5MyX5LU3vaiAmMZ,12150625,Schol. Aristeides,Author
+65,ngMT2E68yOTE7NzI6MF4ybjVnNg,12150626,Schol. Aristoph. Vesp.,Author
+66,ngNU2F78zPEF7OaN7Nm5ackeoNh,12150627,Schol. Kallim.,Author
+67,ngOV2G88aQFGaPbe8QH69dlBpQC,12150628,Schol. Hom. Od.,Author
+68,ngPW2H98bQcHbQcf9Qo71emUqQD,12150629,Schol. Lyc. Alexandria,Author
+69,ngQX3M08cRHI1Rdg0R18bfnFrRE,12150630,Schol. Nikandr.,Author
+70,ngRY3N18dReJeSeh1SK94goSsRl,12150631,Semonides of Amorgos,Author
+71,ngSZ3O28eSpKfTfG2S30dhpjtTm,12150632,Servius,Author
+72,ngTA3P38fTALgUgB3TM1fiqIuUH,12150633,Simonides of Keos,Author
+73,ngUB3Y48gVBM4VhY4VN24jrZvWI,12150634,Solon,Author
+74,ngWD3A68iWjOiXjW6XF40ltJxXK,12150636,Strabo,Author
+75,ngXE3B78jXuPiYkB7Y852muMyZL,12150637,Suda,Author
+76,ngYF3C88kAFQlZlY8AR6knvtzAM,12150638,Tacitus,Author
+77,ngZG3D98lBQRlAmL9Ay72owEaBN,12150639,Themistagoras,Author
+78,ngAH4E08mBnSnBnO0CJ82pxXbBO,12150640,Theokritos,Author
+79,ngBI4F18nCoTlCoz1BU9oqyUcCv,12150641,Theophrastos,Author
+80,ngCJ4C28oDpU4DpC2CV0nrzHdDQ,12150642,Theopompos,Author
+81,ngDK4D38pEaV5Eqt3E41osaIeDR,12150643,Thucydides,Author
+82,ngEL4E48qFLW6FrS4FN26tbTfGS,12150644,Ioannes Tzetzes,Author
+83,ngFM4F58rGWX5GsT5F63rucGgGz,12150645,Vellius Paterculus,Author
+84,ngGN4K68sGNY9Hta6HP40vdLhGU,12150646,Vitruvius,Author
+85,ngHO4L78tHYZ0IuV7HQ50weyiHb,12150647,Xanthos the Lydian,Author
+86,ngJQ4J98vLAB9KwF9K073ygWkLX,12150649,Zenis of Chios,Author
+87,ngKR5W08wKhC2LxK0Lj81zhblLe,12150650,Zenobios,Author
+88,ngLS5X18xLSD2MyX1MU9vaiQmMZ,12150651,Zopyros of Magnesia,Author
+89,ngMT5Y28yMDEzNzA2MV0ybjRnMA,12150652,Zosimos,Author
+90,ngQX5C68cRXIcRdI6R74afnhrRk,12336556,Aethlios of Samos,Author
+91,ngRY5D78dSIJcSeV7RK58goKsRl,12336557,Andron of Halikarnassos,Author
+92,ngSZ5E88eSfKcTfS8S96chpHtTG,12336558,Antimachos,Author
+93,ngTA5B98fTgL0UgF9U072iqGuVH,12336559,Antipater of Sidon,Author
+94,ngUB6C08gUrM0Vhs0U18gjrlvVo,12336560,Anon,Author
+95,ngVC6D18hVCNiWip1V293ksuwWp,12336561,Antipater of Thessalonika,Author
+96,ngWD6E28iWNO6XjW2Wv02ltrxXK,12336562,Antoninus Liberalis,Author
+97,ngXE6F38jZOPiYkB3Yw1kmuKyXL,12336563,Apollodoros of Athens,Author
+98,ngYF6G48kZlQiZlY4Z52invDzZM,12336564,Apollonios of Rhodes,Author
+99,ngZG6H58lAGR0AmL5Zy35owAaZt,12336565,Aratos,Author
+100,ngAH6I68mBRS0Bnu6BJ48pxNbAO,12336566,Aristainetos,Author
+101,ngBI6r78nDST2CoF7CU5nqyCcBv,12336567,Aristarchos of Samothrake,Author
+102,ngCJ6s88oDpU2DpO8D968rzDdDw,12336568,Aristoboulos of Kassandreia,Author
+103,ngDK6t98pEqVpEqx9D079saIeDR,12336569,Aristokritos,Author
+104,ngEL7u08qFbWqFrS0GX84tbFfFy,12336570,Aristotle,Author
+105,ngFM7z18rFsX2GsB1FY93ucKgHT,12336571,Armenidas,Author
+106,ngGN7a28sGdY2HtY2G30tvdfhHa,12336572,Arrian,Author
+107,ngHO7b38tHOZuIuH3Ig15weWiJV,12336573,Asklepiades of Samos,Author
+108,ngIP7c48uIZAuJvU4Ih2txfFjJW,12336574,Asios,Author
+109,ngJQ7z58vJQBvKwd5LC3vygOkLX,12336575,Athenaios,Author
+110,ngKR7a68wKBCwLxC6Kj49zhLlKe,12336576,Bias,Author
+111,ngLS7X78xNSDwMyL7NE5vaikmMf,12336577,Kallimachos,Author
+112,ngMT7Y88yODEwNzI8OF60bjRnNA,12336578,Kallinos of Ephesos,Author
+113,ngNU7d98zOUFaOaR9Nm71ckGoOh,12336579,Kallisthenes,Author
+114,ngOV8e08aPFGaPbA0PX85dlTpOC,12336580,Kastor of Rhodos,Author
+115,ngPW8f18bPcHaQcX1RI92emMqRD,12336581,Klearchos,Author
+116,ngQX8g28cQnI4RdE2R30cfnprQk,12336582,Clemens of Alexandria,Author
+117,ngRY8h38dRYJ4SeR3RK15goGsRF,12336583,Klytos of Miletos,Author
+118,ngSZ8q48eTZK5Tfm4UB2chpTtTm,12336584,Demokritos,Author
+119,ngTA8r58fUKL6UgL5Ts3giqUuUn,12336585,Demon,Author
+120,ngUB8s68gUhM6VhU6V749jrJvUI,12336586,Diodorus Siculus,Author
+121,ngVC8t78hVsNiWiR7XO5hksIwWJ,12336587,Diogenes Laertios,Author
+122,ngWD8u88iYDO0XjA8Wv6jltFxXq,12336588,Dionysios Periegetes,Author
+123,ngXE8v98jZEPhYkF9ZQ7jmuMyZL,12336589,Dionysios of Halikarnassos,Author
+124,ngYF9w08kZlQ5Zls0YH81nvDzAM,12336590,Douris of Samos,Author
+125,ngZG9x18lAwR6AmN1Ay96owOaAN,12336591,Ephoros,Author
+126,ngAH9u28mBnS2BnO2CT06pxNbAO,12336592,Eratosthenes,Author
+127,ngBI9v38nCyToCoB3CU1nqyYcCP,12336593,Erxias,Author
+128,ngCJ9w48oDJUoDpK4D526rzDdDw,12336594,Eumelos of Korinth,Author
+129,ngDK9x58pEUVoEqL5DW3psaQeER,12336595,Euripides,Author
+130,ngEL9c68qELW1Fry6F747tbTfGS,12336596,Eusebius,Author
+131,ngFM9d78rFWX2GsX7FY50ucagGT,12336597,Eustathios,Author
+132,ngGN9a88sINY2HtU8G968vdDhGU,12336598,Hellanikos,Author
+133,ngHO9b98tJYZ2IuD9Ig73weEiIV,12336599,Herakleides Pontikos,Author
+134,ngMT0E08yMjEzNzM0Nl82bjBnMA,12336600,Herodoros,Author
+135,ngOV0G28aOFG4Pbe2P307dlPpPi,12336602,Kleitophon,Author
+136,ngPW0n38bQWH5Qcj3QI14emMqAD,12336603,Lykophron,Author
+137,ngQX0k48cRHI9RdQ4SJ2dfnNrBE,12336604,Maiandrios/Laeandrios,Author
+138,ngRY0J58dSYJ9SeF5SA38gomsRF,12336605,Ps-Hesiod,Author
+139,ngSZ0K68eTJK8Tfq6UL46hpFtTG,12336606,Stephanos of Byzantion,Author
+140,ngTA0L78fUKLeUgX7U85eiqMuUn,12336607,Timotheos,Author
+141,ngDK4D38pEaVqEqH3FW16saAeDR,12345943,Sipylos,Traveller: mythical
+142,ngFM9d78rFWX2GsN7FY52ucKgHT,12370097,Aischylos,Author
+143,ngFM1B98rGcX2GsJ9FO72ucegFz,12375119,Ekloge Historion,Author
+144,ngHO2H18tHuZ2IuD1HQ92weMiIV,12375121,Etymologicum Magnum,Author
+145,ngDK6t98pEqVqEqR9E07nsaMeDx,12378469,Photios,Author
+146,ngEL7u08qFbWpFrM0FX8rtbdfEy,12378470,Excerpta Constantiniana,Author
+147,ngFM1B98rGcX2GsN9FO71ucKgFT,12380919,Schol. Hom. Il,Author
+148,ngIP2I28uIfA3JvW2JR05xfBjJc,12380922,Schol. Plato,Author
+149,ngCJ9w48oDJUpDpY4D528rzHdEQ,12398494,Neileus,Traveller: mythical
+150,ngDK9x58pEUVpEqV5FM3qsaWeEx,12398495,Androklos,Traveller: mythical
+151,ngTA0L78fUKLdUgB7U858iqouTH,12411807,St. Jerome,Author
+152,ngDK1Z78pFKVnEqL7FW50saEeDx,12411817,Solinos,Author
+153,ngNU0F18zNUF3OaZ1O29yckeoNh,12414801,Myskellos,Traveller: mythical
+154,ngOV0G28aOFG5PbO2OH03dlXpOi,12414802,Evanthes,Traveller: mythical
+155,ngVC8t78hVsNiWiH7VO5iksSwXJ,12427787,Epeios,Traveller: mythical
+156,ngYF9w08kZlQ5ZlC0Zx81nvDzYM,12427790,Antimnestos,Traveller: mythical
+157,ngWD3A68iWjOiXjq6WF4hltrxWK,12498536,Pseudo-Skymnos,Author
+158,ngIP4I88uKPA0JvU8JR6uxfhjIc,12513148,Leukippos,Traveller: mythical
+159,ngBI4F18nCyT4CoT1BK9mqyacBv,12528741,Menestheus,Traveller: mythical
+160,ngKR5W08wKhC3LxS0K18uzhblLe,12528750,Cassiodorus,Author
+161,ngGN4K68sGNY8HtS6GP40vdbhIU,12536646,Oenotrus,Traveller: mythical
+162,ngGN2G08sGdY4Hte0Hf8rvdZhHa,12695120,Antiochus of Syrakuse,Author
+163,ngDK4D38pFKVpEqx3Ec14saAeFR,12695143,Virgil,Author
+164,ngLS2H58xLSD5Myj5ME36aikmMf,13019625,Sardus,Traveller: mythical
+165,ngGN4G68sGtY9HtU6H740vdfhHa,13019646,Iolaos,Traveller: mythical
+166,ngIP4I88uJfAsJvA8IB63xfhjIc,13019648,Aristaios,Traveller: mythical
+167,ngKR5W08wKxCvLxe0KD82zhLlKe,13019650,Norax,Traveller: mythical
+168,ngYF3C88kYvQ3ZlC8Y968nvRzZs,13038438,Triptolemos,Traveller: mythical
+169,ngQX3I08cRnI4Rdg0RZ8bfnlrQE,13573530,Sardanapalus,Traveller: mythical
+170,ngPW2L98bQGHzQcL9Qo79emkqPD,13657329,Sagaris,Traveller: mythical
+171,ngVC0H98hVsN2WiN9VE72ksIwGJ,13961109,Typhon of Aegion,Traveller: historical
+172,ngLS5X18xLyDyMyb1MU92aiMmMf,13961151,Hippys,Author
+173,ngHO9b98tIeZrIuL9Hg7uweciIV,13961199,Hippokles of Euboean Kyme,Traveller: mythical
+174,ngNU0F18zOEFaOaF1OW9xckeoOh,13961201,Megasthenes,Traveller: historical
+175,ngYF1o28kYvQiZlG2Z304nvNzJM,13961212,Pseudo-Skylax,Author
+176,ngEL1A88qGLWrFry8Fd68tbBfFS,13961218,Nestor,Traveller: mythical
+177,ngHO2D18tIeZ3IuL1JQ92weUiIV,13961221,Daulios,Traveller: mythical
+178,ngZG3D98lZwR2AmZ9AS7lowSaZt,13961239,Livy,Author
+179,ngOV8A08aPbGbPbe0On80dljpPC,13962580,Mikythos,Traveller: historical
+180,ngFM9z78rGWXpGsX7G85sucegFz,13962597,Artimedes,Traveller: mythical
+181,ngXE8v98jXkPiYkv9ZG72muYyYr,14000789,Heraklides Lembus,Author
+182,ngMT0E08yNDEwNzA0MF85bjBnMA,14000900,Timaeos of Tauromenion,Author
+183,ngPW0H38bQmH3Qcn3PI1zemEqRD,14000903,Justin,Author
+184,ngEL1A88qGLW8FrW8Ed61tbzfES,14000918,Xenokrites,Traveller: historical
+185,ngFM1F98rFcX1GsT9F07pucUgFT,14000919,Lampon,Traveller: mythical
+186,ngOV5A48aOFGbPbi4QH24dlLpOC,14235754,Manto,Traveller: mythical
+187,ngPW5B58bPGHaQcn5RI3bemkqPD,14235755,Mopsos,Traveller: mythical
+188,ngRY5D78dRoJeSeh7RK5bgomsRF,14235757,Teiresias,Traveller: mythical
+189,ngSZ5E88eSZKdTfS8SB60hpPtUG,14235758,Euphorion,Author
+190,ngUB6C08gVLM5VhM0WN82jrpvVI,14235760,Calchas,Traveller: mythical
+191,ngUB8s68gWBM1VhQ6VN47jrNvUo,14235886,Amphiareus,Traveller: mythical
+192,ngIP4I88uJvAvJvE8Jh68xfhjJc,14311248,Podaleirios,Traveller: mythical
+193,ngFM4J58rFWX9GsF5F637ucwgGz,14321245,Proclus,Author
+194,ngKR5W08wLBC0Lxi0Lj80zhPlKY,14321250,Menelaos,Traveller: mythical
+195,ngBI4F18nCST6CoT1DK92qyUcCv,14321441,Agamemnon,Traveller: mythical
+196,ngCJ1Y68oEJUmDpY6CL40rzxdNQ,14341116,Elais,Traveller: mythical
+197,ngFM1F98rFsX9GsB9Ge7sucCgFT,14341119,Oino,Traveller: mythical
+198,ngGN2G08sGdY0HtY0G18svdDhGU,14341120,Spermo,Traveller: mythical
+199,ngRY8D38dTYJ4Seh3RA13gomsSF,14341683,Aineias,Traveller: mythical
+200,ngSZ8q48eTfK8TfK4SL27hpFtUG,14341684,Alexander (Trojan),Traveller: mythical
+201,ngTA8r58fUqL8Ugn5UM3eiqkuTn,14341685,Helen,Traveller: mythical
+202,ngUB8M68gULMeVhI6WD47jrRvUq46,14341686,Iphigeneia,Traveller: mythical
+203,ngVC3Z58hWsNhWiZ5WE3iksWwWp,14341735,Achilles,Traveller: mythical
+204,ngZG3D98lZwRkAmx9Zy7kowWaZN,14341739,Diomedes,Traveller: mythical
+205,ngEL4I48qELW7FrI4FN27tbvfEy,14341744,Leonteus,Traveller: mythical
+206,ngFM4J58rFWX9GsJ5GO30ucagGT,14341745,Polypoites,Traveller: mythical
+207,ngTA5B98fUqLdUgF9VC7eiqIuUH,14341959,Neoptolemos,Traveller: mythical
+208,ngUB6C08gVLM5VhQ0U181jrDvVo,14341960,Kassandra,Traveller: mythical
+209,ngWD6E28iXtO5XjK2YP05ltJxXK,14341962,Amphilochos,Traveller: mythical
+210,ngHO7x38tJOZ5Iub3JA15weMiJV,14341973,Odysseus,Traveller: mythical
+211,ngMT7c88yMzE3Nzg8Ml69bjhnOA,14341978,Jason,Traveller: mythical
+212,ngNU7Z98zPEF3Oal9O07yckWoNh,14341979,Dardanos,Traveller: mythical
+213,ngZG6H58lZmR7Amp5A638owyaZt,14342165,Acamas,Traveller: mythical
+214,ngCJ6s88oEJU2Dps8DL6mrzxdDQ,14342168,Demophon,Traveller: mythical
+215,ngDK6x98pDqV2EqD9DM74saAeDR,14342169,Elephenor,Traveller: mythical
+216,ngFM7v18rGsXsGsR1G292ucegFz,14342171,Agapenor,Traveller: mythical
+217,ngGN7w28sHdY3HtU2HP06vdLhHU,14342172,Agelaos - Achaian,Traveller: mythical
+218,ngHO7x38tJOZ5Iuf3HA17weciHV,14342173,Aias the greater,Traveller: mythical
+219,ngIP7y48uKZA5JvI4JB2uxfFjIW,14342174,Aias the lesser,Traveller: mythical
+220,ngNU2J78zOEF1OaN7Om5yckWoNh,14343727,Antilochos,Traveller: mythical
+221,ngUB3Y48gVhM6VhU4U524jrHvWI,14343734,Krethon,Traveller: mythical
+222,ngPW8f18bPGH6QcT1RI9cemYqQj,14345281,Epeios,Traveller: mythical
+223,ngSZ8q48eTfK7Tfq4UL29hpXtTG,14345284,Euryalos,Traveller: mythical
+224,ngXE8v98jXuPkYkJ9X071musyYL,14345289,Machaon,Traveller: mythical
+225,ngBI9v38nDSToCoT3BU13qyUcBv,14345293,Palamedes,Traveller: mythical
+226,ngXE1n18jYEP3YkB1ZG92muUyIL,14345311,Periphetes,Traveller: mythical
+227,ngCJ1Y68oEJUnDpO6CL46rzxdNQ,14345316,Sinon,Traveller: mythical
+228,ngDK1D78pDKVpEqL7Dc51saEeDx,14345317,Sthenelos,Traveller: mythical
+229,ngMT2I68yMTE9NzA6NV47bjNnNg,14389026,Horace,Author
+230,ngOV2K88aPFGbPbi8PH63dljpPC,14391828,Ajax son of Teucer,Traveller: mythical
+231,ngPW2L98bPcH9QcL9PY73emUqQD,14391829,Teucer,Traveller: mythical
+232,ngSZ0m68eUZKcTfE6TB4ehpntDG,14392606,Aeneas,Traveller: mythical
+233,ngVC0D98hViNgWit9Vu74ksSwGJ,14392609,Evander,Traveller: mythical
+234,ngFM1F98rFsX0GsT9Ge71ucCgHT,14392619,Epeus,Traveller: mythical
+235,ngNU2J78zOEF1Oah7Om5xckWoNh,14392627,Archias,Traveller: mythical
+236,ngPW2L98bPcH9QcL9Po7aemQqPj,14392629,Perieres of Chalkis,Traveller: mythical
+237,ngSZ3O28eSJKfTfE2SL0chpntUG,14392632,Krataemenes of Kyme,Traveller: mythical
+238,ngWD3A68iYDOjXjI6XF4gltJxXK,14392636,Philoktetes,Traveller: mythical
+239,ngSZ0K68eSpKfTfm6UL4fhprtSm,14774806,Aischines,Author
+240,ngTA0r78fTKL1UgL7T85eiqGuEH,14774807,Xenophon,Author
+241,ngVC0l98hVMN1WiR9XO70ksSwGJ,14774809,Aeneas Tacticus,Author
+242,ngXE1B18jYkP5YkT1X29hmuMyIL,14774811,Demosthenes,Author
+243,ngYF1G28kAPQ4Zlo2YH0invDzJM,14774812,Didymus Chalcenterus,Author
+244,ngHO2D18tIuZ1IuL1JQ95weQiHb,14774821,Herodianus,Author
+245,ngXE3B78jYkP2YkJ7YG50muoyYr,14786937,Orphic Argonautica,Author
+246,ngIP7y48uJfA8Jvc4JR2sxfNjJW,14787174,Memnon of Herakleia,Author
+247,ngKR5W08wLRCwLxC0K184zhPlMY,14790850,Lokros,Traveller: mythical
+248,ngVC6D18hWCN1WiN1VO96ksSwWJ,14790861,Deukalion,Traveller: mythical
+249,ngWD6E28iXtOiXjA2WP02ltLxYK,14790862,Pyrrha,Traveller: mythical
+250,ngZG6H58lZQR9Amt5Zy3jowuaAN,14790865,Protogeneia,Traveller: mythical
+251,ngFM7v18rHWXqGsX1FO9rucUgGT,14790871,Menoitios,Traveller: mythical
+252,ngNU5Z38zOEFxOaN3Om14ckmoOh,14810253,Nagis,Traveller: mythical
+253,ngWD6E28iXtOiXjE2XF06ltLxYK,14810262,Cilix,Traveller: mythical
+254,ngGN4G68sHNY1Htw6IP40vdbhHU,14810346,Sophocles,Author
+255,ngHO9b98tIOZtIuV9IA71weUiHV,14810699,Opous,Traveller: mythical
+256,ngNU0F18zOUF3OaN1Om91ckeoNh,14810701,Patroclos,Traveller: mythical
+257,ngUB0M88gULMfVhU8WN60jrRvUI,14810708,Ozolian Lokrians,Traveller: mythical
+258,ngWD1q08iWDOhXjq0WP84ltBxHK,14810710,Lokrians,Traveller: mythical
+259,ngYF1G28kAPQlZlG2Y30invNzJM,14810712,Epizephyrian Lokrians,Traveller: mythical
+260,ngCJ1U68oDJUpDpC6CL41rzPdNQ,14810716,Amphissa,Traveller: mythical
+261,ngDK1D78pDKV2Eqx7DW5qsaueEx,14810717,Thoas,Traveller: mythical
+262,ngIP2E28uKZA3JvW2I30sxfFjIW,14810722,Abderos,Traveller: mythical
+263,ngKR2G48wLhCwLxG4KD2vzhflMY,14810724,Oileus,Traveller: mythical
+264,ngQX3I08cSXI4Rdo0R182fnprQk,14810730,Lokrian maidens,Traveller: mythical
+265,ngSZ8q48eUZKfTfm4T525hpntTG,14821284,Sandocus,Traveller: mythical
+266,ngVC8t78hXMN7Wip7W85fksmwWp,14821287,Ptolemy,Author
