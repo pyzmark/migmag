@@ -2,3 +2,4 @@ streamlit_folium
 altair
 geojson
 pandas
+shapely
