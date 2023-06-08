@@ -1,6 +1,7 @@
 import pandas as pd
 import streamlit as st
 from streamlit_folium import st_folium
+from streamlit_folium import folium_static
 import numpy as np
 import re
 import folium
@@ -10,6 +11,7 @@ import ast
 from odyssey_func import *
 import json
 from geojson import Point, LineString, GeometryCollection, Feature, FeatureCollection
+from shapely.geometry import shape
 
 # Set basic page information
 app_title = ':amphora: Odyssey'
@@ -20,16 +22,20 @@ def display_map(authors, journ, agents, evid, places, range_min, range_max, hero
     latitude = 38
     longitude = 25
 
+    errors = []
     # Create map and display it
     # Create map and display it
     odyssey_map = folium.Map(
         location=[latitude, longitude], 
         zoom_start=4, 
         tiles=None)
-
-    folium.TileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', name='Carto DB - Dark', attr = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>').add_to(odyssey_map)
-
-    folium.TileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}', name='ESRI - World Shader Relief - Light', attr='Tiles &copy; Esri &mdash; Source: Esri').add_to(odyssey_map)
+    # Add several basemap layers onto the blank space prepared above
+    folium.TileLayer('https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png',
+                     name='Carto DB - Dark',
+                     attr = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>').add_to(odyssey_map)
+    folium.TileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}',
+                     name='ESRI - World Shader Relief - Light',
+                     attr='Tiles &copy; Esri &mdash; Source: Esri').add_to(odyssey_map)
     # This controls whether or not a text_display field is generated in the main function
     # If no journies have been selected in search boxes (see if statemenes below),
     # then that st field will be blank.
@@ -107,90 +113,109 @@ def display_map(authors, journ, agents, evid, places, range_min, range_max, hero
         journ = journ[journ['Time Period'].isin(time_period)]
         journ = journ.reset_index(drop=True)
 
-
-
+    # We need exportable variables (export, author_export) to output from this function, while existing
+    # variables (journ, authors) are needed internally for the function to work
     export = journ
     author_export = authors
 
-
-    def marker_maker(opacity, fill_opacity, weight, popup, journey_label, pointa_label, pointb_label):
-            sign =  folium.map.FeatureGroup(show=True, control=False) 
-            sign.add_child(
-                folium.PolyLine(path,
-                        color='white',
-                        weight=weight,
-                        opacity=opacity,
-                        smooth_factor=True,
-                        popup=popup,
-                        tooltip=journey_label))
-            sign.add_child(
-                folium.CircleMarker(location=pointa,
-                                fill=True,
-                                color='white',
-                                fill_opacity=fill_opacity,
-                                smooth_factor=True,
-                                opacity=opacity,
-                                weight=weight,
-                                radius=6,
-                                tooltip=pointa_label
-                                ))
-            sign.add_child(
-                folium.CircleMarker(location=pointb,
-                                fill=True,
-                                color='white',
-                                fill_opacity=fill_opacity,
-                                smooth_factor=True,
-                                opacity=opacity,
-                                weight=weight,
-                                radius=6,
-                                tooltip=pointb_label
-                                ))
-            odyssey_map.add_child(sign)
-
+    # These lists are used to set up the loops below
     j_names = list(journ['Name'])
     j_pf = list(journ['Place From - Object ID'])
     j_pt = list(journ['Place to - Object ID'])
     j_id = list(journ['Object ID'])
 
-    for name, object_id, pf_id, pt_id in zip(j_names, j_id, j_pf, j_pt):
-        journey = journey_maker(name, pf_id, pt_id)
-        if isinstance(journey[1], list) and isinstance(journey[2], list):
-            #print(journey, "YUP")
-            pointa = [journey[1][1],journey[1][0]]
-            pointb = [journey[2][1],journey[2][0]]
-            pointa_label = places[places['Object ID']==pf_id]['Name'].values[0]
-            pointb_label = places[places['Object ID']==pt_id]['Name'].values[0]
-            heroes = hero_grabber(object_id)
+    # These empty lists are needed to house geojson objects that are to be converted to one big
+    # feature group
+    features = []
+    line_features = []
 
-            if heroes:
-                heroes = heroes
-            else:
-                heroes = "No heroes listed"
-
-            journey_label = journey[0]
-            path = [(pointa[0],pointa[1]),(pointb[0],pointb[1])]
-            html=f"""
-                <h3>{journey_label}</h3><br>
-                Starting point: <code>{pointa_label}</code><br>
-                End point: <code>{pointb_label}</code><br>
-                Heroes involved: <code>{heroes}</code><br>
-
-                """
-            test = folium.Html(html, script=True)
-            popup = folium.Popup(test, max_width=265, max_height=400, parse_html=True)
-
-            # Layer controls (opacity, fill_opacity, weight, popup, journey_label, pointa_label, pointb_label)
-            # True layer
-            marker_maker(0.9,0.5,0.3,None,None,None,None)
-            # Highlight layer
-            marker_maker(0,0,8,popup,journey_label,pointa_label,pointb_label)
-
-        else:
-            #print(journey, "NUP")
+    # Make markers and polygons for origins and destinations
+    for i in list(set(j_pf + j_pt)):
+        try:
+            marker = geo_grabber(i)
+            try: 
+                marker = marker['geometries'][0]
+            except:
+                marker = marker
+            marker = shape(marker)
+        #    marker = marker.centroid
+        #    marker = tuple((marker.coords[:])[0])
+        #    label = places[places['Object ID']==i]['Name'].values[0]
+            place_name = places[places['Object ID']==i]['Name'].values[0]
+            feature = Feature(geometry=marker, properties={"Name": place_name})
+            features.append(feature)
+        except:
             continue
 
-        journ['Object ID'] = journ['Object ID'].astype(str)
-    return odyssey_map, export, journ, text_display, author_export
+    # Make lines for journeys
+    for name, object_id, pf_id, pt_id in zip(j_names, j_id, j_pf, j_pt):
+        try:
+            journey = journey_maker(name, pf_id, pt_id)
+            journey_label = journey[0]
+            pointa = journey[1]
+            pointb = journey[2]
+            # This uses shapely, not geojson-py, to find the centroid of polygons as line anchors
+            # It can be used for points too---it just returns the point
+            pointa_anchor = shape(pointa)
+            pointa_anchor = pointa_anchor.centroid
+            pointa_anchor = tuple((pointa_anchor.coords[:])[0])
+            pointb_anchor = shape(pointb)
+            pointb_anchor = pointb_anchor.centroid
+            pointb_anchor = tuple((pointb_anchor.coords[:])[0])
+            line = LineString([pointa_anchor, pointb_anchor])
+            line_feature = Feature(geometry=line, properties={"Journey": journey[0]})
+            line_features.append(line_feature)
+        except:
+            # The thought here is to maintain a list of truly impossible journeys as an error output
+            errors.append(journey)
+            continue
+    markers = FeatureCollection(features)
+    lines = FeatureCollection(line_features)
+    style = lambda x: {
+        'color' : 'white',
+        'opacity' : '0.60',
+        'weight' : '1',
+        'radius' : '8',
+        'fill' : 'True',
+        'fillOpacity' : '0',
+        'fillColor' : 'white'
+            }
+    highlight = lambda x: {
+        'color' : 'white',
+        'opacity' : '0.80',
+        'weight' : '5',
+        'fill' : 'True',
+        'fillOpacity' : '0.3',
+        'fillColor' : 'white'
+            }
+    folium.features.GeoJson(markers, 
+                    style_function=style,
+                    highlight_function=highlight,
+                    name='Markers', 
+                    overlay=True, 
+                    control=True, 
+                    show=True, 
+                    smooth_factor=True, 
+                    tooltip=folium.GeoJsonTooltip(fields=['Name']),
+                    embed=True, 
+                    popup=None, 
+                    zoom_on_click=False, 
+                    marker=folium.CircleMarker()).add_to(odyssey_map)
+    folium.features.GeoJson(lines, 
+                    style_function=style,
+                    highlight_function=highlight,
+                    name='Mythical Journeys', 
+                    overlay=True, 
+                    control=True, 
+                    show=True, 
+                    smooth_factor=True, 
+                    tooltip=folium.GeoJsonTooltip(fields=['Journey']),
+                    embed=True, 
+                    popup=None, 
+                    zoom_on_click=False, 
+                    marker=folium.CircleMarker()).add_to(odyssey_map)
+
+    return odyssey_map, export, journ, text_display, author_export, errors
 
 def main():
     # Load Data
@@ -264,17 +289,28 @@ def main():
     # geo_grabber is currently not capable of ingesting regions with polygon data
     # Right not when you run it in a loop, it just drops those entries
     global geo_grabber
+#    def geo_grabber(place_id):
+#        try:
+#            results = places[places['Object ID']==place_id]['[GPS Location] Geometry'].values[0]
+#            results = ast.literal_eval(results)
+#            return results['coordinates']
+#        except:
+#            #results = json_search(data, 'object_sub_location_geometry')
+#            results = 'No coords'
+#            return results
     def geo_grabber(place_id):
-        nodegoat = places[places['Object ID']==place_id]['nodegoat ID'].values[0]
-        #data = apicall(dt_dict['places'],nodegoat)
+        results = places[places['Object ID']==place_id]['[GPS Location] Geometry'].values[0]
         try:
-            results = places[places['Object ID']==place_id]['[GPS Location] Geometry'].values[0]
-            results = ast.literal_eval(results)
-            return results['coordinates']
+            if 'coordinates' in results:
+                results = ast.literal_eval(results)
+                return results
+            elif 'coordinates' not in results:
+                results = 'There is a problem. Probably the place referred to here is missing a sub-object.'
+                return results
         except:
-            #results = json_search(data, 'object_sub_location_geometry')
-            results = 'No coords'
+            results = 'There is a problem. Not quite sure what...'
             return results
+            st.write(results)
 
     global journey_maker
     def journey_maker(name, pf_id, pt_id):
@@ -381,13 +417,20 @@ def main():
     # the bottom of the page. modjourn is a modified journ df that comes out of
     # the map, once filters are applied. text_display is a y/n switch that
     # tells the program whether to generate text for the subsection of journeys
-    odyssey_map, export, modjourn, text_display, author_export = display_map(authors, journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, author_name, journj, agentsj, evidj, mode_move, time_period)
+    odyssey_map, export, modjourn, text_display, author_export, errors = display_map(authors, journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, author_name, journj, agentsj, evidj, mode_move, time_period)
 
 
     folium.LayerControl().add_to(odyssey_map)
     # This begins the mapping function
-    st_data = st_folium(odyssey_map, width=950, height=450)
+#    import streamlit.components.v1 as components
+#    iframe = odyssey_map._repr_html_()
+#    components.html(iframe, width=950, height=500)
+    st.data = st_folium(odyssey_map, width=950, height=500)
 
+    if errors:
+        with st.expander(":skull: Error 01: Journey(s) missing geographic information on at least one place in Nodegoat", expanded=False):
+            st.write('Below are a series of "lists" (produced by the program\'s code, so they are barely human legible\). The point is that each list (starting with #0) has three sub-elements. #0 is the name of the journey. #1 is an origin point. #2 is a destination. The most likely source of error is a missing value in #1 or #2, and this will be indicated by the phrase "There is a problem. Probably the place referred to here is missing a sub-object.". This should be fixed in Nodegoat by filling in geographic information on either the origin point or destination of the journey in question.')
+            st.write(errors)
 # This function builds the markdown text evidence below the map.
 # it relies on text_evidence, set in the odyssey_map function, to be true
     def text_maker(journeys):
