@@ -442,6 +442,7 @@ def main():
         for i in list(modjourn['Object ID']):
             journey_name = grabber(journj, i, None, 'object_name')
             if journey_name not in journey_names:
+                journey_names.append(journey_name)
                 with st.expander(journey_name):
                     try:
                         evidence = grabber(journj, str(i), '35524', 'object_definition_ref_object_id')
