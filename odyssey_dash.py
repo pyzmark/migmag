@@ -391,8 +391,8 @@ def main():
         return name
 
     journ_name = searchbar_maker(journ, 'Name', 'Selection Journey by Name   :memo:', tooltip)
-    dest_name = searchbar_maker(journ, 'Place to', 'Select Destination   :memo:', tooltip)
     port_name = searchbar_maker(journ,'Place From', 'Select Port of Origin   :memo:', tooltip)
+    dest_name = searchbar_maker(journ, 'Place to', 'Select Destination   :memo:', tooltip)
     time_period = searchbar_maker(journ, 'Time Period', 'Mythical Time Period (Travellers)', None)
     author_name = searchbar_maker(authors, 'Name', 'Author(s) of Evidence for Journeys   :memo:', tooltip)
     #from_region = searchbar_maker(places, 'Region', 'From Region')
@@ -433,73 +433,44 @@ def main():
             st.write(errors)
 # This function builds the markdown text evidence below the map.
 # it relies on text_evidence, set in the odyssey_map function, to be true
-    def text_maker(journeys):
-        # Set header for all texts
-        total_text = """## Textual Evidence
+    if text_display:
+        header = """## Textual Evidence
 
         """
-        # There was a problem with multiple instances of the same journey
-        # producing multiple text sections
-        # The list below fixes that, as each journey is checked against the list
+        st.write(header)
         journey_names = []
-        for i in journeys:
+        for i in list(modjourn['Object ID']):
             journey_name = grabber(journj, i, None, 'object_name')
             if journey_name not in journey_names:
-                # We are stapling several sections together
-                # total_text > sub_total_text > markdown
-                #              sub_total_text > markdown
-                #                             > markdown
-                sub_total_text = f"""
--------
-### {journey_name}
-            
-            """
-                # Some problems with failures when JSON querying something that doesn't exist
-                # So the check helps
-                try:
-                    evidence = grabber(journj, str(i), '35524', 'object_definition_ref_object_id')
-                    for number, y in enumerate(evidence):
-                        author = str(grabber(evidj, str(y), '35557', 'object_definition_value'))
-                        title = str(grabber(evidj, str(y), '36999', 'object_definition_value'))
-                        greek = str(grabber(evidj, str(y), '37023', 'object_definition_value'))
-                        english = str(grabber(evidj, str(y), '37024', 'object_definition_value'))
-                        number2 = str(number+1)
-                        if author in list(author_export['Name']):
-                            markdown = f"""
+                with st.expander(journey_name):
+                    try:
+                        evidence = grabber(journj, str(i), '35524', 'object_definition_ref_object_id')
+                        for number, y in enumerate(evidence):
+                            author = str(grabber(evidj, str(y), '35557', 'object_definition_value'))
+                            title = str(grabber(evidj, str(y), '36999', 'object_definition_value'))
+                            greek = str(grabber(evidj, str(y), '37023', 'object_definition_value'))
+                            english = str(grabber(evidj, str(y), '37024', 'object_definition_value'))
+                            number2 = str(number+1)
+                            if author in list(author_export['Name']):
+                                markdown = f"""
 
 #### {number2}. {author} - {title}
 {english}
 
-
 *{greek}*
-
-                        """
-                        elif author not in list(author_export['Name']):
+                                """
+                            elif author not in list(author_export['Name']):
                                 continue
-                        else:
-                            markdown = f"""
+                            else:
+                                markdown = f"""
 
 #### {number2}. {author} - {title}
 There is no text to show here.
-                        """
-                            st.write(author, author_export)
-                        sub_total_text = ' '.join((sub_total_text, markdown))
-                    total_text = ' '.join((total_text,sub_total_text))
-                    journey_names.append(journey_name)
-                except:
-                    #number = number-1
-                    journey_names.append(journey_name)
-                    st.write(journey_names)
-                    st.write("Something isn't WORKING")
-                    continue
-            else:
-                continue
-        return total_text
+                                """
+                            st.write(markdown)
+                    except:
+                        st.write("Something isn't working!")
 
-    if text_display:
-        markdown = text_maker(list(modjourn['Object ID']))
-        st.write(markdown)
-    
 
     # The following generate a data dump button
     # When you are ready to complete this, docs are at: https://docs.streamlit.io/library/api-reference/widgets/st.download_button
