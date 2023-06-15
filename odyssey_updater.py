@@ -105,12 +105,14 @@ final = ''
 def grabber(json, object_id, data_type, string_value):
     data = json_search(json, object_id)
     if data_type:
-        result = json_search(data, data_type)
-        output = result[string_value]
+        try:
+            result = json_search(data, data_type)
+            output = result[string_value]
+        except:
+            output = float('NaN')
     else:
         output = json_search(data, string_value)
-    return output# The one df we skip making a CSV for is evidence, which will just become unnecessarily large
-
+    return output
 
 ### Start with places
 placeslist = []
