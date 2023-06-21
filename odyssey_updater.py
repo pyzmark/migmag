@@ -9,7 +9,8 @@ import json
 
 # Any public use of this app will need this to be encrypted somehow or passed in using another method
 # this is template for use in other parts of the code: it will usually need to be adapted in some way
-my_headers = {'Authorization' : 'Bearer z6aanT57RX5mrf7ApyCIrgizQSYaM2cXztiTgoTpbQJO7FKyP'}
+
+# You need to insert my_header here
 
 def apicall(datatype,objectid):
     url = 'https://nodegoat.io/project/3269'+'/data/type/'+datatype+'/object/'+objectid
