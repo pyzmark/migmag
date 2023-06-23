@@ -7,10 +7,11 @@ import requests
 from requests.auth import HTTPDigestAuth
 import json
 
-# Any public use of this app will need this to be encrypted somehow or passed in using another method
-# this is template for use in other parts of the code: it will usually need to be adapted in some way
+# This will prompt the user to insert their NodeGoat token at command line
+mytoken = input("Enter user token for NodeGoat: ")
+bearer = 'Bearer '
+my_headers = {'Authorization' : bearer + mytoken}
 
-# You need to insert my_header here
 
 def apicall(datatype,objectid):
     url = 'https://nodegoat.io/project/3269'+'/data/type/'+datatype+'/object/'+objectid
@@ -187,14 +188,19 @@ for i in data['objects']:
 # Build df
 evid = pd.DataFrame(columns=['nodegoat ID', 
                                   'Object ID', 
-                                  'Name'])
+                                  'Name',
+                             'Mobility Word'
+                             ])
 # Fill df
 for i in evidlist:
     object_id = i
     nodegoat_id = grabber(evidj, i, None, 'nodegoat_id')
     name = grabber(evidj, i, None, 'object_name')
+    mobn = grabber(evidj, i, '47295', 'object_definition_value')
+    mobv = grabber(evidj, i, '47292', 'object_definition_value')
+    mobw = mobn + mobv
     # Apparently this too can be multiple...
-    new_row = [nodegoat_id, object_id, name]
+    new_row = [nodegoat_id, object_id, name, mobw]
     evid.loc[len(evid)] = new_row
 
 ### Get a list of journeys
@@ -302,6 +308,18 @@ for i in journ['Object ID']:
     authors_in_this_journey = list(set(authors_in_this_journey))
     all_passages.append(authors_in_this_journey)
 journ['Authors'] = all_passages
+
+# Assign words of mobility here
+all_words = []
+for i in journ['Object ID']:
+    passage_list = grabber(journj, str(i), '35524', 'object_definition_ref_object_id')
+    words_in_this_journey = []
+    for i in passage_list:
+        words_in_this_journey.extend(grabber(evidj, str(i), '47292', 'object_definition_value'))
+        words_in_this_journey.extend(grabber(evidj, str(i), '47295', 'object_definition_value'))
+    words_in_this_journey = list(set(words_in_this_journey))
+    all_words.append(words_in_this_journey)
+journ['Mobility Words'] = all_words
 
 journ.to_csv('mythjour.csv', index=False)
 evid.to_csv('textevid.csv', index=False)

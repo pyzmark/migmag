@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2023-06-08T17:20:37+00:00",
+    "timestamp": "2023-06-22T20:14:17+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -1600,7 +1600,7 @@
                             "object_sub_date_start": 0,
                             "object_sub_date_end": 0,
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [21.9187966447, 38.4155867611]}",
+                            "object_sub_location_geometry": "{\"type\": \"GeometryCollection\", \"geometries\": [{\"type\": \"Polygon\", \"coordinates\": [[[21.70588381762866, 38.349870802704544], [21.72182435852625, 38.33938261895187], [21.73700303185811, 38.328964649304794], [21.75407903935738, 38.33045302238705], [21.76641171143993, 38.33491795822735], [21.774001048105873, 38.34235890658792], [21.7891797214389, 38.360957933754264], [21.81194773143784, 38.37062753991896], [21.831378086946245, 38.38036751056595], [21.84276210658254, 38.37590538461862], [21.86363278241413, 38.36772409096801], [21.887079206544144, 38.364748850454475], [21.900360563772267, 38.36772410948672], [21.91648790418722, 38.381854853886495], [21.92976924335406, 38.39226521534508], [21.948742585019488, 38.40193063773481], [21.97720259751705, 38.390034549754006], [21.993329937933197, 38.389290979265894], [22.01894394918145, 38.390034549754006], [22.050249962929485, 38.381854853886495], [22.06827463751182, 38.37441796399986], [22.07870997542821, 38.37144299399333], [22.1223486612588, 38.36326119582091], [22.130886665007836, 38.349870803780874], [22.15555200917416, 38.34243062704627], [22.16883334833983, 38.33126892897366], [22.19065269125457, 38.32457108479613], [22.205831364587567, 38.33796615415813], [22.221010037919456, 38.3461508109491], [22.244726715001548, 38.35284666047201], [22.257059387084126, 38.351358747412775], [22.285519399582853, 38.344662760316055], [22.30828740958179, 38.34689482480121], [22.33105541957957, 38.34317467911205], [22.34528542582956, 38.34540678945373], [22.359515432078297, 38.332757254731064], [22.37848877374375, 38.32903638302304], [22.384180776243483, 38.33871025207915], [22.391770112909455, 38.350614779418606], [22.38987277874324, 38.357310216209555], [22.401256783742696, 38.36028576716521], [22.39651344832609, 38.37441796399986], [22.385129443326576, 38.380367537068054], [22.379437440826877, 38.39226521534508], [22.387026777492792, 38.40118718958166], [22.407897453325575, 38.41085141914746], [22.40694878624248, 38.423487307838144], [22.40030811665966, 38.42868967843648], [22.40694878624248, 38.44578054318555], [22.41169212165792, 38.450981307591775], [22.42212745957434, 38.468809654172475], [22.42781946207407, 38.49480142695916], [22.421178792491247, 38.515588096128624], [22.40979478749179, 38.53043204339926], [22.371848104160904, 38.54007896730138], [22.350028761245028, 38.5334004654587], [22.350028761245028, 38.52004160176847], [22.32914178422817, 38.48774075049187], [22.314935678122765, 38.466329316120834], [22.30282794247688, 38.4462712457327], [22.280791256157556, 38.42707727739926], [22.259719544034738, 38.41817221101559], [22.24934072048805, 38.40822497651004], [22.230608622372927, 38.40205648476484], [22.246969613307417, 38.407972589988105], [22.23334271593049, 38.40193063665927], [22.210534498674463, 38.40819328152125], [22.188433704951223, 38.40887345035304], [22.16958098506032, 38.40955368329461], [22.132784005103616, 38.41010806167745], [22.096734655938945, 38.415311395851546], [22.039814630942686, 38.416054698716465], [22.00850861719465, 38.42051435531394], [21.980997271779017, 38.42646013584903], [21.964869931362955, 38.42868967736129], [21.919333911366152, 38.42868967736129], [21.879489893869103, 38.42423052550595], [21.842491877620205, 38.415311395851546], [21.7969558576234, 38.403417510027], [21.774187847624404, 38.39003454867824], [21.74098449971021, 38.36846790060045], [21.70588381762866, 38.349870802704544]]]}]}",
                             "object_sub_location_geometry_ref_object_id": 12486316,
                             "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 12486316,
@@ -5338,7 +5338,7 @@
                             "object_sub_date_start": 0,
                             "object_sub_date_end": 0,
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": "{\"type\": \"GeometryCollection\", \"geometries\": [{\"type\": \"Polygon\", \"coordinates\": [[[8.321935759458228, 41.114662017841], [8.204772684013676, 41.017914072734214], [8.17687671366943, 40.9252393953837], [8.21035187808127, 40.891507242192574], [8.121084772980879, 40.739499666952014], [8.18803510180615, 40.62526549300287], [8.388886088283499, 40.472648829787374], [8.405623670490996, 40.34520269481496], [8.478153193385367, 40.29841198855635], [8.47257399931621, 40.23881328387745], [8.478153193385367, 40.140787145492], [8.49489077559133, 40.059702199515584], [8.377727700146693, 40.03834799737365], [8.394465282352598, 39.94858731089789], [8.455836417110334, 39.89296206635305], [8.53394513407386, 39.90152273734023], [8.545103522210667, 39.80729655277116], [8.528365940004733, 39.72581532098306], [8.455836417110334, 39.78157605539997], [8.44467802897205, 39.622753869869285], [8.433519640835186, 39.53675190155897], [8.377727700146693, 39.45064324798031], [8.405623670490996, 39.39461544268869], [8.42236125269693, 39.26946809372461], [8.360990117940759, 39.21761748208618], [8.489311581522202, 39.10947230908073], [8.383306894215877, 39.06616769732551], [8.305198177252294, 39.13111464364118], [8.232668654357866, 39.157076668420586], [8.355410923871602, 39.022836502410286], [8.416782058627746, 38.95345131876195], [8.49489077559133, 39.05750358472491], [8.589737074762326, 39.03583865161312], [8.639949821381663, 38.870968100841054], [8.734796120551238, 38.94043402588713], [8.851959195995818, 38.870968100841054], [9.024914212128891, 39.00983196148513], [9.041651794336303, 39.06616769732551], [9.002597435853858, 39.13976971582039], [9.108602123161576, 39.22193983026236], [9.248081974882808, 39.22193983026236], [9.409878602877626, 39.15275032926138], [9.532620872392869, 39.11380130785753], [9.560516842735524, 39.16572854870836], [9.610729589354946, 39.33422744681255], [9.64420475376832, 39.562563696816426], [9.68883830631853, 39.7901506231768], [9.699996694456786, 39.99561952591759], [9.73347185887016, 40.08531841091997], [9.64420475376832, 40.1791620718013], [9.64420475376832, 40.31117630648575], [9.73905105293784, 40.40895592996716], [9.828318158039709, 40.49810909098758], [9.772526217351242, 40.60832526323338], [9.73905105293784, 40.68875309351776], [9.694417500387658, 40.79443146729071], [9.766947023282055, 40.9252393953837], [9.64420475376832, 41.017914072734214], [9.437774573221844, 41.24064101097218], [9.225765198607718, 41.25322558215779], [9.15881486978094, 41.18188096740599], [9.058389376542266, 41.13987719941164], [8.946805495166814, 41.08102670391642], [8.807325643445637, 40.9168079703409], [8.701320956137835, 40.9168079703409], [8.623212239174222, 40.87885324857774], [8.539524328143017, 40.836655796650575], [8.427940446766087, 40.836655796650575], [8.33309414759654, 40.84509743741589], [8.238247848425516, 40.942099018687315], [8.321935759458228, 41.114662017841]]]}]}",
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [9.0, 40.0]}",
                             "object_sub_location_geometry_ref_object_id": 13657343,
                             "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 13657343,
@@ -9227,19 +9227,19 @@
                 "object": {
                     "nodegoat_id": "ngLS5X18xMiDyMyZyMU96aikmMf",
                     "object_id": 14790851,
-                    "object_name": "Foundation of West Lokris",
+                    "object_name": "Foundation of West Lokris by Lokros",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-07T13:20:41Z"
+                    "object_dating": "2023-06-08T19:15:36Z"
                 },
                 "object_definitions": {
                     "35544": {
                         "object_description_id": 35544,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Foundation of West Lokris",
+                        "object_definition_value": "Foundation of West Lokris by Lokros",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -9390,7 +9390,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-05T16:17:56Z"
+                    "object_dating": "2023-06-08T19:41:53Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -9509,10 +9509,12 @@
                     "47960": {
                         "object_description_id": 47960,
                         "object_definition_ref_object_id": [
-                            14790851
+                            14790851,
+                            14828458
                         ],
                         "object_definition_value": [
-                            "Foundation of West Lokris"
+                            "Foundation of West Lokris by Lokros",
+                            "Lokros's genealogies"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -9653,7 +9655,7 @@
                             14790851
                         ],
                         "object_definition_value": [
-                            "Foundation of West Lokris"
+                            "Foundation of West Lokris by Lokros"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -9678,7 +9680,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-05T11:13:20Z"
+                    "object_dating": "2023-06-14T17:09:17Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -9794,8 +9796,12 @@
                     },
                     "47960": {
                         "object_description_id": 47960,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            14830286
+                        ],
+                        "object_definition_value": [
+                            "Mythical allies - Lokrians and Boeotians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -9819,7 +9825,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-06T12:50:54Z"
+                    "object_dating": "2023-06-14T15:49:44Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -9843,14 +9849,10 @@
                     "35547": {
                         "object_description_id": 35547,
                         "object_definition_ref_object_id": [
-                            14790849,
-                            12408013,
-                            14810713
+                            12408013
                         ],
                         "object_definition_value": [
-                            "East Lokris - Opountian Lokris",
-                            "Atalanti - Opous",
-                            "Epiknemedian Lokris"
+                            "Atalanti - Opous"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -9906,7 +9908,7 @@
                     "35519": {
                         "object_description_id": 35519,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Deukalion and Pyrrha came down Mount Parnassos to settle in Lokris and founded the first people, the Lelegians. Pindar makes specific reference to the city of Opous as the city of Protogeneia, daughter of Deukalion.\r\n\r\nIn Pliny, the Epiknemedian Lokrians were formerly known as Leleges.\r\n\r\nIn the entry of Stephanos Byzantinos, Physkos is the son of Deukalion and the ancestor of the Leleges, now called Lokrians.",
+                        "object_definition_value": "In Pindar, Deukalion and Pyrrha came down Mount Parnassos, and as ordered by Zeus settled in Opous and founded the first people, the Lelegians. Pindar makes further reference to the city of Opous as the city of Protogeneia, daughter of Deukalion.\r\n\r\nDionysios of Halikarnassos narrates that the Lelegians (now called Lokrians), together with Curetes (now called Aitolians), and led by Deukalion, expelled the previous settlers of Thessaly and other settlers of Parnassus, and took over the area.\r\n\r\nIn Pliny, the Epiknemedian Lokrians were formerly known as Leleges.\r\n\r\nIn the entry of Stephanos Byzantinos, Physkos is the son of Deukalion and the ancestor of the Leleges, now called Lokrians.\r\n\r\nPausanias passage does not evoke direct claims of the Lokrians descending from the Lelegians. Yet we do read that the Opountians claim to house the burial monument of Prometheus, whose mythology is in many ways linked with the creation of the first peoples and, in some sources, his genealogy linked with that of Deuaklion and Pyrrha. https://manto.unh.edu/viewer.p/60/2616/object/6580-8189357",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -9915,12 +9917,16 @@
                         "object_definition_ref_object_id": [
                             14774830,
                             14775284,
-                            14829821
+                            14829821,
+                            14838013,
+                            14844529
                         ],
                         "object_definition_value": [
                             "Pindar Pind.O. 9 40-79",
                             "Stephanos of Byzantion s.v. Physkos",
-                            "Pliny the Elder Plin. Nat. 4.12"
+                            "Pliny the Elder Plin. Nat. 4.12",
+                            "Pausanias Paus. 2.19.8",
+                            "Dionysios of Halikarnassos D.H. 1.17.3"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -11234,7 +11240,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-08T11:46:52Z"
+                    "object_dating": "2023-06-15T13:52:18Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -11349,7 +11355,8 @@
                             14830392,
                             14837468,
                             14837616,
-                            14837621
+                            14837621,
+                            14775713
                         ],
                         "object_definition_value": [
                             "Kallimachos Fr. 35",
@@ -11363,7 +11370,8 @@
                             "Dictys of Crete 6.1",
                             "Philostratos Philostr. Her. 706-707",
                             "Philostratos Imagines 2.13.1-2",
-                            "Tryphiodorus Tryph. 647-650"
+                            "Tryphiodorus Tryph. 647-650",
+                            "Schol. Hom. Il Σ AD Il. 13.66"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -11675,7 +11683,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-06T13:36:32Z"
+                    "object_dating": "2023-06-09T17:34:54Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -11761,14 +11769,16 @@
                             14783495,
                             14783496,
                             14775712,
-                            14783504
+                            14783504,
+                            14787114
                         ],
                         "object_definition_value": [
                             "Strabo 9.4.2",
                             "Diodorus Siculus Diod. Sic. 14.82.8-9",
                             "Stephanos of Byzantion s.v. Naryx",
                             "Kallimachos Fr. 35",
-                            "Ovid Ov. Met. 14.466-474"
+                            "Ovid Ov. Met. 14.466-474",
+                            "Suda s.v. Naryx"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -11858,7 +11868,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-08T14:35:21Z"
+                    "object_dating": "2023-06-14T17:43:37Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -11871,14 +11881,12 @@
                     "35546": {
                         "object_description_id": 35546,
                         "object_definition_ref_object_id": [
-                            14810713,
-                            14790849,
-                            12433343
+                            12433343,
+                            14838161
                         ],
                         "object_definition_value": [
-                            "Epiknemedian Lokris",
-                            "East Lokris - Opountian Lokris",
-                            "Palaikastro eis ta marmara - Thronio"
+                            "Palaikastro eis ta marmara - Thronio",
+                            "East Lokris"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -11967,7 +11975,9 @@
                             14774824,
                             14830389,
                             14837175,
-                            14837660
+                            14837660,
+                            14837712,
+                            14838011
                         ],
                         "object_definition_value": [
                             "Euripides Eur. IA 253",
@@ -11976,7 +11986,9 @@
                             "Homer Hom.Il. 2.527–535.",
                             "Dictys of Crete 1.14",
                             "Philostratos Philostr. Her. 689",
-                            "Ioannis Malalas Chronographia 5.108"
+                            "Ioannis Malalas Chronographia 5.108",
+                            "Strabo 10.1.13",
+                            "Pausanias 1.23.4"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -12369,7 +12381,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-08T11:46:52Z"
+                    "object_dating": "2023-06-15T13:52:18Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -12467,7 +12479,9 @@
                             14786785,
                             14786787,
                             14830392,
-                            14837621
+                            14837621,
+                            14844546,
+                            14775713
                         ],
                         "object_definition_value": [
                             "Hyginus Fab. 116",
@@ -12477,7 +12491,9 @@
                             "Homer Hom. Od. 4.495-511",
                             "Euripides Eur. Tro. 60-97",
                             "Dictys of Crete 6.1",
-                            "Tryphiodorus Tryph. 647-650"
+                            "Tryphiodorus Tryph. 647-650",
+                            "Iamblichos Pythagorica 8.42",
+                            "Schol. Hom. Il Σ AD Il. 13.66"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -12967,7 +12983,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-05T12:56:36Z"
+                    "object_dating": "2023-06-13T12:05:19Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -12980,9 +12996,11 @@
                     "35546": {
                         "object_description_id": 35546,
                         "object_definition_ref_object_id": [
-                            14810713
+                            14838161,
+                            14838217
                         ],
                         "object_definition_value": [
+                            "East Lokris",
                             "Epiknemedian Lokris"
                         ],
                         "object_definition_sources": [],
@@ -13042,17 +13060,19 @@
                     "35519": {
                         "object_description_id": 35519,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Strabo (9.4.9), drawing on the homonymous towns of Alope in Lokri and Phthia, informs us that the Lokri Epizephyrioi in Italy was founded by the Western/Ozolian Lokrians, who were in turn founded by the Epiknemedian Lokrians.",
+                        "object_definition_value": "In Pseudo-Skymnos, Ozolian Lokrians were settlers that came from East Lokris (the Lokrians that faced the Euboean Gulf).\r\n\r\nStrabo (9.4.9), drawing on the homonymous towns of Alope in Lokri and Phthia, informs us that the Lokri Epizephyrioi in Italy was founded by the Western/Ozolian Lokrians, who were in turn founded by the Epiknemedian Lokrians.",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35524": {
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
-                            14786889
+                            14786889,
+                            14837701
                         ],
                         "object_definition_value": [
-                            "Strabo 9.4.7-9"
+                            "Strabo 9.4.7-9",
+                            "Pseudo-Skymnos Periegesis 475"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -13331,7 +13351,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-08T15:34:13Z"
+                    "object_dating": "2023-06-18T18:40:21Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -13418,7 +13438,7 @@
                     "35519": {
                         "object_description_id": 35519,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "The people of Amphissa claimed they were Aetolians to avoid the embarrassing name \"Ozolians\", although they were originally Lokrians.\r\n\r\nAmphissa takes its name from the lover of Apollo, who was the daughter of Macar, son of Aeolus. According to Pausanias, there was also a burial monument dedicated to her in the city.\r\n\r\nLokrian nostoi: Thoas, a Trojan hero from Amphissa, seems to be one of the few Lokrians who made it back home from war. It is said that he brought as war booty the bronze image of goddess Athena, which, at the time of Pausanias, was placed and worshipped in a temple on the Acropolis. Pausanias, however, is not convinced by this myth.",
+                        "object_definition_value": "The people of Amphissa claimed they were Aetolians to avoid the embarrassing name \"Ozolians\", although they were originally Lokrians.\r\n\r\nAmphissa takes its name from the lover of Apollo, who was the daughter of Macar, son of Aeolus. According to Pausanias, there was also a burial monument dedicated to her in the city.\r\n\r\nHarpokration cites Aristotle who supports that the founder of the city was Andraimon, while the city's name is due to the fact that it is surrounded by mountains.\r\n\r\nLokrian nostoi: Thoas, a Trojan hero from Amphissa, seems to be one of the few Lokrians who made it back home from war. It is said that he brought as war booty the bronze image of goddess Athena, which, at the time of Pausanias, was placed and worshipped in a temple on the Acropolis. Pausanias, however, is not convinced by this myth.",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -13531,7 +13551,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-07T15:49:55Z"
+                    "object_dating": "2023-06-15T17:20:01Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -13621,12 +13641,14 @@
                         "object_definition_ref_object_id": [
                             14786920,
                             14830372,
-                            14786889
+                            14786889,
+                            14774994
                         ],
                         "object_definition_value": [
                             "Pausanias Paus. 10.38.9-13",
                             "Pseudo-Apollodoros Apollod. 2.8.2",
-                            "Strabo 9.4.7-9"
+                            "Strabo 9.4.7-9",
+                            "Polybius Plb. 12.12a"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -14582,7 +14604,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-08T10:53:15Z"
+                    "object_dating": "2023-06-15T14:51:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -14673,7 +14695,16 @@
                             14775712,
                             14783506,
                             14790758,
-                            14837468
+                            14837468,
+                            14838004,
+                            14838008,
+                            14838021,
+                            14838022,
+                            14844546,
+                            14775864,
+                            14775713,
+                            14775859,
+                            14851541
                         ],
                         "object_definition_value": [
                             "Polybius Plb. 12.5-6",
@@ -14682,7 +14713,16 @@
                             "Kallimachos Fr. 35",
                             "Aeneas Tacticus Aen.Tact. 31.24",
                             "Pseudo-Apollodoros Apollod. Epit. e.6.20-22",
-                            "Philostratos Philostr. Her. 706-707"
+                            "Philostratos Philostr. Her. 706-707",
+                            "Strabo 13.1.40",
+                            "Plutarch Plut. De Sera 12",
+                            "Suda s.v. payment (ποινή)",
+                            "Aelius Aristeides Suda 4.Π.3092",
+                            "Iamblichos Pythagorica 8.42",
+                            "Schol. Lyc. Alexandria Σ ss3 Lyc. 1141",
+                            "Schol. Hom. Il Σ AD Il. 13.66",
+                            "Lykophron Alexandra 1141-1174",
+                            "Lykophron Lyophr. 348-372"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -16071,7 +16111,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-06T11:29:09Z"
+                    "object_dating": "2023-06-09T17:13:41Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -16175,8 +16215,12 @@
                     },
                     "47960": {
                         "object_description_id": 47960,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            14828581
+                        ],
+                        "object_definition_value": [
+                            "Origin claims of the town of Kynos"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -16193,7 +16237,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-07T12:58:21Z"
+                    "object_dating": "2023-06-19T10:57:32Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -16275,12 +16319,14 @@
                         "object_definition_ref_object_id": [
                             14786913,
                             14830290,
-                            14774817
+                            14774817,
+                            14858716
                         ],
                         "object_definition_value": [
                             "Pausanias Paus. 10.38.1-3",
                             "Strabo Strab. 9.4.8",
-                            "Plutarch Plut. Quaes. Gr. 15"
+                            "Plutarch Plut. Quaes. Gr. 15",
+                            "Antigonus of Karystos Historiarum mirabilium collectanea 117"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -16319,7 +16365,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-08T09:47:17Z"
+                    "object_dating": "2023-06-15T10:27:32Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -16394,13 +16440,13 @@
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
                             14787055,
-                            12408997,
-                            14829838
+                            14829838,
+                            14851491
                         ],
                         "object_definition_value": [
                             "Stephanos of Byzantion s.v. Kalliaros",
-                            "Strabo 13.1.68",
-                            "Strabo Strab. 13.1.68"
+                            "Strabo FGrHist 1  F13",
+                            "Hellanikos FGrHist I F13"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -16987,7 +17033,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-07T09:27:27Z"
+                    "object_dating": "2023-06-13T11:55:35Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -17073,10 +17119,12 @@
                     "35524": {
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
-                            14790722
+                            14790722,
+                            14844558
                         ],
                         "object_definition_value": [
-                            "Pseudo-Hesiod Hes. Sh. 1 1-30"
+                            "Pseudo-Hesiod Hes. Sh. 1 1-30",
+                            "Hellenica Oxyrhynchia BNJ f9"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -17121,7 +17169,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-08T09:46:25Z"
+                    "object_dating": "2023-06-13T11:55:35Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -17135,11 +17183,13 @@
                         "object_description_id": 35546,
                         "object_definition_ref_object_id": [
                             14790849,
-                            14810713
+                            14810713,
+                            12408022
                         ],
                         "object_definition_value": [
                             "East Lokris - Opountian Lokris",
-                            "Epiknemedian Lokris"
+                            "Epiknemedian Lokris",
+                            "Ag.Konstantinos - Isiomata - Daphnous"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -17171,10 +17221,10 @@
                     "35518": {
                         "object_description_id": 35518,
                         "object_definition_ref_object_id": [
-                            14350871
+                            11945227
                         ],
                         "object_definition_value": [
-                            "Immobility"
+                            "Formal naming of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -17204,11 +17254,13 @@
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
                             14836962,
-                            14837091
+                            14837091,
+                            14844558
                         ],
                         "object_definition_value": [
                             "Antoninus Liberalis Metamorphoses 38",
-                            "Nikander of Kolophon Metamorphoses 38"
+                            "Nikander of Kolophon Metamorphoses 38",
+                            "Hellenica Oxyrhynchia BNJ f9"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -17229,8 +17281,12 @@
                     },
                     "47960": {
                         "object_description_id": 47960,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            14837708
+                        ],
+                        "object_definition_value": [
+                            "Daphnous and the division of East Lokris"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -17287,6 +17343,681 @@
                         "object_sub_definitions": []
                     }
                 }
+            },
+            "14837708": {
+                "object": {
+                    "nodegoat_id": "ngUB0M88gULMeVhUhV962jrHvUI",
+                    "object_id": 14837708,
+                    "object_name": "Daphnous and the division of East Lokris",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2023-06-09T14:06:10Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Daphnous and the division of East Lokris",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            14345280
+                        ],
+                        "object_definition_value": [
+                            "Phokis"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12408022
+                        ],
+                        "object_definition_value": [
+                            "Ag.Konstantinos - Isiomata - Daphnous"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14256256,
+                            14235457
+                        ],
+                        "object_definition_value": [
+                            "Other",
+                            "Geneaological origins of people or putative kinship"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945226
+                        ],
+                        "object_definition_value": [
+                            "Abandonment of a settlement / ruralisation"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945232,
+                            13664672
+                        ],
+                        "object_definition_value": [
+                            "Large groups",
+                            "Lone individuals"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14837706
+                        ],
+                        "object_definition_value": [
+                            "Schedios"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Strabo explains that Daphnous, located at the exit of the Dipotamos corridor that linked the Kephissos valley to the Euboean Gulf, was once a Phokian city before being razed to the ground by the Lokrians. Phokian identity is claimed through a burial monument in the city which the story tells belongs to Schedios, the leader of the Phokians in the Trojan war.\r\n\r\nAt some unknown point in history, Phokians had occupied the Dipotamos corridor and hence, Strabo explains, divided East Lokris into two parts, the Opountian and the Epiknemedian. At the time of Strabo, Lokrians had claimed back their territory.",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14837703,
+                            14837705,
+                            14837709,
+                            14829821
+                        ],
+                        "object_definition_value": [
+                            "Strabo 9.3.1",
+                            "Strabo 9.3.17",
+                            "Strabo 9.4.1",
+                            "Pliny the Elder Plin. Nat. 4.12"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            14837037
+                        ],
+                        "object_definition_value": [
+                            "Mythical affiliations - Lokrians and Phokians"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "14838002": {
+                "object": {
+                    "nodegoat_id": "ngOV0G28aPlG3PbAbO30ydlnpPi",
+                    "object_id": 14838002,
+                    "object_name": "Lokrian migration to Aiolis - Foundation of Kyme and occupation of Larisa",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2023-06-09T13:38:20Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Lokrian migration to Aiolis - Foundation of Kyme and occupation of Larisa",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            14810713
+                        ],
+                        "object_definition_value": [
+                            "Epiknemedian Lokris"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12336549,
+                            13670402
+                        ],
+                        "object_definition_value": [
+                            "Kyme",
+                            "Larisa"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "44816": {
+                        "object_description_id": 44816,
+                        "object_definition_ref_object_id": 13670402,
+                        "object_definition_value": "Larisa",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "Foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945227,
+                            11945217,
+                            13038437
+                        ],
+                        "object_definition_value": [
+                            "Formal naming of a place",
+                            "Settlement / first occupation of a place",
+                            "Nostos / return home"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231,
+                            11945232
+                        ],
+                        "object_definition_value": [
+                            "Heroes (remarkable individuals)",
+                            "Large groups"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14837999,
+                            14838000
+                        ],
+                        "object_definition_value": [
+                            "Cleues",
+                            "Malaus"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "According to Strabo (13.1.3), Cleues, son of Dorus, together with Malaus, both descendants of Agamemnon, found the city of Kyme Phrykonis in Aiolis. Before this, they spent a lot of time in Lokris and Mount Phrykio, after which they named the city.\r\n\r\nIn 13.3.3, Strabo explains that people set out from Mount Phrykio (a Lokrian mountain above Thermopylae), and arrived in Aiolis. There, they first occupied the Acropolis of Larisa, taking it over by the Pelasgians, who were exhausted after the Trojan War. They then moved on and found Kyme, where they settled the rest of the people remaining.",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14837995,
+                            12375545
+                        ],
+                        "object_definition_value": [
+                            "Strabo 13.1.3",
+                            "Strabo 13.3.3"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35555": {
+                        "object_description_id": 35555,
+                        "object_definition_ref_object_id": 12058487,
+                        "object_definition_value": "Nostoi, generation of",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "14838023": {
+                "object": {
+                    "nodegoat_id": "ngJQ2F38vKQBuKwzwJS14ygGkKX",
+                    "object_id": 14838023,
+                    "object_name": "Lokrian foundation of Matauros",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2023-06-10T13:46:09Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Lokrian foundation of Matauros",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            14790849,
+                            12486316,
+                            12378472
+                        ],
+                        "object_definition_value": [
+                            "East Lokris - Opountian Lokris",
+                            "West Lokris - Lokris Ozolia",
+                            "Lokri Epizephyrii"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12336539
+                        ],
+                        "object_definition_value": [
+                            "Sicily"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "Foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Not specified from which Lokris were the settlers. It could be either Epiyephyrian, Ozolian, or Opountian-Epiknemedian.\r\n\r\nLokrians founded the city of Matauros in Sicily (unknown exact location)",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            13657326
+                        ],
+                        "object_definition_value": [
+                            "Stephanos of Byzantion s.v. Matauros"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "14851284": {
+                "object": {
+                    "nodegoat_id": "ngSZ8q48eUZKfTfEfTB28hpHtUG",
+                    "object_id": 14851284,
+                    "object_name": "Foundation of Opous",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2023-06-14T15:48:24Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Foundation of Opous",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            14790859
+                        ],
+                        "object_definition_value": [
+                            "Mount Parnassos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12408013
+                        ],
+                        "object_definition_value": [
+                            "Atalanti - Opous"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456,
+                            14235457
+                        ],
+                        "object_definition_value": [
+                            "Foundation of a place",
+                            "Geneaological origins of people or putative kinship"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Heroes (remarkable individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14790861,
+                            14790862,
+                            14790865
+                        ],
+                        "object_definition_value": [
+                            "Deukalion",
+                            "Pyrrha",
+                            "Protogeneia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "The city of Opous was first settled by Deukalion and Pyrrha, who came down the slopes of Parnassos and built their first home. There they created the first race of people out of stones (Lelegians). The city of Opous is also named as the city of Protogeneia. In mythology, Protogeneia is the name of both the daughter of Deukalion and Pyrrha, and the daughter of Opous the elder (from Elis).",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14774830
+                        ],
+                        "object_definition_value": [
+                            "Pindar Pind.O. 9 40-79"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            14790868
+                        ],
+                        "object_definition_value": [
+                            "Origins of Opous the younger and foundation of the city"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "14852113": {
+                "object": {
+                    "nodegoat_id": "ngZG1V38lBQRkAmpmAI15owuaKN",
+                    "object_id": 14852113,
+                    "object_name": "Opountians of Elis",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2023-06-16T13:19:33Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Opountians of Elis",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12446232
+                        ],
+                        "object_definition_value": [
+                            "Elis"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235887,
+                            14235457
+                        ],
+                        "object_definition_value": [
+                            "Ancient affiliation (non-kinship language)",
+                            "Geneaological origins of people or putative kinship"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945227
+                        ],
+                        "object_definition_value": [
+                            "Formal naming of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14783492
+                        ],
+                        "object_definition_value": [
+                            "Strabo 9.4.2"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            14790868,
+                            14851284
+                        ],
+                        "object_definition_value": [
+                            "Origins of Opous the younger and foundation of the city",
+                            "Foundation of Opous"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
             }
         }
     }

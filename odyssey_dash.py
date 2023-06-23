@@ -18,7 +18,7 @@ app_title = ':amphora: Odyssey'
 app_subtitle = 'An exploratory tool for mythical journeys. For internal use by MigMag staff.'
 
 # Visualizations
-def display_map(authors, journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, author_name, journj, agentsj, evidj, mode_move, time_period):
+def display_map(authors, journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, author_name, journj, agentsj, evidj, mode_move, time_period, mob_word):
     latitude = 38
     longitude = 25
 
@@ -111,6 +111,14 @@ def display_map(authors, journ, agents, evid, places, range_min, range_max, hero
         journ = journ.reset_index(drop=True)
     if time_period:
         journ = journ[journ['Time Period'].isin(time_period)]
+        journ = journ.reset_index(drop=True)
+
+    if mob_word:
+        rows = []
+        for row, i in enumerate(journ['Mobility Words']):
+            if [ele for ele in i if(ele in mob_word)]:
+                rows.append(row)
+        journ = journ.loc[rows]
         journ = journ.reset_index(drop=True)
 
     # We need exportable variables (export, author_export) to output from this function, while existing
@@ -354,6 +362,30 @@ def main():
     # This is needed for the searchbars with a scroll
     tooltip = "Certain filters do not generate text on their own (so you won't see it below the map), because they are sufficiently general that they produce an :red[overwhelming amount of it.] Use filters marked :memo: if you wish to generate texts below the map."
 
+    def searchbar_maker(df, col, title, tooltip):
+        list_name = list(df[col].unique())
+        list_name = [x for x in list_name if str(x) != 'nan']
+        list_name.sort()
+        list_name = ['All'] + list_name
+        selector = st.sidebar.multiselect(title, (list_name), help=tooltip)
+        name = selector
+        if selector == 'All':
+            name = ''
+        return name
+
+    dest_name = searchbar_maker(journ, 'Place to', 'Place Established or Destination   :memo:', tooltip)
+    port_name = searchbar_maker(journ,'Place From', 'Select Port of Origin   :memo:', tooltip)
+
+    # Make a list of movement types for searchbar. This requires same method as above bcs it is list of lists
+    move_list = []
+    journ['Movement Type'] = journ['Movement Type'].apply(lambda x: ast.literal_eval(str(x)))
+    for i in journ['Movement Type']:
+        for y in i:
+            move_list.append(y)
+    move_list = list(set(move_list))
+    move_list.sort()
+    mode_move = st.sidebar.multiselect("Type of Movement", (move_list))
+
     # Create an agent searchbar
     journ['heroes'] = journ['Object ID'].apply(hero_grabber)
     hero_list = []
@@ -369,6 +401,8 @@ def main():
     if hero_selector == 'All':
         hero_name = ''
 
+    time_period = searchbar_maker(journ, 'Time Period', 'Mythical Time Period (Travellers)', None)
+
     # We need to make a list of traveller types to feed to the traveller type searchbar
     traveller_types = []
     journ['Traveller Types'] = journ['Traveller Types'].apply(lambda x: ast.literal_eval(str(x)))
@@ -378,37 +412,26 @@ def main():
     traveller_types = list(set(traveller_types))
     trav_type = st.sidebar.multiselect("Traveller Type", (traveller_types))
 
+    journ_name = searchbar_maker(journ, 'Name', 'Journey Name', tooltip)
 
-    def searchbar_maker(df, col, title, tooltip):
-        list_name = list(df[col].unique())
-        list_name = [x for x in list_name if str(x) != 'nan']
-        list_name.sort()
-        list_name = ['All'] + list_name
-        selector = st.sidebar.multiselect(title, (list_name), help=tooltip)
-        name = selector
-        if selector == 'All':
-            name = ''
-        return name
+    # Make a list of words of mobility
+    mob_word_list = []
+    journ['Mobility Words'] = journ['Mobility Words'].apply(lambda x: ast.literal_eval(str(x)))
+    for i in journ['Mobility Words']:
+        for y in i:
+            mob_word_list.append(y)
+    mob_word_list = list(set(mob_word_list))
+    mob_word_list.sort()
+    mob_word = st.sidebar.multiselect('Mobility Vocabulary', (mob_word_list))
 
-    journ_name = searchbar_maker(journ, 'Name', 'Selection Journey by Name   :memo:', tooltip)
-    port_name = searchbar_maker(journ,'Place From', 'Select Port of Origin   :memo:', tooltip)
-    dest_name = searchbar_maker(journ, 'Place to', 'Select Destination   :memo:', tooltip)
-    time_period = searchbar_maker(journ, 'Time Period', 'Mythical Time Period (Travellers)', None)
-    author_name = searchbar_maker(authors, 'Name', 'Author(s) of Evidence for Journeys   :memo:', tooltip)
+
+    author_name = searchbar_maker(authors, 'Name', 'Author(s) of Evidence   :memo:', tooltip)
     #from_region = searchbar_maker(places, 'Region', 'From Region')
     #to_region = searchbar_maker(places, 'Region', 'To Region')
     # we remove 'author' as an option, as this will not be relevant
-    # Make a list of movement types for searchbar. This requires same method as above bcs it is list of lists
-    move_list = []
-    journ['Movement Type'] = journ['Movement Type'].apply(lambda x: ast.literal_eval(str(x)))
-    for i in journ['Movement Type']:
-        for y in i:
-            move_list.append(y)
-    move_list = list(set(move_list))
-    mode_move = st.sidebar.multiselect("Type of Movement", (move_list))
 
     # Create the date slider
-    slider_range = st.sidebar.slider("Author Date Range (Not Relevant to Heroes)", -1200, 500, (-1200,500))
+    slider_range = st.sidebar.slider('Author Date Range', -1200, 500, (-1200,500))
     range_min = slider_range[0]
     range_max = slider_range[1]
 
@@ -417,7 +440,7 @@ def main():
     # the bottom of the page. modjourn is a modified journ df that comes out of
     # the map, once filters are applied. text_display is a y/n switch that
     # tells the program whether to generate text for the subsection of journeys
-    odyssey_map, export, modjourn, text_display, author_export, errors = display_map(authors, journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, author_name, journj, agentsj, evidj, mode_move, time_period)
+    odyssey_map, export, modjourn, text_display, author_export, errors = display_map(authors, journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, author_name, journj, agentsj, evidj, mode_move, time_period, mob_word)
 
 
     folium.LayerControl().add_to(odyssey_map)
@@ -443,34 +466,40 @@ def main():
             journey_name = grabber(journj, i, None, 'object_name')
             if journey_name not in journey_names:
                 journey_names.append(journey_name)
-                with st.expander(journey_name):
-                    try:
-                        evidence = grabber(journj, str(i), '35524', 'object_definition_ref_object_id')
-                        for number, y in enumerate(evidence):
-                            author = str(grabber(evidj, str(y), '35557', 'object_definition_value'))
-                            title = str(grabber(evidj, str(y), '36999', 'object_definition_value'))
-                            greek = str(grabber(evidj, str(y), '37023', 'object_definition_value'))
-                            english = str(grabber(evidj, str(y), '37024', 'object_definition_value'))
-                            number2 = str(number+1)
-                            if author in list(author_export['Name']):
+                journey_header = f"""
+## {journey_name}
+"""
+                st.markdown(journey_header)
+                try:
+                    evidence = grabber(journj, str(i), '35524', 'object_definition_ref_object_id')
+                    for number, y in enumerate(evidence):
+                        author = str(grabber(evidj, str(y), '35557', 'object_definition_value'))
+                        title = str(grabber(evidj, str(y), '36999', 'object_definition_value'))
+                        greek = str(grabber(evidj, str(y), '37023', 'object_definition_value'))
+                        english = str(grabber(evidj, str(y), '37024', 'object_definition_value'))
+                        number2 = str(number+1)
+                        if author in list(author_export['Name']):
+                            expander_header = f"""{number2}. {author} - {title}"""
+                            with st.expander(expander_header):
                                 markdown = f"""
 
-#### {number2}. {author} - {title}
-{english}
+    #### {number2}. {author} - {title}
+    {english}
 
-*{greek}*
+    *{greek}*
                                 """
-                            elif author not in list(author_export['Name']):
-                                continue
-                            else:
-                                markdown = f"""
+                                st.write(markdown)
+                        elif author not in list(author_export['Name']):
+                            continue
+                        else:
+                            markdown = f"""
 
 #### {number2}. {author} - {title}
 There is no text to show here.
-                                """
+                            """
                             st.write(markdown)
-                    except:
-                        st.write("Something isn't working!")
+                except:
+                    st.write("Something isn't working!")
 
 
     # The following generate a data dump button
