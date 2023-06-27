@@ -120,6 +120,7 @@ def display_map(authors, journ, agents, evid, places, range_min, range_max, hero
                 rows.append(row)
         journ = journ.loc[rows]
         journ = journ.reset_index(drop=True)
+        text_display = True
 
     # We need exportable variables (export, author_export) to output from this function, while existing
     # variables (journ, authors) are needed internally for the function to work
@@ -467,7 +468,7 @@ def main():
             if journey_name not in journey_names:
                 journey_names.append(journey_name)
                 journey_header = f"""
-## {journey_name}
+#### {journey_name}
 """
                 st.markdown(journey_header)
                 try:
@@ -478,26 +479,39 @@ def main():
                         greek = str(grabber(evidj, str(y), '37023', 'object_definition_value'))
                         english = str(grabber(evidj, str(y), '37024', 'object_definition_value'))
                         number2 = str(number+1)
-                        if author in list(author_export['Name']):
-                            expander_header = f"""{number2}. {author} - {title}"""
-                            with st.expander(expander_header):
-                                markdown = f"""
+                        mobnloc = grabber(evidj, str(y), '47295', 'object_definition_value')
+                        mobvloc = grabber(evidj, str(y), '47292', 'object_definition_value')
+                        mobwloc = mobnloc + mobvloc
+                        if mob_word:
+                            if author in list(author_export['Name']) and [ele for ele in mobwloc if(ele in mob_word)]:
+                                expander_header = f"""{number2}. {author} - {title}"""
+                                with st.expander(expander_header):
+                                    markdown = f"""
 
-    #### {number2}. {author} - {title}
-    {english}
+{english}
 
-    *{greek}*
-                                """
-                                st.write(markdown)
-                        elif author not in list(author_export['Name']):
-                            continue
+{greek}
+
+_This text contains the following Words of Mobility: {mobwloc}_
+                                    """
+                                    st.write(markdown)
+                            else:
+                                continue
                         else:
-                            markdown = f"""
+                            if author in list(author_export['Name']):
+                                expander_header = f"""{number2}. {author} - {title}"""
+                                with st.expander(expander_header):
+                                    markdown = f"""
 
-#### {number2}. {author} - {title}
-There is no text to show here.
-                            """
-                            st.write(markdown)
+{english}
+
+{greek}
+
+_This text contains the following Words of Mobility: {mobwloc}_
+                                    """
+                                    st.write(markdown)
+                            else:
+                                continue
                 except:
                     st.write("Something isn't working!")
 
