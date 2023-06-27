@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2023-06-22T20:14:17+00:00",
+    "timestamp": "2023-06-27T21:34:40+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -11868,7 +11868,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-14T17:43:37Z"
+                    "object_dating": "2023-06-26T15:42:22Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -11977,7 +11977,8 @@
                             14837175,
                             14837660,
                             14837712,
-                            14838011
+                            14838011,
+                            14786921
                         ],
                         "object_definition_value": [
                             "Euripides Eur. IA 253",
@@ -11988,7 +11989,8 @@
                             "Philostratos Philostr. Her. 689",
                             "Ioannis Malalas Chronographia 5.108",
                             "Strabo 10.1.13",
-                            "Pausanias 1.23.4"
+                            "Pausanias 1.23.4",
+                            "Strabo 9.5.7-8"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -14617,12 +14619,10 @@
                     "35546": {
                         "object_description_id": 35546,
                         "object_definition_ref_object_id": [
-                            14790849,
-                            14810713
+                            14790849
                         ],
                         "object_definition_value": [
-                            "East Lokris - Opountian Lokris",
-                            "Epiknemedian Lokris"
+                            "East Lokris - Opountian Lokris"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -15999,12 +15999,8 @@
                     },
                     "35546": {
                         "object_description_id": 35546,
-                        "object_definition_ref_object_id": [
-                            14810713
-                        ],
-                        "object_definition_value": [
-                            "Epiknemedian Lokris"
-                        ],
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -16637,13 +16633,11 @@
                         "object_description_id": 35546,
                         "object_definition_ref_object_id": [
                             14790849,
-                            12433359,
-                            14810713
+                            12433359
                         ],
                         "object_definition_value": [
                             "East Lokris - Opountian Lokris",
-                            "Reggini - Palaiokastra - Naryx",
-                            "Epiknemedian Lokris"
+                            "Reggini - Palaiokastra - Naryx"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -16911,12 +16905,10 @@
                         "object_description_id": 35546,
                         "object_definition_ref_object_id": [
                             14790849,
-                            14810713,
                             12486316
                         ],
                         "object_definition_value": [
                             "East Lokris - Opountian Lokris",
-                            "Epiknemedian Lokris",
                             "West Lokris - Lokris Ozolia"
                         ],
                         "object_definition_sources": [],
@@ -17046,12 +17038,10 @@
                     "35546": {
                         "object_description_id": 35546,
                         "object_definition_ref_object_id": [
-                            14790849,
-                            14810713
+                            14790849
                         ],
                         "object_definition_value": [
-                            "East Lokris - Opountian Lokris",
-                            "Epiknemedian Lokris"
+                            "East Lokris - Opountian Lokris"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -17183,12 +17173,10 @@
                         "object_description_id": 35546,
                         "object_definition_ref_object_id": [
                             14790849,
-                            14810713,
                             12408022
                         ],
                         "object_definition_value": [
                             "East Lokris - Opountian Lokris",
-                            "Epiknemedian Lokris",
                             "Ag.Konstantinos - Isiomata - Daphnous"
                         ],
                         "object_definition_sources": [],
@@ -17508,12 +17496,8 @@
                     },
                     "35546": {
                         "object_description_id": 35546,
-                        "object_definition_ref_object_id": [
-                            14810713
-                        ],
-                        "object_definition_value": [
-                            "Epiknemedian Lokris"
-                        ],
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -18013,6 +17997,244 @@
                             "Origins of Opous the younger and foundation of the city",
                             "Foundation of Opous"
                         ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "15023059": {
+                "object": {
+                    "nodegoat_id": "ngTA5B98fUgLeUgjgT073iqGuTH",
+                    "object_id": 15023059,
+                    "object_name": "Formal naming and foundation of Tarphe/Pharygae",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2023-06-26T14:35:57Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Formal naming and foundation of Tarphe/Pharygae",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            13809602
+                        ],
+                        "object_definition_value": [
+                            "Argos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            14838217
+                        ],
+                        "object_definition_value": [
+                            "Epiknemedian Lokris"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456,
+                            14235458
+                        ],
+                        "object_definition_value": [
+                            "Foundation of a place",
+                            "Origins of social practices (e.g. cult practices)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945227,
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Formal naming of a place",
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "The exact location of the town has not been identified archaeologically but according to textual sources, it was located in Epiknemedian Lokris.\r\n\r\nThe town previously known in Homer as Tarphe, was by the time of Strabo named \"Pharygae\" and had a temple dedicated to Pharygaean Hera, after the Hera in Argive Pharygae. Claims of Argive origin and foundation.",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            15023058
+                        ],
+                        "object_definition_value": [
+                            "Strabo 9.4.6"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "15023063": {
+                "object": {
+                    "nodegoat_id": "ngXE6F38jXkPkYkJkXQ16muYyXr",
+                    "object_id": 15023063,
+                    "object_name": "The cities of Alope",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2023-06-26T15:38:27Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "The cities of Alope",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "Foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945227
+                        ],
+                        "object_definition_value": [
+                            "Formal naming of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Strab. 9.4.9; 9.5.7",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14786889,
+                            14786921
+                        ],
+                        "object_definition_value": [
+                            "Strabo 9.4.7-9",
+                            "Strabo 9.5.7-8"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
