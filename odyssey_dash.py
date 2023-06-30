@@ -374,9 +374,52 @@ def main():
             name = ''
         return name
 
-    dest_name = searchbar_maker(journ, 'Place to', 'Place Established or Destination   :memo:', tooltip)
-    port_name = searchbar_maker(journ,'Place From', 'Select Port of Origin   :memo:', tooltip)
+    # We need to make a list of MigMag study regions to add to the list of places
+    region = list(set(places['Region'].dropna()))
+    regions = ['Region: ' + s for s in region]
 
+    # Implementing regional search meant the generic searchbox below was not longer workable
+    # I preserve it here for reference. Same goes for port_name
+    #dest_name = searchbar_maker(journ, 'Place to', 'Place Established or Destination   :memo:', tooltip)
+    dest_list = list(journ['Place to'].unique())
+    dest_list = [x for x in dest_list if str(x) != 'nan']
+    dest_list = dest_list + regions
+    dest_list.sort()
+    dest_list = ['All'] + dest_list
+    dest_name = st.sidebar.multiselect('Place Established or Destination    :memo:', dest_list, help=tooltip)
+    if dest_name == 'All':
+        dest_name = ''
+    subregions = [i for i in dest_name if 'Region: ' in i]
+    additional_cities = []
+    for i in subregions:
+        region_name = i.replace('Region: ','')
+        regional_cities = places[places['Region']==region_name]
+        regional_cities = list(regional_cities['Name'])
+        additional_cities.extend(regional_cities)
+    dest_name = dest_name + additional_cities
+    dest_name = [i for i in dest_name if not ('Region: ' in i)]
+    dest_name = list(set(dest_name))
+    
+    #port_name = searchbar_maker(journ,'Place From', 'Select Port of Origin   :memo:', tooltip)
+    port_list = list(journ['Place From'].unique())
+    port_list = [x for x in port_list if str(x) != 'nan']
+    port_list = port_list + regions
+    port_list.sort()
+    port_list = ['All'] + port_list
+    port_name = st.sidebar.multiselect('Place of Origin    :memo:', port_list, help=tooltip)
+    if port_name == 'All':
+        port_name = ''
+    subregions = [i for i in port_name if 'Region: ' in i]
+    additional_cities = []
+    for i in subregions:
+        region_name = i.replace('Region: ','')
+        regional_cities = places[places['Region']==region_name]
+        regional_cities = list(regional_cities['Name'])
+        additional_cities.extend(regional_cities)
+    port_name = port_name + additional_cities
+    port_name = [i for i in port_name if not ('Region: ' in i)]
+    port_name = list(set(port_name))
+    
     # Make a list of movement types for searchbar. This requires same method as above bcs it is list of lists
     move_list = []
     journ['Movement Type'] = journ['Movement Type'].apply(lambda x: ast.literal_eval(str(x)))
