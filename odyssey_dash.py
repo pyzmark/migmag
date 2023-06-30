@@ -13,7 +13,7 @@ import json
 from geojson import Point, LineString, GeometryCollection, Feature, FeatureCollection
 from shapely.geometry import shape
 
-# Set basic page information
+# Set basic page information ;
 app_title = ':amphora: Odyssey'
 app_subtitle = 'An exploratory tool for mythical journeys. For internal use by MigMag staff.'
 
