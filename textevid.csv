@@ -81,15 +81,15 @@ ngRY0J58dSYJ9TIV0SK3egoqsSl,12375205,Demokritos in Diogenes Laertius 1.1.22,[]
 ngSZ0K68eTJK9UJO1TL49hpFtSG,12375206,Demon FGrHist 327 F1 Atthis,[]
 ngTA0L78fUKLeVKH2UM57iqIuUH,12375207,Demon FGrHist 327 F22 On Proverbs,[]
 ngUB0M88gUhMeWLo3UN62jrVvUo,12375208,Demon FGrHist 327 F17 On Proverbs,[]
-ngVC0V98hWCN1XMZ4WE7iksSwGJ,12375209,Diodorus Siculus 4.66.5-6,[]
-ngWD1S08iXDO1YNW5Wv83ltTxHK,12375210,Diodorus Siculus 4.67.1,[]
+ngVC0V98hWCN1XMZ4WE7iksSwGJ,12375209,Diodorus Siculus 4.66.5-6,"['πόλις city', 'χωρίον a place, spot, district', 'ἐκλείπω to leave (and go somewhere else)', 'συμφεύγω to flee along with', 'αἱρέω to take, seize, grasp']"
+ngWD1S08iXDO1YNW5Wv83ltTxHK,12375210,Diodorus Siculus 4.67.1,"[""πατρίς fatherland, of one's fathers"", 'πόλις city', 'ἐγχώριος of the country (adj.)', 'ἀνακάμπτω make to return, bend back', 'συμφεύγω to flee along with', 'μετανίστημι to depart, change places, migrate', 'στρατεύω to advance with an army', 'ἐκβάλλω to throw someone/something out', 'κατοικέω to settle', 'ἐπανέρχομαι to return, go back', 'ἐξελαύνω to drive someone out', 'κατέρχομαι to go down from (a place), to come back']"
 ngXE1P18jYOPhZOL6YQ9jmusyIL,12375211,Diodorus Siculus 1.5.1,[]
-ngYF1U28kZlQiAPG7ZR02nxjzYs,12375212,Diodorus Siculus 4.68.3-6,[]
-ngZG1p38lAwRmBQp8Ay15owOaKN,12375213,Diodorus Siculus 5.79.1-2,[]
-ngAH1q48mARSlCRq9Az28pxvbLO,12375214,Diodorus Siculus 5.79.3,[]
-ngBI1N58nBSTnDSX0CU36qyYcMP,12375215,Diodorus Siculus 5.81.4-8,[]
-ngCJ1G68oETU9ETQ1CL4nrzZdNQ,12375216,Diodorus Siculus 5.84.2-4,[]
-ngDK1Z78pFKVnFUZ2DW58saceEx,12375217,Diodorus Siculus 15.49.1-3,[]
+ngYF1U28kZlQiAPG7ZR02nxjzYs,12375212,Diodorus Siculus 4.68.3-6,"['ἐγχώριος of the country (adj.)', 'πόλις city', 'στρατεύω to advance with an army', 'κατοικέω to settle', 'κτίζω to found, create, establish']"
+ngZG1p38lAwRmBQp8Ay15owOaKN,12375213,Diodorus Siculus 5.79.1-2,"['χώρα space', 'πόλις city']"
+ngAH1q48mARSlCRq9Az28pxvbLO,12375214,Diodorus Siculus 5.79.3,"['τόπος place, region', 'διαβαίνω to go across, cross, go beyond', 'στρατεύω to advance with an army']"
+ngBI1N58nBSTnDSX0CU36qyYcMP,12375215,Diodorus Siculus 5.81.4-8,"['ἔθνος a number of people living together, tribe', 'χώρα space', 'οἰκήτωρ inhabitant', 'πόλις city', 'ἀποικία settlement away from home', 'ἀφικνέομαι to arrive, come to', 'κατοικέω to settle', 'συρρέω flow together (to someone)', 'πλέω to sail, travel by sea', 'ἐκπέμπω to send out', 'οἰκέω to inhabit, reside, dwell']"
+ngCJ1G68oETU9ETQ1CL4nrzZdNQ,12375216,Diodorus Siculus 5.84.2-4,"['κτίστης founder', 'πόλις city', 'ἐκπέμπω to send out', 'κατοικέω to settle', 'κατέχω to occupy, invade, conquer, possess, settle, dwell in', 'ἐκβάλλω to throw someone/something out', 'προενοικέω inhabit before, dwell in', 'οἰκίζω to found, to establish', 'ἐκπίτνω to be driven out']"
+ngDK1Z78pFKVnFUZ2DW58saceEx,12375217,Diodorus Siculus 15.49.1-3,"['πόλις city', 'τόπος place, region', 'θεωρός envoy sent to consult an oracle', 'πέμπω to send', 'οἰκέω to inhabit, reside, dwell']"
 ngEL1A88qFrW3GVS3EX68tbBfFS,12375218,Diogenes Laertios 1.1.22,[]
 ngFM1B98rGcX2HWJ4FO74ucagFT,12375219,Diogenes Laertios 1.1.29,[]
 ngGN2C08sHNY3IXC5IZ82vdPhHa,12375220,Diogenes Laertios 1.5.83,[]
@@ -285,10 +285,10 @@ ngWD1S08iXDO1YNS5YF8iltrxHK,12375410,Panyassis F25K,[]
 ngXE1P18jYOPhZOL6Y292muKyIL,12375411,Parthenios Love Stories 11,[]
 ngYF1U28kZlQiAPK7YR0inxjzYs,12375412,Parthenios Love Stories 14,[]
 ngZG1p38lAwRmBQp8BS1lowuaKN,12375413,Parthenios Love Stories 20,[]
-ngAH1q48mARSlCRq9AJ2kpxFbLO,12375414,Pausanias 7.3,[]
-ngBI1N58nBSTnDSX0B639qyQcMP,12375415,Pausanias 1.35.6,[]
-ngCJ1G68oETU8ETa1Db49rzZdNQ,12375416,Pausanias 7.2,[]
-ngDK1Z78pFKVnFUZ2DW5psayeER,12375417,Pausanias 7.4,[]
+ngAH1q48mARSlCRq9AJ2kpxFbLO,12375414,Pausanias 7.3,"['ναῦς ship', 'χώρα space', 'πορεία journey, course, walking', 'ἀποικία settlement away from home', 'σύνοικος one who dwells in the same house', 'γῆ earth, inhabited land, native land', 'πόλις city', 'οἰκιστής founder', 'γένος kin, stock, race: of a single descendant', 'ἡγεμών one who leads', 'ἤπειρος (main)land', 'ἀφικνέομαι to arrive, come to', 'ἕπομαι to follow', 'ἔχω to occupy, dwell in', 'αἱρέω to take, seize, grasp', 'ἐκπέμπω to send out', 'περαιόω to cross, to transport beyond or across', 'γίγνομαι to be, go, proceed (main reading: to become)', 'ἐπέξειμι to go out against, to get out, escape', 'ἀνάγω to lead up, carry by sea, bring back', 'ἥκω to come back/return, be present, to have come', 'ἐκβάλλω to throw someone/something out', 'φεύγω to flee, take flight', 'ἀπάγω to lead away, carry off', 'ἀποικίζω to send away from home, banish', ""ἀνάστατος driven from one's house and home (adj.)"", 'ἐλαύνω to drive (away), set in motion', 'εἶμι to go', 'διαβαίνω to go across, cross, go beyond', 'οἰκέω to inhabit, reside, dwell', 'ἔρχομαι to come, go', 'δέχομαι take, accept, receive', 'πλανάω to make to wander, wandering', 'μεταπέμπω to send after', 'κτίζω to found, create, establish', 'ἐκλείπω to leave (and go somewhere else)', 'ἐπάνειμι to go back, return', 'ἀπέρχομαι to go away, to depart', 'κατέρχομαι to go down from (a place), to come back']"
+ngBI1N58nBSTnDSX0B639qyQcMP,12375415,Pausanias 1.35.6,['πόλις city']
+ngCJ1G68oETU8ETa1Db49rzZdNQ,12375416,Pausanias 7.2,"['ἀποικία settlement away from home', 'στράτευμα expedition, campaign', 'στόλος expedition, journey', 'ναῦς ship', 'πλόος sailing, crossing, sea voyage', 'ἡγεμών one who leads', 'πόλις city', 'χώρα space', 'αὐτόχθων sprung from the land itself (native inhabitants)', 'οἰκιστής founder', 'ἀποστέλλω to send, despatch, consign', 'ἄγω to lead, to bring', 'στέλλω to send, also: set sail, to get ready to go (trans. and med.)', 'ἡγέομαι go before, lead the way', 'ἐκπλέω to sail out, away (or lose your mind)', 'ἐκβάλλω to throw someone/something out', 'καταίρω to put ships into port', ""τρέπω turn one's step, tunr in a certain direction"", 'ἀφικνέομαι to arrive, come to', 'φεύγω to flee, take flight', 'συνοικέω to dwell (together)', ""ἁλίσκομαι to be taken, conquered, fall into an enemy's hand"", 'ἐκδιδράσκω to run away, escape', 'εἰσοικέω to settle in', 'ἱδρύω to settle (make to sit down)', 'ἔρχομαι to come, go', 'οἰκέω to inhabit, reside, dwell', 'πλέω to sail, travel by sea', 'ἀφαιρέω to take away from', 'κατέρχομαι to go down from (a place), to come back', 'εἰσοικίζω to bring in as a settler or dweller, make oneself at home, establish', 'ἀποχωρέω to go away, depart, withdraw', 'ἐκλείπω to leave (and go somewhere else)', 'φέρω to carry, bear']"
+ngDK1Z78pFKVnFUZ2DW5psayeER,12375417,Pausanias 7.4,"['σύνοικος one who dwells in the same house', 'ἡγεμών one who leads', 'ἐνοίκησις a dwelling in a place', 'πλάνη wandering, roaming', 'πόλις city', 'ναῦς ship', 'οἰκέω to inhabit, reside, dwell', 'ἄγω to lead, to bring', 'ἐκπίτνω to be driven out', 'ἐξελαύνω to drive someone out', 'φεύγω to flee, take flight', 'ἐκβάλλω to throw someone/something out', 'διαβαίνω to go across, cross, go beyond', 'ἀνασῴζω to recover what is lost, rescue', 'πλέω to sail, travel by sea', 'ἐκδιδράσκω to run away, escape', 'ἀφικνέομαι to arrive, come to', 'ἀποδημέω to be abroad (visit), to be away from home', 'καταίρω to put ships into port', 'ἕπομαι to follow', 'ἀπέρχομαι to go away, to depart']"
 ngEL1A88qFrW3GVS3EX62tbRfFS,12375418,Pausanias 9.10.3,[]
 ngFM1B98rGcX2HWJ4Fe7pucGgGz,12375419,Pausanias 9.33.2,"['ναῦς ship', 'περαιόω to cross, to transport beyond or across']"
 ngGN2C08sHNY3IXC5IZ84vdPhHa,12375420,Pausanias 2.2.2,"['ἀφικνέομαι to arrive, come to']"
@@ -297,10 +297,10 @@ ngIP2I28uIfA2KZc7KR05xfBjIc,12375422,Pausanias 2.26.1,"['πόλις city', 'χώ
 ngJQ2J38vJQBwLAV8LS16ygekLX,12375423,Pausanias 2.31.6,[]
 ngKR2K48wKBCwMBG9L528zhLlKe,12375424,Pausanias 3.1.1,['αὐτόχθων sprung from the land itself (native inhabitants)']
 ngLS2H58xLCD9NCZ0NU36aiEmMf,12375425,Pausanias 3.1.7-8,"['ἀποικία settlement away from home', 'ἔποικος settler', 'στέλλω to send, also: set sail, to get ready to go (trans. and med.)', 'ἄνειμι to go back, to ascend, proceed']"
-ngMT2E68yOTE8ODg1N741bjBnNA,12375426,Pausanias 7.1,[]
-ngNU2F78zPEF9PEd2OG58ckioNB,12375427,Pausanias 7.5.1-3,[]
+ngMT2E68yOTE8ODg1N741bjBnNA,12375426,Pausanias 7.1,"['χώρα space', 'πόλις city', 'ἔχω to occupy, dwell in', 'ἐνοικέω to dwell in, inhabit', 'φεύγω to flee, take flight', 'ἐξελαύνω to drive someone out', 'ἀφικνέομαι to arrive, come to', 'οἰκέω to inhabit, reside, dwell', 'κατέρχομαι to go down from (a place), to come back', 'οἰκίζω to found, to establish', 'ἐκπίτνω to be driven out', 'ἔρχομαι to come, go', 'καταμένω to stay, reside, settle', 'συνοικέω to dwell (together)', 'ἐπικηρυκεύομαι to send', 'ἐπεξέρχομαι to march out', 'καταφεύγω flee for refuge (to a certain place)', 'ἀφίημι to send forth, discharge']"
+ngNU2F78zPEF9PEd2OG58ckioNB,12375427,Pausanias 7.5.1-3,"['χώρα space', 'πόλις city', 'οἰκιστής founder', 'οἰκέω to inhabit, reside, dwell', 'ὁρμάω to set in motion', 'ἀφαιρέω to take away from', 'ἔχω to bear, carry, bring', 'ἀφικνέομαι to arrive, come to', 'οἰκίζω to found, to establish', 'ἄγω to lead, to bring', 'ἀποστέλλω to send, despatch, consign', 'μετοικίζω lead settlers to another abode']"
 ngOV2G88aQFGyQFS3PX69dlHpOi,12375428,Pausanias 7.5.4-13,"['χώρα space', 'φυλή tribe', 'ἐκπλέω to sail out, away (or lose your mind)', 'ἀφικνέομαι to arrive, come to']"
-ngPW2H98bQmH4RGH4RY70emYqQj,12375429,Pausanias 7.24.5-6,[]
+ngPW2H98bQmH4RGH4RY70emYqQj,12375429,Pausanias 7.24.5-6,"['χωρίον a place, spot, district', 'πόλις city', 'χώρα space', 'εἶμι to go', 'ἀφικνέομαι to arrive, come to', 'ἐκπίτνω to be driven out']"
 ngQX3M08cRHIcSHo5RZ8afnlrSE,12375430,Pausanias 9.37.8,"['στόλος expedition, journey', 'μετέχω to partake in, join', ""ἀνάστατος driven from one's house and home (adj.)""]"
 ngRY3N18dReJcTIV6RK94goKsSl,12375431,Phanodikos FGrHist397 F4a,[]
 ngSZ3O28eSpKdUJW7S305hpntTG,12375432,Phanodikos FGrHist397 F4b,[]
@@ -636,7 +636,7 @@ ngYF6G48kZPQkAPM9ZH2lnvNzZM,14775864,Schol. Lyc. Alexandria Σ ss3 Lyc. 1141,"['
 ngAH6I68mAHS1CRS1CT46pxvbAO,14775866,Kallimachos Fr. 35,[]
 ngAH9y28mARS5CRW7CT05pxTbAu,14783492,Strabo 9.4.2,"['ἐπίνειον sea-port', 'μητρόπολις mothercity, motherstate', ""πατρίς fatherland, of one's fathers"", 'οἰκέω to inhabit, reside, dwell', 'φεύγω to flee, take flight', 'μένω to stay, wait', 'ἐπανέρχομαι to return, go back']"
 ngCJ9w48oETU6ETw9D527rzZdEQ,14783494,Plutarch Plut. Arist. 20.6,[]
-ngDK9x58pFKV8FUP0D63qsaueDx,14783495,Diodorus Siculus Diod. Sic. 14.82.8,[]
+ngDK9x58pFKV8FUP0D63qsaueDx,14783495,Diodorus Siculus Diod. Sic. 14.82.8,"['ἔχω to bear, carry, bring']"
 ngEL9y68qFbWrGVc1EX49tbRfES,14783496,Stephanos of Byzantion s.v. Naryx,[]
 ngFM9z78rGsX7HWR2GY5sucKgHT,14783497,Euripides Eur. IA 253,"['ναῦς ship', 'ἄγω to lead, to bring', 'ἔρχομαι to come, go', 'ἐκλείπω to leave (and go somewhere else)']"
 ngGN9a88sHXY8IXU3G96qvdVhIU,14783498,Pausanias Paus. 3.19.11-13,"['περίπλοoς sea voyage, circumnavigation', 'ἀφικνέομαι to arrive, come to', 'ἔρχομαι to come, go', 'ἀποστέλλω to send, despatch, consign']"
