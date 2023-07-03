@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2023-07-03T23:27:49+00:00",
-    "error": "invalid_request",
-    "error_description": "Necessary information is missing or not correctly supplied. Invalid authentication method."
+    "timestamp": "2023-07-03T23:43:28+00:00",
+    "error": "access_denied",
+    "error_description": "You do not possess the correct credentials to be allowed access."
 }
