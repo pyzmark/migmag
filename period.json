@@ -1,6 +1,356 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2023-07-04T00:19:06+00:00",
-    "error": "invalid_request",
-    "error_description": "Necessary information is missing or not correctly supplied. Invalid authentication method."
+    "timestamp": "2023-07-04T00:23:07+00:00",
+    "authenticated": true,
+    "data": {
+        "objects": {
+            "12058482": {
+                "object": {
+                    "nodegoat_id": "ngQX8g28cQnI6SHk6RZ0dfnlrRE",
+                    "object_id": 12058482,
+                    "object_name": "Trojan War, generation of",
+                    "object_name_plain": "Trojan War, generation of",
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2022-03-02T15:36:19Z"
+                },
+                "object_definitions": {
+                    "35553": {
+                        "object_description_id": 35553,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-1300",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35554": {
+                        "object_description_id": 35554,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-1000",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "36301": {
+                        "object_description_id": 36301,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "one generation after the Argonauts",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "18404089": {
+                        "object_sub": {
+                            "object_sub_id": 18404089,
+                            "object_sub_details_id": 13430,
+                            "object_sub_date_start": "-1300",
+                            "object_sub_date_end": "-1000",
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 0,
+                            "object_sub_location_ref_object_sub_details_id": 0,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": null,
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "12058484": {
+                "object": {
+                    "nodegoat_id": "ngSZ8q48eTpKcUJS8SL27hpTtTm",
+                    "object_id": 12058484,
+                    "object_name": "Argonauts, generation of",
+                    "object_name_plain": "Argonauts, generation of",
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2022-03-02T15:36:13Z"
+                },
+                "object_definitions": {
+                    "35553": {
+                        "object_description_id": 35553,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-1500",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35554": {
+                        "object_description_id": 35554,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-1100",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "36301": {
+                        "object_description_id": 36301,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "one generation before Epigonoi and Trojan War",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "18404090": {
+                        "object_sub": {
+                            "object_sub_id": 18404090,
+                            "object_sub_details_id": 13430,
+                            "object_sub_date_start": "-1500",
+                            "object_sub_date_end": "-1100",
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 0,
+                            "object_sub_location_ref_object_sub_details_id": 0,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": null,
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "12058486": {
+                "object": {
+                    "nodegoat_id": "ngUB8s68gVLMeWLM0UN40jrJvWI",
+                    "object_id": 12058486,
+                    "object_name": "Epigonoi, generation of",
+                    "object_name_plain": "Epigonoi, generation of",
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2022-03-02T15:36:06Z"
+                },
+                "object_definitions": {
+                    "35553": {
+                        "object_description_id": 35553,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-1300",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35554": {
+                        "object_description_id": 35554,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-1000",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "36301": {
+                        "object_description_id": 36301,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Or the Seven Against Thebes, one generation after the Argunauts, and one before the Trojan War",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "18404091": {
+                        "object_sub": {
+                            "object_sub_id": 18404091,
+                            "object_sub_details_id": 13430,
+                            "object_sub_date_start": "-1300",
+                            "object_sub_date_end": "-1000",
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 0,
+                            "object_sub_location_ref_object_sub_details_id": 0,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": null,
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "12058487": {
+                "object": {
+                    "nodegoat_id": "ngVC8t78hViNfXMJ1VO59ksuwVp",
+                    "object_id": 12058487,
+                    "object_name": "Nostoi, generation of",
+                    "object_name_plain": "Nostoi, generation of",
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2022-03-02T15:35:52Z"
+                },
+                "object_definitions": {
+                    "35553": {
+                        "object_description_id": 35553,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-1200",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35554": {
+                        "object_description_id": 35554,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-800",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "36301": {
+                        "object_description_id": 36301,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "one generation after the Trojan War",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "18404092": {
+                        "object_sub": {
+                            "object_sub_id": 18404092,
+                            "object_sub_details_id": 13430,
+                            "object_sub_date_start": "-1200",
+                            "object_sub_date_end": "-800",
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 0,
+                            "object_sub_location_ref_object_sub_details_id": 0,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": null,
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "12345944": {
+                "object": {
+                    "nodegoat_id": "ngEL4E48qFLWqGVu8F52ptbBfFS",
+                    "object_id": 12345944,
+                    "object_name": "Niobids, generation of",
+                    "object_name_plain": "Niobids, generation of",
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2022-03-02T15:35:59Z"
+                },
+                "object_definitions": {
+                    "35553": {
+                        "object_description_id": 35553,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-1800",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35554": {
+                        "object_description_id": 35554,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-1300",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "36301": {
+                        "object_description_id": 36301,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "one generation before the Argonauts",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "18513358": {
+                        "object_sub": {
+                            "object_sub_id": 18513358,
+                            "object_sub_details_id": 13430,
+                            "object_sub_date_start": "-1800",
+                            "object_sub_date_end": "-1300",
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 0,
+                            "object_sub_location_ref_object_sub_details_id": 0,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": null,
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "13573535": {
+                "object": {
+                    "nodegoat_id": "ngVC3Z58hWiN5XMl9Wu3hksEwWp",
+                    "object_id": 13573535,
+                    "object_name": "Generic",
+                    "object_name_plain": "Generic",
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2022-10-19T15:01:44Z"
+                },
+                "object_definitions": {
+                    "35553": {
+                        "object_description_id": 35553,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-2000",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35554": {
+                        "object_description_id": 35554,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-600",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "19996482": {
+                        "object_sub": {
+                            "object_sub_id": 19996482,
+                            "object_sub_details_id": 13430,
+                            "object_sub_date_start": "-2000",
+                            "object_sub_date_end": "-600",
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 0,
+                            "object_sub_location_ref_object_sub_details_id": 0,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": null,
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            }
+        }
+    }
 }
