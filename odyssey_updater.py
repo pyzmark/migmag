@@ -5,10 +5,11 @@ import pandas as pd
 import numpy as np
 import requests
 from requests.auth import HTTPDigestAuth
+from getpass import getpass
 import json
 
 # This will prompt the user to insert their NodeGoat token at command line
-mytoken = input("Enter user token for NodeGoat: ")
+mytoken = getpass("Enter user token for NodeGoat: ")
 bearer = 'Bearer '
 my_headers = {'Authorization' : bearer + mytoken}
 
