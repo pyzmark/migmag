@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2023-07-05T22:43:14+00:00",
+    "timestamp": "2023-07-06T19:52:37+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -84,8 +84,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -110,7 +110,7 @@
                         ],
                         "object_definition_value": [
                             "Large groups",
-                            "Heroes (remarkable individuals)",
+                            "Heroes (named individuals)",
                             "Band of companions of a hero"
                         ],
                         "object_definition_sources": [],
@@ -788,8 +788,8 @@
                             11945231
                         ],
                         "object_definition_value": [
-                            "Families",
-                            "Heroes (remarkable individuals)"
+                            "Family (single family group)",
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -926,7 +926,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -950,7 +950,7 @@
                             11945231
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)"
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -1127,7 +1127,7 @@
                             11945231
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)"
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -1264,7 +1264,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -1287,7 +1287,7 @@
                             13664672
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)",
+                            "Heroes (named individuals)",
                             "Lone individuals"
                         ],
                         "object_definition_sources": [],
@@ -1493,9 +1493,9 @@
                             14235458
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship",
-                            "Origins of social practices (e.g. cult practices)"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship",
+                            "aims to explain the origins of social practices/institutions (e.g. cult practices)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -1519,7 +1519,7 @@
                         ],
                         "object_definition_value": [
                             "Large groups",
-                            "Heroes (remarkable individuals)"
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -1685,7 +1685,7 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -1708,7 +1708,7 @@
                             11945232
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)",
+                            "Heroes (named individuals)",
                             "Large groups"
                         ],
                         "object_definition_sources": [],
@@ -1860,7 +1860,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -1882,7 +1882,7 @@
                             11945231
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)"
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -2300,7 +2300,7 @@
                             11945232
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)",
+                            "Heroes (named individuals)",
                             "Large groups"
                         ],
                         "object_definition_sources": [],
@@ -2546,7 +2546,7 @@
                             11945231
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)"
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -2754,7 +2754,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -2776,7 +2776,7 @@
                             11945231
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)"
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -4164,8 +4164,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -4293,7 +4293,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -4317,7 +4317,7 @@
                         ],
                         "object_definition_value": [
                             "Large groups",
-                            "Heroes (remarkable individuals)"
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -4430,8 +4430,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -4562,8 +4562,8 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Geneaological origins of people or putative kinship",
-                            "Foundation of a place"
+                            "aims to explain the geneaological origins of people or a putative kinship relationship",
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -4694,8 +4694,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -4822,8 +4822,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -4951,7 +4951,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5075,8 +5075,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5208,7 +5208,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5405,8 +5405,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5431,7 +5431,7 @@
                             11945232
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)",
+                            "Heroes (named individuals)",
                             "Large groups"
                         ],
                         "object_definition_sources": [],
@@ -5543,8 +5543,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5559,7 +5559,7 @@
                         "object_definition_value": [
                             "War - forced displacement / dispersal (group)",
                             "Settlement / first occupation of a place",
-                            "Exile / expulsion from home"
+                            "Exile / expulsion from home (individual)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5679,8 +5679,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5704,7 +5704,7 @@
                         ],
                         "object_definition_value": [
                             "Large groups",
-                            "Heroes (remarkable individuals)"
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5816,7 +5816,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5953,8 +5953,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5967,7 +5967,7 @@
                         ],
                         "object_definition_value": [
                             "War - forced displacement / dispersal (group)",
-                            "Exile / expulsion from home"
+                            "Exile / expulsion from home (individual)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5978,7 +5978,7 @@
                             11945235
                         ],
                         "object_definition_value": [
-                            "Whole communities"
+                            "Whole communities (named)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6098,9 +6098,9 @@
                             14235458
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship",
-                            "Origins of social practices (e.g. cult practices)"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship",
+                            "aims to explain the origins of social practices/institutions (e.g. cult practices)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6124,7 +6124,7 @@
                             11945231
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)"
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6247,8 +6247,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6270,7 +6270,7 @@
                             11945235
                         ],
                         "object_definition_value": [
-                            "Whole communities"
+                            "Whole communities (named)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6375,8 +6375,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6398,7 +6398,7 @@
                             11945235
                         ],
                         "object_definition_value": [
-                            "Whole communities"
+                            "Whole communities (named)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6506,7 +6506,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6530,7 +6530,7 @@
                         ],
                         "object_definition_value": [
                             "Large groups",
-                            "Heroes (remarkable individuals)"
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6662,8 +6662,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6686,7 +6686,7 @@
                             11945232
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)",
+                            "Heroes (named individuals)",
                             "Large groups"
                         ],
                         "object_definition_sources": [],
@@ -6811,9 +6811,9 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Origins of social practices (e.g. cult practices)",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the origins of social practices/institutions (e.g. cult practices)",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6937,7 +6937,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -7064,8 +7064,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -7078,7 +7078,7 @@
                             11945217
                         ],
                         "object_definition_value": [
-                            "Exile / expulsion from home",
+                            "Exile / expulsion from home (individual)",
                             "Formal naming of a place",
                             "Settlement / first occupation of a place"
                         ],
@@ -7191,8 +7191,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -7204,7 +7204,7 @@
                             11945217
                         ],
                         "object_definition_value": [
-                            "Exile / expulsion from home",
+                            "Exile / expulsion from home (individual)",
                             "Settlement / first occupation of a place"
                         ],
                         "object_definition_sources": [],
@@ -7339,8 +7339,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -7352,7 +7352,7 @@
                             11945217
                         ],
                         "object_definition_value": [
-                            "Exile / expulsion from home",
+                            "Exile / expulsion from home (individual)",
                             "Settlement / first occupation of a place"
                         ],
                         "object_definition_sources": [],
@@ -7365,7 +7365,7 @@
                             11945232
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)",
+                            "Heroes (named individuals)",
                             "Large groups"
                         ],
                         "object_definition_sources": [],
@@ -7491,8 +7491,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -7505,7 +7505,7 @@
                             11945227
                         ],
                         "object_definition_value": [
-                            "Exile / expulsion from home",
+                            "Exile / expulsion from home (individual)",
                             "Settlement / first occupation of a place",
                             "Formal naming of a place"
                         ],
@@ -7518,7 +7518,7 @@
                             11945231
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)"
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -7772,8 +7772,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -7798,7 +7798,7 @@
                             14321443
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)",
+                            "Heroes (named individuals)",
                             "Band of companions of a hero"
                         ],
                         "object_definition_sources": [],
@@ -8008,7 +8008,7 @@
                             14321443
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)",
+                            "Heroes (named individuals)",
                             "Band of companions of a hero"
                         ],
                         "object_definition_sources": [],
@@ -8186,7 +8186,7 @@
                             14321443
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)",
+                            "Heroes (named individuals)",
                             "Band of companions of a hero"
                         ],
                         "object_definition_sources": [],
@@ -8375,7 +8375,7 @@
                             14321443
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)",
+                            "Heroes (named individuals)",
                             "Band of companions of a hero"
                         ],
                         "object_definition_sources": [],
@@ -8491,7 +8491,7 @@
                             14235458
                         ],
                         "object_definition_value": [
-                            "Origins of social practices (e.g. cult practices)"
+                            "aims to explain the origins of social practices/institutions (e.g. cult practices)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -8514,8 +8514,8 @@
                             11945230
                         ],
                         "object_definition_value": [
-                            "Whole communities",
-                            "Families"
+                            "Whole communities (named)",
+                            "Family (single family group)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -8626,8 +8626,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -8638,7 +8638,7 @@
                             11945215
                         ],
                         "object_definition_value": [
-                            "Exile / expulsion from home"
+                            "Exile / expulsion from home (individual)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -8746,7 +8746,7 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -8758,7 +8758,7 @@
                             14235454
                         ],
                         "object_definition_value": [
-                            "Exile / expulsion from home",
+                            "Exile / expulsion from home (individual)",
                             "Wandering"
                         ],
                         "object_definition_sources": [],
@@ -8771,7 +8771,7 @@
                             11945232
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)",
+                            "Heroes (named individuals)",
                             "Large groups"
                         ],
                         "object_definition_sources": [],
@@ -8873,9 +8873,9 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Geneaological origins of people or putative kinship",
-                            "Origins of social practices (e.g. cult practices)",
-                            "Foundation of a place"
+                            "aims to explain the geneaological origins of people or a putative kinship relationship",
+                            "aims to explain the origins of social practices/institutions (e.g. cult practices)",
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -8898,7 +8898,7 @@
                             11945232
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)",
+                            "Heroes (named individuals)",
                             "Large groups"
                         ],
                         "object_definition_sources": [],
@@ -9013,8 +9013,8 @@
                             14235458
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Origins of social practices (e.g. cult practices)"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the origins of social practices/institutions (e.g. cult practices)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -9148,7 +9148,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -9172,7 +9172,7 @@
                             11945231
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)"
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -9276,8 +9276,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -9302,7 +9302,7 @@
                             11945232
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)",
+                            "Heroes (named individuals)",
                             "Large groups"
                         ],
                         "object_definition_sources": [],
@@ -9429,8 +9429,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -9455,7 +9455,7 @@
                             14321443
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)",
+                            "Heroes (named individuals)",
                             "Band of companions of a hero"
                         ],
                         "object_definition_sources": [],
@@ -9577,7 +9577,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -9600,7 +9600,7 @@
                             14321443
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)",
+                            "Heroes (named individuals)",
                             "Band of companions of a hero"
                         ],
                         "object_definition_sources": [],
@@ -9720,9 +9720,9 @@
                             14235887
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship",
-                            "Ancient affiliation (non-kinship language)"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship",
+                            "aims to explain an ancient relationship between communities NOT based on kinship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -9864,8 +9864,8 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Geneaological origins of people or putative kinship",
-                            "Foundation of a place"
+                            "aims to explain the geneaological origins of people or a putative kinship relationship",
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -9887,7 +9887,7 @@
                             11945231
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)"
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -10024,8 +10024,8 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Geneaological origins of people or putative kinship",
-                            "Foundation of a place"
+                            "aims to explain the geneaological origins of people or a putative kinship relationship",
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -10038,7 +10038,7 @@
                         ],
                         "object_definition_value": [
                             "Relocation for marriage",
-                            "Exile / expulsion from home"
+                            "Exile / expulsion from home (individual)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -10168,8 +10168,8 @@
                             14235887
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Ancient affiliation (non-kinship language)"
+                            "aims to explain the foundation of a place",
+                            "aims to explain an ancient relationship between communities NOT based on kinship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -10194,7 +10194,7 @@
                             11945232
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)",
+                            "Heroes (named individuals)",
                             "Large groups"
                         ],
                         "object_definition_sources": [],
@@ -10307,7 +10307,7 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -10332,8 +10332,8 @@
                             11945235
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)",
-                            "Whole communities"
+                            "Heroes (named individuals)",
+                            "Whole communities (named)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -10442,8 +10442,8 @@
                             14235458
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Origins of social practices (e.g. cult practices)"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the origins of social practices/institutions (e.g. cult practices)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -10563,7 +10563,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -10587,7 +10587,7 @@
                             11945231
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)"
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -10702,7 +10702,7 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -10724,7 +10724,7 @@
                             11945231
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)"
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -10857,7 +10857,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -10880,7 +10880,7 @@
                             14321443
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)",
+                            "Heroes (named individuals)",
                             "Band of companions of a hero"
                         ],
                         "object_definition_sources": [],
@@ -11008,7 +11008,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -11019,7 +11019,7 @@
                             11945215
                         ],
                         "object_definition_value": [
-                            "Exile / expulsion from home"
+                            "Exile / expulsion from home (individual)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -11031,7 +11031,7 @@
                             11945232
                         ],
                         "object_definition_value": [
-                            "Whole communities",
+                            "Whole communities (named)",
                             "Large groups"
                         ],
                         "object_definition_sources": [],
@@ -11139,7 +11139,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -11163,7 +11163,7 @@
                             14810500
                         ],
                         "object_definition_value": [
-                            "Nature spirit"
+                            "Nature spirits"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -11292,7 +11292,7 @@
                             14235887
                         ],
                         "object_definition_value": [
-                            "Ancient affiliation (non-kinship language)"
+                            "aims to explain an ancient relationship between communities NOT based on kinship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -11316,7 +11316,7 @@
                             11945232
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)",
+                            "Heroes (named individuals)",
                             "Band of companions of a hero",
                             "Large groups"
                         ],
@@ -11520,8 +11520,8 @@
                             14235458
                         ],
                         "object_definition_value": [
-                            "Ancient affiliation (non-kinship language)",
-                            "Origins of social practices (e.g. cult practices)"
+                            "aims to explain an ancient relationship between communities NOT based on kinship",
+                            "aims to explain the origins of social practices/institutions (e.g. cult practices)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -11532,7 +11532,7 @@
                             11945215
                         ],
                         "object_definition_value": [
-                            "Exile / expulsion from home"
+                            "Exile / expulsion from home (individual)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -11543,7 +11543,7 @@
                             11945231
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)"
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -11721,7 +11721,7 @@
                             14235887
                         ],
                         "object_definition_value": [
-                            "Ancient affiliation (non-kinship language)"
+                            "aims to explain an ancient relationship between communities NOT based on kinship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -11739,7 +11739,7 @@
                             11945231
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)"
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -11915,7 +11915,7 @@
                             14235887
                         ],
                         "object_definition_value": [
-                            "Ancient affiliation (non-kinship language)"
+                            "aims to explain an ancient relationship between communities NOT based on kinship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -11940,10 +11940,10 @@
                             14810500
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)",
+                            "Heroes (named individuals)",
                             "Band of companions of a hero",
                             "Large groups",
-                            "Nature spirit"
+                            "Nature spirits"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -12127,9 +12127,9 @@
                             14235887
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship",
-                            "Ancient affiliation (non-kinship language)"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship",
+                            "aims to explain an ancient relationship between communities NOT based on kinship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -12156,7 +12156,7 @@
                             11945232
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)",
+                            "Heroes (named individuals)",
                             "Large groups"
                         ],
                         "object_definition_sources": [],
@@ -12272,7 +12272,7 @@
                             14235887
                         ],
                         "object_definition_value": [
-                            "Ancient affiliation (non-kinship language)"
+                            "aims to explain an ancient relationship between communities NOT based on kinship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -12286,7 +12286,7 @@
                         ],
                         "object_definition_value": [
                             "War - attacking / raiding",
-                            "Exile / expulsion from home",
+                            "Exile / expulsion from home (individual)",
                             "Nostos / return home"
                         ],
                         "object_definition_sources": [],
@@ -12298,7 +12298,7 @@
                             11945231
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)"
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -12421,7 +12421,7 @@
                             14235887
                         ],
                         "object_definition_value": [
-                            "Ancient affiliation (non-kinship language)"
+                            "aims to explain an ancient relationship between communities NOT based on kinship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -12445,7 +12445,7 @@
                             14321443
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)",
+                            "Heroes (named individuals)",
                             "Large groups",
                             "Band of companions of a hero"
                         ],
@@ -12642,7 +12642,7 @@
                             14256256
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
+                            "aims to explain the foundation of a place",
                             "Other"
                         ],
                         "object_definition_sources": [],
@@ -12844,8 +12844,8 @@
                             14235887
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Ancient affiliation (non-kinship language)"
+                            "aims to explain the foundation of a place",
+                            "aims to explain an ancient relationship between communities NOT based on kinship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -13025,7 +13025,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -13203,8 +13203,8 @@
                             14235458
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Origins of social practices (e.g. cult practices)"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the origins of social practices/institutions (e.g. cult practices)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -13393,9 +13393,9 @@
                             14235458
                         ],
                         "object_definition_value": [
-                            "Ancient affiliation (non-kinship language)",
-                            "Geneaological origins of people or putative kinship",
-                            "Origins of social practices (e.g. cult practices)"
+                            "aims to explain an ancient relationship between communities NOT based on kinship",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship",
+                            "aims to explain the origins of social practices/institutions (e.g. cult practices)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -13419,7 +13419,7 @@
                             11945231
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)"
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -13592,8 +13592,8 @@
                             14235458
                         ],
                         "object_definition_value": [
-                            "Ancient affiliation (non-kinship language)",
-                            "Origins of social practices (e.g. cult practices)"
+                            "aims to explain an ancient relationship between communities NOT based on kinship",
+                            "aims to explain the origins of social practices/institutions (e.g. cult practices)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -13615,7 +13615,7 @@
                             11945235
                         ],
                         "object_definition_value": [
-                            "Whole communities"
+                            "Whole communities (named)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -13779,8 +13779,8 @@
                             14235887
                         ],
                         "object_definition_value": [
-                            "Origins of social practices (e.g. cult practices)",
-                            "Ancient affiliation (non-kinship language)"
+                            "aims to explain the origins of social practices/institutions (e.g. cult practices)",
+                            "aims to explain an ancient relationship between communities NOT based on kinship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -13904,7 +13904,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -13926,7 +13926,7 @@
                             11945231
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)"
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -14038,7 +14038,7 @@
                             14235887
                         ],
                         "object_definition_value": [
-                            "Ancient affiliation (non-kinship language)"
+                            "aims to explain an ancient relationship between communities NOT based on kinship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -14177,7 +14177,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -14316,7 +14316,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -14465,7 +14465,7 @@
                             14235887
                         ],
                         "object_definition_value": [
-                            "Ancient affiliation (non-kinship language)"
+                            "aims to explain an ancient relationship between communities NOT based on kinship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -14646,9 +14646,9 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Origins of social practices (e.g. cult practices)",
-                            "Ancient affiliation (non-kinship language)",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the origins of social practices/institutions (e.g. cult practices)",
+                            "aims to explain an ancient relationship between communities NOT based on kinship",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -14659,7 +14659,7 @@
                             11945215
                         ],
                         "object_definition_value": [
-                            "Exile / expulsion from home"
+                            "Exile / expulsion from home (individual)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -14811,7 +14811,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -14946,7 +14946,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -15070,7 +15070,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -15092,7 +15092,7 @@
                             11945231
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)"
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -15198,7 +15198,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -15221,7 +15221,7 @@
                             14321443
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)",
+                            "Heroes (named individuals)",
                             "Band of companions of a hero"
                         ],
                         "object_definition_sources": [],
@@ -15364,7 +15364,7 @@
                             11945231
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)"
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -15469,7 +15469,7 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -15491,7 +15491,7 @@
                             11945231
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)"
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -15616,8 +15616,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -15630,7 +15630,7 @@
                         ],
                         "object_definition_value": [
                             "Settlement / first occupation of a place",
-                            "Exile / expulsion from home"
+                            "Exile / expulsion from home (individual)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -15756,8 +15756,8 @@
                             14235458
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Origins of social practices (e.g. cult practices)"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the origins of social practices/institutions (e.g. cult practices)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -15769,7 +15769,7 @@
                             11945217
                         ],
                         "object_definition_value": [
-                            "Exile / expulsion from home",
+                            "Exile / expulsion from home (individual)",
                             "Settlement / first occupation of a place"
                         ],
                         "object_definition_sources": [],
@@ -15781,7 +15781,7 @@
                             11945235
                         ],
                         "object_definition_value": [
-                            "Whole communities"
+                            "Whole communities (named)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -15889,9 +15889,9 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Ancient affiliation (non-kinship language)",
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain an ancient relationship between communities NOT based on kinship",
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -15913,7 +15913,7 @@
                             11945231
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)"
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -16146,8 +16146,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -16268,8 +16268,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Ancient affiliation (non-kinship language)",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain an ancient relationship between communities NOT based on kinship",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -16280,7 +16280,7 @@
                             14350871
                         ],
                         "object_definition_value": [
-                            "Immobility"
+                            "Immobility / remaining"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -16395,7 +16395,7 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -16522,8 +16522,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -16545,7 +16545,7 @@
                             11945231
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)"
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -16661,9 +16661,9 @@
                             14235458
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship",
-                            "Origins of social practices (e.g. cult practices)"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship",
+                            "aims to explain the origins of social practices/institutions (e.g. cult practices)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -16803,8 +16803,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -16819,7 +16819,7 @@
                         "object_definition_value": [
                             "Nostos / return home",
                             "Settlement / first occupation of a place",
-                            "Exile / expulsion from home"
+                            "Exile / expulsion from home (individual)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -16931,7 +16931,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -17063,7 +17063,7 @@
                             14235887
                         ],
                         "object_definition_value": [
-                            "Ancient affiliation (non-kinship language)"
+                            "aims to explain an ancient relationship between communities NOT based on kinship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -17071,12 +17071,10 @@
                     "35518": {
                         "object_description_id": 35518,
                         "object_definition_ref_object_id": [
-                            14235455,
-                            11945219
+                            14235455
                         ],
                         "object_definition_value": [
-                            "War - attacking / raiding",
-                            "Itinerant labour / mercenary work"
+                            "War - attacking / raiding"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -17200,7 +17198,7 @@
                             14256256
                         ],
                         "object_definition_value": [
-                            "Ancient affiliation (non-kinship language)",
+                            "aims to explain an ancient relationship between communities NOT based on kinship",
                             "Other"
                         ],
                         "object_definition_sources": [],
@@ -17382,7 +17380,7 @@
                         ],
                         "object_definition_value": [
                             "Other",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -17527,7 +17525,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -17554,7 +17552,7 @@
                             11945232
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)",
+                            "Heroes (named individuals)",
                             "Large groups"
                         ],
                         "object_definition_sources": [],
@@ -17676,7 +17674,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -17797,8 +17795,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -17820,7 +17818,7 @@
                             11945231
                         ],
                         "object_definition_value": [
-                            "Heroes (remarkable individuals)"
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -17931,8 +17929,8 @@
                             14235457
                         ],
                         "object_definition_value": [
-                            "Ancient affiliation (non-kinship language)",
-                            "Geneaological origins of people or putative kinship"
+                            "aims to explain an ancient relationship between communities NOT based on kinship",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -18052,8 +18050,8 @@
                             14235458
                         ],
                         "object_definition_value": [
-                            "Foundation of a place",
-                            "Origins of social practices (e.g. cult practices)"
+                            "aims to explain the foundation of a place",
+                            "aims to explain the origins of social practices/institutions (e.g. cult practices)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -18167,7 +18165,7 @@
                             14235456
                         ],
                         "object_definition_value": [
-                            "Foundation of a place"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -18214,6 +18212,92 @@
                             "Strabo 9.4.7-9",
                             "Strabo 9.5.7-8"
                         ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "15036598": {
+                "object": {
+                    "nodegoat_id": "ngGN9a88sHXYqHtatHZ61vdHhGa",
+                    "object_id": 15036598,
+                    "object_name": "<span style=\"font-style: italic; opacity: 0.8;\">No Name</span>",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2023-07-06T09:19:56Z"
+                },
+                "object_definitions": {
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },

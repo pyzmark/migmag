@@ -12,7 +12,7 @@ import json
 with open('token.txt') as f:
     mytoken = f.readlines()
 bearer = 'Bearer '
-my_headers = {'Authorization' : bearer + mytoken}
+my_headers = {'Authorization' : bearer + mytoken[0]}
 
 
 def apicall(datatype,objectid):
