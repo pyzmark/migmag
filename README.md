@@ -5,4 +5,4 @@ The Odyssey visualizer maps and tracks the journeys of a number of mythical and 
 
 The app was written by Mark Pyzyk. Comments and questions can be sent to: pyzmark@gmail.com
 
-..
+.
