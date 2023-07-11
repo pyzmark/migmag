@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2023-07-10T22:00:08+00:00",
+    "timestamp": "2023-07-11T22:00:07+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -11240,7 +11240,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-15T13:52:18Z"
+                    "object_dating": "2023-07-11T12:06:57Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -11356,7 +11356,8 @@
                             14837468,
                             14837616,
                             14837621,
-                            14775713
+                            14775713,
+                            15041181
                         ],
                         "object_definition_value": [
                             "Kallimachos Fr. 35",
@@ -11371,7 +11372,8 @@
                             "Philostratos Philostr. Her. 706-707",
                             "Philostratos Imagines 2.13.1-2",
                             "Tryphiodorus Tryph. 647-650",
-                            "Schol. Hom. Il Σ AD Il. 13.66"
+                            "Schol. Hom. Il Σ AD Il. 13.66",
+                            "Pausanias Paus. 5.19.5"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -11868,7 +11870,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-26T15:42:22Z"
+                    "object_dating": "2023-07-11T11:32:59Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -11978,7 +11980,8 @@
                             14837660,
                             14837712,
                             14838011,
-                            14786921
+                            14786921,
+                            15041170
                         ],
                         "object_definition_value": [
                             "Euripides Eur. IA 253",
@@ -11990,7 +11993,8 @@
                             "Ioannis Malalas Chronographia 5.108",
                             "Strabo 10.1.13",
                             "Pausanias 1.23.4",
-                            "Strabo 9.5.7-8"
+                            "Strabo 9.5.7-8",
+                            "Pausanias Paus. 1.23.4"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -17025,7 +17029,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-13T11:55:35Z"
+                    "object_dating": "2023-07-11T12:31:32Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -17108,11 +17112,15 @@
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
                             14790722,
-                            14844558
+                            14844558,
+                            14838013,
+                            15041185
                         ],
                         "object_definition_value": [
                             "Pseudo-Hesiod Hes. Sh. 1 1-30",
-                            "Hellenica Oxyrhynchia BNJ f9"
+                            "Hellenica Oxyrhynchia BNJ f9",
+                            "Pausanias Paus. 2.19.8",
+                            "Pausanias Paus. 3.9.9-10"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -18501,6 +18509,121 @@
                         "object_sub_definitions": []
                     }
                 }
+            },
+            "15041163": {
+                "object": {
+                    "nodegoat_id": "ngXE6F38jXkPkYknkZG1kmuUyZL",
+                    "object_id": 15041163,
+                    "object_name": "Formal naming of Phokis region and it's expansion into Lokris",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2023-07-11T11:16:29Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Formal naming of Phokis region and it's expansion into Lokris",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456,
+                            14235457
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945227
+                        ],
+                        "object_definition_value": [
+                            "Formal naming of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            15041162
+                        ],
+                        "object_definition_value": [
+                            "Phocos (son of Ornytion)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            15041157
+                        ],
+                        "object_definition_value": [
+                            "Pausanias Paus. 2.29.2-3"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
             }
         }
     }
