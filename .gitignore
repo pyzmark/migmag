@@ -16,3 +16,7 @@ migmag.org
 TODOs.org
 .TODOs.org.~undo-tree~
 token.txt
+bin/
+lib/
+lib64
+pyvenv.cfg
