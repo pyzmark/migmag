@@ -492,7 +492,10 @@ def main():
 #    import streamlit.components.v1 as components
 #    iframe = odyssey_map._repr_html_()
 #    components.html(iframe, width=950, height=500)
-    st.data = st_folium(odyssey_map, width=950, height=500)
+    try:
+        st.data = st_folium(odyssey_map, width=950, height=500)
+    except:
+        st.write("It looks like the filters you've chosen do not produce any results. Try removing your last selection and replacing it with something else.")
 
     if errors:
         with st.expander(":skull: Error 01: Journey(s) missing geographic information on at least one place in Nodegoat", expanded=False):
