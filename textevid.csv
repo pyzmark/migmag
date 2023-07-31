@@ -17,7 +17,7 @@ ngBI4F18nCyT5DSr6Ba96qywcCP,12375141,Ammianus Marcellinus Res Gestae 28.1.4,[]
 ngCJ4C28oDpU2ETK7DV06rzRdDQ,12375142,Ammianus Marcellinus Res Gestae 22.8.12,[]
 ngDK4D38pEaVqFUV8Dc1qsaAeDR,12375143,Anakreon F463,[]
 ngEL4E48qFLWrGVA9E527tbRfFS,12375144,Andron of Halikarnassos FGrHist 10,[]
-ngFM4F58rGWXqHWR0FY39ucCgGT,12375145,Ekloge Historion F16a,[]
+ngFM4F58rGWXqHWR0FY39ucCgGT,12375145,Ekloge Historion F16a,"['κτίζω to found, create, establish']"
 ngGN4K68sGNY6IXC1IP49vdLhGU,12375146,Etymologicum Magnum s.v. Ephesos,[]
 ngHO4L78tHYZ7JYZ2JA5uweciIV,12375147,Anon BNJ 496 F4,[]
 ngIP4I88uKPA1KZc3IR61xfdjKW,12375148,Anon Palatine Anthology 11:442,"['πολίτης citizen', 'ἐκδιώκω to chase away, banish', 'ἐπᾰ́γω bring in, invite as aiders or allies, march against', 'ἀποικίζω to send away from home, banish']"
@@ -93,11 +93,11 @@ ngDK1Z78pFKVnFUZ2DW58saceEx,12375217,Diodorus Siculus 15.49.1-3,"['πόλις ci
 ngEL1A88qFrW3GVS3EX68tbBfFS,12375218,Diogenes Laertios 1.1.22,"['γένος kin, stock, race: of a single descendant', 'πολιτογραφέω enrol/be admitted as a citizen', 'ἔρχομαι to come, go', 'ἐκπίτνω to be driven out']"
 ngFM1B98rGcX2HWJ4FO74ucagFT,12375219,Diogenes Laertios 1.1.29,"['ἀποστέλλω to send, despatch, consign']"
 ngGN2C08sHNY3IXC5IZ82vdPhHa,12375220,Diogenes Laertios 1.5.83,"['ἀποικία settlement away from home', 'στέλλω to send, also: set sail, to get ready to go (trans. and med.)']"
-ngHO2H18tHuZ2JYD6HQ92weAiIb,12375221,Dionysios of Halikarnassos 1.27.1-1.29.1,[]
-ngIP2I28uIfA2KZc7KR05xfdjJW,12375222,Dionysios of Halikarnassos 4.25.4-6,[]
-ngJQ2J38vJQBwLAz8JC1vygGkLX,12375223,Dionysios Periegetes 822-9,[]
+ngHO2H18tHuZ2JYD6HQ92weAiIb,12375221,Dionysios of Halikarnassos 1.27.1-1.29.1,"['ἀποικία settlement away from home', 'ἡγεμών one who leads', 'ἔθνος a number of people living together, tribe', 'γένος kin, stock, race: of a single descendant', 'μετανάστης one who has left his home, wanderer, migrant', 'στόλος expedition, journey', 'μετανάστασις migration', 'γῆ earth, inhabited land, native land', 'χώρα space', 'δῆμος a country district, the people of the country', 'οἴκησις the act of dwelling', 'πόλις city', 'οἰκισμός foundation', 'ἅλωσις capture', 'ἀπόκτισις the planting of a colony', 'γίγνομαι to be, go, proceed (main reading: to become)', 'ἡγέομαι go before, lead the way', 'συναίρω to take part in, participate', 'ἐκχωρέω to depart', 'ὁρμίζω to bring to a safe anchorage, bring into harbour, moor, anchor', 'καταμένω to stay, reside, settle', 'ἱδρύω to settle (make to sit down)', 'ἀφικνέομαι to arrive, come to', 'ἔρχομαι to come, go', 'κατέχω to occupy, invade, conquer, possess, settle, dwell in', 'κατοικέω to settle', 'κτίζω to found, create, establish', 'αἱρέω to take, seize, grasp', 'ἐκλείπω to leave (and go somewhere else)', 'πλανάω to make to wander, wandering', 'φοιτάω go to and fro, backwards and forwards']"
+ngIP2I28uIfA2KZc7KR05xfdjJW,12375222,Dionysios of Halikarnassos 4.25.4-6,"['τόπος place, region', 'πόλις city', 'λαμβάνω to take (away), to capture, invade, discover', 'οἰκέω to inhabit, reside, dwell', 'ἱδρύω to settle (make to sit down)', 'σύνειμι to go, come together, assemble']"
+ngJQ2J38vJQBwLAz8JC1vygGkLX,12375223,Dionysios Periegetes 822-9,"['πόλις city', 'χθών earth']"
 ngKR2K48wKBCwMBG9L525zhHlKY,12375224,Douris of Samos FGrHist 76 F25 Samian Annals,[]
-ngLS2H58xLCD9NCZ0NU3xaiMmMf,12375225,Douris of Samos FGrHist 76 F74 Samian Annals,[]
+ngLS2H58xLCD9NCZ0NU3xaiMmMf,12375225,Douris of Samos FGrHist 76 F74 Samian Annals,"['πολιτογραφέω enrol/be admitted as a citizen', 'ἔρχομαι to come, go', 'ἐκπίτνω to be driven out']"
 ngMT2E68yOTE8ODg1N748bjRnMA,12375226,Ephoros BNJ 70 F114a,[]
 ngNU2F78zPEF9PEd2OG5ackSoPB,12375227,Ephoros BNJ 70 F126,[]
 ngOV2G88aQFGyQFS3PX62dlDpQC,12375228,Ephoros BNJ 70 F127,[]
@@ -125,13 +125,13 @@ ngJQ4J98vLAB2LAh4J07tygakKd,12375249,Eumelos of Korinth FGrHist 451 F1a,[]
 ngKR5W08wKhC4MBC5Kj81zhTlKe,12375250,Eumelos of Korinth FGrHist 451 T2,[]
 ngLS5X18xLSD4NCj6LU9waikmMf,12375251,Eumelos of Korinth FGrHist 451 F4,[]
 ngMT5Y28yMDE4ODY7NF06bjRnOA,12375252,Eumelos of Korinth FGrHist 451 F2a,[]
-ngNU5V38zPUF4PEJ8NG15ckioOB,12375253,Eumelos of Korinth FGrHist 451 F2c,[]
+ngNU5V38zPUF4PEJ8NG15ckioOB,12375253,Eumelos of Korinth FGrHist 451 F2c,"['ἀφικνέομαι to arrive, come to', 'οἰκέω to inhabit, reside, dwell', 'ἱκνέομαι reach, attain to, approach']"
 ngOV5A48aPlG8QFi9PX28dljpOC,12375254,Euripides F73a,[]
-ngPW5B58bQmHbRGj0PY38emkqPD,12375255,Euripides Ion 74,[]
-ngQX5C68cRXIcSHC1QJ4dfnZrQk,12375256,Euripides Ion 1585-7,[]
+ngPW5B58bQmHbRGj0PY38emkqPD,12375255,Euripides Ion 74,"['κτίστωρ founder', 'χθών earth']"
+ngQX5C68cRXIcSHC1QJ4dfnZrQk,12375256,Euripides Ion 1585-7,"['γῆ earth, inhabited land, native land', 'κατοικέω to settle']"
 ngRY5D78dSIJcTIJ2TK5cgoEsSF,12375257,Eusebius Chronicle 65-68,[]
 ngSZ5E88eSpK3UJq3SL6ehprtTm,12375258,Eustathios Comm. Diony. Periegetes 823,[]
-ngTA5B98fTgL0VKj4U073iqUuUn,12375259,Harpokration Lexicon s.v. Έρυθραῖοι,[]
+ngTA5B98fTgL0VKj4U073iqUuUn,12375259,Harpokration Lexicon s.v. Έρυθραῖοι,"['πόλις city', 'κτίζω to found, create, establish']"
 ngUB6C08gUrM0WLU5U181jrpvVI,12375260,Hekataios BNJ 1 T1,[]
 ngVC6D18hVCN1XMV6XO95ksAwWJ,12375261,Hekataios BNJ 1 T15b,[]
 ngWD6E28iWNO6YNO7WP0hltTxWK,12375262,Hekataios BNJ 1 F1,[]
@@ -183,7 +183,7 @@ ngTA0L78fUKLeVKH2UM5giqMuTn,12375307,Herakleides Pontikos F26a Stork et al,[]
 ngUB0M88gUhMeWLo3UN61jrZvUI,12375308,Herakleides Pontikos F41 Stork et al On Pleasure,[]
 ngVC0V98hWCN1XMZ4VE7gksSwGJ,12375309,Herakleides Pontikos F23 Stork et al On Justice,[]
 ngWD1S08iXDO1YNS5YP82ltLxHK,12375310,Herakleides Pontikos F114 Stork et al On Music,[]
-ngXE1P18jYOPhZOL6Y294muKyIL,12375311,Herodoros BNJ 31 F45 Argonautica,[]
+ngXE1P18jYOPhZOL6Y294muKyIL,12375311,Herodoros BNJ 31 F45 Argonautica,"['πόλις city', 'ἱκνέομαι reach, attain to, approach', ""νοσφίζομαι to turn one's back upon (leave)"", 'κτίζω to found, create, establish', 'ἀναχωρέω go back', 'μεταβαίνω pass over from one place to another']"
 ngYF1U28kZlQiAPo7YR0inxjzYs,12375312,Herodotos 1.142-150,"['ναυβάτης seafarer', 'ἀποικία settlement away from home', 'ἤπειρος (main)land', 'χώρα space', 'προσοικέω dwell by', 'οἰκέω to inhabit, reside, dwell', 'ἐξελαύνω to drive someone out', 'καταφεύγω flee for refuge (to a certain place)', 'ὁρμάω to set in motion', 'ἄγω to lead, to bring', 'καθήκω to come', 'καταντάω to come down to, arrive', 'ἥκω to come back/return, be present, to have come', 'έκπίπτω to exile/cast out someone (or: to fall out)', 'βοηθέω to come to aid', 'ἐκλείπω to leave (and go somewhere else)']"
 ngZG1p38lAwRmBQp8A418owWaKN,12375313,Herodotos 1.157,[]
 ngAH1q48mARSlCRq9Az2kpxFbLO,12375314,Herodotos 1.170.3,[]
@@ -198,26 +198,26 @@ ngJQ2J38vJQBwLAV8LS17ygCkKd,12375323,Herodotos 8.22,"['ναῦς ship', 'πορ�
 ngKR2K48wKBCwMBG9L529zhPlKY,12375324,Herodotos 9.97,"['κτισμός foundation', 'ναῦς ship', 'ἀφικνέομαι to arrive, come to', 'ἀνερύω to drag up (ships onto land)']"
 ngLS2H58xLCD9NCZ0NU37aiQmNZ,12375325,Heropythos FGrHist 448 F1 Kolophonion,[]
 ngMT2E68yOTE8ODg1N740bjBnNA,12375326,Hesychios Lexicon s.v. Kadmeioi (same as Hellanicus F101),[]
-ngNU2F78zPEF9PEd2OG57ckSoNB,12375327,Homer Iliad 2.867-873,[]
-ngOV2G88aQFGyQFS3PX60dlfpPi,12375328,Homer Iliad 2.631-635,[]
-ngPW2H98bQmH4RGH4RY72emIqPj,12375329,Homer Iliad 2.646-649,[]
+ngNU2F78zPEF9PEd2OG57ckSoNB,12375327,Homer Iliad 2.867-873,"['ἄγω to lead, to bring', 'ἔχω to bear, carry, bring']"
+ngOV2G88aQFGyQFS3PX60dlfpPi,12375328,Homer Iliad 2.631-635,"['ἄγω to lead, to bring', 'ἀμφινέμομαι to dwell round']"
+ngPW2H98bQmH4RGH4RY72emIqPj,12375329,Homer Iliad 2.646-649,"['πόλις city', 'ἡγεμονεύω lead the way', 'ἀμφινέμομαι to dwell round']"
 ngQX3M08cRHIcSHo5RJ85fnRrQk,12375330,Homer Iliad 8.203-4,[]
-ngRY3N18dReJcTIV6RK95goGsTF,12375331,Homer Iliad 13.686-8,[]
+ngRY3N18dReJcTIV6RK95goGsTF,12375331,Homer Iliad 13.686-8,"['ναῦς ship', 'ἐπαίσσω to rush at']"
 ngSZ3O28eSpKdUJW7S306hpjtTm,12375332,Homer Iliad 20.403-5,[]
 ngTA3P38fTALdVKH8TC14iqouUH,12375333,Homer Odyssey 11.254-267,[]
 ngUB3Y48gVBMfWLY9VD29jrJvUI,12375334,Homeric Hymns Hymn to Delian Apollo 146-55,[]
-ngVC3Z58hWMN6XMZ0VE36ksuwVp,12375335,Homeric Hymns Hymn to Delian Apollo 30-46,[]
-ngWD3A68iWjOjYNq1Xv41ltnxWq,12375336,Homeric Hymns Homeric Hymn to Artemis 1-8,[]
+ngVC3Z58hWMN6XMZ0VE36ksuwVp,12375335,Homeric Hymns Hymn to Delian Apollo 30-46,"['δῆμος a country district, the people of the country', 'ναῦς ship', 'πόλις city', 'οἰκία house, building, dwelling', 'ἱκνέομαι reach, attain to, approach']"
+ngWD3A68iWjOjYNq1Xv41ltnxWq,12375336,Homeric Hymns Homeric Hymn to Artemis 1-8,"['διώκω pursue, chase, in war or hunting']"
 ngXE3B78jXuPkZOn2X859muYyXr,12375337,Hyginus Fabulae 10,[]
 ngYF3C88kAFQ0APY3Zx62nvHzYs,12375338,Hyginus Fabulae 58,[]
 ngZG3D98lBQR1BQR4AI7mowIaZt,12375339,Hyginus Fabulae 14.3,[]
 ngAH4E08mBnS0CRM5CT85pxPbAO,12375340,Hyginus Fabulae 14.14-6,[]
 ngBI4F18nCyT5DSr6Ba94qywcCP,12375341,Hyginus Fabulae 275.7,[]
-ngCJ4C28oDpU2ETK7DV02rzbdCw,12375342,Iamblichos De Vita Pythagoras 2,[]
+ngCJ4C28oDpU2ETK7DV02rzbdCw,12375342,Iamblichos De Vita Pythagoras 2,"['ἀποικία settlement away from home', 'ἔποικος settler', 'ἔδαφος foundation', 'γῆ earth, inhabited land, native land', 'πόλις city', 'τόπος place, region', 'σύνοδος assembly, meeting', 'κατοικέω to settle', 'σῠνᾰ́γω bring together, gather together; for deliberation or festivity;', 'ἡγέομαι go before, lead the way', 'οἰκίζω to found, to establish']"
 ngDK4D38pEaVqFUV8Dc1osaEeEx,12375343,Ion of Chios FGrHist 392 F1 Chiou Ktisis,[]
-ngEL4E48qFLWrGVA9E524tbFfFy,12375344,Ion of Chios 29 von Blumenthal,[]
-ngFM4F58rGWXqHWR0FO3qucCgFT,12375345,Isokrates Panegyricus 122,[]
-ngGN4K68sGNY6IXC1IP41vdLhGU,12375346,Isokrates BNJ 496 F8,[]
+ngEL4E48qFLWrGVA9E524tbFfFy,12375344,Ion of Chios 29 von Blumenthal,"['κτίζω to found, create, establish']"
+ngFM4F58rGWXqHWR0FO3qucCgFT,12375345,Isokrates Panegyricus 122,"['πόλις city', 'χώρα space', 'ἐλευθερόω to set free, release', 'ἀποικέω to go/live from home, settle']"
+ngGN4K68sGNY6IXC1IP41vdLhGU,12375346,Isokrates BNJ 496 F8,['κατοικισμός habitation (adj.)']
 ngHO4L78tHYZ7JYZ2JA58weUiJV,12375347,Kadmos FGrHist 489 T1a,[]
 ngIP4I88uKPA1KZc3IR69xfzjIc,12375348,Kadmos FGrHist 489 T1b,[]
 ngJQ4J98vLAB2LAh4Ji73ygOkLX,12375349,Kleitophon GEF F5,[]
@@ -452,8 +452,8 @@ ngLS7X78xNSDvNCf2Lk57aicmLf,12375577,Thucydides 2.15,"[""ξυνοίκια public
 ngMT7Y88yODEwODg3NF69bjRnMA,12375578,Thucydides 6.82.3-4,[]
 ngNU7d98zOUFaPEF4PW79ckioPB,12375579,Thucydides 7.57.4,[]
 ngOV8e08aPFGbQFC5QX8adlBpOC,12375580,"Timotheos F791, 235-6 #Persae",[]
-ngPW8f18bPcHaRGj6PI9bemUqRD,12375581,Ioannes Tzetzes Schol. Lyc. Alex. 1378,[]
-ngQX8g28cQnI3SHY7QZ07fnFrSE,12375582,Ioannes Tzetzes Schol. Lyc. Alex. 1383,[]
+ngPW8f18bPcHaRGj6PI9bemUqRD,12375581,Ioannes Tzetzes Schol. Lyc. Alex. 1378,"['γένος kin, stock, race: of a single descendant', 'πόλις city', 'κτίζω to found, create, establish', 'λαμβάνω to take (away), to capture, invade, discover', 'ἄγω to lead, to bring', 'στέλλω to send, also: set sail, to get ready to go (trans. and med.)', 'παραγίγνομαι to arrive at, come to, be by']"
+ngQX8g28cQnI3SHY7QZ07fnFrSE,12375582,Ioannes Tzetzes Schol. Lyc. Alex. 1383,"['τόπος place, region']"
 ngRY8h38dRYJ4TIR8S414gomsSF,12375583,Ioannes Tzetzes Schol. Lyc. Alex. 980,[]
 ngSZ8q48eTZK5UJm9Sr25hpTtSm,12375584,Vellius Paterculus 1.2,[]
 ngTA8r58fUKL6VKB0UC30iqGuTH,12375585,Vellius Paterculus 1.4,[]
@@ -563,7 +563,7 @@ ngPW5B58bPGH5RGB0RY38emoqPj,13961155,Pseudo-Skymnos 328,[]
 ngOV8A08aPbGbQFe5PH85dlLpPC,13961180,Strabo 5.4.4,"['κτίσμα Foundation, settlement, colony', 'πρέσβυς ambassador, envoy', 'στόλος expedition, journey', 'ἀποικία settlement away from home', 'πόλις city', 'ναύαρχος commander of a ship', 'ἄγω to lead, to bring', 'κτίζω to found, create, establish']"
 ngRY8D38dTYJ7TIh8TK1egomsSF,13961183,Thucydides 6.4.5,"['οἰκιστής founder', 'ἀφικνέομαι to arrive, come to', 'οἰκίζω to found, to establish', 'ἔρχομαι to come, go', 'έκπίπτω to exile/cast out someone (or: to fall out)', 'φεύγω to flee, take flight', 'προσβάλλω to launch against, to attack']"
 ngSZ8q48eUJKeUJm9SB26hpHtTG,13961184,Dionysios of Halikarnassos Ant. Rom. 7.3.1,"['πόλις city', 'ἐξελαύνω to drive someone out', 'κατοικέω to settle', 'κτίζω to found, create, establish']"
-ngTA0L78fTqL8VKL2TM5fiqMuTn,13961207,Herodotos 6.21,"[""ἁλίσκομαι to be taken, conquered, fall into an enemy's hand"", 'οἰκέω to inhabit, reside, dwell']"
+ngTA0L78fTqL8VKL2TM5fiqMuTn,13961207,Herodotos 6.21,"['πόλις city', ""ἁλίσκομαι to be taken, conquered, fall into an enemy's hand"", 'οἰκέω to inhabit, reside, dwell']"
 ngAH1S48mCRSkCRW9BT28pzlbAE,13961214,Pseudo-Skylax 12,[]
 ngDK1D78pDUV9FUR2FW59saIeER,13961217,"Antiochus of Syrakuse FGrHist 555, f12",[]
 ngSZ3O28eSJK2UJE7S30ehpntSG,13961232,Strabo 5.4.9,"['οἰκίζω to found, to establish', 'ἐκλείπω to leave (and go somewhere else)', 'ἐξελαύνω to drive someone out', 'πέμπω to send', 'προκατέχω to hold, to occupy first, seize first', 'ἐπέρχομαι to come (towards ), proceed, arrive, approach', 'ἀποβάλλω to lose; to throw away, remove, chase away, repel, exclude', 'ἀπολαμβάνω to take, receive; to take back']"
@@ -638,7 +638,7 @@ ngAH9y28mARS5CRW7CT05pxTbAu,14783492,Strabo 9.4.2,"['ἐπίνειον sea-port'
 ngCJ9w48oETU6ETw9D527rzZdEQ,14783494,Plutarch Plut. Arist. 20.6,[]
 ngDK9x58pFKV8FUP0D63qsaueDx,14783495,Diodorus Siculus Diod. Sic. 14.82.8,"['ἔχω to bear, carry, bring']"
 ngEL9y68qFbWrGVc1EX49tbRfES,14783496,Stephanos of Byzantion s.v. Naryx,[]
-ngFM9z78rGsX7HWR2GY5sucKgHT,14783497,Euripides Eur. IA 253,"['ναῦς ship', 'ἄγω to lead, to bring', 'ἔρχομαι to come, go', 'ἐκλείπω to leave (and go somewhere else)']"
+ngFM9z78rGsX7HWR2GY5sucKgHT,14783497,Euripides Eur. IA 253,"['ναῦς ship', 'πόλις city', 'ἄγω to lead, to bring', 'ἔρχομαι to come, go', 'ἐκλείπω to leave (and go somewhere else)']"
 ngGN9a88sHXY8IXU3G96qvdVhIU,14783498,Pausanias Paus. 3.19.11-13,"['περίπλοoς sea voyage, circumnavigation', 'ἀφικνέομαι to arrive, come to', 'ἔρχομαι to come, go', 'ἀποστέλλω to send, despatch, consign', 'ἐπανέρχομαι to return, go back', 'πλέω to sail, travel by sea']"
 ngHO9b98tIOZtJYD4Ig72weMiHV,14783499,Photios Bibliotheca 186/ BNJ 26 F1.3,"['αὐτόχθων sprung from the land itself (native inhabitants)', 'ἔθνος a number of people living together, tribe', 'ἐπιχώριος local, native, common of the region', 'χώρα space', 'ἐποικέω to go as a settler, to settle in', 'λαμβάνω to take (away), to capture, invade, discover', 'ἀποικίζω to send away from home, banish', 'πλέω to sail, travel by sea', 'ἀφικνέομαι to arrive, come to', 'οἰκίζω to found, to establish', 'ξενίζω receive as a guest or entertain as a guest']"
 ngNU0F18zOUF3PEZ6Nm92ckKoNB,14783501,Konon BNJ 26 F1 (3),[]
@@ -647,9 +647,9 @@ ngPW0H38bPcH5RGD8RY1bemQqPj,14783503,Konon BNJ 26 F1 (18),[]
 ngQX0I48cRHI4SHQ9QJ29fnJrRk,14783504,Ovid Ov. Met. 14.466-474,"['spargo to strew, throw here and there, cast, hurl, throw about, scatter, sprinkle']"
 ngSZ0K68eSpK6UJW1T74ehpjtTm,14783506,Aeneas Tacticus Aen.Tact. 31.24,"['εἰσέρχομαι go in or go into, enter', 'εἰσάγω lead in or lead into, bring in, import']"
 ngEL1E88qEbW2GVE3Ed6otbNfFy,14783618,Homer Hom. Il. 18.324-342,"['γαῖα land, country', 'ἀπάγω to lead away, carry off', 'νοστέω go or come home, return']"
-ngGN2G08sGXY3IXe5GP8tvdDhIU,14783620,Homer Hom. Il. 23.65-99,"['ἄγω to lead, to bring', 'δέχομαι take, accept, receive']"
-ngTA8L58fTKLdVKF0UM36iqUuUp39,14786785,Homer Hom. Od. 4.495-511,"['ναῦς ship', 'δολιχήρετμος long-oared (ship)', 'φεύγω to flee, take flight', 'ἐπελαύνω Drive upon, drive to, drive against']"
-ngVC8t78hXMNiXMp2XE5fksqwXJ,14786787,Euripides Eur. Tro. 60-97,"['ναῦς ship', 'νόστος return home, homeward journeys', 'δύσνοστος That is no return', 'ναυστολέω carry or convey by sea, go by sea']"
+ngGN2G08sGXY3IXe5GP8tvdDhIU,14783620,Homer Hom. Il. 23.65-99,"['ἄγω to lead, to bring', 'δέχομαι take, accept, receive', 'ἀλάλημαι to wander, roam about']"
+ngTA8L58fTKLdVKF0UM36iqUuUp39,14786785,Homer Hom. Od. 4.495-511,"['ναῦς ship', 'δολιχήρετμος long-oared (ship)', 'νόστος return home, homeward journeys', 'φεύγω to flee, take flight', 'ἐπελαύνω Drive upon, drive to, drive against']"
+ngVC8t78hXMNiXMp2XE5fksqwXJ,14786787,Euripides Eur. Tro. 60-97,"['ναῦς ship', 'νόστος return home, homeward journeys', 'δύσνοστος That is no return', 'γῆ earth, inhabited land, native land', 'οἶκος house, also: family, lineage', 'πόλις city', 'ναυστολέω carry or convey by sea, go by sea', 'μένω to stay, wait']"
 ngZG9x18lAQRjBQH6A29mowyaZt,14786791,Hyginus Fab. 97,"['navis ship', 'expugno to storm, to capture, to attack']"
 ngIP4I88uIvA1KZA3JB6vxfdjJW,14786848,Hyginus Fab. 116,"['navis ship', 'naufragium shipwreck', 'redeo Of persons, to go back, turn back, return, turn around', 'duco to lead on the march, command', 'nato swim']"
 ngTA5B98fUgL9VKj4UM79iqGuTH,14786859,Virgil Verg. A. 1.34,"['ratis a raft, float', 'submergo sink, plunge under, submerge']"
@@ -685,20 +685,20 @@ ngPW8B18bQcHbRGL6Q293emkqRD,14787181,Strabo 9.4.13,"['πάροδος passage, mo
 ngIP2E28uKZA2KZc7JR0sxfVjKW,14790722,Pseudo-Hesiod Hes. Sh. 1 1-30,['ἕπομαι to follow']
 ngPW5B58bPWH8RGP0Qo3cemMqPD,14790755,Pseudo-Apollodoros Apollod. Epit. e.3.11,"['ἄγω to lead, to bring', 'συναθροίζω gather together, assemble, especially of soldiers']"
 ngSZ5E88eSJK9UJi3Sr69hpLtTm,14790758,Pseudo-Apollodoros Apollod. Epit. e.6.20-22,"['καταλαμβάνω arrive at, lay hold off,', 'πέμπω to send', 'ἀφικνέομαι to arrive, come to']"
-ngVC6D18hWCN1XMN6VO94ksIwVJ,14790761,Pseudo-Apollodoros Apollod. Epit. e.6.5ß,"['ναῦς ship', 'ἐκβράζω throw out, cast on shore']"
+ngVC6D18hWCN1XMN6VO94ksIwVJ,14790761,Pseudo-Apollodoros Apollod. Epit. e.6.5-6,"['ναῦς ship', 'ἐκβράζω throw out, cast on shore']"
 ngRY5Z78dTYJ0TIR2R857goEsTF,14810257,Stephanos of Byzantion s.v. Nagidos,[]
 ngSZ5E88eSJK9UJA3UB6ehpXtUG,14810258,Hekataios BNJ 1 F266,[]
 ngAH6I68mAHS1CRI1Az48pxvbCO,14810266,Pherekydes BNJ3 F86,[]
-ngRY8D38dTYJcTIN8Rq1egoGsTF,14810283,Herodotos 7.91,['ναῦς ship']
+ngRY8D38dTYJcTIN8Rq1egoGsTF,14810283,Herodotos 7.91,"['ναῦς ship', 'ἀποσκεδάννυμι to scatter abroad, disperse (diaspora)']"
 ngEL9y68qFbW6GVS1EX40tbNfFy,14810296,Schol. Apol. Rhod. Argonautika 2.178-82a (140.1 Wendel) = F 87 Dolcetti,[]
-ngGN9a88sHXYtIXa3GZ60vdPhHa,14810298,Herodotos 3.91,"['οἰκίζω to found, to establish']"
+ngGN9a88sHXYtIXa3GZ60vdPhHa,14810298,Herodotos 3.91,"['πόλις city', 'χώρα space', 'οἰκίζω to found, to establish']"
 ngEL1E88qEbW2GVS3FN68tbdfEy,14810318,Strabo 14.4.1,['ἐκπέμπω to send out']
 ngBI4F18nBoToDSv6DK9nqyQcDP,14810341,Kallisthenes in Strabo 14.4.1,['ἐκπέμπω to send out']
 ngIP4I88uIvA0KZg3J96sxfRjIc,14810348,Sophocles F180 Radt,[]
 ngOV5A48aOFG9QFK9QH2adlLpOC,14810354,Photios Bibliotheca 176,"['κατοικέω to settle', 'κατέχω to occupy, invade, conquer, possess, settle, dwell in']"
 ngSZ8q48eUZK5UJi9SL2dhprtSm,14810484,Lykophron Alexandra 439-46,[]
-ngXE8v98jYuPhZOv4Xw73muUyXL,14810489,Ioannes Tzetzes Schol.Lyk.Al. 440,"['ἔρχομαι to come, go']"
-ngYF9w08kYvQ5APs5ZR81nvZzZs,14810490,Euphorion F103 Lightfoot,"['κτίζω to found, create, establish']"
+ngXE8v98jYuPhZOv4Xw73muUyXL,14810489,Ioannes Tzetzes Schol.Lyk.Al. 440,"['πόλις city', 'ἔρχομαι to come, go', 'χωρίζω depart, go away (actually: seperate)', 'ἐνοικέω to dwell in, inhabit', 'κτίζω to found, create, establish']"
+ngYF9w08kYvQ5APs5ZR81nvZzZs,14810490,Euphorion F103 Lightfoot,"['κτίζω to found, create, establish', 'ἐνοικέω to dwell in, inhabit']"
 ngEL9y68qFbW6GVS1EX46tbBfFS,14810696,Pliny the Elder HN 5.26,[]
 ngGN9a88sHXYtIXw3IP63vdVhHU,14810698,Pomponius Mela De Situ Orbis 1.62,"['possideo to possess, occupy, dwell in']"
 ngXE6F38jXkPhZOT8Y41kmuQyXr,14819963,Pomponius Mela De situ orbis 1.68,['colonia colony']
@@ -756,3 +756,4 @@ ngRY5Z78dTYJ7TIV2SK5cgoEsTF,15041157,Pausanias Paus. 2.29.2-3,"['ἔρχομαι
 ngEL7y08qEVW5GVQ5E18otbNfEy,15041170,Pausanias Paus. 1.23.4,"['ἔρχομαι to come, go']"
 ngPW8B18bQcH1RGn6RI9bemEqPD,15041181,Pausanias Paus. 5.19.5,[]
 ngTA8L58fTKLdVKT0U636iqYuVJ3d,15041185,Pausanias Paus. 3.9.9-10,"['ἄγω to lead, to bring', 'ἐμβάλλω make an inroad or make an invasion, attack,', 'ἐπᾰ́γω bring in, invite as aiders or allies, march against', 'πορθέω destroy, ravage, plunder', 'ἐλαύνω to drive (away), set in motion']"
+ngWD1q08iWDO3YNE5Xv8iltrxHK,15130910,Pseudo-Apollodoros Apollod. Epit. e.5.22-23,"['ἀποπλέω to sail away', 'πορθέω destroy, ravage, plunder', 'φεύγω to flee, take flight']"
