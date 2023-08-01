@@ -205,7 +205,7 @@ def display_map(authors, journ, agents, evid, places, range_min, range_max, hero
                     control=True, 
                     show=True, 
                     smooth_factor=True, 
-                    tooltip=folium.GeoJsonTooltip(fields=['Name']),
+                    tooltip=folium.GeoJsonTooltip(fields=['Name'], labels=False),
                     embed=True, 
                     popup=None, 
                     zoom_on_click=False, 
@@ -218,7 +218,7 @@ def display_map(authors, journ, agents, evid, places, range_min, range_max, hero
                     control=True, 
                     show=True, 
                     smooth_factor=True, 
-                    tooltip=folium.GeoJsonTooltip(fields=['Journey']),
+                    tooltip=folium.GeoJsonTooltip(fields=['Journey'], labels=False),
                     embed=True, 
                     popup=None, 
                     zoom_on_click=False, 
@@ -361,7 +361,7 @@ def main():
     all_authors = dict(zip(all_authors_names,all_authors_id))
 
     # This is needed for the searchbars with a scroll
-    tooltip = "Certain filters do not generate text on their own (so you won't see it below the map), because they are sufficiently general that they produce an :red[overwhelming amount of it.] Use filters marked :memo: if you wish to generate texts below the map."
+    tooltip = "Filters with this tooltip generate text below the map. Search criteria :red[without this tooltip] are typically broad and therefore usually produce an :red[overwhelming amount of text, on their own.] Therefore, search results missing this tooltip do not produce text."
 
     def searchbar_maker(df, col, title, tooltip):
         list_name = list(df[col].unique())
@@ -386,7 +386,7 @@ def main():
     dest_list = dest_list + regions
     dest_list.sort()
     dest_list = ['All'] + dest_list
-    dest_name = st.sidebar.multiselect('Place Established or Destination    :memo:', dest_list, help=tooltip)
+    dest_name = st.sidebar.multiselect('Place Established or Destination', dest_list, help=tooltip)
     if dest_name == 'All':
         dest_name = ''
     subregions = [i for i in dest_name if 'Region: ' in i]
@@ -406,7 +406,7 @@ def main():
     port_list = port_list + regions
     port_list.sort()
     port_list = ['All'] + port_list
-    port_name = st.sidebar.multiselect('Place of Origin    :memo:', port_list, help=tooltip)
+    port_name = st.sidebar.multiselect('Place of Origin', port_list, help=tooltip)
     if port_name == 'All':
         port_name = ''
     subregions = [i for i in port_name if 'Region: ' in i]
@@ -440,7 +440,7 @@ def main():
     hero_list = [x for x in hero_list if str(x) != 'nan']
     hero_list.sort()
     hero_list = ['All'] + hero_list
-    hero_selector = st.sidebar.multiselect("Select Named Traveller(s)   :memo:", (hero_list), help=tooltip)
+    hero_selector = st.sidebar.multiselect("Select Named Traveller(s)", (hero_list), help=tooltip)
     hero_name = hero_selector
     if hero_selector == 'All':
         hero_name = ''
@@ -469,7 +469,7 @@ def main():
     mob_word = st.sidebar.multiselect('Mobility Vocabulary', (mob_word_list))
 
 
-    author_name = searchbar_maker(authors, 'Name', 'Author(s) of Evidence   :memo:', tooltip)
+    author_name = searchbar_maker(authors, 'Name', 'Author(s) of Evidence', tooltip)
     #from_region = searchbar_maker(places, 'Region', 'From Region')
     #to_region = searchbar_maker(places, 'Region', 'To Region')
     # we remove 'author' as an option, as this will not be relevant
