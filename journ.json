@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2023-08-03T22:00:03+00:00",
+    "timestamp": "2023-08-04T22:00:04+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -11240,7 +11240,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-08-03T14:00:52Z"
+                    "object_dating": "2023-08-04T18:53:34Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -11359,7 +11359,8 @@
                             14775713,
                             15041181,
                             15130910,
-                            15138752
+                            15138752,
+                            15140005
                         ],
                         "object_definition_value": [
                             "Kallimachos Fr. 35",
@@ -11377,7 +11378,8 @@
                             "Schol. Hom. Il Σ AD Il. 13.66",
                             "Pausanias Paus. 5.19.5",
                             "Pseudo-Apollodoros Apollod. Epit. e.5.22-23",
-                            "Philostratos of Lemnos (major) Philostr. Imag. 2.13. 1-2"
+                            "Philostratos of Lemnos (major) Philostr. Imag. 2.13. 1-2",
+                            "Aelian Ael. NA 15.24"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -12602,7 +12604,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-06T14:36:24Z"
+                    "object_dating": "2023-08-04T19:16:30Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -12708,11 +12710,13 @@
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
                             14786865,
-                            12411809
+                            12411809,
+                            14786930
                         ],
                         "object_definition_value": [
                             "Virgil Verg. A. 11.265",
-                            "Servius Aen. 3.399"
+                            "Servius Aen. 3.399",
+                            "Servius Serv. A. 3.399"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -12808,7 +12812,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-06T09:57:51Z"
+                    "object_dating": "2023-08-04T19:16:30Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -12896,10 +12900,12 @@
                     "35524": {
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
-                            14786873
+                            14786873,
+                            14786930
                         ],
                         "object_definition_value": [
-                            "Virgil Verg. A. 3.399"
+                            "Virgil Verg. A. 3.399",
+                            "Servius Serv. A. 3.399"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -16243,7 +16249,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-19T10:57:32Z"
+                    "object_dating": "2023-08-04T19:16:30Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -16326,13 +16332,15 @@
                             14786913,
                             14830290,
                             14774817,
-                            14858716
+                            14858716,
+                            14786930
                         ],
                         "object_definition_value": [
                             "Pausanias Paus. 10.38.1-3",
                             "Strabo Strab. 9.4.8",
                             "Plutarch Plut. Quaes. Gr. 15",
-                            "Antigonus of Karystos Historiarum mirabilium collectanea 117"
+                            "Antigonus of Karystos Historiarum mirabilium collectanea 117",
+                            "Servius Serv. A. 3.399"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -16629,7 +16637,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-08T15:25:29Z"
+                    "object_dating": "2023-08-04T19:16:30Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -16715,12 +16723,14 @@
                         "object_definition_ref_object_id": [
                             14000914,
                             12411809,
-                            12411819
+                            12411819,
+                            14786930
                         ],
                         "object_definition_value": [
                             "Pseudo-Skymnos 300-340",
                             "Servius Aen. 3.399",
-                            "Solinos 2.10-11"
+                            "Solinos 2.10-11",
+                            "Servius Serv. A. 3.399"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -16767,7 +16777,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-06T14:41:23Z"
+                    "object_dating": "2023-08-04T19:16:30Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -16851,10 +16861,12 @@
                     "35524": {
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
-                            12411809
+                            12411809,
+                            14786930
                         ],
                         "object_definition_value": [
-                            "Servius Aen. 3.399"
+                            "Servius Aen. 3.399",
+                            "Servius Serv. A. 3.399"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
