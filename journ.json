@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2023-08-06T22:00:04+00:00",
+    "timestamp": "2023-08-07T22:00:03+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -13573,7 +13573,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-15T17:20:01Z"
+                    "object_dating": "2023-08-07T15:59:18Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -13664,13 +13664,15 @@
                             14786920,
                             14830372,
                             14786889,
-                            14774994
+                            14774994,
+                            15160942
                         ],
                         "object_definition_value": [
                             "Pausanias Paus. 10.38.9-13",
                             "Pseudo-Apollodoros Apollod. 2.8.2",
                             "Strabo 9.4.7-9",
-                            "Polybius Plb. 12.12a"
+                            "Polybius Plb. 12.12a",
+                            "Polyainos Strategemata 1.9.1"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -18621,6 +18623,122 @@
                         ],
                         "object_definition_value": [
                             "Pausanias Paus. 2.29.2-3"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "15160939": {
+                "object": {
+                    "nodegoat_id": "ngZG3D98lAwRjAmVmAI74owqaAt",
+                    "object_id": 15160939,
+                    "object_name": "Mythical affiliations - Lokrians and Aitolians",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2023-08-07T15:52:50Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Mythical affiliations - Lokrians and Aitolians",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12433938
+                        ],
+                        "object_definition_value": [
+                            "Aitolia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235887
+                        ],
+                        "object_definition_value": [
+                            "aims to explain an ancient relationship between communities NOT based on kinship"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945221
+                        ],
+                        "object_definition_value": [
+                            "Relocation for marriage"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "+++",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14858728
+                        ],
+                        "object_definition_value": [
+                            "Phlegon of Tralles De mirabilibus 2.2-11"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
