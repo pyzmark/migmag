@@ -180,6 +180,7 @@ def display_map(authors, journ, agents, evid, places, range_min, range_max, hero
             continue
     markers = FeatureCollection(features)
     lines = FeatureCollection(line_features)
+    st.write(markers)
     style = lambda x: {
         'color' : 'white',
         'opacity' : '0.60',
