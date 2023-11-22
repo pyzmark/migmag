@@ -352,8 +352,10 @@ def main():
     authors['Earliest'] = authors['Object ID'].map(lambda x: grabber(agentsj, x, '35536', 'object_definition_value'))
     authors['Latest'] = authors['Object ID'].map(lambda x : grabber(agentsj, x, '35537', 'object_definition_value'))
     authors = authors.dropna(subset=['Earliest','Latest'])
-    authors['Earliest'] = authors['Earliest'].replace('0-1',1)
-    authors['Latest'] = authors['Latest'].replace('0-1',1)
+    authors['Earliest'] = authors['Earliest'].replace('0-1',-1)
+    authors['Latest'] = authors['Latest'].replace('0-1',-1)
+    authors['Earliest'] = authors['Earliest'].replace('0-8',-8)
+    authors['Latest'] = authors['Latest'].replace('0-8',-8)
     authors['Earliest'] = authors['Earliest'].astype(int)
     authors['Latest'] = authors['Latest'].astype(int)
     # We need a dictionary for authors/object_ids. We do this here, before filtering authors down
