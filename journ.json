@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2023-11-22T20:44:41+00:00",
+    "timestamp": "2023-12-05T17:39:38+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -8689,7 +8689,7 @@
                         "object_definition_value": [
                             "Cilicia",
                             "Syria",
-                            "Mopsuestia",
+                            "Misis Höyük - Mopsuestia",
                             "Mallos"
                         ],
                         "object_definition_sources": [],

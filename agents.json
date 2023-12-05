@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2023-11-22T20:44:40+00:00",
+    "timestamp": "2023-12-05T17:39:37+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -5328,7 +5328,7 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "0-1",
+                        "object_definition_value": "1",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -5370,7 +5370,7 @@
                         "object_sub": {
                             "object_sub_id": 18404041,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "0-1",
+                            "object_sub_date_start": "1",
                             "object_sub_date_end": "060",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [-5.447744, 36.129768]}",
@@ -5868,7 +5868,7 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "0-1",
+                        "object_definition_value": "1",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -5899,7 +5899,7 @@
                         "object_sub": {
                             "object_sub_id": 18404040,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "0-1",
+                            "object_sub_date_start": "1",
                             "object_sub_date_end": "200",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": null,
@@ -5955,7 +5955,7 @@
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "0-1",
+                        "object_definition_value": "1",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -5980,7 +5980,7 @@
                             "object_sub_id": 18404030,
                             "object_sub_details_id": 13427,
                             "object_sub_date_start": "-100",
-                            "object_sub_date_end": "0-1",
+                            "object_sub_date_end": "1",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": null,
                             "object_sub_location_geometry_ref_object_id": null,
@@ -6108,7 +6108,7 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "0-1",
+                        "object_definition_value": "1",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -6139,7 +6139,7 @@
                         "object_sub": {
                             "object_sub_id": 18404039,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "0-1",
+                            "object_sub_date_start": "1",
                             "object_sub_date_end": "100",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": null,
@@ -16573,7 +16573,7 @@
                         ],
                         "object_definition_value": [
                             "Cilicia",
-                            "Mopsuestia"
+                            "Misis Höyük - Mopsuestia"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -20353,7 +20353,7 @@
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "0-8",
+                        "object_definition_value": "8",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -20378,7 +20378,7 @@
                             "object_sub_id": 21123071,
                             "object_sub_details_id": 13427,
                             "object_sub_date_start": "-65",
-                            "object_sub_date_end": "0-8",
+                            "object_sub_date_end": "8",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": null,
                             "object_sub_location_geometry_ref_object_id": null,
