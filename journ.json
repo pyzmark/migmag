@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2023-12-05T17:39:38+00:00",
+    "timestamp": "2023-12-29T23:00:09+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -10300,7 +10300,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-08T19:15:36Z"
+                    "object_dating": "2023-12-22T13:18:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -10319,8 +10319,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -10471,7 +10475,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-08T19:41:53Z"
+                    "object_dating": "2023-12-22T13:18:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -10490,8 +10494,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -10634,7 +10642,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-05-04T12:18:11Z"
+                    "object_dating": "2023-12-22T13:18:25Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -10653,8 +10661,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -10789,7 +10801,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-14T17:09:17Z"
+                    "object_dating": "2023-12-22T13:18:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -10808,8 +10820,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -10948,7 +10964,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-14T15:49:44Z"
+                    "object_dating": "2023-12-22T13:18:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -10967,8 +10983,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -11113,7 +11133,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-05-25T20:40:31Z"
+                    "object_dating": "2023-12-22T13:18:25Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -11132,8 +11152,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -11274,7 +11298,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-05T11:44:33Z"
+                    "object_dating": "2023-12-22T13:18:25Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -11293,8 +11317,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -11432,7 +11460,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-05T16:12:24Z"
+                    "object_dating": "2023-12-22T13:18:25Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -11451,8 +11479,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -11582,7 +11614,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-05-04T13:24:14Z"
+                    "object_dating": "2023-12-22T13:18:25Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -11601,8 +11633,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -12620,7 +12656,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-08-04T18:53:34Z"
+                    "object_dating": "2023-12-22T13:17:53Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -12639,8 +12675,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -12876,7 +12916,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-06T09:48:38Z"
+                    "object_dating": "2023-12-22T13:18:25Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -12895,8 +12935,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -13099,7 +13143,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-09T17:34:54Z"
+                    "object_dating": "2023-12-22T13:18:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -13118,8 +13162,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -13298,7 +13346,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-07-11T11:32:59Z"
+                    "object_dating": "2023-12-22T13:17:53Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -13317,8 +13365,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -13533,7 +13585,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-06T09:35:32Z"
+                    "object_dating": "2023-12-22T13:18:25Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -13552,8 +13604,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -13687,7 +13743,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-06T12:57:44Z"
+                    "object_dating": "2023-12-22T13:18:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -13706,8 +13762,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -13857,7 +13917,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-07-31T13:45:28Z"
+                    "object_dating": "2023-12-22T13:17:53Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -13876,8 +13936,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -14082,7 +14146,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-08-05T13:14:38Z"
+                    "object_dating": "2023-12-22T13:17:02Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -14101,8 +14165,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -14306,7 +14374,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-08-05T13:14:38Z"
+                    "object_dating": "2023-12-22T13:16:48Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -14325,8 +14393,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -14511,7 +14583,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-13T12:05:19Z"
+                    "object_dating": "2023-12-22T13:18:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -14530,8 +14602,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -14704,7 +14780,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-06T14:23:25Z"
+                    "object_dating": "2023-12-22T13:18:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -14723,8 +14799,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -14907,7 +14987,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-18T18:40:21Z"
+                    "object_dating": "2023-12-22T13:17:53Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -14926,8 +15006,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -15121,7 +15205,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-08-07T15:59:18Z"
+                    "object_dating": "2023-12-22T13:16:00Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -15140,8 +15224,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -15324,7 +15412,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-06T13:01:58Z"
+                    "object_dating": "2023-12-22T13:18:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -15343,8 +15431,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -15464,7 +15556,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-05-25T21:49:57Z"
+                    "object_dating": "2023-12-22T13:18:25Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -15483,8 +15575,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -15608,7 +15704,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-06T10:47:26Z"
+                    "object_dating": "2023-12-22T13:18:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -15627,8 +15723,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -15765,7 +15865,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-06T13:32:06Z"
+                    "object_dating": "2023-12-22T13:18:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -15784,8 +15884,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -15909,7 +16013,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-06T18:12:13Z"
+                    "object_dating": "2023-12-22T13:18:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -15928,8 +16032,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -16081,7 +16189,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-07T14:31:09Z"
+                    "object_dating": "2023-12-22T13:18:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -16100,8 +16208,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -16274,7 +16386,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-15T14:51:14Z"
+                    "object_dating": "2023-12-22T13:18:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -16293,8 +16405,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -17213,7 +17329,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-06T09:37:49Z"
+                    "object_dating": "2023-12-22T13:18:25Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -17232,8 +17348,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -17361,7 +17481,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-08T15:20:08Z"
+                    "object_dating": "2023-12-22T13:18:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -17380,8 +17500,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -17519,7 +17643,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-05T13:39:22Z"
+                    "object_dating": "2023-12-22T13:18:25Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -17538,8 +17662,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -17669,7 +17797,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-05T16:58:58Z"
+                    "object_dating": "2023-12-28T20:21:02Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -17688,26 +17816,34 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35546": {
                         "object_description_id": 35546,
                         "object_definition_ref_object_id": [
-                            12398490
+                            15371302
                         ],
                         "object_definition_value": [
-                            "Livanates - Pyrgos - Kynos"
+                            "Modern Phthiotis (excluding East Lokris)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35547": {
                         "object_description_id": 35547,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            12398490
+                        ],
+                        "object_definition_value": [
+                            "Livanates - Pyrgos - Kynos"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -17817,7 +17953,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-06T11:22:49Z"
+                    "object_dating": "2023-12-22T13:18:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -17836,8 +17972,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -17951,7 +18091,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-09T17:13:41Z"
+                    "object_dating": "2023-12-22T13:18:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -17970,8 +18110,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -18091,7 +18235,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-08-04T19:16:30Z"
+                    "object_dating": "2023-12-22T13:17:53Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -18110,8 +18254,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -18235,7 +18383,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-15T10:27:32Z"
+                    "object_dating": "2023-12-22T13:18:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -18254,8 +18402,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -18369,7 +18521,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-06T13:56:37Z"
+                    "object_dating": "2023-12-22T13:18:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -18388,8 +18540,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -18521,7 +18677,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-08-04T19:16:30Z"
+                    "object_dating": "2023-12-22T13:17:15Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -18540,8 +18696,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -18675,7 +18835,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-08-05T13:14:38Z"
+                    "object_dating": "2023-12-22T13:16:35Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -18694,8 +18854,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -18827,7 +18991,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-07T14:30:42Z"
+                    "object_dating": "2023-12-22T13:18:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -18846,8 +19010,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -18975,7 +19143,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-07-11T12:31:32Z"
+                    "object_dating": "2023-12-22T13:17:53Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -18994,8 +19162,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -19125,7 +19297,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-07-31T15:32:39Z"
+                    "object_dating": "2023-12-22T13:17:53Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -19144,8 +19316,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -19322,7 +19498,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-09T14:06:10Z"
+                    "object_dating": "2023-12-22T13:18:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -19341,8 +19517,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -19478,7 +19658,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-09T13:38:20Z"
+                    "object_dating": "2023-12-22T13:18:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -19497,8 +19677,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -19642,7 +19826,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-10T13:46:09Z"
+                    "object_dating": "2023-12-22T13:18:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -19661,8 +19845,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -19780,7 +19968,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-14T15:48:24Z"
+                    "object_dating": "2023-12-22T13:18:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -19799,8 +19987,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -19932,7 +20124,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-16T13:19:33Z"
+                    "object_dating": "2023-12-22T13:18:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -19951,8 +20143,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -20063,7 +20259,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-26T14:35:57Z"
+                    "object_dating": "2023-12-22T13:17:53Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -20082,8 +20278,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -20201,7 +20401,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-26T15:38:27Z"
+                    "object_dating": "2023-12-22T13:17:53Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -20220,8 +20420,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -20429,7 +20633,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-07-09T15:30:25Z"
+                    "object_dating": "2023-12-22T13:17:53Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -20448,8 +20652,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -20620,7 +20828,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-07-11T11:16:29Z"
+                    "object_dating": "2023-12-22T13:17:53Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -20639,8 +20847,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -20749,7 +20961,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-08-07T15:52:50Z"
+                    "object_dating": "2023-12-22T13:16:10Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -20768,8 +20980,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -20879,7 +21095,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-10-26T08:45:14Z"
+                    "object_dating": "2023-12-22T13:14:26Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -20904,8 +21120,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -21036,7 +21256,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-10-25T10:54:01Z"
+                    "object_dating": "2023-12-22T13:15:38Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -21059,8 +21279,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -21235,7 +21459,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-10-25T10:51:16Z"
+                    "object_dating": "2023-12-22T13:15:49Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -21258,8 +21482,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -21436,7 +21664,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-10-25T11:03:57Z"
+                    "object_dating": "2023-12-22T13:15:26Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -21459,8 +21687,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -21652,7 +21884,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-10-25T11:08:46Z"
+                    "object_dating": "2023-12-22T13:15:15Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -21675,8 +21907,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -21849,7 +22085,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-10-25T11:26:38Z"
+                    "object_dating": "2023-12-22T13:15:00Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -21872,8 +22108,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -22041,7 +22281,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-10-25T11:30:35Z"
+                    "object_dating": "2023-12-22T13:14:46Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -22064,8 +22304,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -22259,7 +22503,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-10-25T11:49:21Z"
+                    "object_dating": "2023-12-22T13:14:37Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -22282,8 +22526,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -23465,6 +23713,262 @@
                         "object_sub_definitions": []
                     }
                 }
+            },
+            "15813826": {
+                "object": {
+                    "nodegoat_id": "ngMT2I68yMzExNzkzNV40bjBnOA",
+                    "object_id": 15813826,
+                    "object_name": "Foundation of Agathe",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2023-12-18T15:15:38Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Foundation of Agathe",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945199
+                        ],
+                        "object_definition_value": [
+                            "None"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            13576002
+                        ],
+                        "object_definition_value": [
+                            "Massalia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            15813815
+                        ],
+                        "object_definition_value": [
+                            "Agathe"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            15813827,
+                            15813834,
+                            15813838
+                        ],
+                        "object_definition_value": [
+                            "Strabo 4.1.5-6",
+                            "Pseudo-Skymnos 202-8",
+                            "Pliny the Elder HN 3.5.1"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "15813847": {
+                "object": {
+                    "nodegoat_id": "ngHO4H78tIOZ2IubuJA50weAiIb",
+                    "object_id": 15813847,
+                    "object_name": "Foundation of Antipolis",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2023-12-18T15:28:38Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Foundation of Antipolis",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945199
+                        ],
+                        "object_definition_value": [
+                            "None"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            13576002
+                        ],
+                        "object_definition_value": [
+                            "Massalia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            15813845
+                        ],
+                        "object_definition_value": [
+                            "Antipolis"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            15813854,
+                            15813827
+                        ],
+                        "object_definition_value": [
+                            "Pseudo-Skymnos 216",
+                            "Strabo 4.1.5-6"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
             }
         }
     }

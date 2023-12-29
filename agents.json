@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2023-12-05T17:39:37+00:00",
+    "timestamp": "2023-12-29T23:00:08+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -3969,7 +3969,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-01T13:29:15Z"
+                    "object_dating": "2023-12-07T15:27:09Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -4016,15 +4016,23 @@
                     },
                     "35539": {
                         "object_description_id": 35539,
-                        "object_definition_ref_object_id": 12150550,
-                        "object_definition_value": "Rome",
+                        "object_definition_ref_object_id": 12447313,
+                        "object_definition_value": "Italy",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35540": {
                         "object_description_id": 35540,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            12150550,
+                            11943325,
+                            15781775
+                        ],
+                        "object_definition_value": [
+                            "Rome",
+                            "Athina",
+                            "Tomis"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -4037,8 +4045,8 @@
                             "object_sub_date_start": "-43",
                             "object_sub_date_end": "017",
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [12.486137, 41.891775]}",
-                            "object_sub_location_geometry_ref_object_id": 12150550,
+                            "object_sub_location_geometry": "{\"type\": \"GeometryCollection\", \"geometries\": [{\"type\": \"Polygon\", \"coordinates\": [[[15.697420428852496, 38.1941016228881], [15.772283266584228, 37.971770915890474], [16.06786939913769, 37.938731393490514], [16.116737838899525, 38.07065427210392], [16.296931731428003, 38.262023450437056], [16.519211901587056, 38.41676630052888], [16.654169501352357, 38.52599292061885], [16.669846285339645, 38.792833190847574], [16.933094003333423, 38.8602828164681], [17.03561791766967, 39.104360012034704], [17.035335558170175, 39.4208811154964], [16.957682850618113, 39.55856293835575], [16.661725996045448, 39.69190323070734], [16.672843820710938, 39.85693189332733], [16.69574508963285, 40.186401493318954], [17.026826557000646, 40.4982029149717], [17.22081293026889, 40.43743488923832], [17.44947344530368, 40.258215544515735], [17.934498183811428, 40.22703162696936], [18.026121995268085, 40.004913595793056], [18.382381394210256, 39.7631380289088], [18.514176847646524, 39.98684513884152], [18.4518702738591, 40.27431551078888], [18.245190011301048, 40.45489882382722], [17.779256248732366, 40.73402042006387], [17.262874345393755, 40.94666679660992], [16.20898246507852, 41.37915219527292], [15.911392197379202, 41.55624458012963], [16.055856943933065, 41.713839018647434], [16.24329603178819, 41.83665760429753], [16.13954826909395, 41.93954503705592], [15.689440608835014, 41.87642157999517], [15.115113486147608, 41.91409924166402], [14.576200108313913, 42.17612593971191], [14.044445424895056, 42.6467097323941], [13.911528161419398, 43.15511600615366], [13.502208809340033, 43.5710958544895], [12.83710487650461, 43.94032709158415], [12.257096822676882, 44.387545189081635], [12.612384859855126, 44.87634435065917], [12.13770857137115, 45.37394448272292], [12.63138264488734, 45.55166552854072], [13.483051182883798, 45.75638433749771], [13.600581190950775, 46.219964893538986], [13.302557662621323, 46.45776995680612], [12.47642754126298, 46.75072710425536], [11.063647335905046, 46.75540812043727], [10.300246767010265, 46.61891875892812], [9.403701451298389, 46.32725237826702], [8.319347944023207, 46.14408611923497], [6.921844700115628, 45.76131117283603], [6.816452704815475, 45.09443159718623], [7.027108985655132, 44.539734064736905], [7.527637640785912, 44.01228125221624], [7.634183091767312, 43.78587314725053], [8.298138772930798, 44.13002056330106], [8.583284210371005, 44.36541667685046], [9.340340607425532, 44.31267263229063], [10.03311872347888, 43.928389961561265], [10.424891868252246, 43.42594167973985], [10.720134498619244, 42.97175893836504], [11.40773697174538, 42.549943889538696], [12.170738629853899, 41.91218641272485], [12.856348832113925, 41.31826132511432], [13.50668396761205, 41.27383823151456], [13.887476207611142, 40.98755932425556], [14.443452312834694, 40.79209833372471], [14.953273159948822, 40.56195746356971], [15.003505724814405, 40.26463717365869], [15.27911113406114, 40.15517613931189], [15.726456223620405, 40.02056094629992], [15.959961485148199, 39.56340976337569], [16.200058252239813, 38.853139080683434], [15.926442934657418, 38.53387484172228], [15.697420428852496, 38.1941016228881]]]}]}",
+                            "object_sub_location_geometry_ref_object_id": 12447313,
                             "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 0,
@@ -4161,7 +4169,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-01T13:29:15Z"
+                    "object_dating": "2023-12-07T16:20:39Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -4215,8 +4223,18 @@
                     },
                     "35540": {
                         "object_description_id": 35540,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            12433936,
+                            15781882,
+                            12447313,
+                            11943325
+                        ],
+                        "object_definition_value": [
+                            "Egypt",
+                            "Canaan",
+                            "Italy",
+                            "Athina"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -4631,7 +4649,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-08T09:44:11Z"
+                    "object_dating": "2023-12-07T16:23:39Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -4686,10 +4704,12 @@
                     "35540": {
                         "object_description_id": 35540,
                         "object_definition_ref_object_id": [
-                            12150550
+                            12150550,
+                            12150559
                         ],
                         "object_definition_value": [
-                            "Rome"
+                            "Rome",
+                            "Tyre"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -4917,7 +4937,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-01T13:29:15Z"
+                    "object_dating": "2023-12-07T15:39:37Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -4964,15 +4984,23 @@
                     },
                     "35539": {
                         "object_description_id": 35539,
-                        "object_definition_ref_object_id": 12150550,
-                        "object_definition_value": "Rome",
+                        "object_definition_ref_object_id": 15781780,
+                        "object_definition_value": "Como",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35540": {
                         "object_description_id": 35540,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            12150550,
+                            13657349,
+                            12414615
+                        ],
+                        "object_definition_value": [
+                            "Rome",
+                            "Iberia",
+                            "Neapolis"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -4985,8 +5013,8 @@
                             "object_sub_date_start": "023",
                             "object_sub_date_end": "079",
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [12.486137, 41.891775]}",
-                            "object_sub_location_geometry_ref_object_id": 12150550,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [9.08065, 45.80079]}",
+                            "object_sub_location_geometry_ref_object_id": 15781780,
                             "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 0,
@@ -5011,7 +5039,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-01T13:29:15Z"
+                    "object_dating": "2023-12-07T15:51:42Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -5065,8 +5093,16 @@
                     },
                     "35540": {
                         "object_description_id": 35540,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11943325,
+                            12150550,
+                            12429214
+                        ],
+                        "object_definition_value": [
+                            "Athina",
+                            "Rome",
+                            "Delphi"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -5203,7 +5239,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-01T13:29:15Z"
+                    "object_dating": "2023-12-08T14:13:44Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -5258,10 +5294,12 @@
                     "35540": {
                         "object_description_id": 35540,
                         "object_definition_ref_object_id": [
-                            12150550
+                            12150550,
+                            15782679
                         ],
                         "object_definition_value": [
-                            "Rome"
+                            "Rome",
+                            "Carthage"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6864,7 +6902,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-01T13:29:15Z"
+                    "object_dating": "2023-12-07T15:06:29Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -6918,8 +6956,18 @@
                     },
                     "35540": {
                         "object_description_id": 35540,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            12433936,
+                            12150550,
+                            12035293,
+                            12447313
+                        ],
+                        "object_definition_value": [
+                            "Egypt",
+                            "Rome",
+                            "Korinth",
+                            "Italy"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -7609,7 +7657,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:45:31Z"
+                    "object_dating": "2023-12-08T10:20:08Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -7654,17 +7702,14 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
-                    "35539": {
-                        "object_description_id": 35539,
-                        "object_definition_ref_object_id": 12150527,
-                        "object_definition_value": "Konstantinopolis - Istanbul",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
                     "35540": {
                         "object_description_id": 35540,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            12150527
+                        ],
+                        "object_definition_value": [
+                            "Konstantinopolis - Istanbul"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -7677,9 +7722,9 @@
                             "object_sub_date_start": "1110",
                             "object_sub_date_end": "1185",
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [28.961291608299003, 41.00779080957]}",
-                            "object_sub_location_geometry_ref_object_id": 12150527,
-                            "object_sub_location_geometry_ref_type_id": 12160,
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 0,
                             "object_sub_location_ref_object_sub_details_id": 0,
@@ -8990,7 +9035,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:38:01Z"
+                    "object_dating": "2023-12-07T14:25:10Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -9037,15 +9082,21 @@
                     },
                     "35539": {
                         "object_description_id": 35539,
-                        "object_definition_ref_object_id": 12150549,
-                        "object_definition_value": "Rhodos",
+                        "object_definition_ref_object_id": 12150515,
+                        "object_definition_value": "Alexandria",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35540": {
                         "object_description_id": 35540,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            12336530,
+                            12150549
+                        ],
+                        "object_definition_value": [
+                            "Naukratis",
+                            "Rhodos"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -9058,8 +9109,8 @@
                             "object_sub_date_start": "-270",
                             "object_sub_date_end": "-240",
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": "{\"type\": \"GeometryCollection\", \"geometries\": [{\"type\": \"Polygon\", \"coordinates\": [[[28.221130371093746, 36.45221769643571], [28.195037841796875, 36.436751611390264], [28.17306518554687, 36.4223874864237], [28.149719238281243, 36.4223874864237], [28.108520507812496, 36.410231151040215], [28.057708740234375, 36.39696752441776], [28.01651000976563, 36.379279167407965], [27.97531127929687, 36.366010258936925], [27.94647216796875, 36.34942094089192], [27.912139892578125, 36.34057185894721], [27.879180908203125, 36.32618995618608], [27.85858154296875, 36.30073854794736], [27.8118896484375, 36.27860013544234], [27.799530029296875, 36.255348043040904], [27.77755737304688, 36.23319675732526], [27.770690917968754, 36.19884985954492], [27.745971679687496, 36.18887535558557], [27.71026611328125, 36.16892253622743], [27.6800537109375, 36.153400163891945], [27.691040039062504, 36.14896463588831], [27.700653076171875, 36.130110843400146], [27.714385986328125, 36.11236195924294], [27.73773193359375, 36.107924111286465], [27.75970458984374, 36.09017021216552], [27.754211425781246, 36.04798862759408], [27.739105224609375, 36.00467348670187], [27.7349853515625, 35.97356075349624], [27.715759277343746, 35.951329861522666], [27.726745605468743, 35.930204718146754], [27.739105224609375, 35.9146352101371], [27.755584716796875, 35.902399875143615], [27.787170410156246, 35.891275201659134], [27.80364990234375, 35.90017506551962], [27.828369140625, 35.913522985137384], [27.850341796875004, 35.92464453144099], [27.879180908203125, 35.94799468798152], [27.89566040039062, 35.968003617226884], [27.906646728515625, 35.991340960635405], [27.92312622070313, 36.02133597448135], [27.94784545898437, 36.039105412048464], [27.97393798828125, 36.0513195750255], [28.011016845703125, 36.06575205170711], [28.03024291992188, 36.071302299422406], [28.048095703124996, 36.06908224732973], [28.05908203125, 36.061311571582486], [28.074188232421875, 36.053540128339755], [28.07968139648437, 36.05798104702501], [28.07281494140625, 36.07685215551436], [28.086547851562496, 36.0857311106239], [28.09341430664062, 36.09349937380574], [28.07830810546875, 36.107924111286465], [28.0645751953125, 36.12678323326426], [28.086547851562496, 36.155617833818525], [28.104400634765625, 36.17557404062257], [28.12362670898438, 36.18555023858626], [28.1304931640625, 36.18998369654791], [28.14697265625, 36.20549882293361], [28.155212402343754, 36.217687122250574], [28.164825439453125, 36.234304470709226], [28.17169189453125, 36.24316561280259], [28.1744384765625, 36.25202575042051], [28.1744384765625, 36.28081425933677], [28.19229125976562, 36.31401858021655], [28.2183837890625, 36.33614694088851], [28.221130371093746, 36.358269017192455], [28.236236572265625, 36.3693276982337], [28.2513427734375, 36.39033486213649], [28.236236572265625, 36.40249431065168], [28.23348999023437, 36.41907231092499], [28.23760986328125, 36.43343704922667], [28.234863281250004, 36.44227556709968], [28.221130371093746, 36.45221769643571]]]}]}",
-                            "object_sub_location_geometry_ref_object_id": 12150549,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [29.909773, 31.201435000000004]}",
+                            "object_sub_location_geometry_ref_object_id": 12150515,
                             "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 12160,
@@ -9522,7 +9573,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-28T19:23:07Z"
+                    "object_dating": "2023-12-08T14:09:14Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -9576,13 +9627,39 @@
                     },
                     "35540": {
                         "object_description_id": 35540,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11943325
+                        ],
+                        "object_definition_value": [
+                            "Athina"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
                 },
-                "object_subs": []
+                "object_subs": {
+                    "22904628": {
+                        "object_sub": {
+                            "object_sub_id": 22904628,
+                            "object_sub_details_id": 13427,
+                            "object_sub_date_start": "-384",
+                            "object_sub_date_end": "-322",
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [21.75, 41.25]}",
+                            "object_sub_location_geometry_ref_object_id": 12150540,
+                            "object_sub_location_geometry_ref_type_id": 12160,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 12160,
+                            "object_sub_location_ref_object_sub_details_id": 13068,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": "reference",
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
             },
             "12336571": {
                 "object": {
@@ -10092,7 +10169,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:27:37Z"
+                    "object_dating": "2023-12-07T14:19:14Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -10146,8 +10223,14 @@
                     },
                     "35540": {
                         "object_description_id": 35540,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11943325,
+                            12150515
+                        ],
+                        "object_definition_value": [
+                            "Athina",
+                            "Alexandria"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -10562,7 +10645,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:29:59Z"
+                    "object_dating": "2023-12-07T16:19:53Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -10609,15 +10692,23 @@
                     },
                     "35539": {
                         "object_description_id": 35539,
-                        "object_definition_ref_object_id": 12150515,
-                        "object_definition_value": "Alexandria",
+                        "object_definition_ref_object_id": 11943325,
+                        "object_definition_value": "Athina",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35540": {
                         "object_description_id": 35540,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            12150515,
+                            12433914,
+                            15781882
+                        ],
+                        "object_definition_value": [
+                            "Alexandria",
+                            "Asia Minor",
+                            "Canaan"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -10630,8 +10721,8 @@
                             "object_sub_date_start": "150",
                             "object_sub_date_end": "215",
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [29.909773, 31.201435000000004]}",
-                            "object_sub_location_geometry_ref_object_id": 12150515,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [23.722746101726, 37.972633872616]}",
+                            "object_sub_location_geometry_ref_object_id": 11943325,
                             "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 12160,
@@ -11154,7 +11245,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:30:50Z"
+                    "object_dating": "2023-12-07T15:29:06Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -11208,8 +11299,12 @@
                     },
                     "35540": {
                         "object_description_id": 35540,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            12150550
+                        ],
+                        "object_definition_value": [
+                            "Rome"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -11844,7 +11939,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:09:26Z"
+                    "object_dating": "2023-12-08T10:21:00Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -11891,15 +11986,19 @@
                     },
                     "35539": {
                         "object_description_id": 35539,
-                        "object_definition_ref_object_id": 12336501,
-                        "object_definition_value": "Thessaloniki",
+                        "object_definition_ref_object_id": 12150527,
+                        "object_definition_value": "Konstantinopolis - Istanbul",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35540": {
                         "object_description_id": 35540,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            12336501
+                        ],
+                        "object_definition_value": [
+                            "Thessaloniki"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -11912,8 +12011,8 @@
                             "object_sub_date_start": "1115",
                             "object_sub_date_end": "1190",
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [22.952885, 40.628342]}",
-                            "object_sub_location_geometry_ref_object_id": 12336501,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [28.961291608299003, 41.00779080957]}",
+                            "object_sub_location_geometry_ref_object_id": 12150527,
                             "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 0,
@@ -12314,7 +12413,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-07T14:05:39Z"
+                    "object_dating": "2023-12-07T14:18:09Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -12361,8 +12460,8 @@
                     },
                     "35539": {
                         "object_description_id": 35539,
-                        "object_definition_ref_object_id": 12447313,
-                        "object_definition_value": "Italy",
+                        "object_definition_ref_object_id": 12433943,
+                        "object_definition_value": "Euboia",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -12386,8 +12485,8 @@
                             "object_sub_date_start": "-320",
                             "object_sub_date_end": "-190",
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": null,
-                            "object_sub_location_geometry_ref_object_id": 12447313,
+                            "object_sub_location_geometry": "{\"type\": \"GeometryCollection\", \"geometries\": [{\"type\": \"Polygon\", \"coordinates\": [[[23.617858886718743, 38.453588708941375], [23.634338378906246, 38.425621828142184], [23.637084960937504, 38.41055825094609], [23.6590576171875, 38.41055825094609], [23.692016601562496, 38.41486245064945], [23.76068115234375, 38.395491532971896], [23.81561279296875, 38.38472766885085], [23.86505126953125, 38.40410147066251], [23.93096923828125, 38.40194908237822], [23.9886474609375, 38.39979663000095], [24.035339355468754, 38.382574703770246], [24.05181884765625, 38.361041528596026], [24.046325683593746, 38.339501946274574], [24.0380859375, 38.324420427006544], [24.11773681640625, 38.315801006824984], [24.09576416015625, 38.268375880204744], [24.0985107421875, 38.229550455326134], [24.17816162109375, 38.225235239076824], [24.18365478515625, 38.19718009396176], [24.18365478515625, 38.112949789189614], [24.219360351562496, 38.10646650598286], [24.268798828125, 38.0934982133674], [24.3072509765625, 38.05025395161289], [24.315490722656254, 38.00049145082287], [24.3731689453125, 37.98100996893789], [24.381408691406254, 37.972349871995256], [24.3896484375, 38.01131226070673], [24.43634033203125, 38.01131226070673], [24.472045898437496, 37.97884504049713], [24.4830322265625, 37.965854128749434], [24.50775146484375, 37.965854128749434], [24.565429687499996, 38.03078569382294], [24.554443359375004, 38.06971703320484], [24.568176269531254, 38.112949789189614], [24.598388671874996, 38.156156969924915], [24.499511718749996, 38.151837403006766], [24.406127929687496, 38.14751758025121], [24.3621826171875, 38.1734326790354], [24.3182373046875, 38.190704293996504], [24.26605224609375, 38.2273928792016], [24.25506591796875, 38.26190641637658], [24.2523193359375, 38.30502529053749], [24.208374023437504, 38.35673412466715], [24.208374023437504, 38.38472766885085], [24.1973876953125, 38.453588708941375], [24.205627441406246, 38.494443887725055], [24.22760009765625, 38.51808630316305], [24.17816162109375, 38.55031345037904], [24.128723144531246, 38.60399327559168], [24.13421630859375, 38.63618191259742], [24.139709472656246, 38.646908247760706], [24.0655517578125, 38.6833657775237], [24.0106201171875, 38.687653678261704], [23.947448730468746, 38.67478920520597], [23.859558105468743, 38.676933444637925], [23.744201660156254, 38.71980474264237], [23.71124267578125, 38.762650338334154], [23.678283691406246, 38.76479194327964], [23.623352050781254, 38.76693348394693], [23.524475097656246, 38.80975079723835], [23.44482421875, 38.86323626888358], [23.42559814453125, 38.927365763942475], [23.43109130859375, 38.950865400919994], [23.3843994140625, 38.974357249228206], [23.376159667968743, 39.00851330385611], [23.32672119140625, 39.04051963289309], [23.258056640625, 39.03838632847035], [23.1536865234375, 39.01278165162774], [23.087768554687496, 38.9871677013526], [23.03558349609375, 38.94445718138944], [22.93670654296875, 38.884619201291905], [22.884521484375, 38.865374851611634], [22.818603515625, 38.841846903808985], [22.933959960937496, 38.83756825896614], [23.016357421875, 38.839707613545144], [22.972412109375, 38.87606680031536], [23.01910400390625, 38.884619201291905], [23.038330078125, 38.86965182408357], [23.060302734375, 38.84826438869913], [23.115234374999996, 38.84826438869913], [23.15093994140625, 38.84826438869913], [23.18389892578125, 38.83328935686689], [23.23333740234375, 38.80975079723835], [23.282775878906246, 38.77121637244273], [23.3074951171875, 38.758366935612784], [23.3734130859375, 38.71551876930462], [23.40911865234375, 38.67907761983558], [23.450317382812496, 38.655488159953], [23.497009277343743, 38.6275996886131], [23.521728515625, 38.57393751557591], [23.5821533203125, 38.57179019417367], [23.62884521484375, 38.533127435052776], [23.6260986328125, 38.515937313413474], [23.617858886718743, 38.453588708941375]]]}]}",
+                            "object_sub_location_geometry_ref_object_id": 12433943,
                             "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 12160,
@@ -12549,7 +12648,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:22:17Z"
+                    "object_dating": "2023-12-08T10:12:23Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -12594,17 +12693,14 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
-                    "35539": {
-                        "object_description_id": 35539,
-                        "object_definition_ref_object_id": 12150527,
-                        "object_definition_value": "Konstantinopolis - Istanbul",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
                     "35540": {
                         "object_description_id": 35540,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            12150527
+                        ],
+                        "object_definition_value": [
+                            "Konstantinopolis - Istanbul"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -12617,9 +12713,9 @@
                             "object_sub_date_start": "500",
                             "object_sub_date_end": "600",
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [28.961291608299003, 41.00779080957]}",
-                            "object_sub_location_geometry_ref_object_id": 12150527,
-                            "object_sub_location_geometry_ref_type_id": 12160,
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 12160,
                             "object_sub_location_ref_object_sub_details_id": 13068,
@@ -21643,19 +21739,19 @@
                 "object": {
                     "nodegoat_id": "ngHO2D18tIuZ1IuL1JQ95weQiHb",
                     "object_id": 14774821,
-                    "object_name": "Herodianus",
+                    "object_name": "Herodian",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-04-26T09:27:34Z"
+                    "object_dating": "2023-12-08T09:40:34Z"
                 },
                 "object_definitions": {
                     "35523": {
                         "object_description_id": 35523,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Herodianus",
+                        "object_definition_value": "Herodian",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -21676,14 +21772,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "180",
+                        "object_definition_value": "101",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "250",
+                        "object_definition_value": "200",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -21703,8 +21799,12 @@
                     },
                     "35540": {
                         "object_description_id": 35540,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            12150550
+                        ],
+                        "object_definition_value": [
+                            "Rome"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -21714,8 +21814,8 @@
                         "object_sub": {
                             "object_sub_id": 21756882,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "180",
-                            "object_sub_date_end": "250",
+                            "object_sub_date_start": "101",
+                            "object_sub_date_end": "200",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [29.909773, 31.201435000000004]}",
                             "object_sub_location_geometry_ref_object_id": 12150515,
@@ -23808,7 +23908,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-07T15:56:27Z"
+                    "object_dating": "2023-12-08T10:08:22Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -23855,8 +23955,8 @@
                     },
                     "35539": {
                         "object_description_id": 35539,
-                        "object_definition_ref_object_id": 12370098,
-                        "object_definition_value": "Crete",
+                        "object_definition_ref_object_id": 12150515,
+                        "object_definition_value": "Alexandria",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -23876,8 +23976,8 @@
                             "object_sub_date_start": "300",
                             "object_sub_date_end": "399",
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [24.984579005240004, 35.219518451031]}",
-                            "object_sub_location_geometry_ref_object_id": 12370098,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [29.909773, 31.201435000000004]}",
+                            "object_sub_location_geometry_ref_object_id": 12150515,
                             "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 12160,
@@ -24511,7 +24611,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-19T11:17:45Z"
+                    "object_dating": "2023-12-07T16:05:18Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -24556,10 +24656,21 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "35539": {
+                        "object_description_id": 35539,
+                        "object_definition_ref_object_id": 12466410,
+                        "object_definition_value": "Tralleis",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "35540": {
                         "object_description_id": 35540,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            12150550
+                        ],
+                        "object_definition_value": [
+                            "Rome"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -24572,9 +24683,9 @@
                             "object_sub_date_start": "100",
                             "object_sub_date_end": "199",
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": null,
-                            "object_sub_location_geometry_ref_object_id": null,
-                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.8, 37.8]}",
+                            "object_sub_location_geometry_ref_object_id": 12466410,
+                            "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 12160,
                             "object_sub_location_ref_object_sub_details_id": 13068,
