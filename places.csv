@@ -1086,7 +1086,7 @@ ngVC0D98hXMNiWsNfW073ksqwGJ,13781809,Kaplancık,Ionia,"{""type"": ""Point"", ""c
 ngYF1K28kAFQ7ZvGiZ306nvDzJM,13781812,Küçüktepe,Ionia,"{""type"": ""Point"", ""coordinates"": [27.306346893310547, 38.22928076181062]}"
 ngFM1F98rFcX4GcFpGe72ucagHT,13781819,Yazıbaşı,Ionia,"{""type"": ""Point"", ""coordinates"": [27.32167, 38.24083]}"
 ngIP2E28uJPAuJfQsJR04xfXjIW,13781822,Tepeköy,Ionia,"{""type"": ""Point"", ""coordinates"": [27.35544204711914, 38.15885656932712]}"
-ngMT2I68yMTExNjYwNV40bjVnNg,13781826,Aslanlar,Ionia,"{""type"": ""Point"", ""coordinates"": [27.398185729980465, 38.16749461578964]}"
+ngMT2I68yMTExNjYwNV40bjVnNg,13781826,Aslanlar,Ionia,"{""type"": ""Point"", ""coordinates"": [27.414493560791016, 38.169788924845754]}"
 ngRY3J18dSeJ4SopbSK96gomsTF,13781831,Gurgur Tumulus,Ionia,"{""type"": ""Point"", ""coordinates"": [27.397499084472656, 38.18638677411551]}"
 ngTA3L38fVAL7UqBdTs1diqGuTH,13781833,Çapak,Ionia,"{""type"": ""Point"", ""coordinates"": [27.339649200439453, 38.242224922491395]}"
 ngVC3Z58hWsN8WsZfVE38ksAwXJ,13781835,Karakuyu,Ionia,"{""type"": ""Point"", ""coordinates"": [27.40642547607422, 38.25867146839718]}"
@@ -2259,3 +2259,4 @@ ngTA8r58fVAL6UqFdU639iqkuUn,15814685,Kiraz,Lydia,"{""type"": ""Point"", ""coordi
 ngGN9a88sHNY8HdUqG968vdbhIU,15814698,Ahrandı,Lydia,"{""type"": ""Point"", ""coordinates"": [28.00286580736621, 38.25029751688248]}"
 ngRY0J58dRoJeSoRbS63egoSsSl,15814705,Yenioba,Ionia,"{""type"": ""Point"", ""coordinates"": [27.58100709669115, 38.1022908386113]}"
 ngDK4H38pDUVqEaHnDM18sayeDR,15814843,Tire,Lydia,"{""type"": ""Point"", ""coordinates"": [27.69827253616306, 38.12636457612765]}"
+ngTA5B98fVKL9UqjdT073iqGuTH,15819059,Ufaktepe,Ionia,"{""type"": ""Point"", ""coordinates"": [27.39337921142578, 38.09295781789664]}"
