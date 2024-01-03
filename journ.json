@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-01-02T23:00:06+00:00",
+    "timestamp": "2024-01-03T23:00:06+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -10300,7 +10300,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-12-22T13:18:14Z"
+                    "object_dating": "2024-01-03T15:19:11Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -10407,7 +10407,7 @@
                     "35519": {
                         "object_description_id": 35519,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "The foundation of West Lokris by the ethnic hero Lokros.",
+                        "object_definition_value": "The foundation of West Lokris by the ethnic hero Lokros.\r\n\r\nNote to self: search Ath. 2.82 -> quotes Didymus who quotes Sophocles",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
