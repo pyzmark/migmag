@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-01-20T23:00:05+00:00",
+    "timestamp": "2024-01-21T23:00:05+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -19333,7 +19333,7 @@
                         ],
                         "object_definition_value": [
                             "East Lokris - Opountian Lokris",
-                            "Ag.Konstantinos - Isiomata - Daphnous"
+                            "Ag. Konstantinos - Isiomata - Daphnous"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -19543,7 +19543,7 @@
                             12408022
                         ],
                         "object_definition_value": [
-                            "Ag.Konstantinos - Isiomata - Daphnous"
+                            "Ag. Konstantinos - Isiomata - Daphnous"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
