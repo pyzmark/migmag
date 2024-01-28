@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-01-27T23:00:04+00:00",
+    "timestamp": "2024-01-28T23:00:05+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -24726,6 +24726,1646 @@
                         "object_definition_value": [
                             "Stephanos of Byzantion s. v. Azania",
                             "Philon of Byblos FGrHist 790 f20"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "15986947": {
+                "object": {
+                    "nodegoat_id": "ngHO4H78tIeZsIuLuJQ58weUiHV",
+                    "object_id": 15986947,
+                    "object_name": "First Establishment of Alalie",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-01-28T10:51:10Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "First Establishment of Alalie",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15986949
+                        ],
+                        "object_definition_value": [
+                            "Phokaians on Corsica"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945199
+                        ],
+                        "object_definition_value": [
+                            "None"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12042254
+                        ],
+                        "object_definition_value": [
+                            "Phokaia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            15986164
+                        ],
+                        "object_definition_value": [
+                            "Alalie"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            15986948,
+                            15986951
+                        ],
+                        "object_definition_value": [
+                            "Herodotos 1.165",
+                            "Stephanos of Byzantion s. v. Allalia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "15986950": {
+                "object": {
+                    "nodegoat_id": "ngKR5W08wLhCvLxOxL180zhHlKY",
+                    "object_id": 15986950,
+                    "object_name": "Relocation of the Phokaian Community to Alalie",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-01-28T10:59:41Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Relocation of the Phokaian Community to Alalie",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15986949
+                        ],
+                        "object_definition_value": [
+                            "Phokaians on Corsica"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945199
+                        ],
+                        "object_definition_value": [
+                            "None"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12042254
+                        ],
+                        "object_definition_value": [
+                            "Phokaia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            15986164
+                        ],
+                        "object_definition_value": [
+                            "Alalie"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235457
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945225,
+                            11945216
+                        ],
+                        "object_definition_value": [
+                            "Relocation of an existing settlement",
+                            "War - forced displacement / dispersal (group)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945235,
+                            11945236,
+                            11945232
+                        ],
+                        "object_definition_value": [
+                            "Whole communities (named)",
+                            "Women",
+                            "Large groups"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            15986948
+                        ],
+                        "object_definition_value": [
+                            "Herodotos 1.165"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            15986947
+                        ],
+                        "object_definition_value": [
+                            "First Establishment of Alalie"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "15986964": {
+                "object": {
+                    "nodegoat_id": "ngYF6G48kYlQiZlGlAR26nvDzZM",
+                    "object_id": 15986964,
+                    "object_name": "Foundation of Emporion",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-01-28T11:56:19Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Foundation of Emporion",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15986902,
+                            15986953
+                        ],
+                        "object_definition_value": [
+                            "Massaliote Colonisation",
+                            "Phokaians in the Western Mediterranean"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945199
+                        ],
+                        "object_definition_value": [
+                            "None"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            13576002,
+                            12042254
+                        ],
+                        "object_definition_value": [
+                            "Massalia",
+                            "Phokaia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            15986165
+                        ],
+                        "object_definition_value": [
+                            "Emporion"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945235
+                        ],
+                        "object_definition_value": [
+                            "Whole communities (named)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            15986955,
+                            15986957,
+                            15986958,
+                            15986959,
+                            15986960,
+                            15986961,
+                            15986963
+                        ],
+                        "object_definition_value": [
+                            "Pseudo-Skymnos 203-4",
+                            "Pseudo-Skylax 2",
+                            "Strabo 3.4.8",
+                            "Livy 26.19",
+                            "Pliny the Elder 3.22",
+                            "Stephanos of Byzantion s. v. Emporion",
+                            "Silius Italicus 3.357"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "15986987": {
+                "object": {
+                    "nodegoat_id": "ngVC8t78hWiN7WiDiXE59ksSwWJ",
+                    "object_id": 15986987,
+                    "object_name": "Foundation of Massalia",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-01-28T14:38:53Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Foundation of Massalia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15986953
+                        ],
+                        "object_definition_value": [
+                            "Phokaians in the Western Mediterranean"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945199
+                        ],
+                        "object_definition_value": [
+                            "None"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12042254
+                        ],
+                        "object_definition_value": [
+                            "Phokaia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            13576002
+                        ],
+                        "object_definition_value": [
+                            "Massalia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            15986981,
+                            15986982,
+                            15986983,
+                            15986985,
+                            15986986
+                        ],
+                        "object_definition_value": [
+                            "Euxenos",
+                            "Simos",
+                            "Protis",
+                            "Kreontiades",
+                            "Aristarche"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            15986972,
+                            15986970,
+                            15986974,
+                            15986973,
+                            12498533,
+                            15986976,
+                            15986977,
+                            15986978,
+                            15986979,
+                            15986980,
+                            15986984,
+                            13576003,
+                            14386343
+                        ],
+                        "object_definition_value": [
+                            "Timaeos of Tauromenion FGrHist 566 f 71",
+                            "Pseudo-Skymnos 209",
+                            "Timaeos of Tauromenion FGrHist 566 f72",
+                            "Stephanos of Byzantion s. v. Massalia",
+                            "Strabo 6.1.1.",
+                            "Isocrates Archidamos 84",
+                            "Hekataios FGrHist 1 f55",
+                            "Thucydides 1.13",
+                            "Athenaios Deipnosophistes 13.36",
+                            "Aristotle Fr. 560",
+                            "Justin Epitome 43.3.8-11",
+                            "Strabo 4.1.4",
+                            "Antiochus of Syrakuse FGrHist 555 f8"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "15986990": {
+                "object": {
+                    "nodegoat_id": "ngYF9w08kYlQ5ZlMlYx85nvtzAM",
+                    "object_id": 15986990,
+                    "object_name": "Foundation of Rhode",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-01-28T14:49:28Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Foundation of Rhode",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15986953
+                        ],
+                        "object_definition_value": [
+                            "Phokaians in the Western Mediterranean"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945199
+                        ],
+                        "object_definition_value": [
+                            "None"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12150549,
+                            15986165
+                        ],
+                        "object_definition_value": [
+                            "Rhodos",
+                            "Emporion"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            15986166
+                        ],
+                        "object_definition_value": [
+                            "Rhode"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            15986988,
+                            15986989,
+                            15986958,
+                            15986955
+                        ],
+                        "object_definition_value": [
+                            "Strabo 14.2.10",
+                            "Pseudo-Skymnos 205-6",
+                            "Strabo 3.4.8",
+                            "Pseudo-Skymnos 203-4"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "15986993": {
+                "object": {
+                    "nodegoat_id": "ngBI9z38nBST7CoroBK16qyacBv",
+                    "object_id": 15986993,
+                    "object_name": "Establishment of Nikaia",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-01-28T15:04:55Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Establishment of Nikaia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15986902
+                        ],
+                        "object_definition_value": [
+                            "Massaliote Colonisation"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945199
+                        ],
+                        "object_definition_value": [
+                            "None"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            13576002
+                        ],
+                        "object_definition_value": [
+                            "Massalia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            15986156
+                        ],
+                        "object_definition_value": [
+                            "Nikaia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            15813827,
+                            15986991,
+                            15986992
+                        ],
+                        "object_definition_value": [
+                            "Strabo 4.1.5-6",
+                            "Stephanos of Byzantion s. v. Nikaia",
+                            "Pliny the Elder HN 3.47"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "15986994": {
+                "object": {
+                    "nodegoat_id": "ngCJ9w48oEJU8DpKpEV2prztdCw",
+                    "object_id": 15986994,
+                    "object_name": "Establishment of Olbia",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-01-28T15:09:25Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Establishment of Olbia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15986902
+                        ],
+                        "object_definition_value": [
+                            "Massaliote Colonisation"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945199
+                        ],
+                        "object_definition_value": [
+                            "None"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            13576002
+                        ],
+                        "object_definition_value": [
+                            "Massalia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            15986157
+                        ],
+                        "object_definition_value": [
+                            "Olbia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            15813854,
+                            15813827,
+                            15986995
+                        ],
+                        "object_definition_value": [
+                            "Pseudo-Skymnos 216",
+                            "Strabo 4.1.5-6",
+                            "Stephanos of Byzantion s. v. Olbia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "15986999": {
+                "object": {
+                    "nodegoat_id": "ngHO9b98tIYZtIubuH073weMiJV",
+                    "object_id": 15986999,
+                    "object_name": "Foundation of Rhodanousia",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-01-28T15:22:01Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Foundation of Rhodanousia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15986902
+                        ],
+                        "object_definition_value": [
+                            "Massaliote Colonisation"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            15986996,
+                            15986997,
+                            15986998
+                        ],
+                        "object_definition_value": [
+                            "Stephanos of Byzantion s. v. Rhodanousia",
+                            "Pseudo-Skymnos 208",
+                            "Stephanos of Byzantion s. v. Rhadanusia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "15987000": {
+                "object": {
+                    "nodegoat_id": "ngMT0E08yNTE5NzgzN18wbjBnMA",
+                    "object_id": 15987000,
+                    "object_name": "Establishment of Tauroeis",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-01-28T15:21:49Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Establishment of Tauroeis",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15986902
+                        ],
+                        "object_definition_value": [
+                            "Massaliote Colonisation"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945199
+                        ],
+                        "object_definition_value": [
+                            "None"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            13576002
+                        ],
+                        "object_definition_value": [
+                            "Massalia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            15986160
+                        ],
+                        "object_definition_value": [
+                            "Tauroeis"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            15813827
+                        ],
+                        "object_definition_value": [
+                            "Strabo 4.1.5-6"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "15987002": {
+                "object": {
+                    "nodegoat_id": "ngOV0G28aPVG3PbSbOH06dlHpPi",
+                    "object_id": 15987002,
+                    "object_name": "Foundation of Troizen (Massalia)",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-01-28T15:26:18Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Foundation of Troizen (Massalia)",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15986902
+                        ],
+                        "object_definition_value": [
+                            "Massaliote Colonisation"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945199
+                        ],
+                        "object_definition_value": [
+                            "None"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            13576002
+                        ],
+                        "object_definition_value": [
+                            "Massalia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            15986161
+                        ],
+                        "object_definition_value": [
+                            "Troizen (France)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            15987001
+                        ],
+                        "object_definition_value": [
+                            "Stephanos of Byzantion s. v. Troizen"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "15987005": {
+                "object": {
+                    "nodegoat_id": "ngRY0J58dRoJ6SeFeTA37goOsRF",
+                    "object_id": 15987005,
+                    "object_name": "Foundation of Hemeroskopeion",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-01-28T15:43:33Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Foundation of Hemeroskopeion",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15986902
+                        ],
+                        "object_definition_value": [
+                            "Massaliote Colonisation"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            13576002
+                        ],
+                        "object_definition_value": [
+                            "Massalia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            15986162
+                        ],
+                        "object_definition_value": [
+                            "Hemeroskopeion"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            15987003,
+                            15987004
+                        ],
+                        "object_definition_value": [
+                            "Strabo 3.4.6",
+                            "Stephanos of Byzantion s. v. Hemeroskopeion"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "15987008": {
+                "object": {
+                    "nodegoat_id": "ngUB0o88gWBM0VhMhUt69jrHvFI",
+                    "object_id": 15987008,
+                    "object_name": "Foundation of Mainake",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-01-28T15:43:23Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Foundation of Mainake",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15986902
+                        ],
+                        "object_definition_value": [
+                            "Massaliote Colonisation"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945199
+                        ],
+                        "object_definition_value": [
+                            "None"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            13576002
+                        ],
+                        "object_definition_value": [
+                            "Massalia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            15986163
+                        ],
+                        "object_definition_value": [
+                            "Mainake"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            15987006,
+                            15987007
+                        ],
+                        "object_definition_value": [
+                            "Pseudo-Skymnos 146-150",
+                            "Strabo 3.4.2"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
