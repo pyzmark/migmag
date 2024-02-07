@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-02-06T23:00:05+00:00",
+    "timestamp": "2024-02-07T23:00:04+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -13336,245 +13336,6 @@
                     }
                 }
             },
-            "14810704": {
-                "object": {
-                    "nodegoat_id": "ngQX0I48cRHI4RdUdQJ25fnlrQE",
-                    "object_id": 14810704,
-                    "object_name": "Lokrians embark on the Trojan war",
-                    "object_name_plain": null,
-                    "object_name_style": [],
-                    "object_style": [],
-                    "object_sources": [],
-                    "object_version": "",
-                    "object_dating": "2023-12-22T13:17:53Z"
-                },
-                "object_definitions": {
-                    "35544": {
-                        "object_description_id": 35544,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "Lokrians embark on the Trojan war",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "53491": {
-                        "object_description_id": 53491,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "50791": {
-                        "object_description_id": 50791,
-                        "object_definition_ref_object_id": [
-                            11945198
-                        ],
-                        "object_definition_value": [
-                            "Central Greece"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35546": {
-                        "object_description_id": 35546,
-                        "object_definition_ref_object_id": [
-                            12433343,
-                            14838161
-                        ],
-                        "object_definition_value": [
-                            "Palaikastro eis ta marmara - Thronio",
-                            "East Lokris"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35547": {
-                        "object_description_id": 35547,
-                        "object_definition_ref_object_id": [
-                            12427796
-                        ],
-                        "object_definition_value": [
-                            "Troy"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "44816": {
-                        "object_description_id": 44816,
-                        "object_definition_ref_object_id": 14341701,
-                        "object_definition_value": "Aulis",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "47038": {
-                        "object_description_id": 47038,
-                        "object_definition_ref_object_id": [
-                            14235887
-                        ],
-                        "object_definition_value": [
-                            "aims to explain an ancient relationship between communities NOT based on kinship"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35518": {
-                        "object_description_id": 35518,
-                        "object_definition_ref_object_id": [
-                            14235455
-                        ],
-                        "object_definition_value": [
-                            "War - attacking / raiding"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35542": {
-                        "object_description_id": 35542,
-                        "object_definition_ref_object_id": [
-                            11945231,
-                            14321443,
-                            11945232,
-                            14810500
-                        ],
-                        "object_definition_value": [
-                            "Heroes (named individuals)",
-                            "Band of companions of a hero",
-                            "Large groups",
-                            "Nature spirits"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35543": {
-                        "object_description_id": 35543,
-                        "object_definition_ref_object_id": [
-                            14342174
-                        ],
-                        "object_definition_value": [
-                            "Aias the lesser"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35519": {
-                        "object_description_id": 35519,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "In Homer's catalogue of ships, the hero Aias is not associated with a specific town. We are told that the Lokrians dwelt in eight towns by the Euboean Gulf. The list includes settlements both in Opountian and Epiknemedian Lokris (East Lokris), but no mention is made of West Lokris.\r\nIn the Euripidian catalogue, Aias and the Lokrian fleet sail from the port of Thronio to the port of Aulis, where the Achaean fleets assemble before embarking on the Trojan War.\r\nIn Hyginus, Aias and his fleet are also accompanied by the nymph Rhene.",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35524": {
-                        "object_description_id": 35524,
-                        "object_definition_ref_object_id": [
-                            14783497,
-                            14786791,
-                            14790755,
-                            14774824,
-                            14830389,
-                            14837175,
-                            14837660,
-                            14837712,
-                            14838011,
-                            14786921,
-                            15041170
-                        ],
-                        "object_definition_value": [
-                            "Euripides Eur. IA 253",
-                            "Hyginus Fab. 97",
-                            "Pseudo-Apollodoros Apollod. Epit. e.3.11",
-                            "Homer Hom.Il. 2.527–535.",
-                            "Dictys of Crete 1.14",
-                            "Philostratos Philostr. Her. 689",
-                            "Ioannis Malalas Chronographia 5.108",
-                            "Strabo 10.1.13",
-                            "Pausanias 1.23.4",
-                            "Strabo 9.5.7-8",
-                            "Pausanias Paus. 1.23.4"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "38607": {
-                        "object_description_id": 38607,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "49101": {
-                        "object_description_id": 49101,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "47960": {
-                        "object_description_id": 47960,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35555": {
-                        "object_description_id": 35555,
-                        "object_definition_ref_object_id": 12058482,
-                        "object_definition_value": "Trojan War, generation of",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    }
-                },
-                "object_subs": {
-                    "21872493": {
-                        "object_sub": {
-                            "object_sub_id": 21872493,
-                            "object_sub_details_id": 14207,
-                            "object_sub_date_start": "-1300",
-                            "object_sub_date_end": "-1000",
-                            "object_sub_date_chronology": {
-                                "type": "period",
-                                "span": {
-                                    "period_amount": 0,
-                                    "period_unit": null,
-                                    "cycle_object_id": 0
-                                },
-                                "start": {
-                                    "start": {
-                                        "offset_amount": 0,
-                                        "offset_unit": null,
-                                        "cycle_object_id": 0,
-                                        "cycle_direction": null,
-                                        "date_value": null,
-                                        "date_object_sub_id": 18404089,
-                                        "date_direction": null
-                                    }
-                                },
-                                "end": {
-                                    "end": {
-                                        "offset_amount": 0,
-                                        "offset_unit": null,
-                                        "cycle_object_id": 0,
-                                        "cycle_direction": null,
-                                        "date_value": null,
-                                        "date_object_sub_id": 18404089,
-                                        "date_direction": null
-                                    }
-                                }
-                            },
-                            "object_sub_location_geometry": null,
-                            "object_sub_location_geometry_ref_object_id": null,
-                            "object_sub_location_geometry_ref_type_id": null,
-                            "object_sub_location_ref_object_id": 0,
-                            "object_sub_location_ref_type_id": 0,
-                            "object_sub_location_ref_object_sub_details_id": 0,
-                            "object_sub_location_ref_object_name": "",
-                            "object_sub_location_type": null,
-                            "object_sub_sources": [],
-                            "object_sub_version": "",
-                            "object_sub_style": []
-                        },
-                        "object_sub_definitions": []
-                    }
-                }
-            },
             "14810705": {
                 "object": {
                     "nodegoat_id": "ngRY0J58dRYJeSeReR63egoSsSl",
@@ -26393,6 +26154,2307 @@
                     }
                 },
                 "object_subs": []
+            },
+            "15996955": {
+                "object": {
+                    "nodegoat_id": "ngPW5B58bPmH7QcPcPY35emIqQj",
+                    "object_id": 15996955,
+                    "object_name": "Dionysios founds Adranon",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-07T10:24:11Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Dionysios founds Adranon",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12150554
+                        ],
+                        "object_definition_value": [
+                            "Syrakus"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            15994693
+                        ],
+                        "object_definition_value": [
+                            "Adranon"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217,
+                            11945227
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place",
+                            "Formal naming of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            15996956
+                        ],
+                        "object_definition_value": [
+                            "Diodorus Siculus 14.37.5"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35548": {
+                        "object_description_id": 35548,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-430",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35549": {
+                        "object_description_id": 35549,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-367",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "15997032": {
+                "object": {
+                    "nodegoat_id": "ngSZ3K28eUJK2TfOfT303hprtSm",
+                    "object_id": 15997032,
+                    "object_name": "Foundation of Akragas",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-07T10:58:19Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Foundation of Akragas",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12429226,
+                            12150549
+                        ],
+                        "object_definition_value": [
+                            "Gela",
+                            "Rhodos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12695018
+                        ],
+                        "object_definition_value": [
+                            "Akragas"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456,
+                            14235458
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place",
+                            "aims to explain the origins of social practices/institutions (e.g. cult practices)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945227,
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Formal naming of a place",
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            15997028,
+                            15997029
+                        ],
+                        "object_definition_value": [
+                            "Aristonoos",
+                            "Pystilos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            15997037,
+                            15997038
+                        ],
+                        "object_definition_value": [
+                            "Thucydides 6.4.4",
+                            "Polybius 9.27.6-8"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "15997969": {
+                "object": {
+                    "nodegoat_id": "ngDK6x98pDUV4EqPqDc7nsaSeFR",
+                    "object_id": 15997969,
+                    "object_name": "Foundation of Alontion",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-07T16:55:50Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Foundation of Alontion",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            15997967
+                        ],
+                        "object_definition_value": [
+                            "Bouthroton"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            15994695
+                        ],
+                        "object_definition_value": [
+                            "Alontion"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            13038437,
+                            11945217,
+                            14235454
+                        ],
+                        "object_definition_value": [
+                            "Nostos / return home",
+                            "Settlement / first occupation of a place",
+                            "Wandering"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            15997968,
+                            14392606
+                        ],
+                        "object_definition_value": [
+                            "Patron the Thyrian",
+                            "Aeneas"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            15997970
+                        ],
+                        "object_definition_value": [
+                            "Dionysios of Halikarnassos Ant. Rom. 1.51.2"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35555": {
+                        "object_description_id": 35555,
+                        "object_definition_ref_object_id": 12058487,
+                        "object_definition_value": "Nostoi, generation of",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "15997974": {
+                "object": {
+                    "nodegoat_id": "ngIP7y48uJPA5JvIvJB29xfBjJc",
+                    "object_id": 15997974,
+                    "object_name": "Foundation of Gela",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-07T17:23:35Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Foundation of Gela",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12150549,
+                            12370098,
+                            12440998
+                        ],
+                        "object_definition_value": [
+                            "Rhodos",
+                            "Crete",
+                            "Lindos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12429226
+                        ],
+                        "object_definition_value": [
+                            "Gela"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235458,
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the origins of social practices/institutions (e.g. cult practices)",
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945232,
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Large groups",
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            15997972,
+                            15997973
+                        ],
+                        "object_definition_value": [
+                            "Antiphemos",
+                            "Entimos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            15997975,
+                            15997977
+                        ],
+                        "object_definition_value": [
+                            "Herodotos 7.153.1",
+                            "Stephanos of Byzantion s. v. Gela"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "15997978": {
+                "object": {
+                    "nodegoat_id": "ngMT7c88yMTE1NzAzNl63bjRnMA",
+                    "object_id": 15997978,
+                    "object_name": "Lokrians in the Homeric catalogue of ships",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-07T17:57:53Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Lokrians in the Homeric catalogue of ships",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15368066
+                        ],
+                        "object_definition_value": [
+                            "Lokrians in the Trojan War"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            14838161
+                        ],
+                        "object_definition_value": [
+                            "East Lokris"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12427796
+                        ],
+                        "object_definition_value": [
+                            "Troy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            14235455
+                        ],
+                        "object_definition_value": [
+                            "War - attacking / raiding"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            14321443,
+                            11945231,
+                            15036605
+                        ],
+                        "object_definition_value": [
+                            "Band of companions of a hero",
+                            "Heroes (named individuals)",
+                            "Armies"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14342174
+                        ],
+                        "object_definition_value": [
+                            "Aias the lesser"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "In Homer's catalogue of ships, the hero Aias is not associated with a specific town. We are told that the Lokrians dwelt in eight towns by the Euboean Gulf. The list includes settlements both in Opountian and Epiknemedian Lokris (East Lokris), but no mention is made of West Lokris.",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14774824
+                        ],
+                        "object_definition_value": [
+                            "Homer Hom.Il. 2.527–535."
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35555": {
+                        "object_description_id": 35555,
+                        "object_definition_ref_object_id": 12058482,
+                        "object_definition_value": "Trojan War, generation of",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23097847": {
+                        "object_sub": {
+                            "object_sub_id": 23097847,
+                            "object_sub_details_id": 14207,
+                            "object_sub_date_start": "-1300",
+                            "object_sub_date_end": "-1000",
+                            "object_sub_date_chronology": {
+                                "type": "period",
+                                "span": {
+                                    "period_amount": 0,
+                                    "period_unit": null,
+                                    "cycle_object_id": 0
+                                },
+                                "start": {
+                                    "start": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                },
+                                "end": {
+                                    "end": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                }
+                            },
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 0,
+                            "object_sub_location_ref_object_sub_details_id": 0,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": null,
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "15997979": {
+                "object": {
+                    "nodegoat_id": "ngNU7d98zNEF1OaFaOW72ckSoOB",
+                    "object_id": 15997979,
+                    "object_name": "Lokrians in the Euripidian catalogue of ships",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-07T17:36:48Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Lokrians in the Euripidian catalogue of ships",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15368066
+                        ],
+                        "object_definition_value": [
+                            "Lokrians in the Trojan War"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12433343
+                        ],
+                        "object_definition_value": [
+                            "Palaikastro eis ta marmara - Thronio"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12427796
+                        ],
+                        "object_definition_value": [
+                            "Troy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "44816": {
+                        "object_description_id": 44816,
+                        "object_definition_ref_object_id": 14341701,
+                        "object_definition_value": "Aulis",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            14235455
+                        ],
+                        "object_definition_value": [
+                            "War - attacking / raiding"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            14321443,
+                            11945231,
+                            15036605
+                        ],
+                        "object_definition_value": [
+                            "Band of companions of a hero",
+                            "Heroes (named individuals)",
+                            "Armies"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14342174
+                        ],
+                        "object_definition_value": [
+                            "Aias the lesser"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "In the Euripidian catalogue, Aias and the Lokrian fleet sail from Thronio's port to Aulis's port, where the Achaean fleets assembled before embarking on the Trojan War.\r\nAs in Homer, no settlement appears explicitly as Aias's hometown.",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14783497
+                        ],
+                        "object_definition_value": [
+                            "Euripides Eur. IA 253"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            15997978
+                        ],
+                        "object_definition_value": [
+                            "Lokrians in the Homeric catalogue of ships"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35555": {
+                        "object_description_id": 35555,
+                        "object_definition_ref_object_id": 12058482,
+                        "object_definition_value": "Trojan War, generation of",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23097848": {
+                        "object_sub": {
+                            "object_sub_id": 23097848,
+                            "object_sub_details_id": 14207,
+                            "object_sub_date_start": "-1300",
+                            "object_sub_date_end": "-1000",
+                            "object_sub_date_chronology": {
+                                "type": "period",
+                                "span": {
+                                    "period_amount": 0,
+                                    "period_unit": null,
+                                    "cycle_object_id": 0
+                                },
+                                "start": {
+                                    "start": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                },
+                                "end": {
+                                    "end": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                }
+                            },
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 0,
+                            "object_sub_location_ref_object_sub_details_id": 0,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": null,
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "15997981": {
+                "object": {
+                    "nodegoat_id": "ngPW8B18bRGH1QcTcQ295emQqPj",
+                    "object_id": 15997981,
+                    "object_name": "Lokrians in Hyginus's catalogue of ships",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-07T17:52:12Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Lokrians in Hyginus's catalogue of ships",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15368066
+                        ],
+                        "object_definition_value": [
+                            "Lokrians in the Trojan War"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            14838161
+                        ],
+                        "object_definition_value": [
+                            "East Lokris"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12427796
+                        ],
+                        "object_definition_value": [
+                            "Troy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            14235455
+                        ],
+                        "object_definition_value": [
+                            "War - attacking / raiding"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            15036605,
+                            14321443,
+                            11945231,
+                            14810500
+                        ],
+                        "object_definition_value": [
+                            "Armies",
+                            "Band of companions of a hero",
+                            "Heroes (named individuals)",
+                            "Nature spirits"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14342174,
+                            15997980
+                        ],
+                        "object_definition_value": [
+                            "Aias the lesser",
+                            "Nymph Rhene"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Lokrian Aias is accompanied by Nymph Rhene and embarks on the Trojan War with 20 ships.\r\n\r\nFor the relation between Aias and Rhene, and their son Medeon, see also Hom. Il. 2.695.",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14786791
+                        ],
+                        "object_definition_value": [
+                            "Hyginus Fab. 97"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            15997978,
+                            15997979
+                        ],
+                        "object_definition_value": [
+                            "Lokrians in the Homeric catalogue of ships",
+                            "Lokrians in the Euripidian catalogue of ships"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23097850": {
+                        "object_sub": {
+                            "object_sub_id": 23097850,
+                            "object_sub_details_id": 14207,
+                            "object_sub_date_start": "-1300",
+                            "object_sub_date_end": "-1000",
+                            "object_sub_date_chronology": {
+                                "type": "period",
+                                "span": {
+                                    "period_amount": 0,
+                                    "period_unit": null,
+                                    "cycle_object_id": 0
+                                },
+                                "start": {
+                                    "start": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                },
+                                "end": {
+                                    "end": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                }
+                            },
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 0,
+                            "object_sub_location_ref_object_sub_details_id": 0,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": null,
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "15997982": {
+                "object": {
+                    "nodegoat_id": "ngQX8C28cSHI7RdMdSZ03fnFrSE",
+                    "object_id": 15997982,
+                    "object_name": "Lokrians in Apollodorus's catalogue of ships",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-07T17:57:23Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Lokrians in Apollodorus's catalogue of ships",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15368066
+                        ],
+                        "object_definition_value": [
+                            "Lokrians in the Trojan War"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            14838161
+                        ],
+                        "object_definition_value": [
+                            "East Lokris"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12427796
+                        ],
+                        "object_definition_value": [
+                            "Troy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "44816": {
+                        "object_description_id": 44816,
+                        "object_definition_ref_object_id": 14341701,
+                        "object_definition_value": "Aulis",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            14235455
+                        ],
+                        "object_definition_value": [
+                            "War - attacking / raiding"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            15036605,
+                            14321443,
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Armies",
+                            "Band of companions of a hero",
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14342174
+                        ],
+                        "object_definition_value": [
+                            "Aias the lesser"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Aias brought 40 ships. A fleet similar in size to that of Euboeans and Boeotians.",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14790755
+                        ],
+                        "object_definition_value": [
+                            "Pseudo-Apollodoros Apollod. Epit. e.3.11"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            15997979,
+                            15997978,
+                            15997981
+                        ],
+                        "object_definition_value": [
+                            "Lokrians in the Euripidian catalogue of ships",
+                            "Lokrians in the Homeric catalogue of ships",
+                            "Lokrians in Hyginus's catalogue of ships"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35555": {
+                        "object_description_id": 35555,
+                        "object_definition_ref_object_id": 12058482,
+                        "object_definition_value": "Trojan War, generation of",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23097851": {
+                        "object_sub": {
+                            "object_sub_id": 23097851,
+                            "object_sub_details_id": 14207,
+                            "object_sub_date_start": "-1300",
+                            "object_sub_date_end": "-1000",
+                            "object_sub_date_chronology": {
+                                "type": "period",
+                                "span": {
+                                    "period_amount": 0,
+                                    "period_unit": null,
+                                    "cycle_object_id": 0
+                                },
+                                "start": {
+                                    "start": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                },
+                                "end": {
+                                    "end": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                }
+                            },
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 0,
+                            "object_sub_location_ref_object_sub_details_id": 0,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": null,
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "15997984": {
+                "object": {
+                    "nodegoat_id": "ngSZ8K48eSJKcTfSfSB25hprtTe2e",
+                    "object_id": 15997984,
+                    "object_name": "Assembly of the Achaean fleet in Aulis before the Trojan War",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-07T18:02:20Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Assembly of the Achaean fleet in Aulis before the Trojan War",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15368066
+                        ],
+                        "object_definition_value": [
+                            "Lokrians in the Trojan War"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            14838161
+                        ],
+                        "object_definition_value": [
+                            "East Lokris"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12427796
+                        ],
+                        "object_definition_value": [
+                            "Troy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "44816": {
+                        "object_description_id": 44816,
+                        "object_definition_ref_object_id": 14341701,
+                        "object_definition_value": "Aulis",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            14235455
+                        ],
+                        "object_definition_value": [
+                            "War - attacking / raiding"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            15036605,
+                            14321443,
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Armies",
+                            "Band of companions of a hero",
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14342174
+                        ],
+                        "object_definition_value": [
+                            "Aias the lesser"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14830389
+                        ],
+                        "object_definition_value": [
+                            "Dictys of Crete 1.14"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            15997981,
+                            15997978,
+                            15997979,
+                            15997982
+                        ],
+                        "object_definition_value": [
+                            "Lokrians in Hyginus's catalogue of ships",
+                            "Lokrians in the Homeric catalogue of ships",
+                            "Lokrians in the Euripidian catalogue of ships",
+                            "Lokrians in Apollodorus's catalogue of ships"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35555": {
+                        "object_description_id": 35555,
+                        "object_definition_ref_object_id": 12058482,
+                        "object_definition_value": "Trojan War, generation of",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23097852": {
+                        "object_sub": {
+                            "object_sub_id": 23097852,
+                            "object_sub_details_id": 14207,
+                            "object_sub_date_start": "-1300",
+                            "object_sub_date_end": "-1000",
+                            "object_sub_date_chronology": {
+                                "type": "period",
+                                "span": {
+                                    "period_amount": 0,
+                                    "period_unit": null,
+                                    "cycle_object_id": 0
+                                },
+                                "start": {
+                                    "start": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                },
+                                "end": {
+                                    "end": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                }
+                            },
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 0,
+                            "object_sub_location_ref_object_sub_details_id": 0,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": null,
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "15997986": {
+                "object": {
+                    "nodegoat_id": "ngUB8s68gWLMfVhYhWN4ejrlvVo",
+                    "object_id": 15997986,
+                    "object_name": "War training in Aulis before the Trojan war",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-07T18:12:00Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "War training in Aulis before the Trojan war",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15368066
+                        ],
+                        "object_definition_value": [
+                            "Lokrians in the Trojan War"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            14838161
+                        ],
+                        "object_definition_value": [
+                            "East Lokris"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12427796
+                        ],
+                        "object_definition_value": [
+                            "Troy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "44816": {
+                        "object_description_id": 44816,
+                        "object_definition_ref_object_id": 14341701,
+                        "object_definition_value": "Aulis",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            14235455
+                        ],
+                        "object_definition_value": [
+                            "War - attacking / raiding"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            15036605,
+                            14321443,
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Armies",
+                            "Band of companions of a hero",
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14342174
+                        ],
+                        "object_definition_value": [
+                            "Aias the lesser"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14837175
+                        ],
+                        "object_definition_value": [
+                            "Philostratos Philostr. Her. 689"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            15997984
+                        ],
+                        "object_definition_value": [
+                            "Assembly of the Achaean fleet in Aulis before the Trojan War"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23097854": {
+                        "object_sub": {
+                            "object_sub_id": 23097854,
+                            "object_sub_details_id": 14207,
+                            "object_sub_date_start": "-1300",
+                            "object_sub_date_end": "-1000",
+                            "object_sub_date_chronology": {
+                                "type": "period",
+                                "span": {
+                                    "period_amount": 0,
+                                    "period_unit": null,
+                                    "cycle_object_id": 0
+                                },
+                                "start": {
+                                    "start": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                },
+                                "end": {
+                                    "end": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                }
+                            },
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 0,
+                            "object_sub_location_ref_object_sub_details_id": 0,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": null,
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "15997987": {
+                "object": {
+                    "nodegoat_id": "ngVC8t78hWiNfWiDiWO51ksqwVJ",
+                    "object_id": 15997987,
+                    "object_name": "Lokrians in Malalas's catalogue of ships",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-07T18:21:24Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Lokrians in Malalas's catalogue of ships",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15368066
+                        ],
+                        "object_definition_value": [
+                            "Lokrians in the Trojan War"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            14838161
+                        ],
+                        "object_definition_value": [
+                            "East Lokris"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12427796
+                        ],
+                        "object_definition_value": [
+                            "Troy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "44816": {
+                        "object_description_id": 44816,
+                        "object_definition_ref_object_id": 14341701,
+                        "object_definition_value": "Aulis",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            14235455
+                        ],
+                        "object_definition_value": [
+                            "War - attacking / raiding"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            15036605,
+                            14321443,
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Armies",
+                            "Band of companions of a hero",
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14342174
+                        ],
+                        "object_definition_value": [
+                            "Aias the lesser"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Ajax the Lokrian arrives in Aulis with nine ships.",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14837660
+                        ],
+                        "object_definition_value": [
+                            "Ioannis Malalas Chronographia 5.108"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            15997981,
+                            15997978,
+                            15997982,
+                            15997979
+                        ],
+                        "object_definition_value": [
+                            "Lokrians in Hyginus's catalogue of ships",
+                            "Lokrians in the Homeric catalogue of ships",
+                            "Lokrians in Apollodorus's catalogue of ships",
+                            "Lokrians in the Euripidian catalogue of ships"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35555": {
+                        "object_description_id": 35555,
+                        "object_definition_ref_object_id": 12058482,
+                        "object_definition_value": "Trojan War, generation of",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23097855": {
+                        "object_sub": {
+                            "object_sub_id": 23097855,
+                            "object_sub_details_id": 14207,
+                            "object_sub_date_start": "-1300",
+                            "object_sub_date_end": "-1000",
+                            "object_sub_date_chronology": {
+                                "type": "period",
+                                "span": {
+                                    "period_amount": 0,
+                                    "period_unit": null,
+                                    "cycle_object_id": 0
+                                },
+                                "start": {
+                                    "start": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                },
+                                "end": {
+                                    "end": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                }
+                            },
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 0,
+                            "object_sub_location_ref_object_sub_details_id": 0,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": null,
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "15997988": {
+                "object": {
+                    "nodegoat_id": "ngWD8u88iXDO3XjIjW960ltnxXq",
+                    "object_id": 15997988,
+                    "object_name": "Lokrian war techniques in Troy",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-07T18:48:39Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Lokrian war techniques in Troy",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15368066,
+                            15997990
+                        ],
+                        "object_definition_value": [
+                            "Lokrians in the Trojan War",
+                            "Lokrian customs"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            14838161
+                        ],
+                        "object_definition_value": [
+                            "East Lokris"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12427796
+                        ],
+                        "object_definition_value": [
+                            "Troy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            14235455
+                        ],
+                        "object_definition_value": [
+                            "War - attacking / raiding"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            15036605
+                        ],
+                        "object_definition_value": [
+                            "Armies"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14810710
+                        ],
+                        "object_definition_value": [
+                            "Lokrians"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Lokrians avoided close combat and instead fought with bows and slings.\r\nLokrian Aias was always positioned next to Telamonian Aias of Phthia.\r\n\r\nC.f. with Paus. 1.23.4. Pausanias says that by the time of the Persian wars, Lokrians were heavily armed and no longer fought with arrows.",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14837712,
+                            15997989
+                        ],
+                        "object_definition_value": [
+                            "Strabo 10.1.13",
+                            "Homer Hom. Il. 13.701-722"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            15997986
+                        ],
+                        "object_definition_value": [
+                            "War training in Aulis before the Trojan war"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23097856": {
+                        "object_sub": {
+                            "object_sub_id": 23097856,
+                            "object_sub_details_id": 14207,
+                            "object_sub_date_start": "-1300",
+                            "object_sub_date_end": "-1000",
+                            "object_sub_date_chronology": {
+                                "type": "period",
+                                "span": {
+                                    "period_amount": 0,
+                                    "period_unit": null,
+                                    "cycle_object_id": 0
+                                },
+                                "start": {
+                                    "start": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                },
+                                "end": {
+                                    "end": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                }
+                            },
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 0,
+                            "object_sub_location_ref_object_sub_details_id": 0,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": null,
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
             }
         }
     }
