@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-02-07T23:00:04+00:00",
+    "timestamp": "2024-02-08T23:00:04+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -12906,233 +12906,6 @@
                     }
                 }
             },
-            "14810702": {
-                "object": {
-                    "nodegoat_id": "ngOV0G28aPlG5PbKbO30adlPpPi",
-                    "object_id": 14810702,
-                    "object_name": "Patroclos's expulsion from his birthtown, Opous. Relocation to Phthia.",
-                    "object_name_plain": null,
-                    "object_name_style": [],
-                    "object_style": [],
-                    "object_sources": [],
-                    "object_version": "",
-                    "object_dating": "2023-12-22T13:18:25Z"
-                },
-                "object_definitions": {
-                    "35544": {
-                        "object_description_id": 35544,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "Patroclos's expulsion from his birthtown, Opous. Relocation to Phthia.",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "53491": {
-                        "object_description_id": 53491,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "50791": {
-                        "object_description_id": 50791,
-                        "object_definition_ref_object_id": [
-                            11945198
-                        ],
-                        "object_definition_value": [
-                            "Central Greece"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35546": {
-                        "object_description_id": 35546,
-                        "object_definition_ref_object_id": [
-                            12408013
-                        ],
-                        "object_definition_value": [
-                            "Atalanti - Opous"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35547": {
-                        "object_description_id": 35547,
-                        "object_definition_ref_object_id": [
-                            12427796
-                        ],
-                        "object_definition_value": [
-                            "Troy"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "44816": {
-                        "object_description_id": 44816,
-                        "object_definition_ref_object_id": 14341732,
-                        "object_definition_value": "Phthia",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "47038": {
-                        "object_description_id": 47038,
-                        "object_definition_ref_object_id": [
-                            14235887,
-                            14235458
-                        ],
-                        "object_definition_value": [
-                            "aims to explain an ancient relationship between communities NOT based on kinship",
-                            "aims to explain the origins of social practices/institutions (e.g. cult practices)"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35518": {
-                        "object_description_id": 35518,
-                        "object_definition_ref_object_id": [
-                            11945215
-                        ],
-                        "object_definition_value": [
-                            "Exile / expulsion from home (individual)"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35542": {
-                        "object_description_id": 35542,
-                        "object_definition_ref_object_id": [
-                            11945231
-                        ],
-                        "object_definition_value": [
-                            "Heroes (named individuals)"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35543": {
-                        "object_description_id": 35543,
-                        "object_definition_ref_object_id": [
-                            14810701
-                        ],
-                        "object_definition_value": [
-                            "Patroclos"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35519": {
-                        "object_description_id": 35519,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "In the Iliad, the spirit of Patroclus visits Achilles to ease his grief and to ask him to have his body buried next to his. Patroclus' narrates the first time he met Achilles, when his father Menoitios brought him to the house of King Peleus in Phthia, where he became Achilles's squire. Before the Trojan War, Achilles makes promises to Menoitios to return his son safe in Opous.\r\n\r\nThe same Homeric passage is quoted by Aeschines. Strabo too quotes Homer to say that the city of Opous was the birthplace of Patroclus before he was expelled to Phthia. Although Patroclus has to leave, Menoitios stays in Opous. \r\n\r\nPseudo-Apollosodros also summarizes the reason Patroclus had to run away from Opous and look for shelter in Phthia.\r\n\r\nLastly, Ovid in narrating cases of fugitives and exiles, mentions the case of Patroclus.",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35524": {
-                        "object_description_id": 35524,
-                        "object_definition_ref_object_id": [
-                            14783492,
-                            14783620,
-                            14786925,
-                            14786932,
-                            14786935,
-                            14783618
-                        ],
-                        "object_definition_value": [
-                            "Strabo 9.4.2",
-                            "Homer Hom. Il. 23.65-99",
-                            "Pseudo-Apollodoros Apollod. 3.13.8",
-                            "Aischines Aeschin. 1 143-149",
-                            "Ovid Ov. Pont. 1.3.49",
-                            "Homer Hom. Il. 18.324-342"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "38607": {
-                        "object_description_id": 38607,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "49101": {
-                        "object_description_id": 49101,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "47960": {
-                        "object_description_id": 47960,
-                        "object_definition_ref_object_id": [
-                            14810706
-                        ],
-                        "object_definition_value": [
-                            "Patroclos in the Trojan war"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35555": {
-                        "object_description_id": 35555,
-                        "object_definition_ref_object_id": 12058482,
-                        "object_definition_value": "Trojan War, generation of",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    }
-                },
-                "object_subs": {
-                    "21872491": {
-                        "object_sub": {
-                            "object_sub_id": 21872491,
-                            "object_sub_details_id": 14207,
-                            "object_sub_date_start": "-1300",
-                            "object_sub_date_end": "-1000",
-                            "object_sub_date_chronology": {
-                                "type": "period",
-                                "span": {
-                                    "period_amount": 0,
-                                    "period_unit": null,
-                                    "cycle_object_id": 0
-                                },
-                                "start": {
-                                    "start": {
-                                        "offset_amount": 0,
-                                        "offset_unit": null,
-                                        "cycle_object_id": 0,
-                                        "cycle_direction": null,
-                                        "date_value": null,
-                                        "date_object_sub_id": 18404089,
-                                        "date_direction": null
-                                    }
-                                },
-                                "end": {
-                                    "end": {
-                                        "offset_amount": 0,
-                                        "offset_unit": null,
-                                        "cycle_object_id": 0,
-                                        "cycle_direction": null,
-                                        "date_value": null,
-                                        "date_object_sub_id": 18404089,
-                                        "date_direction": null
-                                    }
-                                }
-                            },
-                            "object_sub_location_geometry": null,
-                            "object_sub_location_geometry_ref_object_id": null,
-                            "object_sub_location_geometry_ref_type_id": null,
-                            "object_sub_location_ref_object_id": 0,
-                            "object_sub_location_ref_type_id": 0,
-                            "object_sub_location_ref_object_sub_details_id": 0,
-                            "object_sub_location_ref_object_name": "",
-                            "object_sub_location_type": null,
-                            "object_sub_sources": [],
-                            "object_sub_version": "",
-                            "object_sub_style": []
-                        },
-                        "object_sub_definitions": []
-                    }
-                }
-            },
             "14810703": {
                 "object": {
                     "nodegoat_id": "ngPW0H38bPcH5QcHcQY18emYqPj",
@@ -13143,7 +12916,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-12-22T13:18:14Z"
+                    "object_dating": "2024-02-08T16:17:21Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -13195,12 +12968,8 @@
                     },
                     "47038": {
                         "object_description_id": 47038,
-                        "object_definition_ref_object_id": [
-                            14235887
-                        ],
-                        "object_definition_value": [
-                            "aims to explain an ancient relationship between communities NOT based on kinship"
-                        ],
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -13236,27 +13005,27 @@
                     "35519": {
                         "object_description_id": 35519,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "In Hyg. Fab. 14.2, Oileos (who was the father of Aias), is from Naryx and joins the Argonautic expedition.",
+                        "object_definition_value": "Cf. also with Hyg. Fab. 14.2, where Oileos, father of Aias, is claimed to be from Naryx.",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35524": {
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
-                            14783492,
                             14783495,
                             14783496,
                             14775712,
                             14783504,
-                            14787114
+                            14787114,
+                            14783492
                         ],
                         "object_definition_value": [
-                            "Strabo 9.4.2",
                             "Diodorus Siculus Diod. Sic. 14.82.8",
                             "Stephanos of Byzantion s.v. Naryx",
                             "Kallimachos Fr. 35",
                             "Ovid Ov. Met. 14.466-474",
-                            "Suda s.v. Naryx"
+                            "Suda s.v. Naryx",
+                            "Strabo 9.4.2"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -13277,8 +13046,19 @@
                     },
                     "47960": {
                         "object_description_id": 47960,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            15998109
+                        ],
+                        "object_definition_value": [
+                            "Aias from Naryx was king of the Opountians, and not Menoitios"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35555": {
+                        "object_description_id": 35555,
+                        "object_definition_ref_object_id": 12058482,
+                        "object_definition_value": "Trojan War, generation of",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -13488,180 +13268,6 @@
                         "object_description_id": 47960,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    }
-                },
-                "object_subs": []
-            },
-            "14810706": {
-                "object": {
-                    "nodegoat_id": "ngSZ0K68eSpK6TfOfSL4ehpHtTG",
-                    "object_id": 14810706,
-                    "object_name": "Patroclos in the Trojan war",
-                    "object_name_plain": null,
-                    "object_name_style": [],
-                    "object_style": [],
-                    "object_sources": [],
-                    "object_version": "",
-                    "object_dating": "2023-12-22T13:18:14Z"
-                },
-                "object_definitions": {
-                    "35544": {
-                        "object_description_id": 35544,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "Patroclos in the Trojan war",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "53491": {
-                        "object_description_id": 53491,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "50791": {
-                        "object_description_id": 50791,
-                        "object_definition_ref_object_id": [
-                            11945198
-                        ],
-                        "object_definition_value": [
-                            "Central Greece"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35546": {
-                        "object_description_id": 35546,
-                        "object_definition_ref_object_id": [
-                            12408013
-                        ],
-                        "object_definition_value": [
-                            "Atalanti - Opous"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35547": {
-                        "object_description_id": 35547,
-                        "object_definition_ref_object_id": [
-                            12427796
-                        ],
-                        "object_definition_value": [
-                            "Troy"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "44816": {
-                        "object_description_id": 44816,
-                        "object_definition_ref_object_id": 14341732,
-                        "object_definition_value": "Phthia",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "47038": {
-                        "object_description_id": 47038,
-                        "object_definition_ref_object_id": [
-                            14235887
-                        ],
-                        "object_definition_value": [
-                            "aims to explain an ancient relationship between communities NOT based on kinship"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35518": {
-                        "object_description_id": 35518,
-                        "object_definition_ref_object_id": [
-                            14235455,
-                            11945215,
-                            13038437
-                        ],
-                        "object_definition_value": [
-                            "War - attacking / raiding",
-                            "Exile / expulsion from home (individual)",
-                            "Nostos / return home"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35542": {
-                        "object_description_id": 35542,
-                        "object_definition_ref_object_id": [
-                            11945231
-                        ],
-                        "object_definition_value": [
-                            "Heroes (named individuals)"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35543": {
-                        "object_description_id": 35543,
-                        "object_definition_ref_object_id": [
-                            14810701,
-                            14341735
-                        ],
-                        "object_definition_value": [
-                            "Patroclos",
-                            "Achilles"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35519": {
-                        "object_description_id": 35519,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "In Strabo, Phthians and Lokrians, headed by Achilles, appear together in the battles.",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35524": {
-                        "object_description_id": 35524,
-                        "object_definition_ref_object_id": [
-                            14783618,
-                            14786921,
-                            14786932
-                        ],
-                        "object_definition_value": [
-                            "Homer Hom. Il. 18.324-342",
-                            "Strabo 9.5.7-8",
-                            "Aischines Aeschin. 1 143-149"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "38607": {
-                        "object_description_id": 38607,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "49101": {
-                        "object_description_id": 49101,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "47960": {
-                        "object_description_id": 47960,
-                        "object_definition_ref_object_id": [
-                            14810702
-                        ],
-                        "object_definition_value": [
-                            "Patroclos's expulsion from his birthtown, Opous. Relocation to Phthia."
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35555": {
-                        "object_description_id": 35555,
-                        "object_definition_ref_object_id": 12058482,
-                        "object_definition_value": "Trojan War, generation of",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -20716,26 +20322,30 @@
                 "object": {
                     "nodegoat_id": "ngZG3D98lAwRjAmVmAI74owqaAt",
                     "object_id": 15160939,
-                    "object_name": "Mythical affiliations - Lokrians and Aitolians",
+                    "object_name": "A Lokrian wife for Aitolarch Polykritos and their mixed child",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-12-22T13:16:10Z"
+                    "object_dating": "2024-02-08T17:05:43Z"
                 },
                 "object_definitions": {
                     "35544": {
                         "object_description_id": 35544,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Mythical affiliations - Lokrians and Aitolians",
+                        "object_definition_value": "A Lokrian wife for Aitolarch Polykritos and their mixed child",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "53491": {
                         "object_description_id": 53491,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            15998162
+                        ],
+                        "object_definition_value": [
+                            "Mythical affiliations between Lokrians and Others"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -20752,8 +20362,12 @@
                     },
                     "35546": {
                         "object_description_id": 35546,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            12486316
+                        ],
+                        "object_definition_value": [
+                            "West Lokris - Lokris Ozolia"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -20792,8 +20406,12 @@
                     },
                     "35542": {
                         "object_description_id": 35542,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945236
+                        ],
+                        "object_definition_value": [
+                            "Women"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -20807,7 +20425,7 @@
                     "35519": {
                         "object_description_id": 35519,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "+++",
+                        "object_definition_value": "See to \"by the will of Athena the souls of Lokrians and Aitolians shall live mixed together\"\r\n\r\nThe passage probably reflects the relationship between Western Lokrians and Aetolians",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -20844,37 +20462,88 @@
                         "object_definition_style": []
                     }
                 },
-                "object_subs": []
+                "object_subs": {
+                    "23099096": {
+                        "object_sub": {
+                            "object_sub_id": 23099096,
+                            "object_sub_details_id": 14207,
+                            "object_sub_date_start": "-2000",
+                            "object_sub_date_end": "-600",
+                            "object_sub_date_chronology": {
+                                "type": "period",
+                                "span": {
+                                    "period_amount": 0,
+                                    "period_unit": null,
+                                    "cycle_object_id": 0
+                                },
+                                "start": {
+                                    "start": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 19996482,
+                                        "date_direction": null
+                                    }
+                                },
+                                "end": {
+                                    "end": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 19996482,
+                                        "date_direction": null
+                                    }
+                                }
+                            },
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 0,
+                            "object_sub_location_ref_object_sub_details_id": 0,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": null,
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
             },
             "15367874": {
                 "object": {
                     "nodegoat_id": "ngIP7y48uJvA5JvEvJR2txfJjJc",
                     "object_id": 15367874,
-                    "object_name": "Achilles' empty promise to Menoitios",
+                    "object_name": "Achilles' promise to Menoitios before going to Troy",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-12-22T13:14:26Z"
+                    "object_dating": "2024-02-08T14:27:24Z"
                 },
                 "object_definitions": {
                     "35544": {
                         "object_description_id": 35544,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Achilles' empty promise to Menoitios",
+                        "object_definition_value": "Achilles' promise to Menoitios before going to Troy",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "53491": {
                         "object_description_id": 53491,
                         "object_definition_ref_object_id": [
-                            15367858,
-                            15368066
+                            15368066,
+                            15367858
                         ],
                         "object_definition_value": [
-                            "Patroclos and the cities of Opous and Phthia",
-                            "Lokrians in the Trojan War"
+                            "Lokrians in the Trojan War",
+                            "Patroclos and the cities of Opous and Phthia"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -21011,19 +20680,19 @@
                 "object": {
                     "nodegoat_id": "ngOV2K88aOVGbPbAbOH63dlTpQC",
                     "object_id": 15367928,
-                    "object_name": "Patroclos's spirit visits Achilles, remembers and narrates the first time they met",
+                    "object_name": "Patroclos's spirit recalls his expulsion to Phthia and the first time he met Achilles",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-12-22T13:15:38Z"
+                    "object_dating": "2024-02-08T15:15:44Z"
                 },
                 "object_definitions": {
                     "35544": {
                         "object_description_id": 35544,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Patroclos's spirit visits Achilles, remembers and narrates the first time they met",
+                        "object_definition_value": "Patroclos's spirit recalls his expulsion to Phthia and the first time he met Achilles",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -21151,8 +20820,12 @@
                     },
                     "47960": {
                         "object_description_id": 47960,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            15998099
+                        ],
+                        "object_definition_value": [
+                            "Patroclos' no return from the Trojan War and Achilles grief"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -21210,448 +20883,23 @@
                     }
                 }
             },
-            "15367950": {
-                "object": {
-                    "nodegoat_id": "ngKR5W08wLRC1LxixKT84zhjlKe",
-                    "object_id": 15367950,
-                    "object_name": "Aischines commenting on the relationship of Achilleus and Patroklos",
-                    "object_name_plain": null,
-                    "object_name_style": [],
-                    "object_style": [],
-                    "object_sources": [],
-                    "object_version": "",
-                    "object_dating": "2023-12-22T13:15:49Z"
-                },
-                "object_definitions": {
-                    "35544": {
-                        "object_description_id": 35544,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "Aischines commenting on the relationship of Achilleus and Patroklos",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "53491": {
-                        "object_description_id": 53491,
-                        "object_definition_ref_object_id": [
-                            15367858
-                        ],
-                        "object_definition_value": [
-                            "Patroclos and the cities of Opous and Phthia"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "50791": {
-                        "object_description_id": 50791,
-                        "object_definition_ref_object_id": [
-                            11945198
-                        ],
-                        "object_definition_value": [
-                            "Central Greece"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35546": {
-                        "object_description_id": 35546,
-                        "object_definition_ref_object_id": [
-                            12408013
-                        ],
-                        "object_definition_value": [
-                            "Atalanti - Opous"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35547": {
-                        "object_description_id": 35547,
-                        "object_definition_ref_object_id": [
-                            14341732
-                        ],
-                        "object_definition_value": [
-                            "Phthia"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "47038": {
-                        "object_description_id": 47038,
-                        "object_definition_ref_object_id": [
-                            14235887
-                        ],
-                        "object_definition_value": [
-                            "aims to explain an ancient relationship between communities NOT based on kinship"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35518": {
-                        "object_description_id": 35518,
-                        "object_definition_ref_object_id": [
-                            11945215
-                        ],
-                        "object_definition_value": [
-                            "Exile / expulsion from home (individual)"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35542": {
-                        "object_description_id": 35542,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35543": {
-                        "object_description_id": 35543,
-                        "object_definition_ref_object_id": [
-                            14790871,
-                            14810701
-                        ],
-                        "object_definition_value": [
-                            "Menoitios",
-                            "Patroclos"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35519": {
-                        "object_description_id": 35519,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "Intertextuality",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35524": {
-                        "object_description_id": 35524,
-                        "object_definition_ref_object_id": [
-                            14786932
-                        ],
-                        "object_definition_value": [
-                            "Aischines Aeschin. 1 143-149"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "38607": {
-                        "object_description_id": 38607,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "49101": {
-                        "object_description_id": 49101,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "47960": {
-                        "object_description_id": 47960,
-                        "object_definition_ref_object_id": [
-                            15367874,
-                            15367928
-                        ],
-                        "object_definition_value": [
-                            "Achilles' empty promise to Menoitios",
-                            "Patroclos's spirit visits Achilles, remembers and narrates the first time they met"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    }
-                },
-                "object_subs": {
-                    "22334964": {
-                        "object_sub": {
-                            "object_sub_id": 22334964,
-                            "object_sub_details_id": 14207,
-                            "object_sub_date_start": "-1300",
-                            "object_sub_date_end": "-1000",
-                            "object_sub_date_chronology": {
-                                "type": "period",
-                                "span": {
-                                    "period_amount": 0,
-                                    "period_unit": null,
-                                    "cycle_object_id": 0
-                                },
-                                "start": {
-                                    "start": {
-                                        "offset_amount": 0,
-                                        "offset_unit": null,
-                                        "cycle_object_id": 0,
-                                        "cycle_direction": null,
-                                        "date_value": null,
-                                        "date_object_sub_id": 18404089,
-                                        "date_direction": null
-                                    }
-                                },
-                                "end": {
-                                    "end": {
-                                        "offset_amount": 0,
-                                        "offset_unit": null,
-                                        "cycle_object_id": 0,
-                                        "cycle_direction": null,
-                                        "date_value": null,
-                                        "date_object_sub_id": 18404089,
-                                        "date_direction": null
-                                    }
-                                }
-                            },
-                            "object_sub_location_geometry": null,
-                            "object_sub_location_geometry_ref_object_id": null,
-                            "object_sub_location_geometry_ref_type_id": null,
-                            "object_sub_location_ref_object_id": 0,
-                            "object_sub_location_ref_type_id": 0,
-                            "object_sub_location_ref_object_sub_details_id": 0,
-                            "object_sub_location_ref_object_name": "",
-                            "object_sub_location_type": null,
-                            "object_sub_sources": [],
-                            "object_sub_version": "",
-                            "object_sub_style": []
-                        },
-                        "object_sub_definitions": []
-                    }
-                }
-            },
-            "15367988": {
-                "object": {
-                    "nodegoat_id": "ngWD8u88iXNO1XjmjXF69ltJxXK",
-                    "object_id": 15367988,
-                    "object_name": "Opous, the birthplace of Patroclos and his expulsion to Phthia",
-                    "object_name_plain": null,
-                    "object_name_style": [],
-                    "object_style": [],
-                    "object_sources": [],
-                    "object_version": "",
-                    "object_dating": "2023-12-22T13:15:26Z"
-                },
-                "object_definitions": {
-                    "35544": {
-                        "object_description_id": 35544,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "Opous, the birthplace of Patroclos and his expulsion to Phthia",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "53491": {
-                        "object_description_id": 53491,
-                        "object_definition_ref_object_id": [
-                            15367858
-                        ],
-                        "object_definition_value": [
-                            "Patroclos and the cities of Opous and Phthia"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "50791": {
-                        "object_description_id": 50791,
-                        "object_definition_ref_object_id": [
-                            11945198
-                        ],
-                        "object_definition_value": [
-                            "Central Greece"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35546": {
-                        "object_description_id": 35546,
-                        "object_definition_ref_object_id": [
-                            12408013
-                        ],
-                        "object_definition_value": [
-                            "Atalanti - Opous"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35547": {
-                        "object_description_id": 35547,
-                        "object_definition_ref_object_id": [
-                            14341732
-                        ],
-                        "object_definition_value": [
-                            "Phthia"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "47038": {
-                        "object_description_id": 47038,
-                        "object_definition_ref_object_id": [
-                            14235887,
-                            14256256
-                        ],
-                        "object_definition_value": [
-                            "aims to explain an ancient relationship between communities NOT based on kinship",
-                            "Other"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35518": {
-                        "object_description_id": 35518,
-                        "object_definition_ref_object_id": [
-                            11945215,
-                            14350871
-                        ],
-                        "object_definition_value": [
-                            "Exile / expulsion from home (individual)",
-                            "Immobility / remaining"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35542": {
-                        "object_description_id": 35542,
-                        "object_definition_ref_object_id": [
-                            11945231
-                        ],
-                        "object_definition_value": [
-                            "Heroes (named individuals)"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35543": {
-                        "object_description_id": 35543,
-                        "object_definition_ref_object_id": [
-                            14810701,
-                            14790871
-                        ],
-                        "object_definition_value": [
-                            "Patroclos",
-                            "Menoitios"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35519": {
-                        "object_description_id": 35519,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "Strabo discusses the relevant story from Homer and narrates that Patroclos fled to Phthia. Still, his father Menoitios returned and remained in Opous after accompanying him to the house of Peleus.\r\n\r\nIntertextuality",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35524": {
-                        "object_description_id": 35524,
-                        "object_definition_ref_object_id": [
-                            14783492
-                        ],
-                        "object_definition_value": [
-                            "Strabo 9.4.2"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "38607": {
-                        "object_description_id": 38607,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "49101": {
-                        "object_description_id": 49101,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "47960": {
-                        "object_description_id": 47960,
-                        "object_definition_ref_object_id": [
-                            15367874,
-                            15367928
-                        ],
-                        "object_definition_value": [
-                            "Achilles' empty promise to Menoitios",
-                            "Patroclos's spirit visits Achilles, remembers and narrates the first time they met"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35555": {
-                        "object_description_id": 35555,
-                        "object_definition_ref_object_id": 12058482,
-                        "object_definition_value": "Trojan War, generation of",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    }
-                },
-                "object_subs": {
-                    "22335008": {
-                        "object_sub": {
-                            "object_sub_id": 22335008,
-                            "object_sub_details_id": 14207,
-                            "object_sub_date_start": "-1300",
-                            "object_sub_date_end": "-1000",
-                            "object_sub_date_chronology": {
-                                "type": "period",
-                                "span": {
-                                    "period_amount": 0,
-                                    "period_unit": null,
-                                    "cycle_object_id": 0
-                                },
-                                "start": {
-                                    "start": {
-                                        "offset_amount": 0,
-                                        "offset_unit": null,
-                                        "cycle_object_id": 0,
-                                        "cycle_direction": null,
-                                        "date_value": null,
-                                        "date_object_sub_id": 18404089,
-                                        "date_direction": null
-                                    }
-                                },
-                                "end": {
-                                    "end": {
-                                        "offset_amount": 0,
-                                        "offset_unit": null,
-                                        "cycle_object_id": 0,
-                                        "cycle_direction": null,
-                                        "date_value": null,
-                                        "date_object_sub_id": 18404089,
-                                        "date_direction": null
-                                    }
-                                }
-                            },
-                            "object_sub_location_geometry": null,
-                            "object_sub_location_geometry_ref_object_id": null,
-                            "object_sub_location_geometry_ref_type_id": null,
-                            "object_sub_location_ref_object_id": 0,
-                            "object_sub_location_ref_type_id": 0,
-                            "object_sub_location_ref_object_sub_details_id": 0,
-                            "object_sub_location_ref_object_name": "",
-                            "object_sub_location_type": null,
-                            "object_sub_sources": [],
-                            "object_sub_version": "",
-                            "object_sub_style": []
-                        },
-                        "object_sub_definitions": []
-                    }
-                }
-            },
             "15368001": {
                 "object": {
                     "nodegoat_id": "ngNU0F18zOUFxOaFaN293ckKoNB",
                     "object_id": 15368001,
-                    "object_name": "Ovid lists exile and fugitive cases, including Patroclus's story",
+                    "object_name": "Patroclos leaves Opous and is hosted by Achilles in Thessaly",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-12-22T13:15:15Z"
+                    "object_dating": "2024-02-08T15:26:35Z"
                 },
                 "object_definitions": {
                     "35544": {
                         "object_description_id": 35544,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Ovid lists exile and fugitive cases, including Patroclus's story",
+                        "object_definition_value": "Patroclos leaves Opous and is hosted by Achilles in Thessaly",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -21691,10 +20939,10 @@
                     "35547": {
                         "object_description_id": 35547,
                         "object_definition_ref_object_id": [
-                            14341732
+                            12427801
                         ],
                         "object_definition_value": [
-                            "Phthia"
+                            "Thessaly"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -21736,6 +20984,13 @@
                         "object_definition_value": [
                             "Patroclos"
                         ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "0vid lists exile and fugitive cases, including Patroclos's expulsion to Phthia",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -21767,10 +21022,14 @@
                     "47960": {
                         "object_description_id": 47960,
                         "object_definition_ref_object_id": [
-                            15367928
+                            15367928,
+                            15998093,
+                            15998103
                         ],
                         "object_definition_value": [
-                            "Patroclos's spirit visits Achilles, remembers and narrates the first time they met"
+                            "Patroclos's spirit recalls his expulsion to Phthia and the first time he met Achilles",
+                            "Patroclos flees to Phthia",
+                            "Patroclos flees to Phthia but Menoitios continued to live in Opous"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -21787,424 +21046,6 @@
                     "22335013": {
                         "object_sub": {
                             "object_sub_id": 22335013,
-                            "object_sub_details_id": 14207,
-                            "object_sub_date_start": "-1300",
-                            "object_sub_date_end": "-1000",
-                            "object_sub_date_chronology": {
-                                "type": "period",
-                                "span": {
-                                    "period_amount": 0,
-                                    "period_unit": null,
-                                    "cycle_object_id": 0
-                                },
-                                "start": {
-                                    "start": {
-                                        "offset_amount": 0,
-                                        "offset_unit": null,
-                                        "cycle_object_id": 0,
-                                        "cycle_direction": null,
-                                        "date_value": null,
-                                        "date_object_sub_id": 18404089,
-                                        "date_direction": null
-                                    }
-                                },
-                                "end": {
-                                    "end": {
-                                        "offset_amount": 0,
-                                        "offset_unit": null,
-                                        "cycle_object_id": 0,
-                                        "cycle_direction": null,
-                                        "date_value": null,
-                                        "date_object_sub_id": 18404089,
-                                        "date_direction": null
-                                    }
-                                }
-                            },
-                            "object_sub_location_geometry": null,
-                            "object_sub_location_geometry_ref_object_id": null,
-                            "object_sub_location_geometry_ref_type_id": null,
-                            "object_sub_location_ref_object_id": 0,
-                            "object_sub_location_ref_type_id": 0,
-                            "object_sub_location_ref_object_sub_details_id": 0,
-                            "object_sub_location_ref_object_name": "",
-                            "object_sub_location_type": null,
-                            "object_sub_sources": [],
-                            "object_sub_version": "",
-                            "object_sub_style": []
-                        },
-                        "object_sub_definitions": []
-                    }
-                }
-            },
-            "15368062": {
-                "object": {
-                    "nodegoat_id": "ngWD6E28iXDO4XjujYF0hltPxWq",
-                    "object_id": 15368062,
-                    "object_name": "Patroclos finds refuge in the house of Peleus, after unintended murder",
-                    "object_name_plain": null,
-                    "object_name_style": [],
-                    "object_style": [],
-                    "object_sources": [],
-                    "object_version": "",
-                    "object_dating": "2023-12-22T13:15:00Z"
-                },
-                "object_definitions": {
-                    "35544": {
-                        "object_description_id": 35544,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "Patroclos finds refuge in the house of Peleus, after unintended murder",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "53491": {
-                        "object_description_id": 53491,
-                        "object_definition_ref_object_id": [
-                            15367858
-                        ],
-                        "object_definition_value": [
-                            "Patroclos and the cities of Opous and Phthia"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "50791": {
-                        "object_description_id": 50791,
-                        "object_definition_ref_object_id": [
-                            11945198
-                        ],
-                        "object_definition_value": [
-                            "Central Greece"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35546": {
-                        "object_description_id": 35546,
-                        "object_definition_ref_object_id": [
-                            12408013
-                        ],
-                        "object_definition_value": [
-                            "Atalanti - Opous"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35547": {
-                        "object_description_id": 35547,
-                        "object_definition_ref_object_id": [
-                            14341732
-                        ],
-                        "object_definition_value": [
-                            "Phthia"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "47038": {
-                        "object_description_id": 47038,
-                        "object_definition_ref_object_id": [
-                            14256256,
-                            14235887
-                        ],
-                        "object_definition_value": [
-                            "Other",
-                            "aims to explain an ancient relationship between communities NOT based on kinship"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35518": {
-                        "object_description_id": 35518,
-                        "object_definition_ref_object_id": [
-                            11945215
-                        ],
-                        "object_definition_value": [
-                            "Exile / expulsion from home (individual)"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35542": {
-                        "object_description_id": 35542,
-                        "object_definition_ref_object_id": [
-                            11945231
-                        ],
-                        "object_definition_value": [
-                            "Heroes (named individuals)"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35543": {
-                        "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35524": {
-                        "object_description_id": 35524,
-                        "object_definition_ref_object_id": [
-                            14786925
-                        ],
-                        "object_definition_value": [
-                            "Pseudo-Apollodoros Apollod. 3.13.8"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "38607": {
-                        "object_description_id": 38607,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "49101": {
-                        "object_description_id": 49101,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "47960": {
-                        "object_description_id": 47960,
-                        "object_definition_ref_object_id": [
-                            15367928
-                        ],
-                        "object_definition_value": [
-                            "Patroclos's spirit visits Achilles, remembers and narrates the first time they met"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    }
-                },
-                "object_subs": {
-                    "22335027": {
-                        "object_sub": {
-                            "object_sub_id": 22335027,
-                            "object_sub_details_id": 14207,
-                            "object_sub_date_start": "-1300",
-                            "object_sub_date_end": "-1000",
-                            "object_sub_date_chronology": {
-                                "type": "period",
-                                "span": {
-                                    "period_amount": 0,
-                                    "period_unit": null,
-                                    "cycle_object_id": 0
-                                },
-                                "start": {
-                                    "start": {
-                                        "offset_amount": 0,
-                                        "offset_unit": null,
-                                        "cycle_object_id": 0,
-                                        "cycle_direction": null,
-                                        "date_value": null,
-                                        "date_object_sub_id": 18404089,
-                                        "date_direction": null
-                                    }
-                                },
-                                "end": {
-                                    "end": {
-                                        "offset_amount": 0,
-                                        "offset_unit": null,
-                                        "cycle_object_id": 0,
-                                        "cycle_direction": null,
-                                        "date_value": null,
-                                        "date_object_sub_id": 18404089,
-                                        "date_direction": null
-                                    }
-                                }
-                            },
-                            "object_sub_location_geometry": null,
-                            "object_sub_location_geometry_ref_object_id": null,
-                            "object_sub_location_geometry_ref_type_id": null,
-                            "object_sub_location_ref_object_id": 0,
-                            "object_sub_location_ref_type_id": 0,
-                            "object_sub_location_ref_object_sub_details_id": 0,
-                            "object_sub_location_ref_object_name": "",
-                            "object_sub_location_type": null,
-                            "object_sub_sources": [],
-                            "object_sub_version": "",
-                            "object_sub_style": []
-                        },
-                        "object_sub_definitions": []
-                    }
-                }
-            },
-            "15368085": {
-                "object": {
-                    "nodegoat_id": "ngTA8r58fVAL0UgHgT63eiqMuUn",
-                    "object_id": 15368085,
-                    "object_name": "Patroclos follows Achilles to the Trojan war",
-                    "object_name_plain": null,
-                    "object_name_style": [],
-                    "object_style": [],
-                    "object_sources": [],
-                    "object_version": "",
-                    "object_dating": "2023-12-22T13:14:46Z"
-                },
-                "object_definitions": {
-                    "35544": {
-                        "object_description_id": 35544,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "Patroclos follows Achilles to the Trojan war",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "53491": {
-                        "object_description_id": 53491,
-                        "object_definition_ref_object_id": [
-                            15368066
-                        ],
-                        "object_definition_value": [
-                            "Lokrians in the Trojan War"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "50791": {
-                        "object_description_id": 50791,
-                        "object_definition_ref_object_id": [
-                            11945198
-                        ],
-                        "object_definition_value": [
-                            "Central Greece"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35546": {
-                        "object_description_id": 35546,
-                        "object_definition_ref_object_id": [
-                            12408013
-                        ],
-                        "object_definition_value": [
-                            "Atalanti - Opous"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35547": {
-                        "object_description_id": 35547,
-                        "object_definition_ref_object_id": [
-                            12427796
-                        ],
-                        "object_definition_value": [
-                            "Troy"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "44816": {
-                        "object_description_id": 44816,
-                        "object_definition_ref_object_id": 14341732,
-                        "object_definition_value": "Phthia",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "47038": {
-                        "object_description_id": 47038,
-                        "object_definition_ref_object_id": [
-                            14235887
-                        ],
-                        "object_definition_value": [
-                            "aims to explain an ancient relationship between communities NOT based on kinship"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35518": {
-                        "object_description_id": 35518,
-                        "object_definition_ref_object_id": [
-                            14235455,
-                            11945215
-                        ],
-                        "object_definition_value": [
-                            "War - attacking / raiding",
-                            "Exile / expulsion from home (individual)"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35542": {
-                        "object_description_id": 35542,
-                        "object_definition_ref_object_id": [
-                            11945231
-                        ],
-                        "object_definition_value": [
-                            "Heroes (named individuals)"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35543": {
-                        "object_description_id": 35543,
-                        "object_definition_ref_object_id": [
-                            14810701,
-                            14341735
-                        ],
-                        "object_definition_value": [
-                            "Patroclos",
-                            "Achilles"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35524": {
-                        "object_description_id": 35524,
-                        "object_definition_ref_object_id": [
-                            14786925,
-                            14783618,
-                            14786932,
-                            14783492
-                        ],
-                        "object_definition_value": [
-                            "Pseudo-Apollodoros Apollod. 3.13.8",
-                            "Homer Hom. Il. 18.324-342",
-                            "Aischines Aeschin. 1 143-149",
-                            "Strabo 9.4.2"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "38607": {
-                        "object_description_id": 38607,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "49101": {
-                        "object_description_id": 49101,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "47960": {
-                        "object_description_id": 47960,
-                        "object_definition_ref_object_id": [
-                            15367874
-                        ],
-                        "object_definition_value": [
-                            "Achilles' empty promise to Menoitios"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35555": {
-                        "object_description_id": 35555,
-                        "object_definition_ref_object_id": 12058482,
-                        "object_definition_value": "Trojan War, generation of",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    }
-                },
-                "object_subs": {
-                    "22335030": {
-                        "object_sub": {
-                            "object_sub_id": 22335030,
                             "object_sub_details_id": 14207,
                             "object_sub_date_start": "-1300",
                             "object_sub_date_end": "-1000",
@@ -25272,7 +24113,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-01-28T15:04:55Z"
+                    "object_dating": "2024-02-08T09:44:22Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -25285,10 +24126,12 @@
                     "53491": {
                         "object_description_id": 53491,
                         "object_definition_ref_object_id": [
-                            15986902
+                            15986902,
+                            15986953
                         ],
                         "object_definition_value": [
-                            "Massaliote Colonisation"
+                            "Massaliote Colonisation",
+                            "Phokaians in the Western Mediterranean"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -26601,7 +25444,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-07T17:23:35Z"
+                    "object_dating": "2024-02-08T09:35:21Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -26709,11 +25552,13 @@
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
                             15997975,
-                            15997977
+                            15997977,
+                            15998010
                         ],
                         "object_definition_value": [
                             "Herodotos 7.153.1",
-                            "Stephanos of Byzantion s. v. Gela"
+                            "Stephanos of Byzantion s. v. Gela",
+                            "Thucydides 6.4.3"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -28261,7 +27106,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-07T18:48:39Z"
+                    "object_dating": "2024-02-08T17:20:02Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -28360,7 +27205,7 @@
                     "35519": {
                         "object_description_id": 35519,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Lokrians avoided close combat and instead fought with bows and slings.\r\nLokrian Aias was always positioned next to Telamonian Aias of Phthia.\r\n\r\nC.f. with Paus. 1.23.4. Pausanias says that by the time of the Persian wars, Lokrians were heavily armed and no longer fought with arrows.",
+                        "object_definition_value": "Lokrians avoided close combat and instead fought with bows and slings.\r\nLokrian Aias was always positioned next to Telamonian Aias of Phthia.\r\n\r\nC.f. with Paus. 1.23.4. Pausanias says that by the time of the Persian wars, Lokrians were heavily armed and no longer fought with arrows.\r\nC.f. with Hes. Sh. 1 1-30, where Lokrians join Amphitryon in battle fighting hand to hand (ἀγχέμαχος)",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -28455,6 +27300,1479 @@
                         "object_sub_definitions": []
                     }
                 }
+            },
+            "15998008": {
+                "object": {
+                    "nodegoat_id": "ngUB0s88gUhM3VhQhVD6gjrpvFI",
+                    "object_id": 15998008,
+                    "object_name": "Foundation of Henna",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-08T09:33:18Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Foundation of Henna",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12150554
+                        ],
+                        "object_definition_value": [
+                            "Syrakus"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            15994696
+                        ],
+                        "object_definition_value": [
+                            "Henna"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945235
+                        ],
+                        "object_definition_value": [
+                            "Whole communities (named)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            15998009
+                        ],
+                        "object_definition_value": [
+                            "Stephanos of Byzantion s. v. Enna"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "15998014": {
+                "object": {
+                    "nodegoat_id": "ngAH1W48mAnS5BnOnAT24pxPbLO",
+                    "object_id": 15998014,
+                    "object_name": "Foundation of Herakleia Minoa (Sicily)",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-08T09:41:06Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Foundation of Herakleia Minoa (Sicily)",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12695015
+                        ],
+                        "object_definition_value": [
+                            "Selinous"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            15994697
+                        ],
+                        "object_definition_value": [
+                            "Herakleia Minoa (Sicily)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945235
+                        ],
+                        "object_definition_value": [
+                            "Whole communities (named)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            15998016
+                        ],
+                        "object_definition_value": [
+                            "Herodotos 5.46.2"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "15998093": {
+                "object": {
+                    "nodegoat_id": "ngBI9z38nBITlCoNoBU17qyUcBv",
+                    "object_id": 15998093,
+                    "object_name": "Patroclos flees to Phthia",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-08T15:12:20Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Patroclos flees to Phthia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15367858
+                        ],
+                        "object_definition_value": [
+                            "Patroclos and the cities of Opous and Phthia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12408013
+                        ],
+                        "object_definition_value": [
+                            "Atalanti - Opous"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            14341732
+                        ],
+                        "object_definition_value": [
+                            "Phthia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945215
+                        ],
+                        "object_definition_value": [
+                            "Exile / expulsion from home (individual)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14810701,
+                            14790871
+                        ],
+                        "object_definition_value": [
+                            "Patroclos",
+                            "Menoitios"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "After accidentally killing a boy over a game of dice, young Patroclos flees from Opous to the house of Peleus in Phthia, were his father, Menoitios, was originally from.",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14786925
+                        ],
+                        "object_definition_value": [
+                            "Pseudo-Apollodoros Apollod. 3.13.8"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            15368154,
+                            15367874,
+                            15367928
+                        ],
+                        "object_definition_value": [
+                            "Possible mothers of Patroclos",
+                            "Achilles' promise to Menoitios before going to Troy",
+                            "Patroclos's spirit recalls his expulsion to Phthia and the first time he met Achilles"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35555": {
+                        "object_description_id": 35555,
+                        "object_definition_ref_object_id": 12058482,
+                        "object_definition_value": "Trojan War, generation of",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23097962": {
+                        "object_sub": {
+                            "object_sub_id": 23097962,
+                            "object_sub_details_id": 14207,
+                            "object_sub_date_start": "-1300",
+                            "object_sub_date_end": "-1000",
+                            "object_sub_date_chronology": {
+                                "type": "period",
+                                "span": {
+                                    "period_amount": 0,
+                                    "period_unit": null,
+                                    "cycle_object_id": 0
+                                },
+                                "start": {
+                                    "start": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                },
+                                "end": {
+                                    "end": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                }
+                            },
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 0,
+                            "object_sub_location_ref_object_sub_details_id": 0,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": null,
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "15998095": {
+                "object": {
+                    "nodegoat_id": "ngDK9x58pFUV9EqtqEc38saSeFR",
+                    "object_id": 15998095,
+                    "object_name": "Patroclos, beloved by Achilles, follows him to the Trojan war",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-08T15:54:46Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Patroclos, beloved by Achilles, follows him to the Trojan war",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15367858,
+                            15368066
+                        ],
+                        "object_definition_value": [
+                            "Patroclos and the cities of Opous and Phthia",
+                            "Lokrians in the Trojan War"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12408013
+                        ],
+                        "object_definition_value": [
+                            "Atalanti - Opous"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12427796
+                        ],
+                        "object_definition_value": [
+                            "Troy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "44816": {
+                        "object_description_id": 44816,
+                        "object_definition_ref_object_id": 14341732,
+                        "object_definition_value": "Phthia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            14235455
+                        ],
+                        "object_definition_value": [
+                            "War - attacking / raiding"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14341735,
+                            14810701
+                        ],
+                        "object_definition_value": [
+                            "Achilles",
+                            "Patroclos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "After seeking refugee at the house of Peleus in Phthia, Patroclos becomes Achilles companion and together they leave to join the Trojan War",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14786925
+                        ],
+                        "object_definition_value": [
+                            "Pseudo-Apollodoros Apollod. 3.13.8"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            15367874,
+                            15998093
+                        ],
+                        "object_definition_value": [
+                            "Achilles' promise to Menoitios before going to Troy",
+                            "Patroclos flees to Phthia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35555": {
+                        "object_description_id": 35555,
+                        "object_definition_ref_object_id": 12058482,
+                        "object_definition_value": "Trojan War, generation of",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23097964": {
+                        "object_sub": {
+                            "object_sub_id": 23097964,
+                            "object_sub_details_id": 14207,
+                            "object_sub_date_start": "-1300",
+                            "object_sub_date_end": "-1000",
+                            "object_sub_date_chronology": {
+                                "type": "period",
+                                "span": {
+                                    "period_amount": 0,
+                                    "period_unit": null,
+                                    "cycle_object_id": 0
+                                },
+                                "start": {
+                                    "start": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                },
+                                "end": {
+                                    "end": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                }
+                            },
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 0,
+                            "object_sub_location_ref_object_sub_details_id": 0,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": null,
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "15998099": {
+                "object": {
+                    "nodegoat_id": "ngHO9b98tIYZrIuZuIg7tweIiIb",
+                    "object_id": 15998099,
+                    "object_name": "Patroclos' no return from the Trojan War and Achilles grief",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-08T14:48:52Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Patroclos' no return from the Trojan War and Achilles grief",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15368066,
+                            15367858
+                        ],
+                        "object_definition_value": [
+                            "Lokrians in the Trojan War",
+                            "Patroclos and the cities of Opous and Phthia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            14341732
+                        ],
+                        "object_definition_value": [
+                            "Phthia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12427796
+                        ],
+                        "object_definition_value": [
+                            "Troy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            14235455
+                        ],
+                        "object_definition_value": [
+                            "War - attacking / raiding"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14341735,
+                            14810701
+                        ],
+                        "object_definition_value": [
+                            "Achilles",
+                            "Patroclos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14786932
+                        ],
+                        "object_definition_value": [
+                            "Aischines Aeschin. 1 143-149"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            15367874
+                        ],
+                        "object_definition_value": [
+                            "Achilles' promise to Menoitios before going to Troy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35555": {
+                        "object_description_id": 35555,
+                        "object_definition_ref_object_id": 12058482,
+                        "object_definition_value": "Trojan War, generation of",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23097970": {
+                        "object_sub": {
+                            "object_sub_id": 23097970,
+                            "object_sub_details_id": 14207,
+                            "object_sub_date_start": "-1300",
+                            "object_sub_date_end": "-1000",
+                            "object_sub_date_chronology": {
+                                "type": "period",
+                                "span": {
+                                    "period_amount": 0,
+                                    "period_unit": null,
+                                    "cycle_object_id": 0
+                                },
+                                "start": {
+                                    "start": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                },
+                                "end": {
+                                    "end": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                }
+                            },
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 0,
+                            "object_sub_location_ref_object_sub_details_id": 0,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": null,
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "15998103": {
+                "object": {
+                    "nodegoat_id": "ngPW0H38bQGHbQcncQY13emQqPj",
+                    "object_id": 15998103,
+                    "object_name": "Patroclos flees to Phthia but Menoitios continued to live in Opous",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-08T14:59:32Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Patroclos flees to Phthia but Menoitios continued to live in Opous",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15367858
+                        ],
+                        "object_definition_value": [
+                            "Patroclos and the cities of Opous and Phthia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            14341732
+                        ],
+                        "object_definition_value": [
+                            "Phthia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12408013
+                        ],
+                        "object_definition_value": [
+                            "Atalanti - Opous"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945215
+                        ],
+                        "object_definition_value": [
+                            "Exile / expulsion from home (individual)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14810701
+                        ],
+                        "object_definition_value": [
+                            "Patroclos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14783492
+                        ],
+                        "object_definition_value": [
+                            "Strabo 9.4.2"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            15998093,
+                            15367874
+                        ],
+                        "object_definition_value": [
+                            "Patroclos flees to Phthia",
+                            "Achilles' promise to Menoitios before going to Troy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35555": {
+                        "object_description_id": 35555,
+                        "object_definition_ref_object_id": 12058482,
+                        "object_definition_value": "Trojan War, generation of",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23097974": {
+                        "object_sub": {
+                            "object_sub_id": 23097974,
+                            "object_sub_details_id": 14207,
+                            "object_sub_date_start": "-1300",
+                            "object_sub_date_end": "-1000",
+                            "object_sub_date_chronology": {
+                                "type": "period",
+                                "span": {
+                                    "period_amount": 0,
+                                    "period_unit": null,
+                                    "cycle_object_id": 0
+                                },
+                                "start": {
+                                    "start": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                },
+                                "end": {
+                                    "end": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                }
+                            },
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 0,
+                            "object_sub_location_ref_object_sub_details_id": 0,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": null,
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "15998109": {
+                "object": {
+                    "nodegoat_id": "ngVC0p98hViNfWiNiWE7fksAwGJ",
+                    "object_id": 15998109,
+                    "object_name": "Aias from Naryx was king of the Opountians, and not Menoitios",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-08T16:07:03Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Aias from Naryx was king of the Opountians, and not Menoitios",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12433359,
+                            14838161
+                        ],
+                        "object_definition_value": [
+                            "Reggini - Palaiokastra - Naryx",
+                            "East Lokris"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12433359,
+                            14838161
+                        ],
+                        "object_definition_value": [
+                            "Reggini - Palaiokastra - Naryx",
+                            "East Lokris"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235457
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14342174
+                        ],
+                        "object_definition_value": [
+                            "Aias the lesser"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Strabo clarifies that Aias and not Menoitios was king of the Opountians (Opountians in this context probably refers to all of the East Lokrians and not just the inhabitants of Opous).\r\nUnlike in the early Homeric sources where no information is given about Aias's hometown, it is here claimed that he was from Naryx.",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14783492
+                        ],
+                        "object_definition_value": [
+                            "Strabo 9.4.2"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            14810703
+                        ],
+                        "object_definition_value": [
+                            "Naryx as the birthplace of Aias the lesser"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35555": {
+                        "object_description_id": 35555,
+                        "object_definition_ref_object_id": 12058482,
+                        "object_definition_value": "Trojan War, generation of",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23097980": {
+                        "object_sub": {
+                            "object_sub_id": 23097980,
+                            "object_sub_details_id": 14207,
+                            "object_sub_date_start": "-1300",
+                            "object_sub_date_end": "-1000",
+                            "object_sub_date_chronology": {
+                                "type": "period",
+                                "span": {
+                                    "period_amount": 0,
+                                    "period_unit": null,
+                                    "cycle_object_id": 0
+                                },
+                                "start": {
+                                    "start": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                },
+                                "end": {
+                                    "end": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                }
+                            },
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 0,
+                            "object_sub_location_ref_object_sub_details_id": 0,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": null,
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "15998696": {
+                "object": {
+                    "nodegoat_id": "ngEL9y68qFrWqFrurFd40tbTfGS",
+                    "object_id": 15998696,
+                    "object_name": "Lokrians allies in battle with Amphitryon who went to avenge the death of his wife's brothers",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-08T17:33:58Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Lokrians allies in battle with Amphitryon who went to avenge the death of his wife's brothers",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15998162
+                        ],
+                        "object_definition_value": [
+                            "Mythical affiliations between Lokrians and Others"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            14838161,
+                            12486316
+                        ],
+                        "object_definition_value": [
+                            "East Lokris",
+                            "West Lokris - Lokris Ozolia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            15998693
+                        ],
+                        "object_definition_value": [
+                            "Taphos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235887
+                        ],
+                        "object_definition_value": [
+                            "aims to explain an ancient relationship between communities NOT based on kinship"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            14235455
+                        ],
+                        "object_definition_value": [
+                            "War - attacking / raiding"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            15036605
+                        ],
+                        "object_definition_value": [
+                            "Armies"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14810710,
+                            15998704,
+                            15998705
+                        ],
+                        "object_definition_value": [
+                            "Lokrians",
+                            "Boeotians",
+                            "Phokians"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "The poem starts with Amphitryon's task to avenge the death of Alcmene's brothers, who had fallen fighting the Taphians. Boeotians, Lokrians, and Phokinas come to the aid of Amphitryon and remain his allies throughout the poem. Having won and returned to Thebes, Alcmene gave birth to their sons Heracles and Iphicles. \r\nIt is not clear whether it was Western or Eastern Lokrians that followed Amphitryon to war.",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14790722
+                        ],
+                        "object_definition_value": [
+                            "Pseudo-Hesiod Hes. Sh. 1 1-30"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
             }
         }
     }
