@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-02-08T23:00:04+00:00",
+    "timestamp": "2024-02-09T23:00:05+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -60,7 +60,6 @@
                     "35547": {
                         "object_description_id": 35547,
                         "object_definition_ref_object_id": [
-                            11945547,
                             12150543,
                             12150532,
                             12042264,
@@ -75,7 +74,6 @@
                             12042240
                         ],
                         "object_definition_value": [
-                            "Ionia",
                             "Miletos",
                             "Ephesos",
                             "Smyrna",
@@ -477,7 +475,7 @@
                             "object_sub_location_ref_object_id": 11945547,
                             "object_sub_location_ref_type_id": 12160,
                             "object_sub_location_ref_object_sub_details_id": 13068,
-                            "object_sub_location_ref_object_name": "Ionia",
+                            "object_sub_location_ref_object_name": "",
                             "object_sub_location_type": "reference",
                             "object_sub_sources": [],
                             "object_sub_version": "",
@@ -28761,6 +28759,466 @@
                         "object_description_id": 49101,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "15999783": {
+                "object": {
+                    "nodegoat_id": "ngRY8D38dSeJ7SeZeSq1bgoGsTF",
+                    "object_id": 15999783,
+                    "object_name": "Dorieus founds Herakleia (Sicily)",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-09T08:30:28Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Dorieus founds Herakleia (Sicily)",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12433418
+                        ],
+                        "object_definition_value": [
+                            "Sparta"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            15994698
+                        ],
+                        "object_definition_value": [
+                            "Herakleia (Sicily)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "44816": {
+                        "object_description_id": 44816,
+                        "object_definition_ref_object_id": 12429214,
+                        "object_definition_value": "Delphi",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235457,
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the geneaological origins of people or a putative kinship relationship",
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945232,
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Large groups",
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            15986178,
+                            15999788,
+                            15999789,
+                            15999790,
+                            15999791
+                        ],
+                        "object_definition_value": [
+                            "Dorieus",
+                            "Thessalos",
+                            "Paraibates",
+                            "Keleas",
+                            "Euryleon"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            15999784,
+                            15999787,
+                            15999794
+                        ],
+                        "object_definition_value": [
+                            "Herodotos 5.43",
+                            "Herodotos 5.46.1",
+                            "Diodorus Siculus 4.23.3"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            15999792
+                        ],
+                        "object_definition_value": [
+                            "Euryleon takes the survivors to Herakleia Minoa (Sicily)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "15999792": {
+                "object": {
+                    "nodegoat_id": "ngAH9y28mAxSlBnAnBT07pxrbAu",
+                    "object_id": 15999792,
+                    "object_name": "Euryleon takes the survivors to Herakleia Minoa (Sicily)",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-09T08:09:44Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Euryleon takes the survivors to Herakleia Minoa (Sicily)",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            15994698
+                        ],
+                        "object_definition_value": [
+                            "Herakleia (Sicily)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            15994697
+                        ],
+                        "object_definition_value": [
+                            "Herakleia Minoa (Sicily)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14256256
+                        ],
+                        "object_definition_value": [
+                            "Other"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945216,
+                            11945215
+                        ],
+                        "object_definition_value": [
+                            "War - forced displacement / dispersal (group)",
+                            "Exile / expulsion from home (individual)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            15036605,
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Armies",
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            15999791
+                        ],
+                        "object_definition_value": [
+                            "Euryleon"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            15998016,
+                            15999787
+                        ],
+                        "object_definition_value": [
+                            "Herodotos 5.46.2",
+                            "Herodotos 5.46.1"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "15999847": {
+                "object": {
+                    "nodegoat_id": "ngHO4H78tIOZ9IuxuHA51weyiIb",
+                    "object_id": 15999847,
+                    "object_name": "Foundation of Himera",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-09T09:39:34Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Foundation of Himera",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12427789,
+                            12150554,
+                            15994704
+                        ],
+                        "object_definition_value": [
+                            "Zankle",
+                            "Syrakus",
+                            "Mylai"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12695013
+                        ],
+                        "object_definition_value": [
+                            "Himera"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456,
+                            14235458,
+                            14235457
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place",
+                            "aims to explain the origins of social practices/institutions (e.g. cult practices)",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            15999795,
+                            15999796,
+                            15999797
+                        ],
+                        "object_definition_value": [
+                            "Eukleides",
+                            "Simos",
+                            "Sakon"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            15999805,
+                            15999808
+                        ],
+                        "object_definition_value": [
+                            "Thucydides 6.5.1",
+                            "Strabo 6.2.6"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [
+                            15999798
+                        ],
+                        "object_definition_value": [
+                            "Himeran Foundation"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
