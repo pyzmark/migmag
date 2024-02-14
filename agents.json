@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-02-13T23:00:02+00:00",
+    "timestamp": "2024-02-14T23:00:03+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -27844,7 +27844,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-13T14:30:34Z"
+                    "object_dating": "2024-02-14T12:11:38Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -27868,17 +27868,26 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "35539": {
+                        "object_description_id": 35539,
+                        "object_definition_ref_object_id": 12427788,
+                        "object_definition_value": "Chalkis",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "35540": {
                         "object_description_id": 35540,
                         "object_definition_ref_object_id": [
                             12150554,
                             12694989,
-                            12427791
+                            12427791,
+                            11943325
                         ],
                         "object_definition_value": [
                             "Syrakus",
                             "Leontinoi",
-                            "Naxos"
+                            "Naxos",
+                            "Athina"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -27892,9 +27901,9 @@
                             "object_sub_date_start": 0,
                             "object_sub_date_end": 0,
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": null,
-                            "object_sub_location_geometry_ref_object_id": null,
-                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [23.60336759829369, 38.46380316956897]}",
+                            "object_sub_location_geometry_ref_object_id": 12427788,
+                            "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 12160,
                             "object_sub_location_ref_object_sub_details_id": 13068,
@@ -28305,13 +28314,20 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-13T15:41:36Z"
+                    "object_dating": "2024-02-14T12:12:17Z"
                 },
                 "object_definitions": {
                     "35523": {
                         "object_description_id": 35523,
                         "object_definition_ref_object_id": null,
                         "object_definition_value": "Thestor",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35520": {
+                        "object_description_id": 35520,
+                        "object_definition_ref_object_id": 11945255,
+                        "object_definition_value": "Traveller: mythical",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -28422,6 +28438,89 @@
                             "object_sub_location_geometry": null,
                             "object_sub_location_geometry_ref_object_id": null,
                             "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 12160,
+                            "object_sub_location_ref_object_sub_details_id": 13068,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": "reference",
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "16013918": {
+                "object": {
+                    "nodegoat_id": "ngEL1E88qELW9FrE8Fd6rtbNfFy",
+                    "object_id": 16013918,
+                    "object_name": "Lamis",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-14T11:17:51Z"
+                },
+                "object_definitions": {
+                    "35523": {
+                        "object_description_id": 35523,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Lamis",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35520": {
+                        "object_description_id": 35520,
+                        "object_definition_ref_object_id": 11945255,
+                        "object_definition_value": "Traveller: mythical",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35556": {
+                        "object_description_id": 35556,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35539": {
+                        "object_description_id": 35539,
+                        "object_definition_ref_object_id": 12486391,
+                        "object_definition_value": "Megara",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35540": {
+                        "object_description_id": 35540,
+                        "object_definition_ref_object_id": [
+                            12694988,
+                            12694989,
+                            16013917,
+                            16013916
+                        ],
+                        "object_definition_value": [
+                            "Megara Hyblaia",
+                            "Leontinoi",
+                            "Thapsos",
+                            "Trotilon"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23105169": {
+                        "object_sub": {
+                            "object_sub_id": 23105169,
+                            "object_sub_details_id": 13427,
+                            "object_sub_date_start": 0,
+                            "object_sub_date_end": 0,
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [23.340163, 37.985078]}",
+                            "object_sub_location_geometry_ref_object_id": 12486391,
+                            "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 12160,
                             "object_sub_location_ref_object_sub_details_id": 13068,
