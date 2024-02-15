@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-02-14T23:00:04+00:00",
+    "timestamp": "2024-02-15T23:00:05+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -1456,7 +1456,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-03-21T14:46:38Z"
+                    "object_dating": "2024-02-15T10:56:26Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -1568,7 +1568,8 @@
                             12411822,
                             13961153,
                             12604625,
-                            13961152
+                            13961152,
+                            13961155
                         ],
                         "object_definition_value": [
                             "Diodorus Siculus 4.24.5-7",
@@ -1581,7 +1582,8 @@
                             "Diodorus Siculus 8.17.1-2",
                             "Hippys FGrHist 554, f1",
                             "Strabo 6.1.12",
-                            "Zenobios 3.42"
+                            "Zenobios 3.42",
+                            "Pseudo-Skymnos 323-25"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -4820,7 +4822,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-03-21T14:50:35Z"
+                    "object_dating": "2024-02-15T10:53:02Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -4927,13 +4929,15 @@
                             12411819,
                             14000914,
                             14000906,
-                            12411836
+                            12411836,
+                            14000905
                         ],
                         "object_definition_value": [
                             "Solinos 2.10-11",
                             "Pseudo-Skymnos 300-340",
                             "Antoninus Liberalis Metamorphoses 8",
-                            "Aristotle Pol. 5.1303a"
+                            "Aristotle Pol. 5.1303a",
+                            "Pseudo-Skymnos 337-342"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5116,7 +5120,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-03-21T14:05:01Z"
+                    "object_dating": "2024-02-15T10:58:11Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -5219,13 +5223,15 @@
                             12411819,
                             13961110,
                             14000914,
-                            14389030
+                            14389030,
+                            13961111
                         ],
                         "object_definition_value": [
                             "Solinos 2.10-11",
                             "Pausanias 6.3.12",
                             "Pseudo-Skymnos 300-340",
-                            "Horace Od. 2.6"
+                            "Horace Od. 2.6",
+                            "Pseudo-Skymnos 318-22"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6499,7 +6505,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-03-21T15:09:02Z"
+                    "object_dating": "2024-02-15T10:23:29Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -6518,8 +6524,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -6629,8 +6639,12 @@
                     },
                     "47960": {
                         "object_description_id": 47960,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16016464
+                        ],
+                        "object_definition_value": [
+                            "Zankle is a foundation of Naxos"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -7542,12 +7556,12 @@
                         ],
                         "object_definition_value": [
                             "Thucydides 6.44.3",
-                            "Pseudo-Skymnos 311-12",
+                            "Pseudo-Skymnos 309-312",
                             "Diodorus Siculus 14.40.1",
                             "Strabo 6.1.6",
                             "Dionysios of Halikarnassos Ant. Rom. 19.2",
                             "Pseudo-Skymnos 300-340",
-                            "Heraklides Lembus 55"
+                            "Heraklides Lembus 23"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -10004,7 +10018,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-14T11:49:17Z"
+                    "object_dating": "2024-02-15T10:08:46Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -10084,10 +10098,12 @@
                     "35542": {
                         "object_description_id": 35542,
                         "object_definition_ref_object_id": [
-                            13664672
+                            13664672,
+                            11945232
                         ],
                         "object_definition_value": [
-                            "Lone individuals"
+                            "Lone individuals",
+                            "Large groups"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -10108,12 +10124,14 @@
                         "object_definition_ref_object_id": [
                             12629686,
                             12498913,
-                            16013934
+                            16013934,
+                            16016459
                         ],
                         "object_definition_value": [
                             "Strabo 6.2.4",
                             "Suda mu. 1473",
-                            "Pseudo-Skymnos 264-277"
+                            "Pseudo-Skymnos 264-277",
+                            "Thucydides 6.3.2"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -22326,7 +22344,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-01-27T22:00:17Z"
+                    "object_dating": "2024-02-15T10:49:41Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -22389,15 +22407,23 @@
                     },
                     "35518": {
                         "object_description_id": 35518,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35542": {
                         "object_description_id": 35542,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945235
+                        ],
+                        "object_definition_value": [
+                            "Whole communities (named)"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -22412,13 +22438,13 @@
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
                             15813827,
-                            15813834,
-                            15813838
+                            15813838,
+                            15986989
                         ],
                         "object_definition_value": [
                             "Strabo 4.1.5-6",
-                            "Pseudo-Skymnos 202-8",
-                            "Pliny the Elder HN 3.5.1"
+                            "Pliny the Elder HN 3.5.1",
+                            "Pseudo-Skymnos 201-6"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -22546,7 +22572,7 @@
                             15813827
                         ],
                         "object_definition_value": [
-                            "Pseudo-Skymnos 216",
+                            "Pseudo-Skymnos 215-16",
                             "Strabo 4.1.5-6"
                         ],
                         "object_definition_sources": [],
@@ -23652,7 +23678,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-01-28T11:56:19Z"
+                    "object_dating": "2024-02-15T10:39:28Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -23749,22 +23775,22 @@
                     "35524": {
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
-                            15986955,
                             15986957,
                             15986958,
                             15986959,
                             15986960,
                             15986961,
-                            15986963
+                            15986963,
+                            15986989
                         ],
                         "object_definition_value": [
-                            "Pseudo-Skymnos 203-4",
                             "Pseudo-Skylax 2",
                             "Strabo 3.4.8",
                             "Livy 26.19",
                             "Pliny the Elder 3.22",
                             "Stephanos of Byzantion s. v. Emporion",
-                            "Silius Italicus 3.357"
+                            "Silius Italicus 3.357",
+                            "Pseudo-Skymnos 201-6"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -23920,13 +23946,13 @@
                         ],
                         "object_definition_value": [
                             "Timaeos of Tauromenion FGrHist 566 f 71",
-                            "Pseudo-Skymnos 209",
+                            "Pseudo-Skymnos 209-214",
                             "Timaeos of Tauromenion FGrHist 566 f72",
                             "Stephanos of Byzantion s. v. Massalia",
                             "Strabo 6.1.1.",
                             "Isocrates Archidamos 84",
                             "Hekataios FGrHist 1 f55",
-                            "Thucydides 1.13",
+                            "Thucydides 1.13.6",
                             "Athenaios Deipnosophistes 13.36",
                             "Aristotle Fr. 560",
                             "Justin Epitome 43.3.8-11",
@@ -24067,14 +24093,12 @@
                         "object_definition_ref_object_id": [
                             15986988,
                             15986989,
-                            15986958,
-                            15986955
+                            15986958
                         ],
                         "object_definition_value": [
                             "Strabo 14.2.10",
-                            "Pseudo-Skymnos 205-6",
-                            "Strabo 3.4.8",
-                            "Pseudo-Skymnos 203-4"
+                            "Pseudo-Skymnos 201-6",
+                            "Strabo 3.4.8"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -24340,7 +24364,7 @@
                             15986995
                         ],
                         "object_definition_value": [
-                            "Pseudo-Skymnos 216",
+                            "Pseudo-Skymnos 215-16",
                             "Strabo 4.1.5-6",
                             "Stephanos of Byzantion s. v. Olbia"
                         ],
@@ -24381,7 +24405,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-01-28T15:22:01Z"
+                    "object_dating": "2024-02-15T22:11:39Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -24404,43 +24428,69 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945199
+                        ],
+                        "object_definition_value": [
+                            "None"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35546": {
                         "object_description_id": 35546,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            13576002
+                        ],
+                        "object_definition_value": [
+                            "Massalia"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35547": {
                         "object_description_id": 35547,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            15986158
+                        ],
+                        "object_definition_value": [
+                            "Rhodanousia"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "47038": {
                         "object_description_id": 47038,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            14235456,
+                            14235457
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35518": {
                         "object_description_id": 35518,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35542": {
                         "object_description_id": 35542,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945235
+                        ],
+                        "object_definition_value": [
+                            "Whole communities (named)"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -24460,7 +24510,7 @@
                         ],
                         "object_definition_value": [
                             "Stephanos of Byzantion s. v. Rhodanousia",
-                            "Pseudo-Skymnos 208",
+                            "Pseudo-Skymnos 206-10",
                             "Stephanos of Byzantion s. v. Rhadanusia"
                         ],
                         "object_definition_sources": [],
@@ -30488,13 +30538,11 @@
                         "object_definition_ref_object_id": [
                             16013763,
                             16013771,
-                            16013770,
                             16013774
                         ],
                         "object_definition_value": [
                             "Thucydides 3.88.2",
                             "Antiochus of Syrakuse FGrHist 555 f1",
-                            "Pausanias 10.11.3-4",
                             "Strabo 6.2.10"
                         ],
                         "object_definition_sources": [],
@@ -31428,6 +31476,290 @@
                         ],
                         "object_definition_value": [
                             "Thoukles founds Naxos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16016453": {
+                "object": {
+                    "nodegoat_id": "ngNU5Z38zNaFzOaFaNW1xckAoPB",
+                    "object_id": 16016453,
+                    "object_name": "Pamillos founds Selinous",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-15T10:01:49Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Pamillos founds Selinous",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12486391,
+                            12694988
+                        ],
+                        "object_definition_value": [
+                            "Megara",
+                            "Megara Hyblaia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12695015
+                        ],
+                        "object_definition_value": [
+                            "Selinous"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456,
+                            14235457
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231,
+                            11945232
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)",
+                            "Large groups"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            16016452
+                        ],
+                        "object_definition_value": [
+                            "Pamillos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            16016454
+                        ],
+                        "object_definition_value": [
+                            "Thucydides 6.4.2"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16016464": {
+                "object": {
+                    "nodegoat_id": "ngYF6G48kYlQlZlClAR26nvVzZM",
+                    "object_id": 16016464,
+                    "object_name": "Zankle is a foundation of Naxos",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-15T10:23:26Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Zankle is a foundation of Naxos",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12694987
+                        ],
+                        "object_definition_value": [
+                            "Naxos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12427789
+                        ],
+                        "object_definition_value": [
+                            "Zankle"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945235
+                        ],
+                        "object_definition_value": [
+                            "Whole communities (named)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            16016463
+                        ],
+                        "object_definition_value": [
+                            "Pseudo-Skymnos 283-6"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            13961182
+                        ],
+                        "object_definition_value": [
+                            "Foundation of Zankle"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
