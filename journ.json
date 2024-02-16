@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-02-15T23:00:05+00:00",
+    "timestamp": "2024-02-16T23:00:05+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -1456,7 +1456,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-15T10:56:26Z"
+                    "object_dating": "2024-02-16T18:54:59Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -1475,8 +1475,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -1499,6 +1503,13 @@
                         "object_definition_value": [
                             "Kroton"
                         ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "44816": {
+                        "object_description_id": 44816,
+                        "object_definition_ref_object_id": 12429214,
+                        "object_definition_value": "Delphi",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
