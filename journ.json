@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-02-18T23:00:04+00:00",
+    "timestamp": "2024-02-19T23:00:04+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -490,7 +490,7 @@
                             "object_sub_date_start": "-1200",
                             "object_sub_date_end": "-800",
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": "{\"type\": \"GeometryCollection\", \"geometries\": [{\"type\": \"Polygon\", \"coordinates\": [[[26.049270629882812, 38.5937971957727], [26.032791137695305, 38.59326051987162], [26.0101318359375, 38.60292007223949], [25.9991455078125, 38.60560305052739], [25.990219116210934, 38.599163734120175], [25.96275329589843, 38.59701716692643], [25.934600830078125, 38.591113776147445], [25.902328491210938, 38.59004038021371], [25.870056152343754, 38.58843025622397], [25.8453369140625, 38.57662157707258], [25.839157104492188, 38.55997877925585], [25.830230712890618, 38.55460931253295], [25.83091735839844, 38.541720956040386], [25.838470458984375, 38.53420168131867], [25.8453369140625, 38.52668162061619], [25.846710205078125, 38.50895265368144], [25.858383178710934, 38.495518711354016], [25.879669189453125, 38.4783196091326], [25.90164184570312, 38.47348162207644], [25.91949462890625, 38.46703046764414], [25.94078063964844, 38.45735265386234], [25.951080322265618, 38.44229569599777], [25.95245361328125, 38.42831142210914], [25.949707031250004, 38.41809043216555], [25.980606079101555, 38.387418785083405], [25.99296569824219, 38.36534867623901], [25.994338989257812, 38.344887442462806], [25.977859497070312, 38.33734763569314], [25.970993041992188, 38.324420427006544], [25.96549987792969, 38.31741722616916], [25.962066650390625, 38.30394763084892], [25.94764709472656, 38.298559092254344], [25.920181274414066, 38.30394763084892], [25.898895263671875, 38.29101446582335], [25.884475708007812, 38.279157039458326], [25.866622924804688, 38.26621945628273], [25.86318969726562, 38.250583468289534], [25.867309570312496, 38.240337375904566], [25.87486267089843, 38.24573023613531], [25.88172912597656, 38.24087667992996], [25.8892822265625, 38.23332605954002], [25.891342163085938, 38.21714351862661], [25.91331481933594, 38.20581359813473], [25.93048095703125, 38.194481913956864], [25.951080322265618, 38.18692647809604], [25.96755981445312, 38.17235306715556], [25.98335266113281, 38.161016176890456], [26.001892089843746, 38.156156969924915], [26.01150512695312, 38.15129743915324], [26.021804809570312, 38.161556068786886], [26.026611328124996, 38.17613163876633], [26.030731201171875, 38.187466178077905], [26.043090820312504, 38.20365531807149], [26.066436767578125, 38.205274034117814], [26.0870361328125, 38.20635315815237], [26.096649169921875, 38.20689271417069], [26.10694885253906, 38.21714351862661], [26.11312866210937, 38.23494411562881], [26.103515625, 38.250583468289534], [26.10420227050781, 38.263523836350664], [26.106262207031246, 38.27700093565902], [26.128921508789062, 38.28939765810317], [26.14471435546875, 38.29909796412488], [26.155014038085938, 38.30286995515005], [26.159133911132816, 38.30825817353996], [26.158447265625, 38.314723507247336], [26.157073974609375, 38.32011084501538], [26.162567138671875, 38.32819110107818], [26.14608764648437, 38.34165619279595], [26.14471435546875, 38.36911722018497], [26.137847900390625, 38.39280071714613], [26.13922119140625, 38.42669767774884], [26.14608764648437, 38.44713577508245], [26.155014038085938, 38.46864331036051], [26.135787963867188, 38.48154475346391], [26.136474609375004, 38.48745714328253], [26.14608764648437, 38.49498130154396], [26.14952087402344, 38.50357937743225], [26.151580810546875, 38.52077245013413], [26.159820556640625, 38.531516035578434], [26.159820556640625, 38.55246141354153], [26.14540100097656, 38.559441850632474], [26.12960815429688, 38.566958486358565], [26.12686157226562, 38.55890491799819], [26.114501953125, 38.55407234380121], [26.101455688476562, 38.558367981352994], [26.08978271484375, 38.558367981352994], [26.078109741210938, 38.57393751557591], [26.06849670410156, 38.58467315983427], [26.06300354003906, 38.59487053553886], [26.049270629882812, 38.5937971957727]]]}]}",
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [26.134788512222094, 38.37126281708609]}",
                             "object_sub_location_geometry_ref_object_id": 12042214,
                             "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 12042214,
@@ -658,9 +658,9 @@
                             "object_sub_date_start": "-1200",
                             "object_sub_date_end": "-800",
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": "{\"type\": \"GeometryCollection\", \"geometries\": [{\"type\": \"Polygon\", \"coordinates\": [[[27.06207275390625, 37.73162487017297], [27.04559326171875, 37.73216792641496], [27.037353515624996, 37.73488314788311], [27.03872680664062, 37.741942257699876], [27.027740478515625, 37.75388691002291], [27.02842712402344, 37.76582963431182], [27.04833984375, 37.769629187677], [27.061386108398445, 37.77505678240509], [27.066879272460934, 37.77885586164994], [27.02156066894531, 37.77668498313053], [27.00439453125, 37.78211205989562], [26.993408203125, 37.78645343442073], [26.987915039062496, 37.79025192793328], [26.99409484863281, 37.79784832917947], [26.982421875, 37.79676317682161], [26.9769287109375, 37.791337175930686], [26.977615356445312, 37.784282779035216], [26.970748901367188, 37.78265474565738], [26.963882446289062, 37.78753873820529], [26.95083618164062, 37.78753873820529], [26.954269409179688, 37.779398571318765], [26.96456909179687, 37.76311554810293], [26.971435546874996, 37.75225820732335], [26.961135864257812, 37.75171529845649], [26.941223144531243, 37.76202988573211], [26.92405700683594, 37.77505678240509], [26.895904541015625, 37.77559951996455], [26.86981201171875, 37.78753873820529], [26.855392456054684, 37.801103690609615], [26.829986572265625, 37.808698976006795], [26.79771423339844, 37.808698976006795], [26.76544189453125, 37.81303878836988], [26.742095947265625, 37.815208598896255], [26.71051025390625, 37.8065289741725], [26.689910888671875, 37.79947602782782], [26.672058105468746, 37.79730575499309], [26.65763854980469, 37.79025192793328], [26.64459228515625, 37.779398571318765], [26.638412475585938, 37.77125750792944], [26.612319946289062, 37.77071473849609], [26.597900390624996, 37.76582963431182], [26.58004760742188, 37.75008654795525], [26.565628051757812, 37.73651223296987], [26.56288146972656, 37.73271097867418], [26.571807861328125, 37.72184917678752], [26.57661437988281, 37.71207219310847], [26.58485412597656, 37.705010235842614], [26.577301025390625, 37.694687703235914], [26.580734252929684, 37.686537320123406], [26.588287353515618, 37.67675567800463], [26.605453491210938, 37.68110323373893], [26.615753173828125, 37.68382032669382], [26.62330627441406, 37.68273350145476], [26.629486083984375, 37.69305769827658], [26.64390563964844, 37.70066408151451], [26.66175842285156, 37.703923721150865], [26.68304443359375, 37.70609673460725], [26.711196899414055, 37.70609673460725], [26.72767639160156, 37.70446698048763], [26.742095947265625, 37.69849090879089], [26.758575439453125, 37.68708070686609], [26.766128540039062, 37.680559803205114], [26.770248413085938, 37.66914684243945], [26.784667968749996, 37.65066499381818], [26.793594360351562, 37.642509774448754], [26.801834106445312, 37.64087862312599], [26.81556701660156, 37.63652871117099], [26.83273315429688, 37.63652871117099], [26.854019165039062, 37.63489742852906], [26.873245239257812, 37.63652871117099], [26.880798339843743, 37.64794668685352], [26.882171630859375, 37.659906493259385], [26.88697814941406, 37.66914684243945], [26.913757324218743, 37.68001636869042], [26.931610107421875, 37.686537320123406], [26.948776245117184, 37.68979758086211], [26.96662902832031, 37.694144372230845], [26.97349548339844, 37.69957750311584], [26.98448181152344, 37.70229391925025], [27.000274658203125, 37.705010235842614], [27.009201049804688, 37.703923721150865], [27.01812744140625, 37.703380457832374], [27.022933959960938, 37.70555348721583], [27.03529357910156, 37.70555348721583], [27.051086425781246, 37.7071832174446], [27.064819335937496, 37.709899354855125], [27.06756591796875, 37.72021976910832], [27.06825256347656, 37.72782336496339], [27.06207275390625, 37.73162487017297]]]}]}",
-                            "object_sub_location_geometry_ref_object_id": 12042371,
-                            "object_sub_location_geometry_ref_type_id": 12160,
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": 0,
+                            "object_sub_location_geometry_ref_type_id": 0,
                             "object_sub_location_ref_object_id": 12042371,
                             "object_sub_location_ref_type_id": 12160,
                             "object_sub_location_ref_object_sub_details_id": 13068,
@@ -16603,7 +16603,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-10-26T06:29:59Z"
+                    "object_dating": "2024-02-19T13:11:57Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -16656,10 +16656,10 @@
                     "47038": {
                         "object_description_id": 47038,
                         "object_definition_ref_object_id": [
-                            14256256
+                            14235457
                         ],
                         "object_definition_value": [
-                            "Other"
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -22809,19 +22809,19 @@
                 "object": {
                     "nodegoat_id": "ngJQ7z58vKAB5KwRwKC36ygGkJX",
                     "object_id": 15986175,
-                    "object_name": "Foundation of Euesperides",
+                    "object_name": "Foundation of Euhesperides",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-01-26T21:06:12Z"
+                    "object_dating": "2024-02-19T16:15:09Z"
                 },
                 "object_definitions": {
                     "35544": {
                         "object_description_id": 35544,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Foundation of Euesperides",
+                        "object_definition_value": "Foundation of Euhesperides",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -22838,22 +22838,41 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945199
+                        ],
+                        "object_definition_value": [
+                            "None"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35546": {
                         "object_description_id": 35546,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            12336532
+                        ],
+                        "object_definition_value": [
+                            "Kyrene"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35547": {
                         "object_description_id": 35547,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            15986168
+                        ],
+                        "object_definition_value": [
+                            "Euhesperides"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "44816": {
+                        "object_description_id": 44816,
+                        "object_definition_ref_object_id": 12429214,
+                        "object_definition_value": "Delphi",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -22866,22 +22885,40 @@
                     },
                     "35518": {
                         "object_description_id": 35518,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35542": {
                         "object_description_id": 35542,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945231,
+                            14321443
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)",
+                            "Band of companions of a hero"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16020264,
+                            16020536,
+                            16020539
+                        ],
+                        "object_definition_value": [
+                            "Archesilaos",
+                            "Euphemos",
+                            "Karrhotos"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -22926,26 +22963,30 @@
                 "object": {
                     "nodegoat_id": "ngNU7d98zNEF9OaFaOG70ckWoNh",
                     "object_id": 15986179,
-                    "object_name": "Foundation of Kinyps",
+                    "object_name": "1: Dorieus founds Kinyps",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-01-26T21:16:59Z"
+                    "object_dating": "2024-02-19T21:55:15Z"
                 },
                 "object_definitions": {
                     "35544": {
                         "object_description_id": 35544,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Foundation of Kinyps",
+                        "object_definition_value": "1: Dorieus founds Kinyps",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "53491": {
                         "object_description_id": 53491,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16021004
+                        ],
+                        "object_definition_value": [
+                            "Journeys of Dorieus the Spartan"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -23020,6 +23061,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "1st Journey made by Dorieus.",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "35524": {
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
@@ -23047,8 +23095,12 @@
                     },
                     "47960": {
                         "object_description_id": 47960,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            15999783
+                        ],
+                        "object_definition_value": [
+                            "4: Dorieus founds Herakleia (Sicily)"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -23763,7 +23815,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-15T10:39:28Z"
+                    "object_dating": "2024-02-19T16:05:23Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -23823,8 +23875,14 @@
                     },
                     "47038": {
                         "object_description_id": 47038,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            14235456,
+                            14235457
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -23842,10 +23900,12 @@
                     "35542": {
                         "object_description_id": 35542,
                         "object_definition_ref_object_id": [
-                            11945235
+                            11945235,
+                            11945232
                         ],
                         "object_definition_value": [
-                            "Whole communities (named)"
+                            "Whole communities (named)",
+                            "Large groups"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -23874,7 +23934,7 @@
                             "Livy 26.19",
                             "Pliny the Elder 3.22",
                             "Stephanos of Byzantion s. v. Emporion",
-                            "Silius Italicus 3.357",
+                            "Silius Italicus 3.357-78",
                             "Pseudo-Skymnos 201-6"
                         ],
                         "object_definition_sources": [],
@@ -24891,7 +24951,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-01-28T15:43:33Z"
+                    "object_dating": "2024-02-19T16:38:46Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -24914,8 +24974,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945199
+                        ],
+                        "object_definition_value": [
+                            "None"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -24943,22 +25007,34 @@
                     },
                     "47038": {
                         "object_description_id": 47038,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35518": {
                         "object_description_id": 35518,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35542": {
                         "object_description_id": 35542,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945235
+                        ],
+                        "object_definition_value": [
+                            "Whole communities (named)"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -25605,7 +25681,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-08T09:35:21Z"
+                    "object_dating": "2024-02-19T16:35:19Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -25636,14 +25712,14 @@
                     "35546": {
                         "object_description_id": 35546,
                         "object_definition_ref_object_id": [
-                            12150549,
                             12370098,
-                            12440998
+                            12440998,
+                            12150549
                         ],
                         "object_definition_value": [
-                            "Rhodos",
                             "Crete",
-                            "Lindos"
+                            "Lindos",
+                            "Rhodos"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -25656,6 +25732,13 @@
                         "object_definition_value": [
                             "Gela"
                         ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "44816": {
+                        "object_description_id": 44816,
+                        "object_definition_ref_object_id": 12429214,
+                        "object_definition_value": "Delphi",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -25706,6 +25789,13 @@
                             "Antiphemos",
                             "Entimos"
                         ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "The ancestor of Gelon was part of the group that colonized Gela.",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -27601,26 +27691,30 @@
                 "object": {
                     "nodegoat_id": "ngAH1W48mAnS5BnOnAT24pxPbLO",
                     "object_id": 15998014,
-                    "object_name": "Foundation of Herakleia Minoa (Sicily)",
+                    "object_name": "5: Foundation of Herakleia Minoa (Sicily)",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-08T09:41:06Z"
+                    "object_dating": "2024-02-19T22:05:33Z"
                 },
                 "object_definitions": {
                     "35544": {
                         "object_description_id": 35544,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Foundation of Herakleia Minoa (Sicily)",
+                        "object_definition_value": "5: Foundation of Herakleia Minoa (Sicily)",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "53491": {
                         "object_description_id": 53491,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16021004
+                        ],
+                        "object_definition_value": [
+                            "Journeys of Dorieus the Spartan"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -27638,10 +27732,10 @@
                     "35546": {
                         "object_description_id": 35546,
                         "object_definition_ref_object_id": [
-                            12695015
+                            15994698
                         ],
                         "object_definition_value": [
-                            "Selinous"
+                            "Herakleia (Sicily)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -27671,10 +27765,14 @@
                     "35518": {
                         "object_description_id": 35518,
                         "object_definition_ref_object_id": [
-                            11945217
+                            11945217,
+                            11945216,
+                            11945225
                         ],
                         "object_definition_value": [
-                            "Settlement / first occupation of a place"
+                            "Settlement / first occupation of a place",
+                            "War - forced displacement / dispersal (group)",
+                            "Relocation of an existing settlement"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -27682,28 +27780,45 @@
                     "35542": {
                         "object_description_id": 35542,
                         "object_definition_ref_object_id": [
-                            11945235
+                            11945235,
+                            11945231,
+                            14321443
                         ],
                         "object_definition_value": [
-                            "Whole communities (named)"
+                            "Whole communities (named)",
+                            "Heroes (named individuals)",
+                            "Band of companions of a hero"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            15999791
+                        ],
+                        "object_definition_value": [
+                            "Euryleon"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Euryleon and the rest of the Herakleians go and take Herakleia Minoa, an actual apoikia from Selinous. This then is an overlay or conquest of an earlier settlement.",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35524": {
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
-                            15998016
+                            15998016,
+                            15999786
                         ],
                         "object_definition_value": [
-                            "Herodotos 5.46.2"
+                            "Herodotos 5.46.2",
+                            "Herodotos 5.46.1"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -28939,26 +29054,30 @@
                 "object": {
                     "nodegoat_id": "ngRY8D38dSeJ7SeZeSq1bgoGsTF",
                     "object_id": 15999783,
-                    "object_name": "Dorieus founds Herakleia (Sicily)",
+                    "object_name": "4: Dorieus founds Herakleia (Sicily)",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-09T08:30:28Z"
+                    "object_dating": "2024-02-19T22:05:33Z"
                 },
                 "object_definitions": {
                     "35544": {
                         "object_description_id": 35544,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Dorieus founds Herakleia (Sicily)",
+                        "object_definition_value": "4: Dorieus founds Herakleia (Sicily)",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "53491": {
                         "object_description_id": 53491,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16021004
+                        ],
+                        "object_definition_value": [
+                            "Journeys of Dorieus the Spartan"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -28976,10 +29095,10 @@
                     "35546": {
                         "object_description_id": 35546,
                         "object_definition_ref_object_id": [
-                            12433418
+                            12380936
                         ],
                         "object_definition_value": [
-                            "Sparta"
+                            "Kroton"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -28992,13 +29111,6 @@
                         "object_definition_value": [
                             "Herakleia (Sicily)"
                         ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "44816": {
-                        "object_description_id": 44816,
-                        "object_definition_ref_object_id": 12429214,
-                        "object_definition_value": "Delphi",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -29062,13 +29174,13 @@
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
                             15999784,
-                            15999787,
-                            15999794
+                            15999794,
+                            15999786
                         ],
                         "object_definition_value": [
                             "Herodotos 5.43",
-                            "Herodotos 5.46.1",
-                            "Diodorus Siculus 4.23.3"
+                            "Diodorus Siculus 4.23.3",
+                            "Herodotos 5.46.1"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -29090,10 +29202,16 @@
                     "47960": {
                         "object_description_id": 47960,
                         "object_definition_ref_object_id": [
-                            15999792
+                            15999792,
+                            16021006,
+                            15986179,
+                            16021014
                         ],
                         "object_definition_value": [
-                            "Euryleon takes the survivors to Herakleia Minoa (Sicily)"
+                            "Euryleon takes the survivors to Herakleia Minoa (Sicily)",
+                            "2: Dorieus returns to Sparta",
+                            "1: Dorieus founds Kinyps",
+                            "3: Dorieus fights in the war between Sybaris and Kroton"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -29212,12 +29330,10 @@
                     "35524": {
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
-                            15998016,
-                            15999787
+                            15998016
                         ],
                         "object_definition_value": [
-                            "Herodotos 5.46.2",
-                            "Herodotos 5.46.1"
+                            "Herodotos 5.46.2"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -32323,6 +32439,598 @@
                         ],
                         "object_definition_value": [
                             "Myskellos founds Kroton"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16021006": {
+                "object": {
+                    "nodegoat_id": "ngSZ0K68eSZKcTfKfS74dhpFtUG",
+                    "object_id": 16021006,
+                    "object_name": "2: Dorieus returns to Sparta",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-19T21:55:27Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "2: Dorieus returns to Sparta",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16021004
+                        ],
+                        "object_definition_value": [
+                            "Journeys of Dorieus the Spartan"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945199
+                        ],
+                        "object_definition_value": [
+                            "None"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            15986169
+                        ],
+                        "object_definition_value": [
+                            "Kinyps"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12433418
+                        ],
+                        "object_definition_value": [
+                            "Sparta"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14256256
+                        ],
+                        "object_definition_value": [
+                            "Other"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            13038437
+                        ],
+                        "object_definition_value": [
+                            "Nostos / return home"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            15986178
+                        ],
+                        "object_definition_value": [
+                            "Dorieus"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Dorieus returns to Sparta before setting out again. This is the second journey made by Dorieus.",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            15986180
+                        ],
+                        "object_definition_value": [
+                            "Herodotos 5.42.2-3"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16021014": {
+                "object": {
+                    "nodegoat_id": "ngAH1W48mAnSnBnynA52lpxXbLO",
+                    "object_id": 16021014,
+                    "object_name": "3: Dorieus fights in the war between Sybaris and Kroton",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-19T21:55:57Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "3: Dorieus fights in the war between Sybaris and Kroton",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16021004
+                        ],
+                        "object_definition_value": [
+                            "Journeys of Dorieus the Spartan"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12433418
+                        ],
+                        "object_definition_value": [
+                            "Sparta"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12380936
+                        ],
+                        "object_definition_value": [
+                            "Kroton"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "44816": {
+                        "object_description_id": 44816,
+                        "object_definition_ref_object_id": 12429214,
+                        "object_definition_value": "Delphi",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14256256
+                        ],
+                        "object_definition_value": [
+                            "Other"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            14235455
+                        ],
+                        "object_definition_value": [
+                            "War - attacking / raiding"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            15986178
+                        ],
+                        "object_definition_value": [
+                            "Dorieus"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Before founding Herakleia Minoa, Dorieus fights in the war between Sybaris and Kroton.",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            16021013
+                        ],
+                        "object_definition_value": [
+                            "Herodotos 5.44"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            15986179,
+                            16021006,
+                            15999783
+                        ],
+                        "object_definition_value": [
+                            "1: Dorieus founds Kinyps",
+                            "2: Dorieus returns to Sparta",
+                            "4: Dorieus founds Herakleia (Sicily)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16021015": {
+                "object": {
+                    "nodegoat_id": "ngBI1T58nByT7CoBoCK3lqyQcMP",
+                    "object_id": 16021015,
+                    "object_name": "The Aitolians under Thoas settle at Temesa",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-19T22:52:36Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "The Aitolians under Thoas settle at Temesa",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12433938
+                        ],
+                        "object_definition_value": [
+                            "Aitolia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12486338
+                        ],
+                        "object_definition_value": [
+                            "Temesa"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14256256
+                        ],
+                        "object_definition_value": [
+                            "Other"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231,
+                            11945235
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)",
+                            "Whole communities (named)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14810717
+                        ],
+                        "object_definition_value": [
+                            "Thoas"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Other: This is not a foundation, but a group of people who came to settle together with the Ausones.",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12411841
+                        ],
+                        "object_definition_value": [
+                            "Strabo 6.1.5"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16021016": {
+                "object": {
+                    "nodegoat_id": "ngCJ1U68oEJUnDpwpCL48rbndCG",
+                    "object_id": 16021016,
+                    "object_name": "The Ausones found Temesa",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-19T22:52:45Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "The Ausones found Temesa",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12486338
+                        ],
+                        "object_definition_value": [
+                            "Temesa"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456,
+                            14235457
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place",
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945232
+                        ],
+                        "object_definition_value": [
+                            "Large groups"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12411841
+                        ],
+                        "object_definition_value": [
+                            "Strabo 6.1.5"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            16021015
+                        ],
+                        "object_definition_value": [
+                            "The Aitolians under Thoas settle at Temesa"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
