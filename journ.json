@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-02-19T23:00:04+00:00",
+    "timestamp": "2024-02-20T23:00:07+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -4701,7 +4701,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-03-21T14:37:02Z"
+                    "object_dating": "2024-02-20T10:22:44Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -4713,15 +4713,23 @@
                     },
                     "53491": {
                         "object_description_id": 53491,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16021048
+                        ],
+                        "object_definition_value": [
+                            "Lokrian subfoundations in Magna Graecia"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -4802,11 +4810,13 @@
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
                             12411819,
-                            13657326
+                            13657326,
+                            12411841
                         ],
                         "object_definition_value": [
                             "Solinos 2.10-11",
-                            "Stephanos of Byzantion s.v. Matauros"
+                            "Stephanos of Byzantion s.v. Matauros",
+                            "Strabo 6.1.5"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -4999,7 +5009,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-03-21T14:17:25Z"
+                    "object_dating": "2024-02-20T10:08:27Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -5011,15 +5021,23 @@
                     },
                     "53491": {
                         "object_description_id": 53491,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16021048
+                        ],
+                        "object_definition_value": [
+                            "Lokrian subfoundations in Magna Graecia"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -5048,12 +5066,10 @@
                     "47038": {
                         "object_description_id": 47038,
                         "object_definition_ref_object_id": [
-                            14235456,
-                            14235457
+                            14235456
                         ],
                         "object_definition_value": [
-                            "aims to explain the foundation of a place",
-                            "aims to explain the geneaological origins of people or a putative kinship relationship"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5072,10 +5088,10 @@
                     "35542": {
                         "object_description_id": 35542,
                         "object_definition_ref_object_id": [
-                            11945232
+                            11945235
                         ],
                         "object_definition_value": [
-                            "Large groups"
+                            "Whole communities (named)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5087,24 +5103,17 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
-                    "35519": {
-                        "object_description_id": 35519,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "According to Strabo, Medma was founded from Lokri Epizephyrii.",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
                     "35524": {
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
                             12411841,
-                            14000914,
-                            13960426
+                            13960426,
+                            16021047
                         ],
                         "object_definition_value": [
                             "Strabo 6.1.5",
-                            "Pseudo-Skymnos 300-340",
-                            "Thucydides 5.5.3"
+                            "Thucydides 5.5.3",
+                            "Pseudo-Skymnos 306-308"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5137,45 +5146,55 @@
                 "object": {
                     "nodegoat_id": "ngSZ3O28eSJK5TfqfTB07hpntUG",
                     "object_id": 13657332,
-                    "object_name": "Foundation of Kaulonia",
+                    "object_name": "Foundation of Kaulonia from Kroton",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-15T10:58:11Z"
+                    "object_dating": "2024-02-20T22:04:07Z"
                 },
                 "object_definitions": {
                     "35544": {
                         "object_description_id": 35544,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Foundation of Kaulonia",
+                        "object_definition_value": "Foundation of Kaulonia from Kroton",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "53491": {
                         "object_description_id": 53491,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16021180,
+                            16021039,
+                            16021176
+                        ],
+                        "object_definition_value": [
+                            "Kroton's subfoundations in Magna Graecia",
+                            "Achaian foundations in Magna Graecia",
+                            "Versions of the foundation of Kaulonia"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35546": {
                         "object_description_id": 35546,
                         "object_definition_ref_object_id": [
-                            12380936,
-                            12378472
+                            12380936
                         ],
                         "object_definition_value": [
-                            "Kroton",
-                            "Lokri Epizephyrii"
+                            "Kroton"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5194,11 +5213,9 @@
                     "47038": {
                         "object_description_id": 47038,
                         "object_definition_ref_object_id": [
-                            14235457,
                             14235456
                         ],
                         "object_definition_value": [
-                            "aims to explain the geneaological origins of people or a putative kinship relationship",
                             "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
@@ -5217,8 +5234,12 @@
                     },
                     "35542": {
                         "object_description_id": 35542,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -5236,7 +5257,7 @@
                     "35519": {
                         "object_description_id": 35519,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "According to Solinos, Kaulonia was founded from Kroton. Pausanias names as founder Typhon of Aegion.\r\n\r\nAccording to Servius, however, Kaulonia was a foundation from Lokri.",
+                        "object_definition_value": "It is unclear whether the \"Achaian\" foundation led by Typhon in Pausanias describes the same journey as in Solinos and Pseudo-Skymnos, where it is stated that it was founded by the Krotonians.",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -5245,15 +5266,11 @@
                         "object_definition_ref_object_id": [
                             12411819,
                             13961110,
-                            14000914,
-                            14389030,
                             13961111
                         ],
                         "object_definition_value": [
                             "Solinos 2.10-11",
                             "Pausanias 6.3.12",
-                            "Pseudo-Skymnos 300-340",
-                            "Horace Od. 2.6",
                             "Pseudo-Skymnos 318-22"
                         ],
                         "object_definition_sources": [],
@@ -5275,8 +5292,12 @@
                     },
                     "47960": {
                         "object_description_id": 47960,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16021179
+                        ],
+                        "object_definition_value": [
+                            "Kaulon is the founder of Kaulonia"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -5293,7 +5314,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-03-21T14:56:32Z"
+                    "object_dating": "2024-02-20T22:05:22Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -5305,8 +5326,14 @@
                     },
                     "53491": {
                         "object_description_id": 53491,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16021039,
+                            16021180
+                        ],
+                        "object_definition_value": [
+                            "Achaian foundations in Magna Graecia",
+                            "Kroton's subfoundations in Magna Graecia"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -5342,12 +5369,10 @@
                     "47038": {
                         "object_description_id": 47038,
                         "object_definition_ref_object_id": [
-                            14235456,
-                            14235457
+                            14235456
                         ],
                         "object_definition_value": [
-                            "aims to explain the foundation of a place",
-                            "aims to explain the geneaological origins of people or a putative kinship relationship"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5392,11 +5417,11 @@
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
                             12411819,
-                            14000914
+                            16021047
                         ],
                         "object_definition_value": [
                             "Solinos 2.10-11",
-                            "Pseudo-Skymnos 300-340"
+                            "Pseudo-Skymnos 306-308"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5435,7 +5460,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-03-21T14:04:20Z"
+                    "object_dating": "2024-02-20T10:23:05Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -5447,15 +5472,23 @@
                     },
                     "53491": {
                         "object_description_id": 53491,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16021048
+                        ],
+                        "object_definition_value": [
+                            "Lokrian subfoundations in Magna Graecia"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -5485,11 +5518,13 @@
                         "object_description_id": 47038,
                         "object_definition_ref_object_id": [
                             14235456,
-                            14235457
+                            14235457,
+                            14235458
                         ],
                         "object_definition_value": [
                             "aims to explain the foundation of a place",
-                            "aims to explain the geneaological origins of people or a putative kinship relationship"
+                            "aims to explain the geneaological origins of people or a putative kinship relationship",
+                            "aims to explain the origins of social practices/institutions (e.g. cult practices)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5534,13 +5569,13 @@
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
                             12411841,
-                            14000914,
-                            13960426
+                            13960426,
+                            16021047
                         ],
                         "object_definition_value": [
                             "Strabo 6.1.5",
-                            "Pseudo-Skymnos 300-340",
-                            "Thucydides 5.5.3"
+                            "Thucydides 5.5.3",
+                            "Pseudo-Skymnos 306-308"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -8229,7 +8264,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-03-21T14:58:23Z"
+                    "object_dating": "2024-02-20T10:03:36Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -8258,12 +8293,14 @@
                         "object_definition_ref_object_id": [
                             12427795,
                             12411743,
-                            11943325
+                            11943325,
+                            12433172
                         ],
                         "object_definition_value": [
                             "Peloponnese",
                             "Sybaris",
-                            "Athina"
+                            "Athina",
+                            "Achaia"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -8336,22 +8373,22 @@
                         "object_definition_ref_object_id": [
                             14000917,
                             14000916,
-                            14000914,
                             12411836,
                             12411829,
                             12411831,
                             12411834,
-                            12411833
+                            12411833,
+                            16021043
                         ],
                         "object_definition_value": [
                             "Diodorus Siculus 12.10.3",
                             "Diodorus Siculus 11.90.3-4",
-                            "Pseudo-Skymnos 300-340",
                             "Aristotle Pol. 5.1303a",
                             "Diodorus Siculus 12.10-11",
                             "Diodorus Siculus 12.35.1-3",
                             "Plutarch Nic. 5.2",
-                            "Plutarch Per. 11.5"
+                            "Plutarch Per. 11.5",
+                            "Pseudo-Skymnos 326-29"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -10223,7 +10260,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-03-21T15:23:00Z"
+                    "object_dating": "2024-02-20T22:47:08Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -10242,8 +10279,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -10266,6 +10307,13 @@
                         "object_definition_value": [
                             "Krimissa"
                         ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "44816": {
+                        "object_description_id": 44816,
+                        "object_definition_ref_object_id": 16021182,
+                        "object_definition_value": "Mimas",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -10307,10 +10355,16 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            14392636
+                            14392636,
+                            16021183,
+                            16021184,
+                            12528741
                         ],
                         "object_definition_value": [
-                            "Philoktetes"
+                            "Philoktetes",
+                            "Pheidippos",
+                            "Antiphos",
+                            "Menestheus"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -10318,10 +10372,14 @@
                     "35524": {
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
-                            14386448
+                            14386448,
+                            16021622,
+                            13954426
                         ],
                         "object_definition_value": [
-                            "Pseudo-Apollodoros Epitome 6.15b"
+                            "Pseudo-Apollodoros Epitome 6.15b",
+                            "Ioannes Tzetzes ad Lycophronem 911",
+                            "Strabo 6.1.3."
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -25221,7 +25279,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-07T10:24:11Z"
+                    "object_dating": "2024-02-20T10:34:02Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -25233,8 +25291,12 @@
                     },
                     "53491": {
                         "object_description_id": 53491,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16021052
+                        ],
+                        "object_definition_value": [
+                            "Syracusan Subfoundations"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -27562,7 +27624,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-08T09:33:18Z"
+                    "object_dating": "2024-02-20T10:33:49Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -27574,8 +27636,12 @@
                     },
                     "53491": {
                         "object_description_id": 53491,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16021052
+                        ],
+                        "object_definition_value": [
+                            "Syracusan Subfoundations"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -29656,7 +29722,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-13T15:45:41Z"
+                    "object_dating": "2024-02-20T10:29:15Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -29669,10 +29735,12 @@
                     "53491": {
                         "object_description_id": 53491,
                         "object_definition_ref_object_id": [
-                            16013787
+                            16013787,
+                            16021052
                         ],
                         "object_definition_value": [
-                            "Foundations of Kamarina"
+                            "Foundations of Kamarina",
+                            "Syracusan Subfoundations"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -29797,7 +29865,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-13T15:46:18Z"
+                    "object_dating": "2024-02-20T10:29:43Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -29810,10 +29878,12 @@
                     "53491": {
                         "object_description_id": 53491,
                         "object_definition_ref_object_id": [
-                            16013787
+                            16013787,
+                            16021052
                         ],
                         "object_definition_value": [
-                            "Foundations of Kamarina"
+                            "Foundations of Kamarina",
+                            "Syracusan Subfoundations"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -30084,7 +30154,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-13T14:24:19Z"
+                    "object_dating": "2024-02-20T10:32:58Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -30096,8 +30166,12 @@
                     },
                     "53491": {
                         "object_description_id": 53491,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16021052
+                        ],
+                        "object_definition_value": [
+                            "Syracusan Subfoundations"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -30176,8 +30250,12 @@
                     },
                     "35524": {
                         "object_description_id": 35524,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16013729
+                        ],
+                        "object_definition_value": [
+                            "Thucydides 6.5.2"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -30215,7 +30293,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-13T14:34:34Z"
+                    "object_dating": "2024-02-20T21:17:07Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -30319,8 +30397,12 @@
                     },
                     "35524": {
                         "object_description_id": 35524,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16013744
+                        ],
+                        "object_definition_value": [
+                            "Thucydides 6.3.3"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -33032,6 +33114,983 @@
                         "object_definition_value": [
                             "The Aitolians under Thoas settle at Temesa"
                         ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16021028": {
+                "object": {
+                    "nodegoat_id": "ngOV2K88aOlG2PbCbPH63dlBpQC",
+                    "object_id": 16021028,
+                    "object_name": "Strabo calls Cosentia the metropolis of the Brettii",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-20T09:44:12Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Strabo calls Cosentia the metropolis of the Brettii",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            16021027
+                        ],
+                        "object_definition_value": [
+                            "Cosentia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14256256
+                        ],
+                        "object_definition_value": [
+                            "Other"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217,
+                            14350871
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place",
+                            "Immobility / remaining"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945235
+                        ],
+                        "object_definition_value": [
+                            "Whole communities (named)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Other: It describes the origin (metropolis) of an indigenous Italic people.",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12411841
+                        ],
+                        "object_definition_value": [
+                            "Strabo 6.1.5"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16021034": {
+                "object": {
+                    "nodegoat_id": "ngUB3Y48gWBM8VhUhWD2fjrVvVo",
+                    "object_id": 16021034,
+                    "object_name": "Pandosia was the capital of the Oenotrian kings",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-20T09:50:43Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Pandosia was the capital of the Oenotrian kings",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            16021032
+                        ],
+                        "object_definition_value": [
+                            "Pandosia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235457
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            14350871
+                        ],
+                        "object_definition_value": [
+                            "Immobility / remaining"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945235
+                        ],
+                        "object_definition_value": [
+                            "Whole communities (named)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12411841
+                        ],
+                        "object_definition_value": [
+                            "Strabo 6.1.5"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16021044": {
+                "object": {
+                    "nodegoat_id": "ngEL4E48qGVW9FrMrEd2qtbFfEy",
+                    "object_id": 16021044,
+                    "object_name": "Pandosia is an Achaian foundation",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-20T10:02:45Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Pandosia is an Achaian foundation",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16021039
+                        ],
+                        "object_definition_value": [
+                            "Achaian foundations in Magna Graecia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12433172
+                        ],
+                        "object_definition_value": [
+                            "Achaia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            16021032
+                        ],
+                        "object_definition_value": [
+                            "Pandosia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945235
+                        ],
+                        "object_definition_value": [
+                            "Whole communities (named)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            16021043
+                        ],
+                        "object_definition_value": [
+                            "Pseudo-Skymnos 326-29"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16021179": {
+                "object": {
+                    "nodegoat_id": "ngNU7d98zNEF1OaRaNW72ckAoNB",
+                    "object_id": 16021179,
+                    "object_name": "Kaulon is the founder of Kaulonia",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-20T21:51:24Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Kaulon is the founder of Kaulonia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16021176
+                        ],
+                        "object_definition_value": [
+                            "Versions of the foundation of Kaulonia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12407978
+                        ],
+                        "object_definition_value": [
+                            "Kaulonia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            16021178
+                        ],
+                        "object_definition_value": [
+                            "Kaulon"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Kaulon is the son of the Amazon Clita. Unfortunately, there is no more information in the texts.",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            13961143
+                        ],
+                        "object_definition_value": [
+                            "Servius Ad. Aen. 3.553"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16021181": {
+                "object": {
+                    "nodegoat_id": "ngPW8B18bRGH1QcLcPI95emYqQj",
+                    "object_id": 16021181,
+                    "object_name": "Lokrian foundation of Kaulonia",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-20T22:03:51Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Lokrian foundation of Kaulonia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16021048,
+                            16021176
+                        ],
+                        "object_definition_value": [
+                            "Lokrian subfoundations in Magna Graecia",
+                            "Versions of the foundation of Kaulonia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12378472
+                        ],
+                        "object_definition_value": [
+                            "Lokri Epizephyrii"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12407978
+                        ],
+                        "object_definition_value": [
+                            "Kaulonia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945235
+                        ],
+                        "object_definition_value": [
+                            "Whole communities (named)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            13961143
+                        ],
+                        "object_definition_value": [
+                            "Servius Ad. Aen. 3.553"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16021623": {
+                "object": {
+                    "nodegoat_id": "ngJQ2F38vKgB5KwXwLS13ygWkJX",
+                    "object_id": 16021623,
+                    "object_name": "Philoktetes builds a temple to Apollo near Krimissa",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-20T22:45:23Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Philoktetes builds a temple to Apollo near Krimissa",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            14392635
+                        ],
+                        "object_definition_value": [
+                            "Krimissa"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            16021621
+                        ],
+                        "object_definition_value": [
+                            "Temple of Apollo Alaios near Krimissa"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217,
+                            14235454
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place",
+                            "Wandering"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231,
+                            13664672
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)",
+                            "Lone individuals"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14392636
+                        ],
+                        "object_definition_value": [
+                            "Philoktetes"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            16021622
+                        ],
+                        "object_definition_value": [
+                            "Ioannes Tzetzes ad Lycophronem 911"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            14392637
+                        ],
+                        "object_definition_value": [
+                            "Philoktetes founds Krimissa"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16021625": {
+                "object": {
+                    "nodegoat_id": "ngLS2H58xMCD5MyTyMU39aikmLf",
+                    "object_id": 16021625,
+                    "object_name": "Petelia was founded by Philoktetes",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-20T22:57:42Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Petelia was founded by Philoktetes",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            16021624
+                        ],
+                        "object_definition_value": [
+                            "Meliboea"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            13954416
+                        ],
+                        "object_definition_value": [
+                            "Petelia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945215,
+                            14235454
+                        ],
+                        "object_definition_value": [
+                            "Exile / expulsion from home (individual)",
+                            "Wandering"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14392636
+                        ],
+                        "object_definition_value": [
+                            "Philoktetes"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            13954426
+                        ],
+                        "object_definition_value": [
+                            "Strabo 6.1.3."
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
