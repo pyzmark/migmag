@@ -477,7 +477,7 @@ ngEL1A88qFrW2GVy3Fd60tbRfGS,12380918,"Excerpta Constantiniana de insidiis, pp. 1
 ngGN2C08sHNY3IXG5G18tvdLhGU,12380920,Schol. Hom. Il 20.404 (Geneva),[]
 ngKR2K48wKBCwMBC9Kj26zhDlKe,12380924,Schol. Plato Hipparch. 229d (T+); Symp. 208d,[]
 ngOV2G88aQFGyQFS3QH6adlDpPC,12380928,Stephanos of Byzantion Ethnika s.v. Benna,"['φυλή tribe', 'ἄποικος emigrant, colonist', 'ἔπηλυς one who comes to', 'κτίζω to found, create, establish', 'λαμβάνω to take (away), to capture, invade, discover']"
-ngBI4F18nCyT5DSF6BU9mqywcCP,12407941,Ovid Met. 15.1,"['auctor founder', 'indigenus native', 'patria fatherland, native land, own country, native place', 'sedes settlement', 'urbs city, a walled town', 'terra earth', 'discedo to depart, to go apart', 'abeo to go from, go away, go off, go forth, depart', 'muto to move, move away, remove', 'transfero to bear across, bring through, carry over, convey over, transport, transfer', 'navigo to sail, cruise', 'desero to leave, abandon']"
+ngBI4F18nCyT5DSF6BU9mqywcCP,12407941,Ovid Met. 15.1,"['auctor founder', 'indigenus native', 'patria fatherland, native land, own country, native place', 'sedes settlement', 'urbs city, a walled town', 'terra earth', 'cursus a running, course, way, march, passage, voyage, journey', 'δόμος [domus] house', 'tectum a covered structure, roofed enclosure, shelter, house, dwelling, abode, roof', 'locus a place, spot', 'nepos descendant', 'discedo to depart, to go apart', 'abeo to go from, go away, go off, go forth, depart', 'muto to move, move away, remove', 'transfero to bear across, bring through, carry over, convey over, transport, transfer', 'navigo to sail, cruise', 'desero to leave, abandon', 'intro to go into, enter', '(navigio) peto to strive for, seek, aim at, repair to, make for, travel to (by ship)', 'ago to put in motion, move, lead', 'praetereo to go by, go past, pass by, pass', 'condo to found, establish, settle']"
 ngFM9d78rFWX1HWN2GY50ucUgGT,12408997,Strabo 13.1.68,"['πολίχνη small town, fort']"
 ngZG6H58lAGR9BQt0Z63kowAaAt,12411765,Pindar Pyth. 2.15,[]
 ngNU0F18zNUF3PEZ6PG9xckGoNh,12411801,Polybius Hist. 12.5-12,"['ἀποικία settlement away from home', 'ἐξέρχομαι to leave, depart', 'ἀποστέλλω to send, despatch, consign', 'ἐκβάλλω to throw someone/something out', 'καταλαμβάνω to seize, lay hold of, arrive, occupy', 'κατέχω to occupy, invade, conquer, possess, settle, dwell in', 'πέμπω to send']"
@@ -488,9 +488,9 @@ ngVC0V98hWsN0XMt4VO7fksAwGJ,12411809,Servius Aen. 3.399,"['civitas city, communi
 ngBI1J58nDITmDSz0Ba30qyYcMP,12411815,Diodorus Siculus 4.85.3-4,"['κτίζω to found, create, establish']"
 ngCJ1G68oEJU9ETw1EL4przPdNQ,12411816,Strabo 6.1.6,"['κτίσμα Foundation, settlement, colony', 'ἀποικέω to go/live from home, settle', 'μεταπέμπω to send after', 'πέμπω to send', 'παραχωρέω to withdraw, to go aside', 'διαίρω to cross, pass through', 'ἐκβάλλω to throw someone/something out']"
 ngFM1B98rGcX3HWN4Fe7rucegFz,12411819,Solinos 2.10-11,"['constituo to establish, to station']"
-ngIP2I28uIfA2KZW7JR0sxfFjJW,12411822,Diodorus Siculus 8.17.1-2,"['καταντάω to come down to, arrive', 'οἰκέω to inhabit, reside, dwell', 'κτίζω to found, create, establish']"
-ngJQ2J38vJQBwLAh8LS1uygOkLX,12411823,Diodorus Siculus 4.24.5-7,"['περαίωσις passage, passing', 'προάγω to lead forward']"
-ngMT2E68yOTE9ODg1M748bjNnMg,12411826,Strabo 8.7.5,"['δῆμος a country district, the people of the country', 'χώρα space', 'κώμη unwalled village', 'χωρίον a place, spot, district', 'τόπος place, region', 'πόλις city', 'οἰκιστής founder', 'ἀποικία settlement away from home', 'οἰκήτωρ inhabitant', 'συνίστημι to bring together, unite', 'οἰκέω to inhabit, reside, dwell', 'ἔχω to occupy, dwell in', 'σύνειμι to go, come together, assemble', 'ἀνίστημι to leave, to depart, to emigrate', 'ἱδρύω to settle (make to sit down)']"
+ngIP2I28uIfA2KZW7JR0sxfFjJW,12411822,Diodorus Siculus 8.17.1-2,"['γένος kin, stock, race: of a single descendant', 'πόντος sea', 'ποταμός river, stream', 'χρησμός oracle, oracular response', 'χώρα space', 'καταντάω to come down to, arrive', 'οἰκέω to inhabit, reside, dwell', 'κτίζω to found, create, establish']"
+ngJQ2J38vJQBwLAh8LS1uygOkLX,12411823,Diodorus Siculus 4.24.7,"['πόλις city', 'προάγω to lead forward', 'περαιόω to cross, to transport beyond or across']"
+ngMT2E68yOTE9ODg1M748bjNnMg,12411826,Strabo 8.7.5,['οἰκιστής founder']
 ngOV2G88aQFGyQFG3P968dlDpOC,12411828,St. Jerome Ab Abr. B708,"['condo to found, establish, settle']"
 ngPW2H98bQcHzRGH4P07cemEqPD,12411829,Diodorus Siculus 12.10-11,"['κτίστης founder', 'ἀποικία settlement away from home', 'συμπράσσω to join, to accomplish together, to avenge together', 'συνοικέω to dwell (together)', 'έκπίπτω to exile/cast out someone (or: to fall out)', 'πέμπω to send', 'καταπλέω to return by sea, to sail down', 'ἀποστέλλω to send, despatch, consign', 'κτίζω to found, create, establish', 'οἰκέω to inhabit, reside, dwell', 'κατοικέω to settle', 'μεταπέμπω to send after']"
 ngRY3N18dReJcTIJ6R292goEsSF,12411831,Diodorus Siculus 12.35.1-3,"['ἀποικία settlement away from home', 'κτίστης founder', 'οἰκήτωρ inhabitant', 'οἰκέω to inhabit, reside, dwell', 'πέμπω to send']"
@@ -499,20 +499,20 @@ ngUB3Y48gVBMfWLo9UD2hjrHvUI,12411834,Plutarch Nic. 5.2,"['ἀποικία settle
 ngWD3A68iWjO6YNu1YF4iltLxYK,12411836,Aristotle Pol. 5.1303a,"['ἔποικος settler', 'συνοικέω to dwell (together)', 'ἐποικέω to go as a settler, to settle in, be established', 'ἐκβάλλω to throw someone/something out', 'έκπίπτω to exile/cast out someone (or: to fall out)']"
 ngYF3C88kAFQ9APw3AH6lnvVzAM,12411838,Strabo 6.1.15,"['κτίσμα Foundation, settlement, colony', 'κτίσις founding, settling', 'οἰκιστής founder', 'συνοικισμός living together, wedlock', 'μεταπέμπω to send after', 'ἐποικέω to go as a settler, to settle in, be established', 'κατέχω to occupy, invade, conquer, possess, settle, dwell in', 'πέμπω to send', 'ᾰ̓φᾰνίζω to destroy, wipe out']"
 ngZG3D98lBQR0BQV4A071owMaZN,12411839,Vellius Paterculus 1.1.1-2,"['urbs city, a walled town', 'condo to found, establish, settle', 'appello to drive to, move up, bring along, force towards', 'constituo to establish, to station', 'occupo to take into possession, seize, occupy, master, win', 'statuo to cause to stand, set up, set, station, fix upright, erect, plant']"
-ngBI4F18nCyT5DSX6DK9mqyUcCv,12411841,Strabo 6.1.5,"['κτίσμα Foundation, settlement, colony', 'μητρόπολις mothercity, motherstate', 'ἐπίνειον sea-port', 'παράπλοος coasting voyage', 'ἐκβάλλω to throw someone/something out', 'περιοικέω to live around', 'αἱρέω to take, seize, grasp', 'καταφεύγω flee for refuge (to a certain place)', 'πλέω to sail, travel by sea']"
+ngBI4F18nCyT5DSX6DK9mqyUcCv,12411841,Strabo 6.1.5,"['κτίσμα Foundation, settlement, colony', 'μητρόπολις mothercity, motherstate', 'ἐπίνειον sea-port', 'παράπλοος coasting voyage', 'πόλις city', 'χωρίον a place, spot, district', 'βασίλειον kingly dwelling, palace', 'λιμήν harbour', 'πορθμός sea passage, strait', 'ἐκβάλλω to throw someone/something out', 'περιοικέω to live around', 'αἱρέω to take, seize, grasp', 'καταφεύγω flee for refuge (to a certain place)', 'πλέω to sail, travel by sea', 'κατέχω to occupy, invade, conquer, possess, settle, dwell in', 'ἀφαιρέω to take away from', 'ἀφικνέομαι to arrive, come to', 'ἐπιστρέφω turn about, turn around', 'παραπλέω to sail by']"
 ngOV2G88aPbG3QFC3Pn6ydlnpOi,12498528,Herodotos 1.162-7,"['ναυτιλία sailing, seamanship', 'πλόος sailing, crossing, sea voyage', 'ἀφικνέομαι to arrive, come to', 'καταδείκνυμι to discover and make known', 'ναυτίλλομαι to sail, to go by sea', 'ἐκλείπω to leave (and go somewhere else)', 'εἰσβαίνω go into/on board, embark, enter', 'στέλλω to send, also: set sail, to get ready to go (trans. and med.)', 'ὑπολείπω to leave remaining, to be left', 'ἥκω to come back/return, be present, to have come', 'ἀποπλέω to sail away', 'οἰκέω to inhabit, reside, dwell', 'καταπλέω to return by sea, to sail down']"
 ngTA3P38fTALeVKH8VM1fiqkuTn,12498533,Strabo 6.1.1.,"['ἵδρυμα establishment, foundation', 'ἄποικος emigrant, colonist', 'οἰκίζω to found, to establish', 'ἐκπλέω to sail out, away (or lose your mind)', 'κτίζω to found, create, establish', ""ἁλίσκομαι to be taken, conquered, fall into an enemy's hand"", 'πλέω to sail, travel by sea', 'ἀποκρούω to drive away/from, to lead away', 'ἀπαίρω to go away, depart, set sail']"
 ngCJ9w48oDJUpETK9DV24rzZdDQ,12498894,Pseudo-Skymnos 262,"['πόλις city', 'ἀποικίζω to send away from home, banish', 'κτίζω to found, create, establish', 'φεύγω to flee, take flight']"
-ngDK9x58pEUVqFUV0EM37saAeDR,12498895,Ammianus Marcellinus Hist. 15.9.7,"['oppidum town, city', '(navigio) peto to strive for, seek, aim at, repair to, make for, travel to (by ship)', 'condo to found, establish, settle']"
+ngDK9x58pEUVqFUV0EM37saAeDR,12498895,Ammianus Marcellinus Hist. 15.9.7,"['oppidum town, city', 'populus a people, a nation', '(navigio) peto to strive for, seek, aim at, repair to, make for, travel to (by ship)', 'condo to found, establish, settle']"
 ngEL9c68qELW0GVA1EN4ptbTfFS,12498896,Pausanias 3.3.1,"['ἀποικία settlement away from home', 'στέλλω to send, also: set sail, to get ready to go (trans. and med.)']"
 ngFM9d78rFWX1HWX2GO5pucKgGT,12498897,Stephanos of Byzantion s. v. Mesma,['πόλις city']
 ngGN9a88sINY1IXU3Gf69vdPhGa,12498898,Stephanos of Byzantion s. v. Medme,"['πόλις city', 'πολίτης citizen']"
-ngZG1p38lAmR8BQZ8ZI1jowEaKN,12498913,Suda mu. 1473,[]
+ngZG1p38lAmR8BQZ8ZI1jowEaKN,12498913,Suda mu. 1473,"['χρησμός oracle, oracular response', 'χώρα space', 'πόλις city', 'οἰκήτωρ inhabitant', 'γαῖα land, country', 'ἔχω to occupy, dwell in', 'ἔρχομαι to come, go', 'ἱκνέομαι reach, attain to, approach']"
 ngGN4K68sGNY8IXS1IP4tvdPhHa,12528746,Strabo 6.1.10.,"['κτίσμα Foundation, settlement, colony', 'ἄποικος emigrant, colonist', 'έκπίπτω to exile/cast out someone (or: to fall out)', 'κτίζω to found, create, establish', 'ἔχω to occupy, dwell in']"
 ngNU5V38zPUF6PEV8Om1xckSoNB,12528753,Cassiodorus Var. 12.15.1,"['urbs city, a walled town', 'civitas city, community', 'condo to found, establish, settle']"
 ngHO4L78tHYZ8JYx2IQ51weUiJV,12536647,Pausanias 8.3.5,"['ἀποικία settlement away from home', 'στόλος expedition, journey', 'ἀλλοδαπήν foreign land, from another country, foreign', 'περαιόω to cross, to transport beyond or across', 'ἀφικνέομαι to arrive, come to']"
 ngIP4I88uKPA0KZE3I96vxfRjIc,12536648,Dionysios of Halikarnassos Ant. Rom. 2.1.2,"['ἀποικία settlement away from home', 'γῆ earth, inhabited land, native land', 'ἐξέρχομαι to leave, depart', 'ἡγέομαι go before, lead the way']"
-ngLS2H58xLSDvNCL0NE38aiEmMf,12604625,Strabo 6.1.12,"['στόλος expedition, journey', 'κατοικία habitation', 'οἰκισμός foundation', 'ἐκβαίνω to disembark, step out of, to go out, exit, leave', 'συμπλέω to sail in company with', 'ἀπέρχομαι to go away, to depart', 'κτίζω to found, create, establish', 'ἐπανέρχομαι to return, go back, to join, enter', 'προσπλέω to sail towards', 'οἰκίζω to found, to establish']"
+ngLS2H58xLSDvNCL0NE38aiEmMf,12604625,Strabo 6.1.12,"['στόλος expedition, journey', 'κατοικία habitation', 'οἰκισμός foundation', 'ποταμός river, stream', 'χωρίον a place, spot, district', 'πλοῖον floating vessel, ship, boat', 'γῆ earth, inhabited land, native land', 'πόλις city', 'τόπος place, region', 'ἐκβαίνω to disembark, step out of, to go out, exit, leave', 'συμπλέω to sail in company with', 'ἀπέρχομαι to go away, to depart', 'κτίζω to found, create, establish', 'ἐπανέρχομαι to return, go back, to join, enter', 'προσπλέω to sail towards', 'οἰκίζω to found, to establish', 'γίγνομαι to be, go, proceed (main reading: to become)', 'συμβαίνω to meet, to come to an agreement, to be agreed', 'κατάγω to lead down', 'πλανάω to make to wander, wandering', 'ἀναγκάζω force, compel', 'εἰσαφικνέομαι come into', 'ἄπειμι to go away, be away', 'συμπράσσω to join, to accomplish together, to avenge together', 'προτερέω to be before, be in advance', 'οἰκέω to inhabit, reside, dwell', 'προσλαμβάνω take']"
 ngUB8s68gWBM6WLU1UD47jrZvVI,12629686,Strabo 6.2.4,"['κτίζω to found, create, establish', 'πλέω to sail, travel by sea', 'οἰκίζω to found, to establish', 'ἔρχομαι to come, go']"
 ngAH1S48mBRS7CRO9CT29pxXbLO,12695114,Hekataios FGrHist 1 f64-71,[]
 ngBI1X58nCITnDSJ0BK3oqyOcMP,12695115,Dionysios of Halikarnassos Ant. Rom. 1.13.1,"['τόπος place, region', 'οἰκέω to inhabit, reside, dwell']"
@@ -525,7 +525,7 @@ ngMT2I68yMjEwODg1OF4ybjRnNA,12695126,Antiochus of Syrakuse FGrHist 555 f6,[]
 ngOV2K88aPFGyQFC3OH63dlHpPi,12695128,Antiochus of Syrakuse FGrHist 555 f9,[]
 ngQX3I08cRdI4SHI5RJ84fnprQk,12695130,Aristotle Pol. 1329B,"['γένος kin, stock, race: of a single descendant', 'κατοικέω to settle']"
 ngUB3Y48gVhMeWLU9V525jrRvVI,12695134,Dionysios of Halikarnassos Ant. Rom. 2.35.7,"['ἀποικία settlement away from home', 'πόλις city', 'γένος kin, stock, race: of a single descendant', 'κατέχω to occupy, invade, conquer, possess, settle, dwell in', 'ἀφικνέομαι to arrive, come to']"
-ngVC3Z58hWiN9XMt0VE30ksWwWp,12695135,Dionysios of Halikarnassos Ant. Rom. 1.60.3,"['πόλις city', 'γένος kin, stock, race: of a single descendant', 'ἐξανίστημι to make emigrate, remove, drive out', 'μεταφέρω to transfer, transport, displace', 'οἰκέω to inhabit, reside, dwell', 'μετανίστημι to depart, change places, migrate', 'παραγίγνομαι to arrive at, come to, be by', 'διασῴζω to save oneself, arrive safe and sound']"
+ngVC3Z58hWiN9XMt0VE30ksWwWp,12695135,Dionysios of Halikarnassos Ant. Rom. 1.60.3,"['πόλις city', 'γένος kin, stock, race: of a single descendant', 'χωρίον a place, spot, district', 'οἴκησις the act of dwelling', 'ἐξανίστημι to make emigrate, remove, drive out', 'μεταφέρω to transfer, transport, displace', 'οἰκέω to inhabit, reside, dwell', 'μετανίστημι to depart, change places, migrate', 'παραγίγνομαι to arrive at, come to, be by', 'διασῴζω to save oneself, arrive safe and sound', 'συνέρχομαι to come together', 'κοινόω to share, make common', 'ὁρμάω to set in motion', 'οἰκίζω to found, to establish', 'στρατεύω to advance with an army']"
 ngWD3A68iYNO1YNq1Wv40ltLxXK,12695136,Dionysios of Halikarnassos Ant. Rom. 1.11-13,"['ἀποικία settlement away from home', 'οἰκέω to inhabit, reside, dwell', 'μετανίστημι to depart, change places, migrate', 'ἕπομαι to follow', 'ἀποικέω to go/live from home, settle', 'περαιόω to cross, to transport beyond or across', 'πέμπω to send', 'στέλλω to send, also: set sail, to get ready to go (trans. and med.)', 'διαίρω to cross, pass through', 'ὁρμίζω to bring to a safe anchorage, bring into harbour, moor, anchor', ""ἀπανίστημι to emigrate, depart one's country, make rise up and depart, send away""]"
 ngZG3D98lZmR0BQL4ZS7kowqaAt,12695139,Strabo 5.1.1,"['πορθμός sea passage, strait', 'ὅρος boundary, landmark', 'ἀποικία settlement away from home', 'προβαίνω to proceed, go forward, advance', 'στέλλω to send, also: set sail, to get ready to go (trans. and med.)']"
 ngBI4F18nCIT2DSP6CK91qyCcBv,12695141,Strabo 6.1.4,"['κατέχω to occupy, invade, conquer, possess, settle, dwell in']"
@@ -537,7 +537,7 @@ ngKR5W08wKxCvMBC5Lj8uzhflLY,12695150,Eusebius Chron. 102,[]
 ngHO2D18tIOZ1JYf6IA9rweyiIb,13019621,Pausanias 10.17.2,"['ὁδός road, way, voyage', 'στόλος expedition, journey', 'σύνοικος one who dwells in the same house', 'αὐτόχθων sprung from the land itself (native inhabitants)', 'διαβαίνω to go across, cross, go beyond', 'ἐκβάλλω to throw someone/something out', 'ἐπέρχομαι to come (towards ), proceed, arrive, approach', 'οἰκέω to inhabit, reside, dwell']"
 ngKR2G48wMBC7MBe9Lj29zhXlKY,13019624,Solinos Polyhistor 4.2,"['terra earth', 'oppidum town, city', 'urbs city, a walled town', 'condo to found, establish, settle', 'sedeo to establish oneself', 'habito to dwell, abide, reside, live']"
 ngMT7c88yNDE1ODU3MV62bjBnMA,13019678,Pausanias 10.17.5,"['στόλος expedition, journey', 'οἰκήτωρ inhabitant', 'διαβαίνω to go across, cross, go beyond', 'οἰκίζω to found, to establish']"
-ngJQ2F38vKwB4LAz8KS1wygSkJd,13024123,Strabo 6.1.14,"['φῠγᾰ́ς exile, refugee', 'κατοικία habitation', 'οἰκήτωρ inhabitant', 'κτίσμα Foundation, settlement, colony', 'φυγάς one who flees', 'ἀποικία settlement away from home', 'συνοικέω to dwell (together)', 'οἰκίζω to found, to establish', 'αἱρέω to take, seize, grasp', 'φεύγω to flee, take flight', 'ἐπέρχομαι to come (towards ), proceed, arrive, approach']"
+ngJQ2F38vKwB4LAz8KS1wygSkJd,13024123,Strabo 6.1.14,"['φῠγᾰ́ς exile, refugee', 'κατοικία habitation', 'οἰκήτωρ inhabitant', 'κτίσμα Foundation, settlement, colony', 'φυγάς one who flees', 'ἀποικία settlement away from home', 'φρούριον fort, citadel', 'συνοικέω to dwell (together)', 'οἰκίζω to found, to establish', 'αἱρέω to take, seize, grasp', 'φεύγω to flee, take flight', 'ἐπέρχομαι to come (towards ), proceed, arrive, approach']"
 ngLS2H58xLSD5NCj0LE3waiImNZ,13024125,Athenaios Deipnosophists 12.25,"['χώρα space', 'πλέω to sail, travel by sea', 'κατοικέω to settle', 'κατέχω to occupy, invade, conquer, possess, settle, dwell in']"
 ngZG3D98lAQRjBQV4Ay79owSaAt,13029539,Diodorus Siculus 4.29,"['στόλος expedition, journey', 'ἀποικία settlement away from home', 'συστρατεύω to undertake an expedition together', 'πέμπω to send', 'ἐκπέμπω to send out', 'ἀποστέλλω to send, despatch, consign', 'πλέω to sail, travel by sea']"
 ngQX8C28cSXI5SHo7SJ05fnFrSE,13029582,Pseudo-Apollodoros Biblioteca 2.7.6,"['ἀποικία settlement away from home', 'φυγή flight, exile', 'πόλις city', 'πέμπω to send', 'ἀποστέλλω to send, despatch, consign', 'ἀφίημι to send forth, discharge', 'στρατεύω to advance with an army', 'αἱρέω to take, seize, grasp', 'ἄγω to lead, to bring', 'ἥκω to come back/return, be present, to have come', 'διαπορθμεύω carry over (across a river)', 'διαβαίνω to go across, cross, go beyond', 'διακομίζω to carry over, to transport']"
@@ -551,15 +551,14 @@ ngMT2I68yMTEyODU1NF46bjJnNA,13954426,Strabo 6.1.3.,"['μητρόπολις mothe
 ngHO2D18tIeZ3JYP6Hg91weyiIb,13960421,Antiochus of Syrakuse FGRHist 555 f11,[]
 ngKR2G48wLxC5MBe9LT25zhTlKe,13960424,Diodorus Siculus 12.36.4,"['οἰκήτωρ inhabitant', 'μετοικίζω lead settlers to another abode', 'κτίζω to found, create, establish', 'οἰκέω to inhabit, reside, dwell']"
 ngMT2I68yMTEzODQ1Nl46bjRnMA,13960426,Thucydides 5.5.3,"['ἄποικος emigrant, colonist', 'ἀφικνέομαι to arrive, come to']"
-ngUB0M88gUBM8WLQ3Ut6gjrHvWI,13961108,Herodotos 1.166-7,"['περίοικος neighbours (those who live around)', 'πλόος sailing, crossing, sea voyage', 'ἀφικνέομαι to arrive, come to', 'οἰκέω to inhabit, reside, dwell', 'ἀφίημι to send forth, discharge', 'καταπλέω to return by sea, to sail down', 'κτίζω to found, create, establish', 'καταφεύγω flee for refuge (to a certain place)', 'ὁρμάω to set in motion']"
+ngUB0M88gUBM8WLQ3Ut6gjrHvWI,13961108,Herodotos 1.166-7,"['περίοικος neighbours (those who live around)', 'πλόος sailing, crossing, sea voyage', 'πλοῖον floating vessel, ship, boat', 'χῶρος a definite space, place', 'πόλις city', 'γῆ earth, inhabited land, native land', 'ἀφικνέομαι to arrive, come to', 'οἰκέω to inhabit, reside, dwell', 'ἀφίημι to send forth, discharge', 'καταπλέω to return by sea, to sail down', 'κτίζω to found, create, establish', 'καταφεύγω flee for refuge (to a certain place)', 'ὁρμάω to set in motion', 'ἄγω to lead, to bring', 'φέρω to carry, bear', 'στρατεύω to advance with an army', 'ἀντιάζω meet face to face', 'συμμίγνυμι to mix together, to commingle', 'γίγνομαι to be, go, proceed (main reading: to become)', 'πλέω to sail, travel by sea', 'διαφθείρω to destroy utterly', 'περίειμι to be around', 'ἀποστρέφω turn back', 'ἀναλαμβάνω take up', 'κτάομαι procure for oneself, get, acquire', 'ἐξάγω lead out, lead away']"
 ngWD1E08iWDO4YNm5Wv8gltBxHK,13961110,Pausanias 6.3.12,"['οἰκιστής founder', 'πόλις city', 'ἀποικίζω to send away from home, banish', 'γίγνομαι to be, go, proceed (main reading: to become)', ""ἁλίσκομαι to be taken, conquered, fall into an enemy's hand""]"
-ngXE1r18jXEP3ZOT6Yw91muMyIL,13961111,Pseudo-Skymnos 318-9,[]
+ngXE1r18jXEP3ZOT6Yw91muMyIL,13961111,Pseudo-Skymnos 318-22,[]
 ngYF1o28kYvQiAPG7AR04nvNzJM,13961112,Stephanos of Byzantion s. v. Kaulonia,['πόλις city']
 ngDK4D38pEqV8FUb8Ec1psaIeDR,13961143,Servius Ad. Aen. 3.553,"['oppidum town, city', 'urbs city, a walled town', 'naufragium shipwreck', 'navis ship', 'condo to found, establish, settle', 'redeo Of persons, to go back, turn back, return, turn around']"
-ngMT5Y28yNjEzODU7NF07bjRnOA,13961152,Zenobios 3.42,"['οἰκίζω to found, to establish']"
-ngNU5Z38zOUFaPEl8PG1zckCoNB,13961153,"Hippys FGrHist 554, f1","['οἰκίζω to found, to establish']"
+ngMT5Y28yNjEzODU7NF07bjRnOA,13961152,Zenobios 3.42,"['χρησμός oracle, oracular response', 'οἰκίζω to found, to establish']"
+ngNU5Z38zOUFaPEl8PG1zckCoNB,13961153,"Hippys FGrHist 554, f1",[]
 ngOV5A48aOFGzQFG9PX29dlTpQC,13961154,Herodotos 8.47,"['χώρα space', 'ναῦς ship', 'στρατεύω to advance with an army', 'οἰκέω to inhabit, reside, dwell', 'βοηθέω to come to aid']"
-ngPW5B58bPGH5RGB0RY38emoqPj,13961155,Pseudo-Skymnos 328,[]
 ngOV8A08aPbGbQFe5PH85dlLpPC,13961180,Strabo 5.4.4,"['κτίσμα Foundation, settlement, colony', 'πρέσβυς ambassador, envoy', 'στόλος expedition, journey', 'ἀποικία settlement away from home', 'πόλις city', 'ναύαρχος commander of a ship', 'ἄγω to lead, to bring', 'κτίζω to found, create, establish']"
 ngRY8D38dTYJ7TIh8TK1egomsSF,13961183,Thucydides 6.4.5,"['οἰκιστής founder', 'πόλις city', 'χωρίον a place, spot, district', 'ἀφικνέομαι to arrive, come to', 'οἰκίζω to found, to establish', 'ἔρχομαι to come, go', 'έκπίπτω to exile/cast out someone (or: to fall out)', 'φεύγω to flee, take flight', 'προσβάλλω to launch against, to attack']"
 ngSZ8q48eUJKeUJm9SB26hpHtTG,13961184,Dionysios of Halikarnassos Ant. Rom. 7.3.1,"['πόλις city', 'ἐξελαύνω to drive someone out, lead away', 'κατοικέω to settle', 'κτίζω to found, create, establish']"
@@ -571,15 +570,15 @@ ngCJ4C28oETU7ETK7Cb06rztdCw,13961242,Livy 8.22.6,"['oriundus the descended, spru
 ngIP7y48uJvA6KZg9I527xfFjJW,13962574,Pseudo-Skymnos 247-252,"['ἀποικέω to go/live from home, settle', 'κτίζω to found, create, establish']"
 ngPW8f18bPGH3RGH6QI95emEqPD,13962581,Diodorus Siculus 11.59.4,"['κτίζω to found, create, establish']"
 ngRY8D38dTYJ7TIl8RK1bgoAsSl,13962583,Thucydides 6.44.3,[]
-ngSZ8q48eUJKeUJi9UB29hprtTm,13962584,Pseudo-Skymnos 311-12,[]
+ngSZ8q48eUJKeUJi9UB29hprtTm,13962584,Pseudo-Skymnos 309-312,[]
 ngTA8r58fUgLeVKr0UC3diqkuTn,13962585,Diodorus Siculus 14.40.1,"['ἄποικος emigrant, colonist']"
 ngTA0L78fTqL8VKL2Ts52iqQuUH,13962607,Dionysios of Halikarnassos Ant. Rom. 19.2,"['τόπος place, region', 'πλέω to sail, travel by sea', 'ἐκβάλλω to throw someone/something out', 'οἰκέω to inhabit, reside, dwell']"
 ngNU7Z98zPEF9PEN4OW7xckKoOB,14000779,Strabo 5.4.7,"['σύνοικος one who dwells in the same house', 'ἐποικέω to go as a settler, to settle in, be established']"
-ngGN9a88sHtYsIXa3G96rvdPhHa,14000798,Heraklides Lembus 55,"['ἀνίστημι to leave, to depart, to emigrate', 'παραλαμβάνω to receive, accept, to take, capture', 'συνοικέω to dwell (together)', 'οἰκίζω to found, to establish']"
+ngGN9a88sHtYsIXa3G96rvdPhHa,14000798,Heraklides Lembus 23,"['ἀνίστημι to leave, to depart, to emigrate', 'παραλαμβάνω to receive, accept, to take, capture', 'συνοικέω to dwell (together)', 'οἰκίζω to found, to establish']"
 ngNU0F18zOEFaPEN6PG94ckOoOh,14000901,Athenaios Deipnosophists 12.25.523,"['χώρα space', 'κατοικέω to settle', 'κατέχω to occupy, invade, conquer, possess, settle, dwell in', 'ἔρχομαι to come, go']"
 ngOV0G28aObGbQFO7On03dljpQC,14000902,Timaeos of Tauromenion FGrHist 566 f51,[]
 ngQX0I48cRXIcSHE9RZ28fnZrQk,14000904,Justin 20.2,"['militia (military) expedition', 'urbs city, a walled town', 'navis ship', 'condo to found, establish, settle', 'pello to beat, strike, knock, push, drive, hurl, impel, propel', 'capio to take in hand, take hold of, lay hold of, take, seize, grasp', 'bellum tollo to make war on', 'decurro to run down, hasten down']"
-ngRY0J58dRIJbTIF0S635goOsSF,14000905,Pseudo-Skymnos 336,[]
+ngRY0J58dRIJbTIF0S635goOsSF,14000905,Pseudo-Skymnos 337-342,[]
 ngSZ0q68eSJKfUJW1SL4fhpFtDG,14000906,Antoninus Liberalis Metamorphoses 8,"['ἀνάστασις removal, emigration, evacuation', 'χώρα space', 'πολίτης citizen', 'κτίζω to found, create, establish', 'ἀπάγω to lead away, carry off', 'εἰστρέχω to run in']"
 ngTA0L78fTqL7VKF2VM57iqkuTn,14000907,Strabo 6.3.2-3,"['κτίσις founding, settling', 'ἀποικία settlement away from home', 'διαδιδράσκω to run away, escape', 'οἰκέω to inhabit, reside, dwell', 'ἥκω to come back/return, be present, to have come', 'προκατέχω to hold, to occupy first, seize first', 'πλέω to sail, travel by sea', 'ἀπαίρω to go away, depart, set sail', 'περιέρχομαι to move around, proceed in a circle, go around', 'πέμπω to send']"
 ngUB0M88gUBM8WLG3VN6hjrDvVo,14000908,Antiochus of Syrakuse FGRHist 555 f13,[]
@@ -600,7 +599,7 @@ ngWD8u88iWjO0YNm3YF6jltLxXK,14235888,Strabo 14.1.27,"['πόλις city', 'πεζ
 ngJQ4J98vKgBvLAd4LS74ygekLX,14321249,Proclus Chestomathia II,"['ἀνακομιδή recovery, return, carrying away again', 'ἔκπλοος the sailing out, leaving', 'ὁδός road, way, voyage', 'πορεία journey, course, walking', 'νόστος return home, homeward journeys', 'ἀφικνέομαι to arrive, come to', 'ἀνᾶγεομαι drive onwards, proceed', 'ἀπάγω to lead away, carry off', 'ἀποπλέω to sail away', 'ἐκπλέω to sail out, away (or lose your mind)', 'μένω to stay, wait', 'παραγίγνομαι to arrive at, come to, be by', 'πορεύω to transport, to make go, carry, to walk (on foot)', 'προσέχω to reach port, hold to, attach to']"
 ngCJ4C28oEJU4ETC7D305rzxdCQ,14386342,Antiochus of Syrakuse FGrHist 555 t2b,[]
 ngDK4D38pFUV5FUV8FW14saQeDR,14386343,Antiochus of Syrakuse FGrHist 555 f8,[]
-ngIP4I88uJvAuKZM3Jh6txfzjJc,14386448,Pseudo-Apollodoros Epitome 6.15b,[]
+ngIP4I88uJvAuKZM3Jh6txfzjJc,14386448,Pseudo-Apollodoros Epitome 6.15b,"['ἄλη wandering', 'πλέω to sail, travel by sea', 'ἐξωθέω expel, eject, banish', 'κατοικέω to settle', 'κτίζω to found, create, establish']"
 ngFM1F98rFsX0HWX4FO7rucagGT,14389019,Hekataios FGrHist 1 f84,[]
 ngIP2E28uJPA5KZE7KR04xfdjIW,14389022,Hekataios FGrHist 1 f81,[]
 ngQX3I08cSHIcSHI5Q185fnFrRE,14389030,Horace Od. 2.6,"['rus the country, lands, estate (opp. urbs)', 'terra earth', 'pono to set up, erect, build']"
@@ -761,55 +760,99 @@ ngMT5Y28yMzE2ODA7N306bjdnNg,15138752,Philostratos of Lemnos (major) Philostr. Im
 ngRY0J58dRYJcTIV0Sq3dgomsSF,15140005,Aelian Ael. NA 15.24,[]
 ngCJ4C28oEJU6ETG7Db0przPdDQ,15160942,Polyainos Strategemata 1.9.1,"['χώρα space', 'πέμπω to send', 'πλέω to sail, travel by sea', 'ὁρμάω to set in motion', 'ἔρχομαι to come, go', 'κατέχω to occupy, invade, conquer, possess, settle, dwell in']"
 ngDK4H38pDKV6FUR8DW1osaMeEx,15370843,Ephoros BNJ 70 F216,[]
-ngNU2J78zNkFyPEF2Nm52ckioNB,15813827,Strabo 4.1.5-6,[]
-ngUB3C48gULMfWLC9U52fjrDvUo,15813834,Pseudo-Skymnos 202-8,[]
+ngNU2J78zNkFyPEF2Nm52ckioNB,15813827,Strabo 4.1.5-6,"['πόλις city', 'ἐπιτείχισμα fort', 'πατριά lineage, descent', 'κτίσμα Foundation, settlement, colony', 'κτίζω to found, create, establish', 'οἰκέω to inhabit, reside, dwell']"
 ngYF3C88kZFQ0APo3Z969nvtzZM,15813838,Pliny the Elder HN 3.5.1,[]
-ngOV5A48aOVG9QFO9OX27dlBpOC,15813854,Pseudo-Skymnos 216,[]
-ngGN7w28sIXYqIXY7GZ0rvdHhGa,15986172,Herodotos 4.160.1,"['πόλις city', 'κτίζω to found, create, establish']"
-ngKR7a68wKxC6MBK1L74vzhDlLe,15986176,Pindar Scholiaion 5,[]
-ngLS7b78xLiD7NCH2Mk51aiYmMZ,15986177,Theotimos FGrHist 470 f1,[]
-ngOV8A08aQVGbQFm5Pn8zdlHpPi,15986180,Herodotos 5.42.2-3,[]
-ngRY8D38dSeJ8TIR8TA1dgoWsRF,15986183,Pausanias 3.14.3,[]
-ngTA8r58fVAL5VKn0TC3giqGuTH,15986185,Anagraphs of Lindos FGrHist 532 §17,[]
-ngSZ0K68eSZK7UJG1TL4fhpBtTm,15986906,Stephanos of Byzantion s. v. Avenion,[]
+ngOV5A48aOVG9QFO9OX27dlBpOC,15813854,Pseudo-Skymnos 215-16,['πόλις city']
+ngGN7w28sIXYqIXY7GZ0rvdHhGa,15986172,Herodotos 4.160.1,"['πόλις city', 'χῶρος a definite space, place', 'κτίζω to found, create, establish', 'ἀπολιμπάνω to leave', 'οἴχομαι to go, to come (rarely in general sense; without the idea of departure)', ""ὑποδέχομαι receive into one's house, welcome"", 'ἀποστάζω let fall drop by drop, distil away', 'στρατεύω to advance with an army', 'φεύγω to flee, take flight', 'ἐπιδιώκω pursue after', 'γίγνομαι to be, go, proceed (main reading: to become)', 'συμβάλλω to come together, join, meet', 'νικάω to conquer']"
+ngKR7a68wKxC6MBK1L74vzhDlLe,15986176,Pindar Scholiaion 5,"['ἡγεμονία guidance, leadership, hegemony, supremacy', 'ἔποικος settler', 'οἰκίζω to found, to establish', 'πέμπω to send', 'συλλέγω to collect, come/get together']"
+ngLS7b78xLiD7NCH2Mk51aiYmMZ,15986177,Theotimos FGrHist 470 f1,"['ἔποικος settler', 'ἡγεμονία guidance, leadership, hegemony, supremacy', 'οἰκίζω to found, to establish', 'πέμπω to send', 'ἄγω to lead, to bring', 'συλλέγω to collect, come/get together']"
+ngOV8A08aQVGbQFm5Pn8zdlHpPi,15986180,Herodotos 5.42.2-3,"['πρέσβυς ambassador, envoy', 'ἀποικία settlement away from home', 'γῆ earth, inhabited land, native land', 'πλοῖον floating vessel, ship, boat', 'χῶρος a definite space, place', 'ἄγω to lead, to bring', 'κτίζω to found, create, establish', 'φέρω to carry, bear', 'καθηγέομαι act as guide, lead the way', 'ἀφικνέομαι to arrive, come to', 'οἰκίζω to found, to establish', 'ἐξελαύνω to drive someone out, lead away']"
+ngRY8D38dSeJ8TIR8TA1dgoWsRF,15986183,Pausanias 3.14.3,"['στόλος expedition, journey', 'καταστρέφω subdue, overturn, upset', 'οἰκίζω to found, to establish']"
+ngTA8r58fVAL5VKn0TC3giqGuTH,15986185,Anagraphs of Lindos FGrHist 532 §17,"['οἰκίζω to found, to establish', 'κτίζω to found, create, establish']"
+ngSZ0K68eSZK7UJG1TL4fhpBtTm,15986906,Stephanos of Byzantion s. v. Avenion,['πόλις city']
 ngUB0o88gWBM0WLM3U963jrHvFI,15986908,Stephanos of Byzantion s. v. Azania,[]
 ngWD1I08iYDOjYNA5YF84ltrxHK,15986910,Philon of Byblos FGrHist 790 f20,[]
-ngIP4I88uJZA0KZA3IR68xfNjJW,15986948,Herodotos 1.165,[]
-ngLS5X18xMSDwNCP6Lk9xaigmLZ,15986951,Stephanos of Byzantion s. v. Allalia,[]
-ngPW5B58bPmH7RGf0PI3zemYqQj,15986955,Pseudo-Skymnos 203-4,[]
-ngRY5D78dRIJ9TIZ2RA58gomsSF,15986957,Pseudo-Skylax 2,[]
-ngSZ5A88eUZK0UJS3UL6ehpntTG,15986958,Strabo 3.4.8,[]
+ngIP4I88uJZA0KZA3IR68xfNjJW,15986948,Herodotos 1.165,"['πόλις city', 'στόλος expedition, journey', 'χώρα space', 'στέλλω to send, also: set sail, to get ready to go (trans. and med.)', 'ἀνίστημι to leave, to depart, to emigrate', 'καταπλέω to return by sea, to sail down', 'παραδέχομαι receive from', 'ὑπολείπω to leave remaining, to be left', 'καταποντίζω throw into the sea, plunge', 'ἥκω to come back/return, be present, to have come', 'λαμβάνω to take (away), to capture, invade, discover', 'γίγνομαι to be, go, proceed (main reading: to become)', 'ἀποπλέω to sail away', 'πλέω to sail, travel by sea']"
+ngLS5X18xMSDwNCP6Lk9xaigmLZ,15986951,Stephanos of Byzantion s. v. Allalia,"['πόλις city', 'κτίσμα Foundation, settlement, colony']"
+ngRY5D78dRIJ9TIZ2RA58gomsSF,15986957,Pseudo-Skylax 2,"['πόλις city', 'ἀποικία settlement away from home', 'παράπλοος coasting voyage']"
+ngSZ5A88eUZK0UJS3UL6ehpntTG,15986958,Strabo 3.4.8,"['λιμήν harbour', 'χώρα space', 'κτίσμα Foundation, settlement, colony', 'πόλις city', 'ἤπειρος (main)land', 'πολίτευμα business of government, act of administration', 'πολίχνη small town, fort', 'οἰκέω to inhabit, reside, dwell', 'ἔχω to occupy, dwell in', 'συνέρχομαι to come together', 'ἀναλαμβάνω take up', 'συμβαίνω to meet, to come to an agreement, to be agreed']"
 ngTA5B98fVKL1VKT4T071iqCuUn,15986959,Livy 26.19,[]
-ngUB6C08gVhM2WLQ5UN8hjrZvWI,15986960,Pliny the Elder 3.22,[]
-ngVC6D18hWsN3XMJ6W29fksSwWJ,15986961,Stephanos of Byzantion s. v. Emporion,[]
-ngXE6F38jYOPhZOJ8X416muKyZL,15986963,Silius Italicus 3.357,[]
-ngEL7y08qEVWoGVA5FN8ptbzfGS,15986970,Pseudo-Skymnos 209,[]
+ngUB6C08gVhM2WLQ5UN8hjrZvWI,15986960,Pliny the Elder 3.22,"['incola inhabitant', 'suboles offspring, progeny, posterity, issue, stock, lineage']"
+ngVC6D18hWsN3XMJ6W29fksSwWJ,15986961,Stephanos of Byzantion s. v. Emporion,"['πόλις city', 'κτίσμα Foundation, settlement, colony', 'πολίτης citizen']"
+ngXE6F38jYOPhZOJ8X416muKyZL,15986963,Silius Italicus 3.357-78,"['fundo to lay the bottom, make a foundation, found, begin']"
+ngEL7y08qEVWoGVA5FN8ptbzfGS,15986970,Pseudo-Skymnos 209-214,[]
 ngGN7w28sIXYqIXU7H30svdbhHU,15986972,Timaeos of Tauromenion FGrHist 566 f 71,[]
-ngHO7x38tIeZ8JYf8H418weEiHV,15986973,Stephanos of Byzantion s. v. Massalia,[]
+ngHO7x38tIeZ8JYf8H418weEiHV,15986973,Stephanos of Byzantion s. v. Massalia,"['πόλις city', 'κυβερνήτης steersman, pilot', 'προσπλέω to sail towards', 'κελεύω urge, drive on']"
 ngIP7y48uJPA9KZc9KB28xfBjIc,15986974,Timaeos of Tauromenion FGrHist 566 f72,[]
-ngKR7a68wKxC6MBK1L74xzhPlKY,15986976,Isocrates Archidamos 84,[]
+ngKR7a68wKxC6MBK1L74xzhPlKY,15986976,Isocrates Archidamos 84,"['φεύγω to flee, take flight', 'ἐκλείπω to leave (and go somewhere else)', 'ἀποικέω to go/live from home, settle', 'ὑπομένω stay behind']"
 ngLS7b78xLiD7NCL2Lk5xaiAmNZ,15986977,Hekataios FGrHist 1 f55,[]
-ngMT7c88yMTE8ODE3OF62bjhnNA,15986978,Thucydides 1.13,[]
-ngNU7d98zNEF9PEF4OG7ackKoPB,15986979,Athenaios Deipnosophistes 13.36,[]
+ngMT7c88yMTE8ODE3OF62bjhnNA,15986978,Thucydides 1.13.6,"['οἰκίζω to found, to establish']"
+ngNU7d98zNEF9PEF4OG7ackKoPB,15986979,Athenaios Deipnosophistes 13.36,"['κτίζω to found, create, establish', 'συνοικέω to dwell (together)']"
 ngOV8A08aQVG0QFC5OX8ydlHpOi,15986980,Aristotle Fr. 560,[]
-ngSZ8K48eSJKcUJW9UB2chpntSo28,15986984,Justin Epitome 43.3.8-11,[]
-ngWD8u88iXtO8YNA3Xv6iltTxYK,15986988,Strabo 14.2.10,[]
-ngXE8v98jYOP4ZOP4Yw7jmusyZL,15986989,Pseudo-Skymnos 205-6,[]
+ngSZ8K48eSJKcUJW9UB2chpntSo28,15986984,Justin Epitome 43.3.8-11,"['terra earth', 'condo to found, establish, settle']"
+ngWD8u88iXtO8YNA3Xv6iltTxYK,15986988,Strabo 14.2.10,"['πόλις city', 'κτίσις founding, settling', 'συνοικίζω make to live with', 'πλέω to sail, travel by sea', 'κτίζω to found, create, establish', 'κατέχω to occupy, invade, conquer, possess, settle, dwell in', 'ἀλάομαι to wander, roam', 'οἰκέω to inhabit, reside, dwell', 'ἀνάγω to lead up, carry by sea, bring back']"
+ngXE8v98jYOP4ZOP4Yw7jmusyZL,15986989,Pseudo-Skymnos 201-6,"['πόλις city', 'ναῦς ship', 'κτίζω to found, create, establish', 'ἀποικίζω to send away from home, banish', 'ἔχω to occupy, dwell in']"
 ngZG9x18lZwR5BQt6BI94owWaZN,15986991,Stephanos of Byzantion s. v. Nikaia,[]
-ngAH9y28mAHS6CRu7BT04pxPbBO,15986992,Pliny the Elder HN 3.47,[]
+ngAH9y28mAHS6CRu7BT04pxPbBO,15986992,Pliny the Elder HN 3.47,"['condo to found, establish, settle']"
 ngDK9x58pFUV9FUL0D63psaueDx,15986995,Stephanos of Byzantion s. v. Olbia,[]
-ngEL9y68qFrWrGVW1FN4ptbNfFy,15986996,Stephanos of Byzantion s. v. Rhodanousia,[]
-ngFM9z78rGcXsHWX2FY5pucKgHT,15986997,Pseudo-Skymnos 208,[]
-ngGN9a88sHNYsIXe3Hf61vdThHU,15986998,Stephanos of Byzantion s. v. Rhadanusia,[]
-ngNU0F18zOkF2PEV6OG9yckKoOB,15987001,Stephanos of Byzantion s. v. Troizen,[]
-ngPW0H38bQGH4RGP8QY16emIqQj,15987003,Strabo 3.4.6,[]
-ngQX0I48cQdI5SHM9Qp29fnNrQE,15987004,Stephanos of Byzantion s. v. Hemeroskopeion,[]
+ngEL9y68qFrWrGVW1FN4ptbNfFy,15986996,Stephanos of Byzantion s. v. Rhodanousia,"['πόλις city', 'πολίτης citizen']"
+ngFM9z78rGcXsHWX2FY5pucKgHT,15986997,Pseudo-Skymnos 206-10,['ἀποικία settlement away from home']
+ngGN9a88sHNYsIXe3Hf61vdThHU,15986998,Stephanos of Byzantion s. v. Rhadanusia,['πόλις city']
+ngNU0F18zOkF2PEV6OG9yckKoOB,15987001,Stephanos of Byzantion s. v. Troizen,['χώρα space']
+ngPW0H38bQGH4RGP8QY16emIqQj,15987003,Strabo 3.4.6,"['πολίχνη small town, fort']"
+ngQX0I48cQdI5SHM9Qp29fnNrQE,15987004,Stephanos of Byzantion s. v. Hemeroskopeion,"['πόλις city', 'ἄποικος emigrant, colonist']"
 ngSZ0K68eSZK7UJG1TL4fhpntTG,15987006,Pseudo-Skymnos 146-150,[]
-ngTA0r78fVAL9VKF2Ts51iqYuEH,15987007,Strabo 3.4.2,[]
-ngQX5C68cQXI7SHU1QJ4cfnNrSE,15996956,Diodorus Siculus 14.37.5,"['πόλις city', 'κτίζω to found, create, establish']"
-ngXE3B78jYkPhZOn2ZG5jmuYyYr,15997037,Thucydides 6.4.4,"['πόλις city', 'οἰκιστής founder', 'νόμιμα usages, customs, laws', 'κτίζω to found, create, establish']"
-ngYF3C88kZFQ3APs3Y963nvVzYM,15997038,Polybius 9.27.6-8,"['ἀποικίζω to send away from home, banish', 'κτίζω to found, create, establish']"
+ngTA0r78fVAL9VKF2Ts51iqYuEH,15987007,Strabo 3.4.2,"['πόλις city', 'ἐμπόριον trading-station, mart, factory', 'νομάς roaming about for pasture', 'διορίζω draw a boundary through, delimit, separate', 'παραλαμβάνω to receive, accept, to take, capture']"
+ngQX5C68cQXI7SHU1QJ4cfnNrSE,15996956,Diodorus Siculus 14.37.5,"['πόλις city', 'κτίζω to found, create, establish', 'πράσσω pass through, pass over', 'προσαγορεύω address, greet, call']"
+ngXE3B78jYkPhZOn2ZG5jmuYyYr,15997037,Thucydides 6.4.4,"['πόλις city', 'οἰκιστής founder', 'νόμιμα usages, customs, laws', 'οἴκισις colonization', 'ποταμός river, stream', 'κτίζω to found, create, establish', 'οἰκίζω to found, to establish']"
+ngYF3C88kZFQ3APs3Y963nvVzYM,15997038,Polybius 9.27.6-8,"['πόλις city', 'ἀποικίζω to send away from home, banish', 'κτίζω to found, create, establish']"
 ngEL7u08qGLW4GVy5F18qtbXfEy,15997970,Dionysios of Halikarnassos Ant. Rom. 1.51.2,"['ναυτιλία sailing, seamanship', 'οἶκος house, also: family, lineage', 'ἀποικία settlement away from home', 'στόλος expedition, journey', 'συμπλέω to sail in company with', 'διαίρω to cross, pass through', 'συνεφέπομαι to follow together', 'κατοικέω to settle']"
 ngJQ7z58vKAB0LAV0Ki3tygKkJd,15997975,Herodotos 7.153.1,"['οἰκήτωρ inhabitant', 'ἄγγελος messenger, envoy', 'ἀφικνέομαι to arrive, come to', 'κτίζω to found, create, establish', 'λείπω to leave, quit']"
-ngLS7b78xLiD1NCZ2LE5waiAmMZ,15997977,Stephanos of Byzantion s. v. Gela,"['πλέω to sail, travel by sea']"
+ngLS7b78xLiD1NCZ2LE5waiAmMZ,15997977,Stephanos of Byzantion s. v. Gela,"['πόλις city', 'πλέω to sail, travel by sea']"
 ngXE8v98jYEPkZOv4Yw73muMyZL,15997989,Homer Hom. Il. 13.701-722,['ἕπομαι to follow']
+ngVC0p98hViNfXMN4WO7gksSwGJ,15998009,Stephanos of Byzantion s. v. Enna,"['κτίσμα Foundation, settlement, colony', 'πολίτης citizen', 'πόλις city']"
+ngWD1m08iWtOiYNA5Xv8hltJxHK,15998010,Thucydides 6.4.3,"['ἔποικος settler', 'πόλις city', 'οἴκισις colonization', 'νόμιμα usages, customs, laws', 'ποταμός river, stream', 'ἄγω to lead, to bring', 'κτίζω to found, create, establish', 'πέμπω to send', 'γίγνομαι to be, go, proceed (main reading: to become)', 'τειχίζω build a wall, form a wall']"
+ngCJ1U68oDzU7ETO1DV40rbndCG,15998016,Herodotos 5.46.2,"['ἀποικία settlement away from home', 'στρατία army', 'συλλαμβάνω collect, gather together', 'ἔχω to bear, carry, bring', 'συνελευθερόω join in freeing from', 'καταφεύγω flee for refuge (to a certain place)']"
+ngSZ8K48eSJKcUJS9SL25hprtUY26,15999784,Herodotos 5.43,"['χώρα space', 'στόλος expedition, journey', 'κτίζω to found, create, establish', 'στέλλω to send, also: set sail, to get ready to go (trans. and med.)', 'παραλαμβάνω to receive, accept, to take, capture', 'ἄγω to lead, to bring', 'κομίζω carry off; carry off as a prize or booty, to take']"
+ngUB8s68gWLMfWLY1WN40jrVvVo,15999786,Herodotos 5.46.1,"['συγκτίστης jointfounder', 'συμπλέω to sail in company with']"
+ngCJ9w48oEJU9ETs9D526rzPdEQ,15999794,Diodorus Siculus 4.23.3,"['χώρα space', 'ἡγεμονία guidance, leadership, hegemony, supremacy', 'συγχωρέω to go, come together, meet; also: to give way', 'λαμβάνω to take (away), to capture, invade, discover', 'παραγίγνομαι to arrive at, come to, be by', 'ἀπολαμβάνω to take, receive; to take back', 'καταντάω to come down to, arrive', 'κτίζω to found, create, establish', 'ἀφαιρέω to take away from', 'στρατεύω to advance with an army', 'κατασκάπτω destroy utterly, raze to the ground']"
+ngRY0J58dRoJcTIR0S63egoqsSl,15999805,Thucydides 6.5.1,"['ἀποικία settlement away from home', 'φυγάς one who flees', 'νόμιμα usages, customs, laws', 'οἰκίζω to found, to establish', 'ἔρχομαι to come, go', 'συνοικίζω to make live together']"
+ngUB0s88gVLMeWLI3UN68jrJvFI,15999808,Strabo 6.2.6,"['κτίζω to found, create, establish']"
+ngPW0H38bQGHcRGH8Po15emEqPD,16013703,Thucydides 6.5.3,"['κτίσις founding, settling', 'οἰκιστής founder', 'οἰκίζω to found, to establish', 'ἔρχομαι to come, go', 'ἀναστατέω carry off', 'γίγνομαι to be, go, proceed (main reading: to become)', 'ἀποστάζω let fall drop by drop, distil away', 'κατοικίζω to establish, settle']"
+ngPW2L98bPWH1RGB4Q073emgqPj,16013729,Thucydides 6.5.2,"['οἰκίζω to found, to establish']"
+ngEL4E48qGVW9GVM9F527tbJfES,16013744,Thucydides 6.3.3,"['οἰκιστής founder', 'ὁρμάω to set in motion', 'πέμπω to send', 'οἰκίζω to found, to establish', 'ἐξελαύνω to drive someone out, lead away']"
+ngQX5C68cQXI7SHY1Rp4cfnDrQE,16013756,Diodorus Siculus 5.7.5-6,"['πόλις city', 'φεύγω to flee, take flight', 'παραλαμβάνω to receive, accept, to take, capture', 'καταστασιάζω to be overpowered', 'κτίζω to found, create, establish']"
+ngXE6F38jYOP3ZOr8X414muUyZL,16013763,Thucydides 3.88.2,"['ἀποικέω to go/live from home, settle', 'οἰκέω to inhabit, reside, dwell', 'ὁρμάω to set in motion']"
+ngDK6x98pDUV4FUH4Ec7osaueEx,16013769,Pausanias 10.11.3-4,"['ἀποικία settlement away from home', 'ἡγεμών one who leads', 'πόλις city', 'γῆ earth, inhabited land, native land', 'ἀποικέω to go/live from home, settle', 'κτίζω to found, create, establish', 'έκπίπτω to exile/cast out someone (or: to fall out)', 'ἀνίστημι to leave, to depart, to emigrate', 'ἐνοικέω to dwell in, inhabit', 'οἰκέω to inhabit, reside, dwell', 'διαβαίνω to go across, cross, go beyond', 'ἄνειμι to go back, to ascend, proceed', 'ἐμβαίνω step in']"
+ngFM7v18rHWX4HWv6Ge92ucSgHT,16013771,Antiochus of Syrakuse FGrHist 555 f1,[]
+ngIP7y48uJPA5KZQ9Ih26xfVjKW,16013774,Strabo 6.2.10,"['ἄποικος emigrant, colonist', 'στόλος expedition, journey', 'ἀντέχω hold (against)']"
+ngQX8C28cSHI7SHI7QZ04fnDrQE,16013782,Diodorus Siculus 5.9,"['ἡγεμονία guidance, leadership, hegemony, supremacy', 'ἀποικία settlement away from home', 'ἡγεμών one who leads', 'γένος kin, stock, race: of a single descendant', 'οἶκος house, also: family, lineage', 'πόλις city', 'διαφέρω to carry over', 'ἐκπέμπω to send out', 'ἀναφέρω bring, carry up', 'πλέω to sail, travel by sea', 'καταλαμβάνω to seize, lay hold of, arrive, occupy', 'ἀποβάλλω to lose; to throw away, remove, chase away, repel, exclude', 'αἱρέω to take, seize, grasp', 'ἀποπλέω to sail away', 'προσπλέω to sail towards', 'κατοικέω to settle']"
+ngJQ2F38vKgB5LAB8K41uygGkJX,16013923,Thucydides 6.4.1-2,"['ἀποικία settlement away from home', 'χώρα space', 'πόλις city', 'ἄγω to lead, to bring', 'ἀφικνέομαι to arrive, come to', 'χωρέω to make room for another, withdraw, go, advance, to occupy a space', 'οἰκίζω to found, to establish', 'συμπολιτεύω live as fellow citizens', 'ἐκπίτνω to be driven out', 'καθηγέομαι act as guide, lead the way', 'οἰκέω to inhabit, reside, dwell', 'κτίζω to found, create, establish', 'ἐπέρχομαι to come (towards ), proceed, arrive, approach', 'συγκατοικίζω colonize jointly, join in colonizing']"
+ngMT2I68yMzEzODg1OV49bjBnMA,16013926,Ephoros FGrHist 70 f137,[]
+ngSZ3K28eUJK2UJW7S302hpFtUG,16013932,Strabo 6.2.2,"['πόλις city', 'ἐμπορία commerce, trade', 'γῆ earth, inhabited land, native land', 'κτίζω to found, create, establish', 'πλέω to sail, travel by sea', 'παραφέρω to bring to', 'ἐπανέρχομαι to return, go back, to join, enter', 'παραλαμβάνω to receive, accept, to take, capture', 'συμμένω hold together, keep together']"
+ngUB3Y48gWBM8WLQ9V529jrZvUI,16013934,Pseudo-Skymnos 264-277,[]
+ngZG3D98lAQR4BQN4BS72owMaBN,16013939,Thucydides 6.3.1,"['οἰκιστής founder', 'πόλις city', 'πλέω to sail, travel by sea', 'οἰκίζω to found, to establish']"
+ngDK4H38pDUVnFUV8Ec15saMeEx,16013943,Diodorus Siculus 14.88.1,"['χώρα space', 'καταπλέω to return by sea, to sail down', 'κτίζω to found, create, establish', 'ἐκβάλλω to throw someone/something out', 'κατοικέω to settle', 'ἀνακτάομαι regain for oneself, recover', 'κατέχω to occupy, invade, conquer, possess, settle, dwell in']"
+ngOV5A48aOlGzQFO9QH24dlfpOi,16016454,Thucydides 6.4.2,"['χώρα space', 'μητρόπολις mothercity, motherstate', 'οἰκέω to inhabit, reside, dwell', 'οἰκίζω to found, to establish', 'πέμπω to send', 'κτίζω to found, create, establish', 'ἐπέρχομαι to come (towards ), proceed, arrive, approach', 'συγκατοικίζω colonize jointly, join in colonizing']"
+ngTA5B98fVKLfVKj4Us7diqsuTn,16016459,Thucydides 6.3.2,"['πόλις city', 'οἰκίζω to found, to establish', 'ἐξελαύνω to drive someone out, lead away', 'προστειχίζω include in the city-wall', 'γίγνομαι to be, go, proceed (main reading: to become)']"
+ngXE6F38jYOP3ZOr8Yw18musyXL,16016463,Pseudo-Skymnos 283-6,['πόλις city']
+ngZG9x18lZmRlBQD6BI95owAaAt,16020091,Pseudo-Skymnos 323-25,"['πόλις city', 'ἀποικίζω to send away from home, banish', 'γίγνομαι to be, go, proceed (main reading: to become)']"
+ngZG1Z38lBGR3BQV8AS1mowMaKN,16021013,Herodotos 5.44,"['συστρατεύω to undertake an expedition together', 'συναιρέω seize together']"
+ngDK4H38pDUVnFUZ8D417saceDx,16021043,Pseudo-Skymnos 326-29,"['πόλις city', 'κτίζω to found, create, establish', 'ἀφικνέομαι to arrive, come to']"
+ngHO4H78tIOZ9JYP2JQ5tweyiIb,16021047,Pseudo-Skymnos 306-308,"['οἰκίζω to found, to establish']"
+ngIP2E28uJvA5KZM7KR06xfdjIW,16021622,Ioannes Tzetzes Lycoph. Alex. 911,"['πόλις city', 'ποταμός river, stream', 'γῆ earth, inhabited land, native land']"
+ngNU2J78zNkFaPEB2Om57ckGoNh,16021627,Virgil 3.401-2,[]
+ngQX3M08cQHI1SHk5RZ8cfnlrSE,16021630,Servius Ad Aen. 3.402,"['condo to found, establish, settle', 'relinquo leave behind, departure, moving away', 'duco to lead on the march, command', '(navigio) peto to strive for, seek, aim at, repair to, make for, travel to (by ship)']"
+ngXE3B78jYkPhZOn2XG5imuCyZL,16021637,Pliny the Elder HN 3.10.2,"['litus the sea-shore, sea-side, beach, strand', 'portus a harbor, haven, port', 'sinus bay', 'oppidum town, city']"
+ngYF3C88kZFQ3APw3Yx6invVzZM,16021638,Stephanos of Byzantion s. v. Terina,[]
+ngZG3D98lAQR4BQR4A07lowMaBN,16021639,Phlegon of Tralles FGrHist 257 f31,[]
+ngVC3Z58hXCNhXMp0VO38ksSwXJ,16024935,Stephanos of Byzantion s.v. Anchiale,[]
+ngYF3C88kZFQ3APG3ZR68nvtzZM,16024938,Stephanos of Byzantion s. v. Dikaia,"['ἄποικος emigrant, colonist', 'πόλις city']"
+ngZG3D98lAQR4BQZ4Z07kowSaZt,16024939,St. Jerome Chronikon B 530,"['condo to found, establish, settle']"
+ngAH4E08mAnS3CRq5CT8npxFbAO,16024940,Stephanos of Byzantion s. v. Potioloi,"['πόλις city', 'κτίσμα Foundation, settlement, colony']"
+ngCJ4G28oCJUnETG7DL0mrzLdCw,16024942,Strabo 5.4.6,"['πόλις city', 'ἀκτή promontory, beach', 'ἐπίνειον sea-port']"
+ngRY0J58dRoJcTID0Rq30goqsSl,16025405,Ioannes Tzetzes Lycoph. Alex. 927,['πόλις city']
+ngYF1G28kYPQjAPM7Yx0lnvVzJM,16025412,Stephanos of Byzantion s. v. Makalla,['πόλις city']
+ngSZ5A88eUZKfUJW3SB68hpLtSm,16025958,Virgil Aen. 337-383,"['gubernator steersman, helmsman, pilot']"
+ngVC6D18hWsNgXMZ6Wu9hksAwXJ,16025961,Stephanos of Byzantion s. v. Parthenope,"['πόλις city', 'κτίσμα Foundation, settlement, colony', 'πολίτης citizen']"
+ngZG6H58lZwRlBQH0Ay37owMaAN,16025965,Herodotos 6.21.1,"['πόλις city', 'οἰκέω to inhabit, reside, dwell']"
