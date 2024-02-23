@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-02-22T23:00:03+00:00",
+    "timestamp": "2024-02-23T23:00:02+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -25636,19 +25636,19 @@
                 "object": {
                     "nodegoat_id": "ngPW8B18bRGHcQcn1QI9zemUqRD",
                     "object_id": 15986181,
-                    "object_name": "Battus",
+                    "object_name": "Battos of Thera",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-01-26T21:28:58Z"
+                    "object_dating": "2024-02-22T23:08:26Z"
                 },
                 "object_definitions": {
                     "35523": {
                         "object_description_id": 35523,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Battus",
+                        "object_definition_value": "Battos of Thera",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -29686,6 +29686,90 @@
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [26.239584299662564, 39.95680095545173]}",
                             "object_sub_location_geometry_ref_object_id": 12427796,
+                            "object_sub_location_geometry_ref_type_id": 12160,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 12160,
+                            "object_sub_location_ref_object_sub_details_id": 13068,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": "reference",
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "16025966": {
+                "object": {
+                    "nodegoat_id": "ngAH6I68mAHSmBnA6BJ4mpxNbCO",
+                    "object_id": 16025966,
+                    "object_name": "Chionis of Sparta",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-22T23:07:31Z"
+                },
+                "object_definitions": {
+                    "35523": {
+                        "object_description_id": 35523,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Chionis of Sparta",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35520": {
+                        "object_description_id": 35520,
+                        "object_definition_ref_object_id": 11945255,
+                        "object_definition_value": "Traveller: mythical",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35522": {
+                        "object_description_id": 35522,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Q1074480",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35556": {
+                        "object_description_id": 35556,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35539": {
+                        "object_description_id": 35539,
+                        "object_definition_ref_object_id": 12433418,
+                        "object_definition_value": "Sparta",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35540": {
+                        "object_description_id": 35540,
+                        "object_definition_ref_object_id": [
+                            12336532
+                        ],
+                        "object_definition_value": [
+                            "Kyrene"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23122054": {
+                        "object_sub": {
+                            "object_sub_id": 23122054,
+                            "object_sub_details_id": 13427,
+                            "object_sub_date_start": 0,
+                            "object_sub_date_end": 0,
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [22.4272985, 37.077905]}",
+                            "object_sub_location_geometry_ref_object_id": 12433418,
                             "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 12160,

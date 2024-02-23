@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-02-22T23:00:04+00:00",
+    "timestamp": "2024-02-23T23:00:04+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -4708,19 +4708,19 @@
                 "object": {
                     "nodegoat_id": "ngNU2J78zOEFyOaNaOG5ackmoNh",
                     "object_id": 13657327,
-                    "object_name": "Foundation of Métauros",
+                    "object_name": "Foundation of Métauros from Lokri",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-20T10:22:44Z"
+                    "object_dating": "2024-02-23T00:14:20Z"
                 },
                 "object_definitions": {
                     "35544": {
                         "object_description_id": 35544,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Foundation of Métauros",
+                        "object_definition_value": "Foundation of Métauros from Lokri",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -4749,11 +4749,9 @@
                     "35546": {
                         "object_description_id": 35546,
                         "object_definition_ref_object_id": [
-                            12427789,
                             12378472
                         ],
                         "object_definition_value": [
-                            "Zankle",
                             "Lokri Epizephyrii"
                         ],
                         "object_definition_sources": [],
@@ -4812,22 +4810,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
-                    "35519": {
-                        "object_description_id": 35519,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "According to Solinos, Métauros was founded by the Chalcidians in Zankle, Sicily.\r\n\r\nAccording to Stephanos Byzantinos, Métauros (which he calls a Sicilian polis) was founded from Lokri Epizephyrii.",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
                     "35524": {
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
-                            12411819,
                             13657326,
                             12411841
                         ],
                         "object_definition_value": [
-                            "Solinos 2.10-11",
                             "Stephanos of Byzantion s.v. Matauros",
                             "Strabo 6.1.5"
                         ],
@@ -6445,19 +6434,19 @@
                 "object": {
                     "nodegoat_id": "ngNU7Z98zPEF9OaVaPG72ckWoNh",
                     "object_id": 13961179,
-                    "object_name": "Foundation of Kyme",
+                    "object_name": "Foundation of Kyme from Euboea",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-03-21T14:08:53Z"
+                    "object_dating": "2024-02-22T23:02:27Z"
                 },
                 "object_definitions": {
                     "35544": {
                         "object_description_id": 35544,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Foundation of Kyme",
+                        "object_definition_value": "Foundation of Kyme from Euboea",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -6470,8 +6459,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -6502,12 +6495,10 @@
                     "47038": {
                         "object_description_id": 47038,
                         "object_definition_ref_object_id": [
-                            14235456,
-                            14235457
+                            14235456
                         ],
                         "object_definition_value": [
-                            "aims to explain the foundation of a place",
-                            "aims to explain the geneaological origins of people or a putative kinship relationship"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6515,10 +6506,12 @@
                     "35518": {
                         "object_description_id": 35518,
                         "object_definition_ref_object_id": [
-                            11945217
+                            11945217,
+                            11945227
                         ],
                         "object_definition_value": [
-                            "Settlement / first occupation of a place"
+                            "Settlement / first occupation of a place",
+                            "Formal naming of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6761,7 +6754,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-03-21T14:10:43Z"
+                    "object_dating": "2024-02-23T00:02:54Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -6780,8 +6773,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -6812,12 +6809,10 @@
                     "47038": {
                         "object_description_id": 47038,
                         "object_definition_ref_object_id": [
-                            14235456,
-                            14235457
+                            14235456
                         ],
                         "object_definition_value": [
-                            "aims to explain the foundation of a place",
-                            "aims to explain the geneaological origins of people or a putative kinship relationship"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6825,12 +6820,10 @@
                     "35518": {
                         "object_description_id": 35518,
                         "object_definition_ref_object_id": [
-                            11945216,
-                            11945215
+                            11945216
                         ],
                         "object_definition_value": [
-                            "War - forced displacement / dispersal (group)",
-                            "Exile / expulsion from home (individual)"
+                            "War - forced displacement / dispersal (group)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6853,20 +6846,15 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
-                    "35519": {
-                        "object_description_id": 35519,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "Herodotos describes the exile of the Sybarites at Laos after the defeat of Sybaris by the Krotoniates. According to Pseudo-Skylax, however, Laos was founded from Thourioi.",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
                     "35524": {
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
-                            13961207
+                            13961207,
+                            13961214
                         ],
                         "object_definition_value": [
-                            "Herodotos 6.21"
+                            "Herodotos 6.21",
+                            "Pseudo-Skylax 12"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -23204,7 +23192,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-01-26T21:32:22Z"
+                    "object_dating": "2024-02-23T00:03:30Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -23223,20 +23211,22 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945199
+                        ],
+                        "object_definition_value": [
+                            "None"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35546": {
                         "object_description_id": 35546,
                         "object_definition_ref_object_id": [
-                            12448861,
-                            12427795
+                            12448861
                         ],
                         "object_definition_value": [
-                            "Thera",
-                            "Peloponnese"
+                            "Thera"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -23249,6 +23239,13 @@
                         "object_definition_value": [
                             "Kyrene"
                         ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "44816": {
+                        "object_description_id": 44816,
+                        "object_definition_ref_object_id": 12429214,
+                        "object_definition_value": "Delphi",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -23265,25 +23262,35 @@
                     },
                     "35518": {
                         "object_description_id": 35518,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35542": {
                         "object_description_id": 35542,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            15986181
+                            15986181,
+                            16025966
                         ],
                         "object_definition_value": [
-                            "Battus"
+                            "Battos of Thera",
+                            "Chionis of Sparta"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -23292,11 +23299,23 @@
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
                             15986183,
-                            15986185
+                            15986185,
+                            16025967,
+                            16025968,
+                            16025969,
+                            16025972,
+                            16025973,
+                            16025974
                         ],
                         "object_definition_value": [
                             "Pausanias 3.14.3",
-                            "Anagraphs of Lindos FGrHist 532 §17"
+                            "Anagraphs of Lindos FGrHist 532 §17",
+                            "Kallimachos Ap. 65-80",
+                            "St. Jerome B761",
+                            "Diodorus Siculus 8.29.1",
+                            "Herodotos 4.156",
+                            "Strabo 17.3.21",
+                            "Justin 13.7"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -35067,6 +35086,141 @@
                         ],
                         "object_definition_value": [
                             "Herodotos 6.21.1"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16025975": {
+                "object": {
+                    "nodegoat_id": "ngJQ7z58vKAB0KwJwKi37ygekLX",
+                    "object_id": 16025975,
+                    "object_name": "Foundation of Métauros from Zankle",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-23T00:13:40Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Foundation of Métauros from Zankle",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12427789
+                        ],
+                        "object_definition_value": [
+                            "Zankle"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12414613
+                        ],
+                        "object_definition_value": [
+                            "Metauros"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945232
+                        ],
+                        "object_definition_value": [
+                            "Large groups"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12411819
+                        ],
+                        "object_definition_value": [
+                            "Solinos 2.10-11"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
