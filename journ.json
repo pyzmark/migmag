@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-02-23T23:00:04+00:00",
+    "timestamp": "2024-02-24T23:00:04+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -5154,7 +5154,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-21T13:56:46Z"
+                    "object_dating": "2024-02-24T22:59:33Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -5270,14 +5270,16 @@
                             13961110,
                             13961111,
                             13961112,
-                            14389019
+                            14389019,
+                            12528746
                         ],
                         "object_definition_value": [
                             "Solinos 2.10-11",
                             "Pausanias 6.3.12",
                             "Pseudo-Skymnos 318-22",
                             "Stephanos of Byzantion s. v. Kaulonia",
-                            "Hekataios FGrHist 1 f84"
+                            "Hekataios FGrHist 1 f84",
+                            "Strabo 6.1.10."
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5320,7 +5322,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-20T23:47:26Z"
+                    "object_dating": "2024-02-24T22:54:31Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -5345,8 +5347,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -5626,7 +5632,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-03-21T15:23:57Z"
+                    "object_dating": "2024-02-24T22:40:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -5645,8 +5651,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945196
+                        ],
+                        "object_definition_value": [
+                            "Sardinia"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -5675,10 +5685,10 @@
                     "47038": {
                         "object_description_id": 47038,
                         "object_definition_ref_object_id": [
-                            14235456
+                            14235457
                         ],
                         "object_definition_value": [
-                            "aims to explain the foundation of a place"
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5699,10 +5709,12 @@
                     "35542": {
                         "object_description_id": 35542,
                         "object_definition_ref_object_id": [
-                            11945232
+                            11945232,
+                            11945231
                         ],
                         "object_definition_value": [
-                            "Large groups"
+                            "Large groups",
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5759,19 +5771,19 @@
                 "object": {
                     "nodegoat_id": "ngHO4H78tHuZ1IuZuJQ52weUiHV",
                     "object_id": 13657347,
-                    "object_name": "Foundation of Karalis",
+                    "object_name": "Aristaios founds Karalis",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-03-21T14:04:31Z"
+                    "object_dating": "2024-02-24T16:33:44Z"
                 },
                 "object_definitions": {
                     "35544": {
                         "object_description_id": 35544,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Foundation of Karalis",
+                        "object_definition_value": "Aristaios founds Karalis",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -5784,15 +5796,23 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945196
+                        ],
+                        "object_definition_value": [
+                            "Sardinia"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35546": {
                         "object_description_id": 35546,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            12440362
+                        ],
+                        "object_definition_value": [
+                            "Boiotia"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -5838,10 +5858,12 @@
                     "35542": {
                         "object_description_id": 35542,
                         "object_definition_ref_object_id": [
-                            11945232
+                            14321443,
+                            11945231
                         ],
                         "object_definition_value": [
-                            "Large groups"
+                            "Band of companions of a hero",
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5867,10 +5889,12 @@
                     "35524": {
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
-                            13019624
+                            13019624,
+                            16026836
                         ],
                         "object_definition_value": [
-                            "Solinos Polyhistor 4.2"
+                            "Solinos Polyhistor 4.2",
+                            "Pausanias 10.17.3"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5903,19 +5927,19 @@
                 "object": {
                     "nodegoat_id": "ngMT5Y28yNjExNzMzM302bjVnMg",
                     "object_id": 13657352,
-                    "object_name": "Norax travels to Sardinia",
+                    "object_name": "Norax founds Nora",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-03-21T15:16:24Z"
+                    "object_dating": "2024-02-24T22:40:30Z"
                 },
                 "object_definitions": {
                     "35544": {
                         "object_description_id": 35544,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Norax travels to Sardinia",
+                        "object_definition_value": "Norax founds Nora",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -5928,8 +5952,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945196
+                        ],
+                        "object_definition_value": [
+                            "Sardinia"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -5947,11 +5975,9 @@
                     "35547": {
                         "object_description_id": 35547,
                         "object_definition_ref_object_id": [
-                            13657343,
                             12369996
                         ],
                         "object_definition_value": [
-                            "Sardinia",
                             "Nora"
                         ],
                         "object_definition_sources": [],
@@ -5982,10 +6008,12 @@
                     "35542": {
                         "object_description_id": 35542,
                         "object_definition_ref_object_id": [
-                            11945232
+                            11945231,
+                            14321443
                         ],
                         "object_definition_value": [
-                            "Large groups"
+                            "Heroes (named individuals)",
+                            "Band of companions of a hero"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6119,7 +6147,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-03-21T15:13:48Z"
+                    "object_dating": "2024-02-24T22:50:20Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -6138,8 +6166,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945196
+                        ],
+                        "object_definition_value": [
+                            "Sardinia"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -6157,11 +6189,9 @@
                     "35547": {
                         "object_description_id": 35547,
                         "object_definition_ref_object_id": [
-                            13657343,
                             12370090
                         ],
                         "object_definition_value": [
-                            "Sardinia",
                             "Olbia"
                         ],
                         "object_definition_sources": [],
@@ -6209,10 +6239,12 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            13019646
+                            13019646,
+                            16026903
                         ],
                         "object_definition_value": [
-                            "Iolaos"
+                            "Iolaos",
+                            "The Thespians"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6220,7 +6252,7 @@
                     "35519": {
                         "object_description_id": 35519,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Pausanias says that Iolaos, the nephew of Herakles, takes men from Attika to Sardinia and is the founder of Olbia. The Athenians then found Ogryle by themselves.",
+                        "object_definition_value": "Pausanias says that Iolaos, the nephew of Herakles, takes men from Attika to Sardinia and is the founder of Olbia. The Athenians then found Ogryle by themselves.\r\n\r\nA long time before, an oracle had commanded Herakles to go to Sardinia (4.29).",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -6273,7 +6305,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-18T22:41:37Z"
+                    "object_dating": "2024-02-24T21:48:04Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -6395,13 +6427,15 @@
                             13961108,
                             12498895,
                             14386343,
-                            12498533
+                            12498533,
+                            13962574
                         ],
                         "object_definition_value": [
                             "Herodotos 1.166-7",
                             "Ammianus Marcellinus Hist. 15.9.7",
                             "Antiochus of Syrakuse FGrHist 555 f8",
-                            "Strabo 6.1.1."
+                            "Strabo 6.1.1.",
+                            "Pseudo-Skymnos 247-252"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6592,19 +6626,19 @@
                 "object": {
                     "nodegoat_id": "ngQX8g28cQHI7RdCdRp0dfnFrSE",
                     "object_id": 13961182,
-                    "object_name": "Foundation of Zankle",
+                    "object_name": "Kymeans found Zankle",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-15T10:23:29Z"
+                    "object_dating": "2024-02-24T22:24:20Z"
                 },
                 "object_definitions": {
                     "35544": {
                         "object_description_id": 35544,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Foundation of Zankle",
+                        "object_definition_value": "Kymeans found Zankle",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -6675,10 +6709,12 @@
                     "35542": {
                         "object_description_id": 35542,
                         "object_definition_ref_object_id": [
-                            11945232
+                            11945232,
+                            11945231
                         ],
                         "object_definition_value": [
-                            "Large groups"
+                            "Large groups",
+                            "Heroes (named individuals)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6691,7 +6727,7 @@
                         ],
                         "object_definition_value": [
                             "Perieres of Chalkis",
-                            "Krataemenes of Kyme"
+                            "Krataemenes"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6699,7 +6735,7 @@
                     "35519": {
                         "object_description_id": 35519,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "According to Thucydides, Zankle was founded by pirates coming from Kyme and Chalkis.",
+                        "object_definition_value": "According to Thucydides, Zankle was founded by pirates coming from Kyme and Chalkis. Krataemenes is called by Thucydides a Kymean, but by Pausanias a Samian.",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -6733,10 +6769,12 @@
                     "47960": {
                         "object_description_id": 47960,
                         "object_definition_ref_object_id": [
-                            16016464
+                            16016464,
+                            16026899
                         ],
                         "object_definition_value": [
-                            "Zankle is a foundation of Naxos"
+                            "Zankle is a foundation of Naxos",
+                            "Zankle is renamed Messina"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6901,33 +6939,41 @@
                 "object": {
                     "nodegoat_id": "ngOV2K88aPFG2PbCbP96bdlBpOC",
                     "object_id": 13961228,
-                    "object_name": "Foundation of Metapontion",
+                    "object_name": "Nestor and the Pylians found Metapontion",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-03-21T14:24:58Z"
+                    "object_dating": "2024-02-24T18:25:11Z"
                 },
                 "object_definitions": {
                     "35544": {
                         "object_description_id": 35544,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Foundation of Metapontion",
+                        "object_definition_value": "Nestor and the Pylians found Metapontion",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "53491": {
                         "object_description_id": 53491,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16026862
+                        ],
+                        "object_definition_value": [
+                            "Foundations of Metapontion"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -6935,11 +6981,13 @@
                         "object_description_id": 35546,
                         "object_definition_ref_object_id": [
                             12427796,
-                            12433172
+                            12433172,
+                            12427786
                         ],
                         "object_definition_value": [
                             "Troy",
-                            "Achaia"
+                            "Achaia",
+                            "Pylos"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6958,14 +7006,10 @@
                     "47038": {
                         "object_description_id": 47038,
                         "object_definition_ref_object_id": [
-                            14235456,
-                            14235457,
-                            14235458
+                            14235456
                         ],
                         "object_definition_value": [
-                            "aims to explain the foundation of a place",
-                            "aims to explain the geneaological origins of people or a putative kinship relationship",
-                            "aims to explain the origins of social practices/institutions (e.g. cult practices)"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6997,16 +7041,10 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            13961218,
-                            12513148,
-                            13961221,
-                            14392619
+                            13961218
                         ],
                         "object_definition_value": [
-                            "Nestor",
-                            "Leukippos",
-                            "Daulios",
-                            "Epeus"
+                            "Nestor"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -7015,17 +7053,11 @@
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
                             12411838,
-                            14000914,
-                            13961217,
-                            14000904,
-                            12411839
+                            13961217
                         ],
                         "object_definition_value": [
                             "Strabo 6.1.15",
-                            "Pseudo-Skymnos 300-340",
-                            "Antiochus of Syrakuse FGrHist 555, f12",
-                            "Justin 20.2",
-                            "Vellius Paterculus 1.1.1-2"
+                            "Antiochus of Syrakuse FGrHist 555, f12"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -7209,19 +7241,19 @@
                 "object": {
                     "nodegoat_id": "ngHO7x38tJYZ5IuPuH418weWiIV",
                     "object_id": 13962573,
-                    "object_name": "Foundation of Poseidonia",
+                    "object_name": "Poseidonia was founded by the Sybarites",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-03-21T14:41:52Z"
+                    "object_dating": "2024-02-24T21:59:22Z"
                 },
                 "object_definitions": {
                     "35544": {
                         "object_description_id": 35544,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Foundation of Poseidonia",
+                        "object_definition_value": "Poseidonia was founded by the Sybarites",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -7234,8 +7266,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -7264,12 +7300,10 @@
                     "47038": {
                         "object_description_id": 47038,
                         "object_definition_ref_object_id": [
-                            14235456,
-                            14235457
+                            14235456
                         ],
                         "object_definition_value": [
-                            "aims to explain the foundation of a place",
-                            "aims to explain the geneaological origins of people or a putative kinship relationship"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -7303,24 +7337,15 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
-                    "35519": {
-                        "object_description_id": 35519,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "Poseidonia was founded by Sybaris (no. 70.I) (Ps.-Skymnos 249; cf. Strabo 6.1.1). According to Solin. 2.10, the city was founded by unspecified Dorians; if historical, these Dorians may have been Troizenians, since, according to Arist. Pol. 1303a30, Troizenians had participated in the foundation of Sybaris itself.",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
                     "35524": {
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
-                            12498533,
                             13962574,
-                            12411819
+                            16026897
                         ],
                         "object_definition_value": [
-                            "Strabo 6.1.1.",
                             "Pseudo-Skymnos 247-252",
-                            "Solinos 2.10-11"
+                            "Strabo 5.4.13"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -7353,19 +7378,19 @@
                 "object": {
                     "nodegoat_id": "ngQX8g28cQHI7RdCdRJ07fnFrSE",
                     "object_id": 13962582,
-                    "object_name": "Foundation of Pyxous",
+                    "object_name": "Mikythos founds Pyxous",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-03-21T14:43:49Z"
+                    "object_dating": "2024-02-24T22:05:35Z"
                 },
                 "object_definitions": {
                     "35544": {
                         "object_description_id": 35544,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Foundation of Pyxous",
+                        "object_definition_value": "Mikythos founds Pyxous",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -7378,19 +7403,21 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35546": {
                         "object_description_id": 35546,
                         "object_definition_ref_object_id": [
-                            12411810,
                             12427789
                         ],
                         "object_definition_value": [
-                            "Rhegion",
                             "Zankle"
                         ],
                         "object_definition_sources": [],
@@ -7450,13 +7477,6 @@
                         "object_definition_value": [
                             "Mikythos"
                         ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35519": {
-                        "object_description_id": 35519,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "It is unclear from where exactly Pyxous was said to be founded.",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -7521,7 +7541,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-03-23T11:58:07Z"
+                    "object_dating": "2024-02-24T22:54:08Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -7540,8 +7560,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -7580,11 +7604,11 @@
                         "object_description_id": 47038,
                         "object_definition_ref_object_id": [
                             14235456,
-                            14235457
+                            14235458
                         ],
                         "object_definition_value": [
                             "aims to explain the foundation of a place",
-                            "aims to explain the geneaological origins of people or a putative kinship relationship"
+                            "aims to explain the origins of social practices/institutions (e.g. cult practices)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -7616,10 +7640,12 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            12427790
+                            12427790,
+                            13962597
                         ],
                         "object_definition_value": [
-                            "Antimnestos"
+                            "Antimnestos",
+                            "Artimedes"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -7627,7 +7653,7 @@
                     "35519": {
                         "object_description_id": 35519,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Chalkidians (Thuc., Ps.-Skymnos, Diod.), with participation of Messenian exiles (Strab.), found Rhegion after consultation in Delphi.",
+                        "object_definition_value": "Chalkidians (Thuc., Ps.-Skymnos, Diod.), with participation of Messenian exiles (Strab.), found Rhegion after consultation in Delphi.\r\n\r\nIn Strabo 6.1.6, it is stated that the rulers until Anaxilas were always appointed from the stock of Messenians.",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -7639,8 +7665,8 @@
                             13962585,
                             12411816,
                             13962607,
-                            14000914,
-                            14000798
+                            14000798,
+                            12695128
                         ],
                         "object_definition_value": [
                             "Thucydides 6.44.3",
@@ -7648,8 +7674,8 @@
                             "Diodorus Siculus 14.40.1",
                             "Strabo 6.1.6",
                             "Dionysios of Halikarnassos Ant. Rom. 19.2",
-                            "Pseudo-Skymnos 300-340",
-                            "Heraklides Lembus 23"
+                            "Heraklides Lembus 23",
+                            "Antiochus of Syrakuse FGrHist 555 f9"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -7692,7 +7718,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-03-21T13:52:20Z"
+                    "object_dating": "2024-02-24T20:06:59Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -7704,8 +7730,12 @@
                     },
                     "53491": {
                         "object_description_id": 53491,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16026884
+                        ],
+                        "object_definition_value": [
+                            "Foundations of Neapolis"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -7742,13 +7772,11 @@
                         "object_description_id": 47038,
                         "object_definition_ref_object_id": [
                             14235456,
-                            14235458,
-                            14235457
+                            14235458
                         ],
                         "object_definition_value": [
                             "aims to explain the foundation of a place",
-                            "aims to explain the origins of social practices/institutions (e.g. cult practices)",
-                            "aims to explain the geneaological origins of people or a putative kinship relationship"
+                            "aims to explain the origins of social practices/institutions (e.g. cult practices)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -7766,8 +7794,12 @@
                     },
                     "35542": {
                         "object_description_id": 35542,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945235
+                        ],
+                        "object_definition_value": [
+                            "Whole communities (named)"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -7830,7 +7862,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-03-21T15:24:42Z"
+                    "object_dating": "2024-02-24T20:07:51Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -7842,8 +7874,12 @@
                     },
                     "53491": {
                         "object_description_id": 53491,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16026884
+                        ],
+                        "object_definition_value": [
+                            "Foundations of Neapolis"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -9682,7 +9718,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-22T14:30:05Z"
+                    "object_dating": "2024-02-24T16:03:25Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -9701,8 +9737,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -9771,6 +9811,13 @@
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "The city of Herakleia is populated by people from Taras, Siris, and Thourioi, although the foundation is ascribed to Taras.",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -18625,7 +18672,7 @@
                             14829848
                         ],
                         "object_definition_value": [
-                            "Foundation of Metapontion",
+                            "Nestor and the Pylians found Metapontion",
                             "Foundation of Sybaris",
                             "Foundation of Lokri Epizephyrioi by Opountian Lokrians"
                         ],
@@ -24247,7 +24294,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-18T20:09:37Z"
+                    "object_dating": "2024-02-24T22:36:06Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -24282,12 +24329,10 @@
                     "35546": {
                         "object_description_id": 35546,
                         "object_definition_ref_object_id": [
-                            12150549,
-                            15986165
+                            12150549
                         ],
                         "object_definition_value": [
-                            "Rhodos",
-                            "Emporion"
+                            "Rhodos"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -24327,8 +24372,12 @@
                     },
                     "35542": {
                         "object_description_id": 35542,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945235
+                        ],
+                        "object_definition_value": [
+                            "Whole communities (named)"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -24343,13 +24392,11 @@
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
                             15986988,
-                            15986989,
                             15986958,
                             15813838
                         ],
                         "object_definition_value": [
                             "Strabo 14.2.10",
-                            "Pseudo-Skymnos 201-6",
                             "Strabo 3.4.8",
                             "Pliny the Elder HN 3.5.1"
                         ],
@@ -24390,7 +24437,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-08T09:44:22Z"
+                    "object_dating": "2024-02-24T20:11:24Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -24448,8 +24495,12 @@
                     },
                     "47038": {
                         "object_description_id": 47038,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -24466,8 +24517,12 @@
                     },
                     "35542": {
                         "object_description_id": 35542,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945235
+                        ],
+                        "object_definition_value": [
+                            "Whole communities (named)"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -32116,7 +32171,7 @@
                             13961182
                         ],
                         "object_definition_value": [
-                            "Foundation of Zankle"
+                            "Kymeans found Zankle"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -34709,7 +34764,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-22T22:03:02Z"
+                    "object_dating": "2024-02-24T22:30:33Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -34812,10 +34867,12 @@
                     "35524": {
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
-                            16025958
+                            16025958,
+                            16026901
                         ],
                         "object_definition_value": [
-                            "Virgil Aen. 337-383"
+                            "Virgil Aen. 337-383",
+                            "Solinos 2.13"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -35221,6 +35278,1564 @@
                         ],
                         "object_definition_value": [
                             "Solinos 2.10-11"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16026863": {
+                "object": {
+                    "nodegoat_id": "ngXE6F38jYOP3YkvkY41imuUyYL",
+                    "object_id": 16026863,
+                    "object_name": "Metabos/Metapont founds Metapontion",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-24T17:51:14Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Metabos/Metapont founds Metapontion",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16026862
+                        ],
+                        "object_definition_value": [
+                            "Foundations of Metapontion"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12411812
+                        ],
+                        "object_definition_value": [
+                            "Metapontion"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            16026861
+                        ],
+                        "object_definition_value": [
+                            "Metabos/Metapont"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            13961112,
+                            16026858,
+                            16026860
+                        ],
+                        "object_definition_value": [
+                            "Stephanos of Byzantion s. v. Kaulonia",
+                            "Stephanos of Byzantion s. v. Metapontion",
+                            "Servius Ad Aen. 11.540"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16026864": {
+                "object": {
+                    "nodegoat_id": "ngYF6G48kYlQ4ZlMlZR2invtzYM",
+                    "object_id": 16026864,
+                    "object_name": "Daulios founds Metapontion",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-24T17:53:15Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Daulios founds Metapontion",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16026862
+                        ],
+                        "object_definition_value": [
+                            "Foundations of Metapontion"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            13961225
+                        ],
+                        "object_definition_value": [
+                            "Krisa"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12411812
+                        ],
+                        "object_definition_value": [
+                            "Metapontion"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            13961221
+                        ],
+                        "object_definition_value": [
+                            "Daulios"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12411838,
+                            16026865
+                        ],
+                        "object_definition_value": [
+                            "Strabo 6.1.15",
+                            "Ephoros FGrHist 70 f141"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16026866": {
+                "object": {
+                    "nodegoat_id": "ngAH6I68mAHSmBnAnBJ41pxXbCO",
+                    "object_id": 16026866,
+                    "object_name": "The Achaians found Metapontion",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-24T18:06:02Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "The Achaians found Metapontion",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16026862
+                        ],
+                        "object_definition_value": [
+                            "Foundations of Metapontion"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12433172
+                        ],
+                        "object_definition_value": [
+                            "Achaia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12411812
+                        ],
+                        "object_definition_value": [
+                            "Metapontion"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945235
+                        ],
+                        "object_definition_value": [
+                            "Whole communities (named)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            16021043
+                        ],
+                        "object_definition_value": [
+                            "Pseudo-Skymnos 326-29"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16026867": {
+                "object": {
+                    "nodegoat_id": "ngBI6v78nBoT9CoBoB851qyCcCv",
+                    "object_id": 16026867,
+                    "object_name": "Epeios, the builder of the Trojan Horse, founds Metapontion",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-24T18:17:05Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Epeios, the builder of the Trojan Horse, founds Metapontion",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16026862
+                        ],
+                        "object_definition_value": [
+                            "Foundations of Metapontion"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12427796
+                        ],
+                        "object_definition_value": [
+                            "Troy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12411812
+                        ],
+                        "object_definition_value": [
+                            "Metapontion"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217,
+                            13038437
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place",
+                            "Nostos / return home"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231,
+                            14321443,
+                            11945232
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)",
+                            "Band of companions of a hero",
+                            "Large groups"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14345281
+                        ],
+                        "object_definition_value": [
+                            "Epeios"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14000904,
+                            12411839
+                        ],
+                        "object_definition_value": [
+                            "Justin 20.2",
+                            "Vellius Paterculus 1.1.1-2"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16026875": {
+                "object": {
+                    "nodegoat_id": "ngJQ7z58vKAB0KwJwK636ygikKd",
+                    "object_id": 16026875,
+                    "object_name": "Leukippos founds Metapontion",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-24T19:05:11Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Leukippos founds Metapontion",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16026862
+                        ],
+                        "object_definition_value": [
+                            "Foundations of Metapontion"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12433172
+                        ],
+                        "object_definition_value": [
+                            "Achaia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12411812
+                        ],
+                        "object_definition_value": [
+                            "Metapontion"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            12513148
+                        ],
+                        "object_definition_value": [
+                            "Leukippos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            16026873,
+                            12411838
+                        ],
+                        "object_definition_value": [
+                            "Dionysios of Halikarnassos 19.3",
+                            "Strabo 6.1.15"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [
+                            16026874,
+                            16026876
+                        ],
+                        "object_definition_value": [
+                            "Metapontion Silver Stater",
+                            "Metapontion Gold Drachm"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16026886": {
+                "object": {
+                    "nodegoat_id": "ngUB8s68gWLMfVhMhUD46jrVvUo",
+                    "object_id": 16026886,
+                    "object_name": "The Athenians found Ogryle",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-24T20:34:39Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "The Athenians found Ogryle",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945196
+                        ],
+                        "object_definition_value": [
+                            "Sardinia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12409546
+                        ],
+                        "object_definition_value": [
+                            "Attika"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            13019674
+                        ],
+                        "object_definition_value": [
+                            "Ogryle"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217,
+                            11945227
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place",
+                            "Formal naming of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231,
+                            11945235
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)",
+                            "Whole communities (named)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            13019646,
+                            16026885
+                        ],
+                        "object_definition_value": [
+                            "Iolaos",
+                            "Ogrylos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            13019678
+                        ],
+                        "object_definition_value": [
+                            "Pausanias 10.17.5"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16026891": {
+                "object": {
+                    "nodegoat_id": "ngZG9x18lZmRkAmxmBI96owMaAN",
+                    "object_id": 16026891,
+                    "object_name": "Daedalus may have participated in Aristaios' foundation of Karalis",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-24T22:42:04Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Daedalus may have participated in Aristaios' foundation of Karalis",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945196
+                        ],
+                        "object_definition_value": [
+                            "Sardinia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            16026887
+                        ],
+                        "object_definition_value": [
+                            "Kamikon"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            13657343
+                        ],
+                        "object_definition_value": [
+                            "Sardinia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14256256
+                        ],
+                        "object_definition_value": [
+                            "Other"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945215
+                        ],
+                        "object_definition_value": [
+                            "Exile / expulsion from home (individual)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            13019646,
+                            16026888
+                        ],
+                        "object_definition_value": [
+                            "Iolaos",
+                            "Daedalos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Other: Discusses the possible participation of Daedalos in the journey of Iolaos to Sardinia.",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            16026890
+                        ],
+                        "object_definition_value": [
+                            "Pausanias 10.17.4"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16026896": {
+                "object": {
+                    "nodegoat_id": "ngEL9y68qFrWqFrIrEX46tbFfEy",
+                    "object_id": 16026896,
+                    "object_name": "Unknown Dorians found Poseidonia",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-24T21:49:45Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Unknown Dorians found Poseidonia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12414616
+                        ],
+                        "object_definition_value": [
+                            "Poseidonia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945235
+                        ],
+                        "object_definition_value": [
+                            "Whole communities (named)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12411819
+                        ],
+                        "object_definition_value": [
+                            "Solinos 2.10-11"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16026899": {
+                "object": {
+                    "nodegoat_id": "ngHO9b98tHuZ4IuxuJQ72weQiIb",
+                    "object_id": 16026899,
+                    "object_name": "Zankle is renamed Messina",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-24T22:21:28Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Zankle is renamed Messina",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12445948
+                        ],
+                        "object_definition_value": [
+                            "Messenia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12427789
+                        ],
+                        "object_definition_value": [
+                            "Zankle"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945227,
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Formal naming of a place",
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            16026898
+                        ],
+                        "object_definition_value": [
+                            "Strabo 6.2.3"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16026900": {
+                "object": {
+                    "nodegoat_id": "ngMT0E08yNjEwNzIzNl85bjBnMA",
+                    "object_id": 16026900,
+                    "object_name": "Naxians found Zankle",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-24T22:23:52Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Naxians found Zankle",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12448888
+                        ],
+                        "object_definition_value": [
+                            "Katane"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12427789
+                        ],
+                        "object_definition_value": [
+                            "Zankle"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Regarding \"Place From\": Strabo states that the Naxians who founded Zankle lived near Katane.",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            16026898
+                        ],
+                        "object_definition_value": [
+                            "Strabo 6.2.3"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            13961182,
+                            16026899
+                        ],
+                        "object_definition_value": [
+                            "Kymeans found Zankle",
+                            "Zankle is renamed Messina"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16026902": {
+                "object": {
+                    "nodegoat_id": "ngOV0G28aPVGbPbWbQX04dlHpOi",
+                    "object_id": 16026902,
+                    "object_name": "Massaliotes colonize Rhode",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-02-24T22:37:20Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Massaliotes colonize Rhode",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945199
+                        ],
+                        "object_definition_value": [
+                            "None"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            13576002
+                        ],
+                        "object_definition_value": [
+                            "Massalia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            15986166
+                        ],
+                        "object_definition_value": [
+                            "Rhode"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945235
+                        ],
+                        "object_definition_value": [
+                            "Whole communities (named)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Activity undertaken: Conquest of a settlement founded earlier (?)",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            15986988,
+                            15986989
+                        ],
+                        "object_definition_value": [
+                            "Strabo 14.2.10",
+                            "Pseudo-Skymnos 201-6"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
