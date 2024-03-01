@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-02-29T23:00:05+00:00",
+    "timestamp": "2024-03-01T23:00:06+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -8,19 +8,19 @@
                 "object": {
                     "nodegoat_id": "ngVC6D18hVsNfWiHiWE92ksAwXJ",
                     "object_id": 11945261,
-                    "object_name": "Generic Ionian Migration myth",
+                    "object_name": "Ionian Migration myth",
                     "object_name_plain": "Aelian, Varia Historia 8.5",
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-10-26T07:15:09Z"
+                    "object_dating": "2024-03-01T21:44:42Z"
                 },
                 "object_definitions": {
                     "35544": {
                         "object_description_id": 35544,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Generic Ionian Migration myth",
+                        "object_definition_value": "Ionian Migration myth",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -251,7 +251,9 @@
                             12375585,
                             12375586,
                             12375594,
-                            12375593
+                            12375593,
+                            12375128,
+                            12375141
                         ],
                         "object_definition_value": [
                             "Aelius Aristeides The Eleusinian Oration 22.5",
@@ -346,7 +348,9 @@
                             "Vellius Paterculus 1.4",
                             "Vitruvius 4.1.4-5",
                             "Zenobios Proverbs 4.3",
-                            "Zenobios Proverbs 5.71"
+                            "Zenobios Proverbs 5.71",
+                            "Ailianos Varia Historia 13,17",
+                            "Ammianus Marcellinus Res Gestae 28.1.4"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -747,7 +751,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-10-26T07:27:44Z"
+                    "object_dating": "2024-03-01T21:26:18Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -854,11 +858,13 @@
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
                             12375129,
-                            12375133
+                            12375133,
+                            12375131
                         ],
                         "object_definition_value": [
                             "Aelius Aristeides The Smyrnaean Oration I 17.1-5",
-                            "Aelius Aristeides The Smyrnaean Oration II 21.3-4"
+                            "Aelius Aristeides The Smyrnaean Oration II 21.3-4",
+                            "Aelius Aristeides Monody for Smyrna 18.2"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -982,7 +988,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-10-26T07:26:20Z"
+                    "object_dating": "2024-03-01T21:22:00Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -1069,8 +1075,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16191594
+                        ],
+                        "object_definition_value": [
+                            "Amazons"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -1231,7 +1241,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-10-26T07:26:04Z"
+                    "object_dating": "2024-03-01T21:22:20Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -1314,8 +1324,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16191594
+                        ],
+                        "object_definition_value": [
+                            "Amazons"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -2668,7 +2682,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-11-14T09:43:22Z"
+                    "object_dating": "2024-03-01T20:52:33Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -2680,8 +2694,12 @@
                     },
                     "53491": {
                         "object_description_id": 53491,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16191593
+                        ],
+                        "object_definition_value": [
+                            "Iliadic - Achaean"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -2908,19 +2926,19 @@
                 "object": {
                     "nodegoat_id": "ngWD3A68iYNO8XjOjWF47ltBxWK",
                     "object_id": 13573536,
-                    "object_name": "Cilician journey of Sardanapalus",
+                    "object_name": "Cilician foundations of Sardanapalus",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-22T12:50:17Z"
+                    "object_dating": "2024-03-01T20:47:21Z"
                 },
                 "object_definitions": {
                     "35544": {
                         "object_description_id": 35544,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Cilician journey of Sardanapalus",
+                        "object_definition_value": "Cilician foundations of Sardanapalus",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -3333,19 +3351,19 @@
                 "object": {
                     "nodegoat_id": "ngIP4I88uJfA9JvWvIB6uxfzjIc",
                     "object_id": 13574848,
-                    "object_name": "Carian Foundation of Miletus",
+                    "object_name": "Miletus autochthony",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-10-26T07:25:40Z"
+                    "object_dating": "2024-03-01T22:52:37Z"
                 },
                 "object_definitions": {
                     "35544": {
                         "object_description_id": 35544,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Carian Foundation of Miletus",
+                        "object_definition_value": "Miletus autochthony",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -3426,8 +3444,14 @@
                     },
                     "35524": {
                         "object_description_id": 35524,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            12375167,
+                            12375593
+                        ],
+                        "object_definition_value": [
+                            "Aristainetos Letters 1.15",
+                            "Zenobios Proverbs 5.71"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -8112,7 +8136,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-10-26T06:37:18Z"
+                    "object_dating": "2024-03-01T22:53:49Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -8246,7 +8270,9 @@
                             14235765,
                             12375583,
                             12375572,
-                            14235888
+                            14235888,
+                            12375152,
+                            12375166
                         ],
                         "object_definition_value": [
                             "Agias Nostoi F1",
@@ -8265,7 +8291,9 @@
                             "Schol. Lyc. Alexandria 424",
                             "Ioannes Tzetzes Schol. Lyc. Alex. 980",
                             "Theopompos BNJ 115 F346",
-                            "Strabo 14.1.27"
+                            "Strabo 14.1.27",
+                            "Antimachos Epigonoi F3",
+                            "Aristainetos On Phaselis BNJ 771 F1"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -8653,7 +8681,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-11-14T09:42:04Z"
+                    "object_dating": "2024-03-01T20:54:46Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -8665,8 +8693,12 @@
                     },
                     "53491": {
                         "object_description_id": 53491,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16191593
+                        ],
+                        "object_definition_value": [
+                            "Iliadic - Achaean"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -11884,7 +11916,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-11-14T09:44:42Z"
+                    "object_dating": "2024-03-01T20:51:56Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -11896,8 +11928,12 @@
                     },
                     "53491": {
                         "object_description_id": 53491,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16191593
+                        ],
+                        "object_definition_value": [
+                            "Iliadic - Achaean"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -12169,7 +12205,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-10-26T06:29:59Z"
+                    "object_dating": "2024-03-01T20:54:18Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -12181,8 +12217,12 @@
                     },
                     "53491": {
                         "object_description_id": 53491,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16191592
+                        ],
+                        "object_definition_value": [
+                            "Iliadic - Trojan"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -16366,7 +16406,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-19T13:11:57Z"
+                    "object_dating": "2024-03-01T20:50:47Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -16378,8 +16418,12 @@
                     },
                     "53491": {
                         "object_description_id": 53491,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16191592
+                        ],
+                        "object_definition_value": [
+                            "Iliadic - Trojan"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -21130,231 +21174,6 @@
                     }
                 }
             },
-            "15370942": {
-                "object": {
-                    "nodegoat_id": "ngCJ4G28oCTU5DpKpDV02rzHdDQ",
-                    "object_id": 15370942,
-                    "object_name": "Neleus leading Ionian Migration",
-                    "object_name_plain": null,
-                    "object_name_style": [],
-                    "object_style": [],
-                    "object_sources": [],
-                    "object_version": "",
-                    "object_dating": "2023-10-26T07:23:43Z"
-                },
-                "object_definitions": {
-                    "35544": {
-                        "object_description_id": 35544,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "Neleus leading Ionian Migration",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "53491": {
-                        "object_description_id": 53491,
-                        "object_definition_ref_object_id": [
-                            15276964
-                        ],
-                        "object_definition_value": [
-                            "Ionian Migration"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "50791": {
-                        "object_description_id": 50791,
-                        "object_definition_ref_object_id": [
-                            11945194
-                        ],
-                        "object_definition_value": [
-                            "Western Anatolia"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35546": {
-                        "object_description_id": 35546,
-                        "object_definition_ref_object_id": [
-                            11943325
-                        ],
-                        "object_definition_value": [
-                            "Athina"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35547": {
-                        "object_description_id": 35547,
-                        "object_definition_ref_object_id": [
-                            12150543
-                        ],
-                        "object_definition_value": [
-                            "Miletos"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "44816": {
-                        "object_description_id": 44816,
-                        "object_definition_ref_object_id": 12427791,
-                        "object_definition_value": "Naxos",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "47038": {
-                        "object_description_id": 47038,
-                        "object_definition_ref_object_id": [
-                            14235456
-                        ],
-                        "object_definition_value": [
-                            "aims to explain the foundation of a place"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35518": {
-                        "object_description_id": 35518,
-                        "object_definition_ref_object_id": [
-                            11945217,
-                            14235455
-                        ],
-                        "object_definition_value": [
-                            "Settlement / first occupation of a place",
-                            "War - attacking / raiding"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35542": {
-                        "object_description_id": 35542,
-                        "object_definition_ref_object_id": [
-                            11945231,
-                            14321443
-                        ],
-                        "object_definition_value": [
-                            "Heroes (named individuals)",
-                            "Band of companions of a hero"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35543": {
-                        "object_description_id": 35543,
-                        "object_definition_ref_object_id": [
-                            15370941
-                        ],
-                        "object_definition_value": [
-                            "Neleus"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35519": {
-                        "object_description_id": 35519,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "Strand of the Ionian Migration story where Neleus is leading the group and founds Miletus first.",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35524": {
-                        "object_description_id": 35524,
-                        "object_definition_ref_object_id": [
-                            12375127,
-                            12375140,
-                            12375142,
-                            12375141
-                        ],
-                        "object_definition_value": [
-                            "Ailianos Varia Historia 8,5",
-                            "Alexander of Aetolia Apollo F3 (Magnelli)",
-                            "Ammianus Marcellinus Res Gestae 22.8.12",
-                            "Ammianus Marcellinus Res Gestae 28.1.4"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "38607": {
-                        "object_description_id": 38607,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "49101": {
-                        "object_description_id": 49101,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "47960": {
-                        "object_description_id": 47960,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35555": {
-                        "object_description_id": 35555,
-                        "object_definition_ref_object_id": 12058487,
-                        "object_definition_value": "Nostoi, generation of",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    }
-                },
-                "object_subs": {
-                    "22339083": {
-                        "object_sub": {
-                            "object_sub_id": 22339083,
-                            "object_sub_details_id": 14207,
-                            "object_sub_date_start": "-1200",
-                            "object_sub_date_end": "-800",
-                            "object_sub_date_chronology": {
-                                "type": "period",
-                                "span": {
-                                    "period_amount": 0,
-                                    "period_unit": null,
-                                    "cycle_object_id": 0
-                                },
-                                "start": {
-                                    "start": {
-                                        "offset_amount": 0,
-                                        "offset_unit": null,
-                                        "cycle_object_id": 0,
-                                        "cycle_direction": null,
-                                        "date_value": null,
-                                        "date_object_sub_id": 18404092,
-                                        "date_direction": null
-                                    }
-                                },
-                                "end": {
-                                    "end": {
-                                        "offset_amount": 0,
-                                        "offset_unit": null,
-                                        "cycle_object_id": 0,
-                                        "cycle_direction": null,
-                                        "date_value": null,
-                                        "date_object_sub_id": 18404092,
-                                        "date_direction": null
-                                    }
-                                }
-                            },
-                            "object_sub_location_geometry": null,
-                            "object_sub_location_geometry_ref_object_id": null,
-                            "object_sub_location_geometry_ref_type_id": null,
-                            "object_sub_location_ref_object_id": 0,
-                            "object_sub_location_ref_type_id": 0,
-                            "object_sub_location_ref_object_sub_details_id": 0,
-                            "object_sub_location_ref_object_name": "",
-                            "object_sub_location_type": null,
-                            "object_sub_sources": [],
-                            "object_sub_version": "",
-                            "object_sub_style": []
-                        },
-                        "object_sub_definitions": []
-                    }
-                }
-            },
             "15370946": {
                 "object": {
                     "nodegoat_id": "ngGN4G68sHdY7HtetIZ40vdPhGa",
@@ -21365,7 +21184,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-10-26T07:24:16Z"
+                    "object_dating": "2024-03-01T21:57:19Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -21466,11 +21285,17 @@
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
                             12375133,
-                            12375129
+                            12375129,
+                            12375131,
+                            12375134,
+                            12375149
                         ],
                         "object_definition_value": [
                             "Aelius Aristeides The Smyrnaean Oration II 21.3-4",
-                            "Aelius Aristeides The Smyrnaean Oration I 17.1-5"
+                            "Aelius Aristeides The Smyrnaean Oration I 17.1-5",
+                            "Aelius Aristeides Monody for Smyrna 18.2",
+                            "Aelius Aristeides The Smyrnaean Oration II 21.20",
+                            "Anon Palatine Anthology 9.670"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -21567,7 +21392,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-10-26T07:20:51Z"
+                    "object_dating": "2024-03-01T21:57:19Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -21673,10 +21498,16 @@
                     "35524": {
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
-                            12375133
+                            12375133,
+                            12375131,
+                            12375132,
+                            12375149
                         ],
                         "object_definition_value": [
-                            "Aelius Aristeides The Smyrnaean Oration II 21.3-4"
+                            "Aelius Aristeides The Smyrnaean Oration II 21.3-4",
+                            "Aelius Aristeides Monody for Smyrna 18.2",
+                            "Aelius Aristeides Palinode for Smyrna 20.20",
+                            "Anon Palatine Anthology 9.670"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -21773,7 +21604,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-10-26T07:20:37Z"
+                    "object_dating": "2024-03-01T21:57:19Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -21865,8 +21696,16 @@
                     },
                     "35524": {
                         "object_description_id": 35524,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            12375132,
+                            12375133,
+                            12375149
+                        ],
+                        "object_definition_value": [
+                            "Aelius Aristeides Palinode for Smyrna 20.20",
+                            "Aelius Aristeides The Smyrnaean Oration II 21.3-4",
+                            "Anon Palatine Anthology 9.670"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -21969,7 +21808,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-10-26T07:19:28Z"
+                    "object_dating": "2024-03-01T21:57:19Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -22060,8 +21899,14 @@
                     },
                     "35524": {
                         "object_description_id": 35524,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            12375148,
+                            12375149
+                        ],
+                        "object_definition_value": [
+                            "Anon Palatine Anthology 11:442",
+                            "Anon Palatine Anthology 9.670"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -25510,7 +25355,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-19T16:35:19Z"
+                    "object_dating": "2024-03-01T22:53:49Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -25633,12 +25478,14 @@
                         "object_definition_ref_object_id": [
                             15997975,
                             15997977,
-                            15998010
+                            15998010,
+                            12375166
                         ],
                         "object_definition_value": [
                             "Herodotos 7.153.1",
                             "Stephanos of Byzantion s. v. Gela",
-                            "Thucydides 6.4.3"
+                            "Thucydides 6.4.3",
+                            "Aristainetos On Phaselis BNJ 771 F1"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -39183,7 +39030,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-25T18:20:34Z"
+                    "object_dating": "2024-03-01T22:03:13Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -39236,6 +39083,13 @@
                         "object_definition_value": [
                             "Massalia"
                         ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "44816": {
+                        "object_description_id": 44816,
+                        "object_definition_ref_object_id": 12150550,
+                        "object_definition_value": "Rome",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -41178,6 +41032,1908 @@
                         "object_definition_value": [
                             "Dionysios of Halikarnassos Ant. Rom. 1.12.3",
                             "Antiochus of Syrakuse FGrHist 555 f2"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16191597": {
+                "object": {
+                    "nodegoat_id": "ngFM9z78rGMX2GsdsFY52ucUgGT",
+                    "object_id": 16191597,
+                    "object_name": "Origins Samian Heraion",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-01T21:34:33Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Origins Samian Heraion",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945194
+                        ],
+                        "object_definition_value": [
+                            "Western Anatolia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12042371
+                        ],
+                        "object_definition_value": [
+                            "Samos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12042235
+                        ],
+                        "object_definition_value": [
+                            "Heraion of Samos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235458
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the origins of social practices/institutions (e.g. cult practices)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Cult from aniconic to humanoid",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16191598": {
+                "object": {
+                    "nodegoat_id": "ngGN9a88sHNYqHtCtHf69vdfhHa",
+                    "object_id": 16191598,
+                    "object_name": "Nostos of Neoptolemos",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-01T21:37:17Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Nostos of Neoptolemos",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16191593
+                        ],
+                        "object_definition_value": [
+                            "Iliadic - Achaean"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945194
+                        ],
+                        "object_definition_value": [
+                            "Western Anatolia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12427796
+                        ],
+                        "object_definition_value": [
+                            "Troy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "44816": {
+                        "object_description_id": 44816,
+                        "object_definition_ref_object_id": 12433939,
+                        "object_definition_value": "Thrace",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            13038437
+                        ],
+                        "object_definition_value": [
+                            "Nostos / return home"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14341959
+                        ],
+                        "object_definition_value": [
+                            "Neoptolemos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35555": {
+                        "object_description_id": 35555,
+                        "object_definition_ref_object_id": 12058487,
+                        "object_definition_value": "Nostoi, generation of",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16191600": {
+                "object": {
+                    "nodegoat_id": "ngMT0E08yNjExNzkzMV82bjBnMA",
+                    "object_id": 16191600,
+                    "object_name": "Oinopion founds Chios",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-01T22:48:58Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Oinopion founds Chios",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945194
+                        ],
+                        "object_definition_value": [
+                            "Western Anatolia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12370098
+                        ],
+                        "object_definition_value": [
+                            "Crete"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12042214
+                        ],
+                        "object_definition_value": [
+                            "Chios"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            16191599
+                        ],
+                        "object_definition_value": [
+                            "Oinopion"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12375139,
+                            12375165
+                        ],
+                        "object_definition_value": [
+                            "Alkidamas Odysseus 100",
+                            "Aratos Phaenomena 1.637-40"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16191602": {
+                "object": {
+                    "nodegoat_id": "ngOV0G28aPVGbPbGbQX06dlPpOi",
+                    "object_id": 16191602,
+                    "object_name": "Foundation of Teos",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-01T21:48:48Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Foundation of Teos",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945194
+                        ],
+                        "object_definition_value": [
+                            "Western Anatolia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12440362
+                        ],
+                        "object_definition_value": [
+                            "Boiotia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12042278
+                        ],
+                        "object_definition_value": [
+                            "Teos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            16191601
+                        ],
+                        "object_definition_value": [
+                            "Athamas"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12375143
+                        ],
+                        "object_definition_value": [
+                            "Anakreon F463"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16191603": {
+                "object": {
+                    "nodegoat_id": "ngPW0H38bQGHbQcPcPo18emUqPD",
+                    "object_id": 16191603,
+                    "object_name": "Achilles in Miletus",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-01T21:53:33Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Achilles in Miletus",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16191593
+                        ],
+                        "object_definition_value": [
+                            "Iliadic - Achaean"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945194
+                        ],
+                        "object_definition_value": [
+                            "Western Anatolia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12427796
+                        ],
+                        "object_definition_value": [
+                            "Troy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12150543
+                        ],
+                        "object_definition_value": [
+                            "Miletos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235458
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the origins of social practices/institutions (e.g. cult practices)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            14235455
+                        ],
+                        "object_definition_value": [
+                            "War - attacking / raiding"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14341735
+                        ],
+                        "object_definition_value": [
+                            "Achilles"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12375147
+                        ],
+                        "object_definition_value": [
+                            "Anon BNJ 496 F4"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35555": {
+                        "object_description_id": 35555,
+                        "object_definition_ref_object_id": 12058482,
+                        "object_definition_value": "Trojan War, generation of",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23283787": {
+                        "object_sub": {
+                            "object_sub_id": 23283787,
+                            "object_sub_details_id": 14207,
+                            "object_sub_date_start": "-1300",
+                            "object_sub_date_end": "-1000",
+                            "object_sub_date_chronology": {
+                                "type": "period",
+                                "span": {
+                                    "period_amount": 0,
+                                    "period_unit": null,
+                                    "cycle_object_id": 0
+                                },
+                                "start": {
+                                    "start": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                },
+                                "end": {
+                                    "end": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404089,
+                                        "date_direction": null
+                                    }
+                                }
+                            },
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 0,
+                            "object_sub_location_ref_object_sub_details_id": 0,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": null,
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "16191605": {
+                "object": {
+                    "nodegoat_id": "ngRY0J58dRoJcSeleTA30goWsTF",
+                    "object_id": 16191605,
+                    "object_name": "Athenian autochthony",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-01T21:55:44Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Athenian autochthony",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945199
+                        ],
+                        "object_definition_value": [
+                            "None"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            11943325
+                        ],
+                        "object_definition_value": [
+                            "Athina"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            11943325
+                        ],
+                        "object_definition_value": [
+                            "Athina"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            16191604
+                        ],
+                        "object_definition_value": [
+                            "Erechtheus"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Claim of indigeneity or autochthony",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12375148
+                        ],
+                        "object_definition_value": [
+                            "Anon Palatine Anthology 11:442"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16191607": {
+                "object": {
+                    "nodegoat_id": "ngTA0L78fTKLfUgngUC52iqCuUn",
+                    "object_id": 16191607,
+                    "object_name": "Aeolian Migration",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-01T22:08:14Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Aeolian Migration",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945194
+                        ],
+                        "object_definition_value": [
+                            "Western Anatolia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12427801
+                        ],
+                        "object_definition_value": [
+                            "Thessaly"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            16191606,
+                            12042264,
+                            12336549,
+                            12441005,
+                            12441010,
+                            12433416,
+                            12519888,
+                            12441011,
+                            13954863
+                        ],
+                        "object_definition_value": [
+                            "Aeolis",
+                            "Smyrna",
+                            "Kyme",
+                            "Pitane",
+                            "Neon Teichos",
+                            "Myrina",
+                            "Gryneion",
+                            "Temnos",
+                            "Notion"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945225
+                        ],
+                        "object_definition_value": [
+                            "Relocation of an existing settlement"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945232
+                        ],
+                        "object_definition_value": [
+                            "Large groups"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12375153,
+                            12375154
+                        ],
+                        "object_definition_value": [
+                            "Antipater of Sidon Palatine Anthology 9.790",
+                            "Antipater of Thessalonika Palatine Anthology 7.398"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35555": {
+                        "object_description_id": 35555,
+                        "object_definition_ref_object_id": 12058487,
+                        "object_definition_value": "Nostoi, generation of",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23283791": {
+                        "object_sub": {
+                            "object_sub_id": 23283791,
+                            "object_sub_details_id": 14207,
+                            "object_sub_date_start": "-1200",
+                            "object_sub_date_end": "-800",
+                            "object_sub_date_chronology": {
+                                "type": "period",
+                                "span": {
+                                    "period_amount": 0,
+                                    "period_unit": null,
+                                    "cycle_object_id": 0
+                                },
+                                "start": {
+                                    "start": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404092,
+                                        "date_direction": null
+                                    }
+                                },
+                                "end": {
+                                    "end": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404092,
+                                        "date_direction": null
+                                    }
+                                }
+                            },
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 0,
+                            "object_sub_location_ref_object_sub_details_id": 0,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": null,
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "16191609": {
+                "object": {
+                    "nodegoat_id": "ngVC0p98hVsNiWiZiW073ksqwGJ",
+                    "object_id": 16191609,
+                    "object_name": "Cretan Miletus",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-01T22:11:48Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Cretan Miletus",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945194
+                        ],
+                        "object_definition_value": [
+                            "Western Anatolia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12370098
+                        ],
+                        "object_definition_value": [
+                            "Crete"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12150543
+                        ],
+                        "object_definition_value": [
+                            "Miletos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945227,
+                            11945225
+                        ],
+                        "object_definition_value": [
+                            "Formal naming of a place",
+                            "Relocation of an existing settlement"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            16191608
+                        ],
+                        "object_definition_value": [
+                            "Miletus"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12375155
+                        ],
+                        "object_definition_value": [
+                            "Antoninus Liberalis Metamorphoses 30"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35555": {
+                        "object_description_id": 35555,
+                        "object_definition_ref_object_id": 15371040,
+                        "object_definition_value": "Deep past",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23283793": {
+                        "object_sub": {
+                            "object_sub_id": 23283793,
+                            "object_sub_details_id": 14207,
+                            "object_sub_date_start": "-2000",
+                            "object_sub_date_end": "-1500",
+                            "object_sub_date_chronology": {
+                                "type": "period",
+                                "span": {
+                                    "period_amount": 0,
+                                    "period_unit": null,
+                                    "cycle_object_id": 0
+                                },
+                                "start": {
+                                    "start": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 22339082,
+                                        "date_direction": null
+                                    }
+                                },
+                                "end": {
+                                    "end": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 22339082,
+                                        "date_direction": null
+                                    }
+                                }
+                            },
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 0,
+                            "object_sub_location_ref_object_sub_details_id": 0,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": null,
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "16191611": {
+                "object": {
+                    "nodegoat_id": "ngXE1J18jXEP6YkvkZG96muKyIL",
+                    "object_id": 16191611,
+                    "object_name": "Incestuous Smyrna",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-01T22:14:13Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Incestuous Smyrna",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945194
+                        ],
+                        "object_definition_value": [
+                            "Western Anatolia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12433413
+                        ],
+                        "object_definition_value": [
+                            "Phoenicia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12042264
+                        ],
+                        "object_definition_value": [
+                            "Smyrna"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945227,
+                            11945215
+                        ],
+                        "object_definition_value": [
+                            "Formal naming of a place",
+                            "Exile / expulsion from home (individual)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            16191610
+                        ],
+                        "object_definition_value": [
+                            "Smyrna"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12375156
+                        ],
+                        "object_definition_value": [
+                            "Antoninus Liberalis Metamorphoses 34"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16191612": {
+                "object": {
+                    "nodegoat_id": "ngYF1G28kYvQlZlGlZ30jnvVzJM",
+                    "object_id": 16191612,
+                    "object_name": "Return of the Heracleidae",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-01T22:17:03Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Return of the Heracleidae",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945199
+                        ],
+                        "object_definition_value": [
+                            "None"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235458
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the origins of social practices/institutions (e.g. cult practices)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            13038437
+                        ],
+                        "object_definition_value": [
+                            "Nostos / return home"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12375158
+                        ],
+                        "object_definition_value": [
+                            "Apollodoros of Athens FGrHist 244 F62"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16191615": {
+                "object": {
+                    "nodegoat_id": "ngBI1T58nBST6CoroBa36qyYcMP",
+                    "object_id": 16191615,
+                    "object_name": "Nature spirits in Ionia",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-01T22:48:10Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Nature spirits in Ionia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945194
+                        ],
+                        "object_definition_value": [
+                            "Western Anatolia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12150543,
+                            12042371
+                        ],
+                        "object_definition_value": [
+                            "Miletos",
+                            "Samos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945224
+                        ],
+                        "object_definition_value": [
+                            "Sunoikism / settlement nucleation from the area"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            14810500
+                        ],
+                        "object_definition_value": [
+                            "Nature spirits"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12375162,
+                            12375160,
+                            12375164
+                        ],
+                        "object_definition_value": [
+                            "Apollonios of Rhodes Argonautica 1.185-9",
+                            "Apollonios of Rhodes Argonautica 2.865-7",
+                            "Apollonios of Rhodes Argonautica 4.1260"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35555": {
+                        "object_description_id": 35555,
+                        "object_definition_ref_object_id": 15371040,
+                        "object_definition_value": "Deep past",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23283802": {
+                        "object_sub": {
+                            "object_sub_id": 23283802,
+                            "object_sub_details_id": 14207,
+                            "object_sub_date_start": "-2000",
+                            "object_sub_date_end": "-1500",
+                            "object_sub_date_chronology": {
+                                "type": "period",
+                                "span": {
+                                    "period_amount": 0,
+                                    "period_unit": null,
+                                    "cycle_object_id": 0
+                                },
+                                "start": {
+                                    "start": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 22339082,
+                                        "date_direction": null
+                                    }
+                                },
+                                "end": {
+                                    "end": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 22339082,
+                                        "date_direction": null
+                                    }
+                                }
+                            },
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 0,
+                            "object_sub_location_ref_object_sub_details_id": 0,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": null,
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "16191617": {
+                "object": {
+                    "nodegoat_id": "ngDK1D78pDaV8EqtqEc52saSeDR",
+                    "object_id": 16191617,
+                    "object_name": "Samos autochthony",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-01T22:48:23Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Samos autochthony",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945194
+                        ],
+                        "object_definition_value": [
+                            "Western Anatolia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12042371
+                        ],
+                        "object_definition_value": [
+                            "Samos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12042371
+                        ],
+                        "object_definition_value": [
+                            "Samos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            16191616
+                        ],
+                        "object_definition_value": [
+                            "Ankaios"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12375160,
+                            12375164,
+                            12375163
+                        ],
+                        "object_definition_value": [
+                            "Apollonios of Rhodes Argonautica 2.865-7",
+                            "Apollonios of Rhodes Argonautica 4.1260",
+                            "Apollonios of Rhodes Argonautica 4.209-10"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
