@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-03-02T23:00:06+00:00",
+    "timestamp": "2024-03-03T23:00:05+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -23312,7 +23312,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-18T22:42:04Z"
+                    "object_dating": "2024-03-03T20:17:31Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -23387,12 +23387,10 @@
                     "35518": {
                         "object_description_id": 35518,
                         "object_definition_ref_object_id": [
-                            11945225,
                             11945216,
                             14350871
                         ],
                         "object_definition_value": [
-                            "Relocation of an existing settlement",
                             "War - forced displacement / dispersal (group)",
                             "Immobility / remaining"
                         ],
@@ -40550,7 +40548,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-26T18:11:08Z"
+                    "object_dating": "2024-03-03T21:29:43Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -40603,10 +40601,10 @@
                     "47038": {
                         "object_description_id": 47038,
                         "object_definition_ref_object_id": [
-                            14235458
+                            14235457
                         ],
                         "object_definition_value": [
-                            "aims to explain the origins of social practices/institutions (e.g. cult practices)"
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
