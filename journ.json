@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-03-04T23:00:06+00:00",
+    "timestamp": "2024-03-05T20:42:04+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -14,7 +14,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-03-04T22:19:01Z"
+                    "object_dating": "2024-03-04T23:27:20Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -255,7 +255,8 @@
                             12375128,
                             12375141,
                             12375186,
-                            12378464
+                            12378464,
+                            12375151
                         ],
                         "object_definition_value": [
                             "Aelius Aristeides The Eleusinian Oration 22.5",
@@ -354,7 +355,8 @@
                             "Ailianos Varia Historia 13,17",
                             "Ammianus Marcellinus Res Gestae 28.1.4",
                             "Asklepiades of Samos Palatine Anthology 9.63",
-                            "Athenaios Deipnosophists 8.361d"
+                            "Athenaios Deipnosophists 8.361d",
+                            "Etymologicum Magnum s.v. Astypalaia"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -1245,7 +1247,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-03-01T21:22:20Z"
+                    "object_dating": "2024-03-04T23:07:26Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -1350,13 +1352,15 @@
                             12375532,
                             12375542,
                             12375543,
-                            12375534
+                            12375534,
+                            12375226
                         ],
                         "object_definition_value": [
                             "Stephanos of Byzantion Ethnika s.v. Smyrna",
                             "Strabo 11.5.4",
                             "Strabo 12.3.21",
-                            "Strabo 14.1.2-4"
+                            "Strabo 14.1.2-4",
+                            "Ephoros BNJ 70 F114a"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -3365,7 +3369,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-03-01T23:59:20Z"
+                    "object_dating": "2024-03-04T23:03:49Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -3456,13 +3460,15 @@
                             12375167,
                             12375593,
                             12375170,
-                            12375147
+                            12375147,
+                            12375145
                         ],
                         "object_definition_value": [
                             "Aristainetos Letters 1.15",
                             "Zenobios Proverbs 5.71",
                             "Aristoboulos of Kassandreia FGrHist 139 F6",
-                            "Anon BNJ 496 F4"
+                            "Anon BNJ 496 F4",
+                            "Ekloge Historion F16a"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -14154,213 +14160,6 @@
                     "21872505": {
                         "object_sub": {
                             "object_sub_id": 21872505,
-                            "object_sub_details_id": 14207,
-                            "object_sub_date_start": "-1200",
-                            "object_sub_date_end": "-800",
-                            "object_sub_date_chronology": {
-                                "type": "period",
-                                "span": {
-                                    "period_amount": 0,
-                                    "period_unit": null,
-                                    "cycle_object_id": 0
-                                },
-                                "start": {
-                                    "start": {
-                                        "offset_amount": 0,
-                                        "offset_unit": null,
-                                        "cycle_object_id": 0,
-                                        "cycle_direction": null,
-                                        "date_value": null,
-                                        "date_object_sub_id": 18404092,
-                                        "date_direction": null
-                                    }
-                                },
-                                "end": {
-                                    "end": {
-                                        "offset_amount": 0,
-                                        "offset_unit": null,
-                                        "cycle_object_id": 0,
-                                        "cycle_direction": null,
-                                        "date_value": null,
-                                        "date_object_sub_id": 18404092,
-                                        "date_direction": null
-                                    }
-                                }
-                            },
-                            "object_sub_location_geometry": null,
-                            "object_sub_location_geometry_ref_object_id": null,
-                            "object_sub_location_geometry_ref_type_id": null,
-                            "object_sub_location_ref_object_id": 0,
-                            "object_sub_location_ref_type_id": 0,
-                            "object_sub_location_ref_object_sub_details_id": 0,
-                            "object_sub_location_ref_object_name": "",
-                            "object_sub_location_type": null,
-                            "object_sub_sources": [],
-                            "object_sub_version": "",
-                            "object_sub_style": []
-                        },
-                        "object_sub_definitions": []
-                    }
-                }
-            },
-            "14810719": {
-                "object": {
-                    "nodegoat_id": "ngFM1B98rHMX1GsdsG070ucagGT",
-                    "object_id": 14810719,
-                    "object_name": "Formal naming of Naupaktos",
-                    "object_name_plain": null,
-                    "object_name_style": [],
-                    "object_style": [],
-                    "object_sources": [],
-                    "object_version": "",
-                    "object_dating": "2023-12-22T13:16:00Z"
-                },
-                "object_definitions": {
-                    "35544": {
-                        "object_description_id": 35544,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "Formal naming of Naupaktos",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "53491": {
-                        "object_description_id": 53491,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "50791": {
-                        "object_description_id": 50791,
-                        "object_definition_ref_object_id": [
-                            11945198
-                        ],
-                        "object_definition_value": [
-                            "Central Greece"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35546": {
-                        "object_description_id": 35546,
-                        "object_definition_ref_object_id": [
-                            12409384
-                        ],
-                        "object_definition_value": [
-                            "Naupaktos"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35547": {
-                        "object_description_id": 35547,
-                        "object_definition_ref_object_id": [
-                            12427795
-                        ],
-                        "object_definition_value": [
-                            "Peloponnese"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "47038": {
-                        "object_description_id": 47038,
-                        "object_definition_ref_object_id": [
-                            14235887,
-                            14235458
-                        ],
-                        "object_definition_value": [
-                            "aims to explain an ancient relationship between communities NOT based on kinship",
-                            "aims to explain the origins of social practices/institutions (e.g. cult practices)"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35518": {
-                        "object_description_id": 35518,
-                        "object_definition_ref_object_id": [
-                            11945227
-                        ],
-                        "object_definition_value": [
-                            "Formal naming of a place"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35542": {
-                        "object_description_id": 35542,
-                        "object_definition_ref_object_id": [
-                            11945235
-                        ],
-                        "object_definition_value": [
-                            "Whole communities (named)"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35543": {
-                        "object_description_id": 35543,
-                        "object_definition_ref_object_id": [
-                            14830378
-                        ],
-                        "object_definition_value": [
-                            "Herakleidai - Dorians"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35519": {
-                        "object_description_id": 35519,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "The name Naupaktos is given from the practice of building ships.\r\n\r\nStrabo presents a myth according to which the Herakleides/Dorians built their ships there. He also cites an alternative myth by Ephoros, according to which ships were built there by Lokrians even before the time of Herakleides. Pausanias also says that the Dorians/Herakleides built their ship in Naupaktos before going down to the Peloponnese.\r\nPseudo-Apollodoros repeats that the name derives from the practice of building ships.",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35524": {
-                        "object_description_id": 35524,
-                        "object_definition_ref_object_id": [
-                            14786920,
-                            14830372,
-                            14786889,
-                            14774994,
-                            15160942
-                        ],
-                        "object_definition_value": [
-                            "Pausanias Paus. 10.38.9-13",
-                            "Pseudo-Apollodoros Apollod. 2.8.2",
-                            "Strabo 9.4.7-9",
-                            "Polybius Plb. 12.12a",
-                            "Polyainos Strategemata 1.9.1"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "38607": {
-                        "object_description_id": 38607,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "49101": {
-                        "object_description_id": 49101,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "47960": {
-                        "object_description_id": 47960,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    }
-                },
-                "object_subs": {
-                    "21872506": {
-                        "object_sub": {
-                            "object_sub_id": 21872506,
                             "object_sub_details_id": 14207,
                             "object_sub_date_start": "-1200",
                             "object_sub_date_end": "-800",
@@ -41109,7 +40908,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-03-04T22:33:22Z"
+                    "object_dating": "2024-03-04T23:05:04Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -41221,13 +41020,15 @@
                             12375153,
                             12375154,
                             12375185,
-                            12375208
+                            12375208,
+                            12375239
                         ],
                         "object_definition_value": [
                             "Antipater of Sidon Palatine Anthology 9.790",
                             "Antipater of Thessalonika Palatine Anthology 7.398",
                             "Arrian Anabasis  5.6.4",
-                            "Demon FGrHist 327 F17 On Proverbs"
+                            "Demon FGrHist 327 F17 On Proverbs",
+                            "Ephoros BNJ 70 F103"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -41324,7 +41125,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-03-04T22:50:57Z"
+                    "object_dating": "2024-03-04T23:10:38Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -41435,11 +41236,13 @@
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
                             12375155,
-                            12375171
+                            12375171,
+                            12375228
                         ],
                         "object_definition_value": [
                             "Antoninus Liberalis Metamorphoses 30",
-                            "Aristokritos FGrHist 493 F3 Peri Milesiou"
+                            "Aristokritos FGrHist 493 F3 Peri Milesiou",
+                            "Ephoros BNJ 70 F127"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -41681,7 +41484,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-03-04T22:40:16Z"
+                    "object_dating": "2024-03-04T23:23:23Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -41768,12 +41571,20 @@
                         "object_definition_ref_object_id": [
                             12375158,
                             12375211,
-                            12375210
+                            12375210,
+                            12375241,
+                            16218874,
+                            12375232,
+                            12375247
                         ],
                         "object_definition_value": [
                             "Apollodoros of Athens FGrHist 244 F62",
                             "Diodorus Siculus 1.5.1",
-                            "Diodorus Siculus 4.67.1"
+                            "Diodorus Siculus 4.67.1",
+                            "Ephoros BNJ 70 F117",
+                            "Strabo 8.8.5",
+                            "Ephoros BNJ 70 F18b",
+                            "Eratosthenes BNJ 241 F1a"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -42007,7 +41818,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-03-04T22:12:54Z"
+                    "object_dating": "2024-03-04T23:27:20Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -42019,8 +41830,12 @@
                     },
                     "53491": {
                         "object_description_id": 53491,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16218871
+                        ],
+                        "object_definition_value": [
+                            "Nature spirits"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -42073,8 +41888,12 @@
                     },
                     "35542": {
                         "object_description_id": 35542,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            14810500
+                        ],
+                        "object_definition_value": [
+                            "Nature spirits"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -42097,7 +41916,8 @@
                             12375163,
                             12375179,
                             12375180,
-                            12375187
+                            12375187,
+                            12375151
                         ],
                         "object_definition_value": [
                             "Apollonios of Rhodes Argonautica 2.865-7",
@@ -42105,7 +41925,8 @@
                             "Apollonios of Rhodes Argonautica 4.209-10",
                             "Aristotle F570 Rose",
                             "Aristotle F571 Rose",
-                            "Asios F7 GEF"
+                            "Asios F7 GEF",
+                            "Etymologicum Magnum s.v. Astypalaia"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -42271,7 +42092,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-03-02T00:18:32Z"
+                    "object_dating": "2024-03-04T23:27:20Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -42355,11 +42176,13 @@
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
                             12375176,
-                            12375182
+                            12375182,
+                            12375151
                         ],
                         "object_definition_value": [
                             "Aristotle F473 Rose Politics",
-                            "Aristotle Rhetoric 2.25 (1402b4-5)"
+                            "Aristotle Rhetoric 2.25 (1402b4-5)",
+                            "Etymologicum Magnum s.v. Astypalaia"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -42398,7 +42221,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-03-04T22:12:54Z"
+                    "object_dating": "2024-03-04T23:10:38Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -42486,11 +42309,13 @@
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
                             12375176,
-                            12375187
+                            12375187,
+                            12375228
                         ],
                         "object_definition_value": [
                             "Aristotle F473 Rose Politics",
-                            "Asios F7 GEF"
+                            "Asios F7 GEF",
+                            "Ephoros BNJ 70 F127"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -42644,7 +42469,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-03-04T22:17:30Z"
+                    "object_dating": "2024-03-04T23:16:35Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -42736,11 +42561,13 @@
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
                             12375178,
-                            12375190
+                            12375190,
+                            12375245
                         ],
                         "object_definition_value": [
                             "Aristotle F557 Rose",
-                            "Athenaios Deipnosophists 12.26"
+                            "Athenaios Deipnosophists 12.26",
+                            "Ephoros BNJ 70 F183"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -43521,7 +43348,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-03-04T14:40:54Z"
+                    "object_dating": "2024-03-05T11:07:49Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -43574,10 +43401,10 @@
                     "47038": {
                         "object_description_id": 47038,
                         "object_definition_ref_object_id": [
-                            14256256
+                            14235887
                         ],
                         "object_definition_value": [
-                            "Other"
+                            "aims to explain an ancient relationship between communities NOT based on kinship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -43599,10 +43426,12 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            14810710
+                            14810710,
+                            16218897
                         ],
                         "object_definition_value": [
-                            "Lokrians"
+                            "Lokrians",
+                            "Temenos"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -46735,7 +46564,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-03-04T22:56:08Z"
+                    "object_dating": "2024-03-04T23:03:23Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -46827,13 +46656,15 @@
                             12375202,
                             12375205,
                             12375218,
-                            12375219
+                            12375219,
+                            12375225
                         ],
                         "object_definition_value": [
                             "Clemens of Alexandria Stromata 1.15.66.1-3",
                             "Demokritos in Diogenes Laertius 1.1.22",
                             "Diogenes Laertios 1.1.22",
-                            "Diogenes Laertios 1.1.29"
+                            "Diogenes Laertios 1.1.29",
+                            "Douris of Samos FGrHist 76 F74 Samian Annals"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -46872,7 +46703,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-03-04T22:34:21Z"
+                    "object_dating": "2024-03-04T23:19:09Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -46962,12 +46793,14 @@
                         "object_definition_ref_object_id": [
                             16218859,
                             12375206,
-                            12375207
+                            12375207,
+                            12375233
                         ],
                         "object_definition_value": [
                             "Athenaios Deipnosophists 3.50, 96D-E.",
                             "Demon FGrHist 327 F1 Atthis",
-                            "Demon FGrHist 327 F22 On Proverbs"
+                            "Demon FGrHist 327 F22 On Proverbs",
+                            "Ephoros BNJ 70 F22"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -47006,7 +46839,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-03-04T22:51:58Z"
+                    "object_dating": "2024-03-04T23:08:56Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -47091,10 +46924,12 @@
                     "35524": {
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
-                            12375217
+                            12375217,
+                            12375241
                         ],
                         "object_definition_value": [
-                            "Diodorus Siculus 15.49.1-3"
+                            "Diodorus Siculus 15.49.1-3",
+                            "Ephoros BNJ 70 F117"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -47133,7 +46968,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-03-04T22:42:51Z"
+                    "object_dating": "2024-03-04T23:30:56Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -47218,10 +47053,12 @@
                     "35524": {
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
-                            12375212
+                            12375212,
+                            12375251
                         ],
                         "object_definition_value": [
-                            "Diodorus Siculus 4.68.3-6"
+                            "Diodorus Siculus 4.68.3-6",
+                            "Eumelos of Korinth FGrHist 451 F4"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -47395,7 +47232,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-03-04T22:51:43Z"
+                    "object_dating": "2024-03-04T23:05:42Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -47492,10 +47329,12 @@
                     "35524": {
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
-                            12375215
+                            12375215,
+                            12375231
                         ],
                         "object_definition_value": [
-                            "Diodorus Siculus 5.81.4-8"
+                            "Diodorus Siculus 5.81.4-8",
+                            "Ephoros BNJ 70 F11"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -47649,6 +47488,967 @@
                         "object_description_id": 47960,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16218869": {
+                "object": {
+                    "nodegoat_id": "ngDK6x98pDUV2EqHqDc7psaSeER",
+                    "object_id": 16218869,
+                    "object_name": "Panionion",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-04T23:02:04Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Panionion",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945194
+                        ],
+                        "object_definition_value": [
+                            "Western Anatolia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12375224,
+                            12375217
+                        ],
+                        "object_definition_value": [
+                            "Douris of Samos FGrHist 76 F25 Samian Annals",
+                            "Diodorus Siculus 15.49.1-3"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16218870": {
+                "object": {
+                    "nodegoat_id": "ngEL7u08qGLW3FrcrF182tbJfES",
+                    "object_id": 16218870,
+                    "object_name": "Amazon founders",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-04T23:15:40Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Amazon founders",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945194
+                        ],
+                        "object_definition_value": [
+                            "Western Anatolia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12336549,
+                            12042264,
+                            12150532,
+                            12433416
+                        ],
+                        "object_definition_value": [
+                            "Kyme",
+                            "Smyrna",
+                            "Ephesos",
+                            "Myrina"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            16191594
+                        ],
+                        "object_definition_value": [
+                            "Amazons"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12375226,
+                            12375244,
+                            16218873
+                        ],
+                        "object_definition_value": [
+                            "Ephoros BNJ 70 F114a",
+                            "Ephoros BNJ 70 F166",
+                            "Stephanos of Byzantion s.v. Anaia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16218872": {
+                "object": {
+                    "nodegoat_id": "ngGN7w28sHtY5HtwtHZ06vdThHU",
+                    "object_id": 16218872,
+                    "object_name": "Chios autochthony",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-04T23:12:22Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Chios autochthony",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16218871
+                        ],
+                        "object_definition_value": [
+                            "Nature spirits"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945194
+                        ],
+                        "object_definition_value": [
+                            "Western Anatolia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12042214
+                        ],
+                        "object_definition_value": [
+                            "Chios"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12375460,
+                            12375229
+                        ],
+                        "object_definition_value": [
+                            "Pliny the Elder Natural History 5.38",
+                            "Ephoros BNJ 70 F165"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16218893": {
+                "object": {
+                    "nodegoat_id": "ngBI9z38nBITmCoPoBa15qyOcDP",
+                    "object_id": 16218893,
+                    "object_name": "Naupaktos and the practice of shipbuilding",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-05T11:10:53Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Naupaktos and the practice of shipbuilding",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16218686,
+                            15997990
+                        ],
+                        "object_definition_value": [
+                            "Lokrian cities",
+                            "Lokrian customs"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12409384
+                        ],
+                        "object_definition_value": [
+                            "Naupaktos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456,
+                            14235887
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place",
+                            "aims to explain an ancient relationship between communities NOT based on kinship"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945227
+                        ],
+                        "object_definition_value": [
+                            "Formal naming of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945235
+                        ],
+                        "object_definition_value": [
+                            "Whole communities (named)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14830378,
+                            14810710
+                        ],
+                        "object_definition_value": [
+                            "Herakleidai - Dorians",
+                            "Lokrians"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Naupaktos derives its name from the practice of shipbuilding, once carried on there. Strabo informs us that the Herakleidai built their fleet there. He also quotes Ephoros who says that Lokrians were building ships there even before the time of the Herakleidai.\r\n(Note to self: find the fragment citation)",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14786889
+                        ],
+                        "object_definition_value": [
+                            "Strabo 9.4.7-9"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            16217585
+                        ],
+                        "object_definition_value": [
+                            "Defector Lokrians lying to the Peloponnesians on behalf of the Herakleides - naval invade and capture of Rhio"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16218894": {
+                "object": {
+                    "nodegoat_id": "ngCJ9a48oCTUnDpKpDL28rzbdDw",
+                    "object_id": 16218894,
+                    "object_name": "The Herakleidai building their fleet on Naupaktos",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-05T11:11:15Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "The Herakleidai building their fleet on Naupaktos",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16218686
+                        ],
+                        "object_definition_value": [
+                            "Lokrian cities"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12409384
+                        ],
+                        "object_definition_value": [
+                            "Naupaktos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456,
+                            14235887
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place",
+                            "aims to explain an ancient relationship between communities NOT based on kinship"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945227
+                        ],
+                        "object_definition_value": [
+                            "Formal naming of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945235
+                        ],
+                        "object_definition_value": [
+                            "Whole communities (named)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14830378
+                        ],
+                        "object_definition_value": [
+                            "Herakleidai - Dorians"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "The Herakleidai built their fleet in Naupaktos before invading the Peloponnese. The city is named after the practice of shipbuilding.",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14786920
+                        ],
+                        "object_definition_value": [
+                            "Pausanias Paus. 10.38.9-13"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            16218893,
+                            16217585,
+                            16191612
+                        ],
+                        "object_definition_value": [
+                            "Naupaktos and the practice of shipbuilding",
+                            "Defector Lokrians lying to the Peloponnesians on behalf of the Herakleides - naval invade and capture of Rhio",
+                            "Return of the Heracleidae"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16218898": {
+                "object": {
+                    "nodegoat_id": "ngGN9a88sHNYqHtUtG96tvdPhGa",
+                    "object_id": 16218898,
+                    "object_name": "Oracle for the Herakleidai and the building of ships in Naupaktos",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-05T10:54:24Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Oracle for the Herakleidai and the building of ships in Naupaktos",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16218686
+                        ],
+                        "object_definition_value": [
+                            "Lokrian cities"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12429214
+                        ],
+                        "object_definition_value": [
+                            "Delphi"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12409384
+                        ],
+                        "object_definition_value": [
+                            "Naupaktos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14830378,
+                            16218897
+                        ],
+                        "object_definition_value": [
+                            "Herakleidai - Dorians",
+                            "Temenos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14830372
+                        ],
+                        "object_definition_value": [
+                            "Pseudo-Apollodoros Apollod. 2.8.2"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            16191612,
+                            16217585,
+                            16218893,
+                            16218894
+                        ],
+                        "object_definition_value": [
+                            "Return of the Heracleidae",
+                            "Defector Lokrians lying to the Peloponnesians on behalf of the Herakleides - naval invade and capture of Rhio",
+                            "Naupaktos and the practice of shipbuilding",
+                            "The Herakleidai building their fleet on Naupaktos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16218908": {
+                "object": {
+                    "nodegoat_id": "ngUB0s88gUBM2VhshUN68jrZvFI",
+                    "object_id": 16218908,
+                    "object_name": "Reputation of non-trustworthy Lokrians after they betrayed the Peloponnesians during the Herakleidai invasion",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-05T11:08:00Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Reputation of non-trustworthy Lokrians after they betrayed the Peloponnesians during the Herakleidai invasion",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15997990
+                        ],
+                        "object_definition_value": [
+                            "Lokrian customs"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12409384
+                        ],
+                        "object_definition_value": [
+                            "Naupaktos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235887
+                        ],
+                        "object_definition_value": [
+                            "aims to explain an ancient relationship between communities NOT based on kinship"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14774994
+                        ],
+                        "object_definition_value": [
+                            "Polybius Plb. 12.12a"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            16217585
+                        ],
+                        "object_definition_value": [
+                            "Defector Lokrians lying to the Peloponnesians on behalf of the Herakleides - naval invade and capture of Rhio"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
