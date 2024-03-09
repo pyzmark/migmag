@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-03-08T23:00:04+00:00",
+    "timestamp": "2024-03-09T23:00:04+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -5339,7 +5339,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-01T13:29:15Z"
+                    "object_dating": "2024-03-09T15:10:38Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -5366,14 +5366,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "1",
+                        "object_definition_value": "043",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "060",
+                        "object_definition_value": "045",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -5408,8 +5408,8 @@
                         "object_sub": {
                             "object_sub_id": 18404041,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "1",
-                            "object_sub_date_end": "060",
+                            "object_sub_date_start": "043",
+                            "object_sub_date_end": "045",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [-5.447744, 36.129768]}",
                             "object_sub_location_geometry_ref_object_id": 12150557,
