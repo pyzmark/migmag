@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-03-11T22:00:07+00:00",
+    "timestamp": "2024-03-12T22:00:05+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -5886,7 +5886,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-01T13:29:15Z"
+                    "object_dating": "2024-03-12T15:29:09Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -5900,13 +5900,6 @@
                         "object_description_id": 35520,
                         "object_definition_ref_object_id": 11945253,
                         "object_definition_value": "Author",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35536": {
-                        "object_description_id": 35536,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "1",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -5937,7 +5930,7 @@
                         "object_sub": {
                             "object_sub_id": 18404040,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "1",
+                            "object_sub_date_start": 0,
                             "object_sub_date_end": "200",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": null,
@@ -5966,7 +5959,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-01T13:29:15Z"
+                    "object_dating": "2024-03-12T15:29:27Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -5987,13 +5980,6 @@
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
                         "object_definition_value": "-100",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35537": {
-                        "object_description_id": 35537,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "1",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -6018,7 +6004,7 @@
                             "object_sub_id": 18404030,
                             "object_sub_details_id": 13427,
                             "object_sub_date_start": "-100",
-                            "object_sub_date_end": "1",
+                            "object_sub_date_end": 0,
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": null,
                             "object_sub_location_geometry_ref_object_id": null,
@@ -6126,7 +6112,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-01T13:29:15Z"
+                    "object_dating": "2024-03-12T15:29:45Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -6140,13 +6126,6 @@
                         "object_description_id": 35520,
                         "object_definition_ref_object_id": 11945253,
                         "object_definition_value": "Author",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35536": {
-                        "object_description_id": 35536,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "1",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -6177,7 +6156,7 @@
                         "object_sub": {
                             "object_sub_id": 18404039,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "1",
+                            "object_sub_date_start": 0,
                             "object_sub_date_end": "100",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": null,
@@ -9414,7 +9393,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:25:49Z"
+                    "object_dating": "2024-03-12T15:27:29Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -9459,6 +9438,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "35539": {
+                        "object_description_id": 35539,
+                        "object_definition_ref_object_id": 12042254,
+                        "object_definition_value": "Phokaia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "35540": {
                         "object_description_id": 35540,
                         "object_definition_ref_object_id": [],
@@ -9475,8 +9461,8 @@
                             "object_sub_date_start": "-350",
                             "object_sub_date_end": "-280",
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [22.25, 38.25]}",
-                            "object_sub_location_geometry_ref_object_id": 12336509,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [26.752984, 38.6703365]}",
+                            "object_sub_location_geometry_ref_object_id": 12042254,
                             "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 12160,
@@ -13680,7 +13666,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-23T13:11:16Z"
+                    "object_dating": "2024-03-12T15:25:45Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -13725,6 +13711,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "35539": {
+                        "object_description_id": 35539,
+                        "object_definition_ref_object_id": 16247521,
+                        "object_definition_value": "Stridon",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "35540": {
                         "object_description_id": 35540,
                         "object_definition_ref_object_id": [],
@@ -13742,8 +13735,8 @@
                             "object_sub_date_end": "420",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": null,
-                            "object_sub_location_geometry_ref_object_id": null,
-                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_geometry_ref_object_id": 0,
+                            "object_sub_location_geometry_ref_type_id": 0,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 12160,
                             "object_sub_location_ref_object_sub_details_id": 13068,
@@ -14597,7 +14590,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-06-29T11:57:08Z"
+                    "object_dating": "2024-03-12T15:24:00Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -14642,6 +14635,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "35539": {
+                        "object_description_id": 35539,
+                        "object_definition_ref_object_id": 16247520,
+                        "object_definition_value": "Andes",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "35540": {
                         "object_description_id": 35540,
                         "object_definition_ref_object_id": [
@@ -14663,8 +14663,8 @@
                             "object_sub_date_end": "-19",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": null,
-                            "object_sub_location_geometry_ref_object_id": null,
-                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_geometry_ref_object_id": 0,
+                            "object_sub_location_geometry_ref_type_id": 0,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 12160,
                             "object_sub_location_ref_object_sub_details_id": 13068,
@@ -15297,7 +15297,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2022-11-28T10:40:19Z"
+                    "object_dating": "2024-03-12T15:22:30Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -15321,6 +15321,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "35539": {
+                        "object_description_id": 35539,
+                        "object_definition_ref_object_id": 13965172,
+                        "object_definition_value": "Rhègion",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "35540": {
                         "object_description_id": 35540,
                         "object_definition_ref_object_id": [],
@@ -15337,9 +15344,9 @@
                             "object_sub_date_start": 0,
                             "object_sub_date_end": 0,
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": null,
-                            "object_sub_location_geometry_ref_object_id": null,
-                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [15.647004, 38.110102]}",
+                            "object_sub_location_geometry_ref_object_id": 13965172,
+                            "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 12160,
                             "object_sub_location_ref_object_sub_details_id": 13068,
@@ -15778,7 +15785,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2022-11-28T14:46:16Z"
+                    "object_dating": "2024-03-12T15:21:52Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -15823,10 +15830,21 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "35539": {
+                        "object_description_id": 35539,
+                        "object_definition_ref_object_id": 12486341,
+                        "object_definition_value": "Patavium",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "35540": {
                         "object_description_id": 35540,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            12150550
+                        ],
+                        "object_definition_value": [
+                            "Rome"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -15839,9 +15857,9 @@
                             "object_sub_date_start": "-59",
                             "object_sub_date_end": "017",
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": null,
-                            "object_sub_location_geometry_ref_object_id": null,
-                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [11.876974999999998, 45.409561]}",
+                            "object_sub_location_geometry_ref_object_id": 12486341,
+                            "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 12160,
                             "object_sub_location_ref_object_sub_details_id": 13068,
@@ -16033,7 +16051,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2022-12-16T10:32:45Z"
+                    "object_dating": "2024-03-12T15:21:22Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -16078,10 +16096,21 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "35539": {
+                        "object_description_id": 35539,
+                        "object_definition_ref_object_id": 16247475,
+                        "object_definition_value": "Oxyrhynchos",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "35540": {
                         "object_description_id": 35540,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            12150515
+                        ],
+                        "object_definition_value": [
+                            "Alexandria"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -16095,8 +16124,8 @@
                             "object_sub_date_end": "-100",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": null,
-                            "object_sub_location_geometry_ref_object_id": null,
-                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_geometry_ref_object_id": 0,
+                            "object_sub_location_geometry_ref_type_id": 0,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 12160,
                             "object_sub_location_ref_object_sub_details_id": 13068,
@@ -20352,7 +20381,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-10-25T17:30:40Z"
+                    "object_dating": "2024-03-12T15:19:45Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -20397,6 +20426,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "35539": {
+                        "object_description_id": 35539,
+                        "object_definition_ref_object_id": 16247474,
+                        "object_definition_value": "Venusia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "35540": {
                         "object_description_id": 35540,
                         "object_definition_ref_object_id": [],
@@ -20414,8 +20450,8 @@
                             "object_sub_date_end": "8",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": null,
-                            "object_sub_location_geometry_ref_object_id": null,
-                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_geometry_ref_object_id": 0,
+                            "object_sub_location_geometry_ref_type_id": 0,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 12160,
                             "object_sub_location_ref_object_sub_details_id": 13068,
@@ -21777,7 +21813,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-04-30T13:54:16Z"
+                    "object_dating": "2024-03-12T15:18:48Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -21804,14 +21840,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "400",
+                        "object_definition_value": "300",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "599",
+                        "object_definition_value": "400",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -21835,8 +21871,8 @@
                         "object_sub": {
                             "object_sub_id": 21783772,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "400",
-                            "object_sub_date_end": "599",
+                            "object_sub_date_start": "300",
+                            "object_sub_date_end": "400",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": null,
                             "object_sub_location_geometry_ref_object_id": null,
@@ -25433,7 +25469,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-01-26T21:01:20Z"
+                    "object_dating": "2024-03-12T15:17:38Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -25447,6 +25483,20 @@
                         "object_description_id": 35520,
                         "object_definition_ref_object_id": 11945253,
                         "object_definition_value": "Author",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35536": {
+                        "object_description_id": 35536,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-330",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35537": {
+                        "object_description_id": 35537,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-30",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -25470,8 +25520,8 @@
                         "object_sub": {
                             "object_sub_id": 23076026,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": 0,
-                            "object_sub_date_end": 0,
+                            "object_sub_date_start": "-330",
+                            "object_sub_date_end": "-30",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": null,
                             "object_sub_location_geometry_ref_object_id": null,
@@ -25719,7 +25769,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-01-27T22:27:50Z"
+                    "object_dating": "2024-03-12T15:17:16Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -25736,10 +25786,31 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "35536": {
+                        "object_description_id": 35536,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "064",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35537": {
+                        "object_description_id": 35537,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "141",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "35556": {
                         "object_description_id": 35556,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35539": {
+                        "object_description_id": 35539,
+                        "object_definition_ref_object_id": 16247472,
+                        "object_definition_value": "Byblos",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -25756,12 +25827,12 @@
                         "object_sub": {
                             "object_sub_id": 23077362,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": 0,
-                            "object_sub_date_end": 0,
+                            "object_sub_date_start": "064",
+                            "object_sub_date_end": "141",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": null,
-                            "object_sub_location_geometry_ref_object_id": null,
-                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_geometry_ref_object_id": 0,
+                            "object_sub_location_geometry_ref_type_id": 0,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 12160,
                             "object_sub_location_ref_object_sub_details_id": 13068,
@@ -25785,7 +25856,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-01-28T11:52:43Z"
+                    "object_dating": "2024-03-12T15:16:07Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -25802,10 +25873,31 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "35536": {
+                        "object_description_id": 35536,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "026",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35537": {
+                        "object_description_id": 35537,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "101",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "35556": {
                         "object_description_id": 35556,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35539": {
+                        "object_description_id": 35539,
+                        "object_definition_ref_object_id": 12150550,
+                        "object_definition_value": "Rome",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -25822,12 +25914,12 @@
                         "object_sub": {
                             "object_sub_id": 23077412,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": 0,
-                            "object_sub_date_end": 0,
+                            "object_sub_date_start": "026",
+                            "object_sub_date_end": "101",
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": null,
-                            "object_sub_location_geometry_ref_object_id": null,
-                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [12.486137, 41.891775]}",
+                            "object_sub_location_geometry_ref_object_id": 12150550,
+                            "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 12160,
                             "object_sub_location_ref_object_sub_details_id": 13068,
@@ -25851,7 +25943,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-01-28T13:44:08Z"
+                    "object_dating": "2024-03-12T15:15:07Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -25868,10 +25960,31 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "35536": {
+                        "object_description_id": 35536,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-436",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35537": {
+                        "object_description_id": 35537,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-338",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "35556": {
                         "object_description_id": 35556,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35539": {
+                        "object_description_id": 35539,
+                        "object_definition_ref_object_id": 11943325,
+                        "object_definition_value": "Athina",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -25888,12 +26001,12 @@
                         "object_sub": {
                             "object_sub_id": 23077416,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": 0,
-                            "object_sub_date_end": 0,
+                            "object_sub_date_start": "-436",
+                            "object_sub_date_end": "-338",
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": null,
-                            "object_sub_location_geometry_ref_object_id": null,
-                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [23.722746101726, 37.972633872616]}",
+                            "object_sub_location_geometry_ref_object_id": 11943325,
+                            "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 12160,
                             "object_sub_location_ref_object_sub_details_id": 13068,
@@ -29462,7 +29575,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-22T12:42:21Z"
+                    "object_dating": "2024-03-12T15:13:48Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -29490,13 +29603,6 @@
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
                         "object_definition_value": "-99",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35537": {
-                        "object_description_id": 35537,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "1",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -29532,7 +29638,7 @@
                             "object_sub_id": 23121648,
                             "object_sub_details_id": 13427,
                             "object_sub_date_start": "-99",
-                            "object_sub_date_end": "1",
+                            "object_sub_date_end": 0,
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [34.898228, 36.914956]}",
                             "object_sub_location_geometry_ref_object_id": 12375020,
@@ -30039,7 +30145,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-24T23:08:09Z"
+                    "object_dating": "2024-03-12T15:12:59Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -30056,10 +30162,31 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "35536": {
+                        "object_description_id": 35536,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "100",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35537": {
+                        "object_description_id": 35537,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "200",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "35556": {
                         "object_description_id": 35556,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35539": {
+                        "object_description_id": 35539,
+                        "object_definition_ref_object_id": 12150550,
+                        "object_definition_value": "Rome",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -30076,12 +30203,12 @@
                         "object_sub": {
                             "object_sub_id": 23123543,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": 0,
-                            "object_sub_date_end": 0,
+                            "object_sub_date_start": "100",
+                            "object_sub_date_end": "200",
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": null,
-                            "object_sub_location_geometry_ref_object_id": null,
-                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [12.486137, 41.891775]}",
+                            "object_sub_location_geometry_ref_object_id": 12150550,
+                            "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 12160,
                             "object_sub_location_ref_object_sub_details_id": 13068,

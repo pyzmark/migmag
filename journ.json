@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-03-11T22:00:09+00:00",
+    "timestamp": "2024-03-12T22:00:06+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -6942,7 +6942,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-03-21T14:39:58Z"
+                    "object_dating": "2024-03-12T16:52:59Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -6961,8 +6961,12 @@
                     },
                     "50791": {
                         "object_description_id": 50791,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945197
+                        ],
+                        "object_definition_value": [
+                            "Southern Italy"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
