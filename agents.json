@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-03-12T22:00:05+00:00",
+    "timestamp": "2024-03-13T22:00:05+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -32334,6 +32334,152 @@
                     "23290662": {
                         "object_sub": {
                             "object_sub_id": 23290662,
+                            "object_sub_details_id": 13427,
+                            "object_sub_date_start": 0,
+                            "object_sub_date_end": 0,
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 12160,
+                            "object_sub_location_ref_object_sub_details_id": 13068,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": "reference",
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "16247901": {
+                "object": {
+                    "nodegoat_id": "ngNU0F18zOkFzOah1O29zckCoPB",
+                    "object_id": 16247901,
+                    "object_name": "Clymenos",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-13T11:43:10Z"
+                },
+                "object_definitions": {
+                    "35523": {
+                        "object_description_id": 35523,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Clymenos",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35520": {
+                        "object_description_id": 35520,
+                        "object_definition_ref_object_id": 11945255,
+                        "object_definition_value": "Traveller: mythical",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35521": {
+                        "object_description_id": 35521,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://resource.manto.unh.edu/11290111",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35556": {
+                        "object_description_id": 35556,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35539": {
+                        "object_description_id": 35539,
+                        "object_definition_ref_object_id": 12440362,
+                        "object_definition_value": "Boiotia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35540": {
+                        "object_description_id": 35540,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23305686": {
+                        "object_sub": {
+                            "object_sub_id": 23305686,
+                            "object_sub_details_id": 13427,
+                            "object_sub_date_start": 0,
+                            "object_sub_date_end": 0,
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": "{\"type\": \"GeometryCollection\", \"geometries\": [{\"type\": \"Polygon\", \"coordinates\": [[[23.309168934026417, 38.52048587057743], [23.217227114281997, 38.55110720965348], [23.192345111029596, 38.56940712658084], [23.18511837140279, 38.578582422360824], [23.153556447944, 38.5942423792124], [23.133865849101568, 38.58947957708099], [23.094396648974453, 38.592784912650615], [23.06127071315234, 38.590030476909874], [23.030259198766885, 38.5817665356586], [23.02351002308997, 38.57743871383556], [23.021801513025167, 38.57074646800689], [22.98233231289717, 38.5580713003215], [22.961892905687705, 38.54374015803961], [22.923833301238854, 38.535470896691834], [22.85899104388551, 38.52995752453711], [22.83643721524109, 38.521686674142586], [22.79555840082304, 38.51782661865886], [22.777233415049437, 38.51120889909831], [22.76595650072767, 38.489697109663865], [22.756794007840824, 38.480869901734394], [22.756794007840824, 38.47369699920938], [22.760318043566713, 38.45824524675433], [22.761727657856767, 38.43616557223649], [22.76243246500178, 38.41794475566874], [22.77089015074355, 38.370991182335985], [22.7827881086167, 38.31836426097556], [22.79139889060434, 38.292564695356475], [22.795312882416994, 38.28150492970829], [22.79349895290244, 38.263962519054786], [22.78488817091477, 38.255357235777154], [22.761404220039793, 38.24244739990749], [22.777060187289436, 38.23138000131436], [22.79897856301517, 38.2227708717748], [22.852208851664894, 38.224615773532946], [22.877258399264576, 38.22031092998421], [22.90074235013867, 38.22092592322931], [22.897611156689297, 38.204319281044434], [22.90074235013867, 38.19386130310028], [22.91904891225994, 38.18755028386559], [22.94048970579968, 38.18474151703827], [22.95835703374877, 38.18286894565486], [22.972650896108576, 38.19129513783423], [22.95716587855233, 38.20533662535823], [22.93453392981621, 38.20908056470765], [22.961930499337996, 38.21376021809411], [22.979797827288508, 38.20720861910394], [23.011959017597377, 38.204400610432856], [23.025061724760775, 38.20252854447634], [23.04292905270981, 38.19129513783423], [23.023870569562916, 38.18286894565486], [23.0607963806589, 38.172568942712616], [23.078663708609355, 38.16788664191262], [23.097722191754883, 38.180996326139336], [23.109633743721844, 38.19503979926341], [23.12630988265022, 38.19223126935546], [23.138151332374463, 38.18013384637098], [23.128587714743475, 38.17261577352858], [23.125110035605672, 38.16167901031386], [23.146845530220983, 38.15757730108254], [23.16075624677424, 38.15757730108254], [23.179883482036217, 38.15962818453937], [23.193794198589444, 38.15757730108254], [23.207704915143697, 38.15415903380483], [23.219876792128048, 38.150740606303486], [23.2303098295435, 38.15279168203122], [23.255523003296588, 38.16167901031386], [23.271172561746, 38.178083554706234], [23.28943037722351, 38.1903845287666], [23.3094270322689, 38.19653423688385], [23.321598909253225, 38.202683425690026], [23.341595564299663, 38.209515248596375], [23.358114540207257, 38.21702951321154], [23.37028641719158, 38.2286409414576], [23.396345824089025, 38.24192444182012], [23.421400346293694, 38.247019610227454], [23.474462777124927, 38.26245392182793], [23.554714502297728, 38.27927950617247], [23.577374470885225, 38.28837136141406], [23.597061521343107, 38.30193525237755], [23.612511940832835, 38.30134205267416], [23.628953333034083, 38.301332217592595], [23.645146982056488, 38.29646175922976], [23.661340631078893, 38.295479927664374], [23.666982377083347, 38.30040456345384], [23.665191827767945, 38.30610688708883], [23.66711742611248, 38.31142036680106], [23.669043024457007, 38.31673384651328], [23.673885193855135, 38.326583130061806], [23.671295067933382, 38.3389583266231], [23.64311640253345, 38.36455649504927], [23.63198177235887, 38.3841914985062], [23.63024293278997, 38.39850174159406], [23.63198177235887, 38.41553405257659], [23.618071036576683, 38.41894003217695], [23.59807438153021, 38.41894003217695], [23.59807438153021, 38.4359675258996], [23.581555405622623, 38.44686301484822], [23.563297590146135, 38.45299100462731], [23.574600063081338, 38.466606899320766], [23.585033100496787, 38.48226199743027], [23.54764804975832, 38.491109027393094], [23.51895719686641, 38.48498427617497], [23.47461678785129, 38.487706452094926], [23.46331433065143, 38.49723325803592], [23.433754057975023, 38.49791369597173], [23.413757402928553, 38.49723325803592], [23.40680204465195, 38.50607844986993], [23.377241771974553, 38.51084079554283], [23.36072279606697, 38.5047177218286], [23.349420338867077, 38.502676581559086], [23.334640202529418, 38.50131578924257], [23.32855426403725, 38.50607844986993], [23.37740770144491, 38.524112514673234], [23.348734466798, 38.52567224384072], [23.33417092659673, 38.52219130428479], [23.320762238802047, 38.52453418878611], [23.309168934026417, 38.52048587057743]]]}]}",
+                            "object_sub_location_geometry_ref_object_id": 12440362,
+                            "object_sub_location_geometry_ref_type_id": 12160,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 12160,
+                            "object_sub_location_ref_object_sub_details_id": 13068,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": "reference",
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "16247905": {
+                "object": {
+                    "nodegoat_id": "ngRY0J58dRoJdSeZ5SK35goWsRF",
+                    "object_id": 16247905,
+                    "object_name": "Axia",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-13T11:43:45Z"
+                },
+                "object_definitions": {
+                    "35523": {
+                        "object_description_id": 35523,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Axia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35520": {
+                        "object_description_id": 35520,
+                        "object_definition_ref_object_id": 11945255,
+                        "object_definition_value": "Traveller: mythical",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35556": {
+                        "object_description_id": 35556,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35540": {
+                        "object_description_id": 35540,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23305690": {
+                        "object_sub": {
+                            "object_sub_id": 23305690,
                             "object_sub_details_id": 13427,
                             "object_sub_date_start": 0,
                             "object_sub_date_end": 0,

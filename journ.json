@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-03-12T22:00:06+00:00",
+    "timestamp": "2024-03-13T22:00:07+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -8158,7 +8158,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-03-04T22:39:28Z"
+                    "object_dating": "2024-03-13T19:15:48Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -8182,10 +8182,10 @@
                     "50791": {
                         "object_description_id": 50791,
                         "object_definition_ref_object_id": [
-                            11945195
+                            11945194
                         ],
                         "object_definition_value": [
-                            "Southern Anatolia"
+                            "Western Anatolia"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -12145,7 +12145,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-03-01T20:54:18Z"
+                    "object_dating": "2024-03-13T19:51:15Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -12202,10 +12202,10 @@
                     "47038": {
                         "object_description_id": 47038,
                         "object_definition_ref_object_id": [
-                            14235456
+                            14235457
                         ],
                         "object_definition_value": [
-                            "aims to explain the foundation of a place"
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -14367,7 +14367,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-12-22T13:18:25Z"
+                    "object_dating": "2024-03-13T15:18:51Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -14379,8 +14379,12 @@
                     },
                     "53491": {
                         "object_description_id": 53491,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16218686
+                        ],
+                        "object_definition_value": [
+                            "Lokrian cities"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -14397,12 +14401,8 @@
                     },
                     "35546": {
                         "object_description_id": 35546,
-                        "object_definition_ref_object_id": [
-                            14790849
-                        ],
-                        "object_definition_value": [
-                            "East Lokris - Opountian Lokris"
-                        ],
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -14420,10 +14420,12 @@
                     "47038": {
                         "object_description_id": 47038,
                         "object_definition_ref_object_id": [
-                            14235456
+                            14235456,
+                            14235887
                         ],
                         "object_definition_value": [
-                            "aims to explain the foundation of a place"
+                            "aims to explain the foundation of a place",
+                            "aims to explain an ancient relationship between communities NOT based on kinship"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -14442,10 +14444,12 @@
                     "35542": {
                         "object_description_id": 35542,
                         "object_definition_ref_object_id": [
-                            11945231
+                            11945231,
+                            14321443
                         ],
                         "object_definition_value": [
-                            "Heroes (named individuals)"
+                            "Heroes (named individuals)",
+                            "Band of companions of a hero"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -14453,10 +14457,12 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            14810722
+                            14810722,
+                            16020079
                         ],
                         "object_definition_value": [
-                            "Abderos"
+                            "Abderos",
+                            "Herakles"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -14464,7 +14470,7 @@
                     "35519": {
                         "object_description_id": 35519,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "In the 8th labor, Hercules is called to capture that man-eating horses of Diomedes of Thrake. Abderos, an Opountian Lokrian, is the hero's companion and friend. Abderos was killed while guarding the houses. Hercules buries him in Trhace and founds a city in his name.",
+                        "object_definition_value": "In the 8th labor, Hercules is called to capture the man-eating horses of Diomedes of Thrake. Abderos, an Opountian Lokrian, is the hero's companion and friend. Abderos was killed while guarding the houses. Hercules buried him in Trhace and founded a city in his name.",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -17097,26 +17103,30 @@
                 "object": {
                     "nodegoat_id": "ngAH4E08mAxS2BnInAT85pxNbCO",
                     "object_id": 14829840,
-                    "object_name": "Kalliaros - Formal naming of the town",
+                    "object_name": "The city of Kalliaros is named after Kalliaros, son of Odoidokos and Laonome",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-12-22T13:18:14Z"
+                    "object_dating": "2024-03-13T15:05:44Z"
                 },
                 "object_definitions": {
                     "35544": {
                         "object_description_id": 35544,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Kalliaros - Formal naming of the town",
+                        "object_definition_value": "The city of Kalliaros is named after Kalliaros, son of Odoidokos and Laonome",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "53491": {
                         "object_description_id": 53491,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16218686
+                        ],
+                        "object_definition_value": [
+                            "Lokrian cities"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -17133,6 +17143,13 @@
                     },
                     "35546": {
                         "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
                         "object_definition_ref_object_id": [
                             12512858
                         ],
@@ -17142,20 +17159,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
-                    "35547": {
-                        "object_description_id": 35547,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
                     "47038": {
                         "object_description_id": 47038,
                         "object_definition_ref_object_id": [
-                            14235457
+                            14235456
                         ],
                         "object_definition_value": [
-                            "aims to explain the geneaological origins of people or a putative kinship relationship"
+                            "aims to explain the foundation of a place"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -17188,7 +17198,7 @@
                     "35519": {
                         "object_description_id": 35519,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "There are two versions of the formal naming Kalliaros.\r\n\r\nThe first comes from the eponymous hero, Kalliaros, who was the son of Hodoidokos and Laonome. From other sources, we know that Hodoidokos was the son of Kynos, brother of Larymna, and grandson of Opous (other eponymous heroes of Lokrian towns). (Eustathius on Homer, p. 227). These myths link the Lokrian towns through shared genealogies of eponymous heroes.\r\n\r\nIn the second version, the name Kalliaros derives from the easily cultivable land.",
+                        "object_definition_value": "Strabo offers two versions for the derival of Kalliaros name. The first one comes from Hellanicos, and suggests it was named after the eponymous hero, son of Hodoidokos and Laonome. The second one comes from Strabo, who suggests the city is named after its easily to plough soil. \r\n\r\nFrom other sources, we know that Hodoidokos was the son of Kynos, brother of Larymna, and grandson of Opous(Eustathius on Homer, p. 227) *IN SEARCH*.",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -17196,12 +17206,10 @@
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
                             14787055,
-                            14829838,
                             14851491
                         ],
                         "object_definition_value": [
                             "Stephanos of Byzantion s.v. Kalliaros",
-                            "Strabo FGrHist 1  F13",
                             "Hellanikos FGrHist I F13"
                         ],
                         "object_definition_sources": [],
@@ -28847,7 +28855,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-02-20T21:17:07Z"
+                    "object_dating": "2024-03-13T19:33:19Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -42096,7 +42104,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-03-04T23:27:20Z"
+                    "object_dating": "2024-03-13T19:35:03Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -42181,12 +42189,14 @@
                         "object_definition_ref_object_id": [
                             12375176,
                             12375182,
-                            12375151
+                            12375151,
+                            12375264
                         ],
                         "object_definition_value": [
                             "Aristotle F473 Rose Politics",
                             "Aristotle Rhetoric 2.25 (1402b4-5)",
-                            "Etymologicum Magnum s.v. Astypalaia"
+                            "Etymologicum Magnum s.v. Astypalaia",
+                            "Hekataios BNJ 1 F11"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -46972,7 +46982,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-03-04T23:30:56Z"
+                    "object_dating": "2024-03-13T19:28:46Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -47058,11 +47068,13 @@
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
                             12375212,
-                            12375251
+                            12375251,
+                            12375500
                         ],
                         "object_definition_value": [
                             "Diodorus Siculus 4.68.3-6",
-                            "Eumelos of Korinth FGrHist 451 F4"
+                            "Eumelos of Korinth FGrHist 451 F4",
+                            "Eustathios On Odyssey 3.4"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -48453,6 +48465,1649 @@
                         "object_definition_value": [
                             "Defector Lokrians lying to the Peloponnesians on behalf of the Herakleides - naval invade and capture of Rhio"
                         ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16247874": {
+                "object": {
+                    "nodegoat_id": "ngIP7y48uJPA7JvAvKR2txfdjJW",
+                    "object_id": 16247874,
+                    "object_name": "Sanctuary of Artemis Aitolian in Naupaktos",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-13T11:30:31Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Sanctuary of Artemis Aitolian in Naupaktos",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12409384
+                        ],
+                        "object_definition_value": [
+                            "Naupaktos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235887
+                        ],
+                        "object_definition_value": [
+                            "aims to explain an ancient relationship between communities NOT based on kinship"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Affiliation of Naupaktos with the Aitolians",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14786920
+                        ],
+                        "object_definition_value": [
+                            "Pausanias Paus. 10.38.9-13"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16247913": {
+                "object": {
+                    "nodegoat_id": "ngZG1D38lZGR6AmDmAS1lowEaKN",
+                    "object_id": 16247913,
+                    "object_name": "Axia in Ozolian Lokris and in Italy",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-13T11:47:28Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Axia in Ozolian Lokris and in Italy",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16218686
+                        ],
+                        "object_definition_value": [
+                            "Lokrian cities"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945227
+                        ],
+                        "object_definition_value": [
+                            "Formal naming of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            16247901,
+                            16247905
+                        ],
+                        "object_definition_value": [
+                            "Clymenos",
+                            "Axia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "The city was named after Axia, daughter of Clymenus or his son (Axios). Another city with the same name is located in Italy.\r\n\r\n\r\nhttps://en.wikipedia.org/wiki/Clymenus",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            16247912
+                        ],
+                        "object_definition_value": [
+                            "Stephanos of Byzantion s.v. Axia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16248114": {
+                "object": {
+                    "nodegoat_id": "ngAH1W48mAHSkBnunAJ2lpxNbLO",
+                    "object_id": 16248114,
+                    "object_name": "Nemea in Elis is Lokrian",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-13T14:33:46Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Nemea in Elis is Lokrian",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16218686
+                        ],
+                        "object_definition_value": [
+                            "Lokrian cities"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12446232,
+                            16248113
+                        ],
+                        "object_definition_value": [
+                            "Elis",
+                            "Nemea"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235457
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the geneaological origins of people or a putative kinship relationship"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "The citizens of the Lokrian polis are called Nemeioi",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14838137
+                        ],
+                        "object_definition_value": [
+                            "Stephanos of Byzantion s.v. Nemea"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16248329": {
+                "object": {
+                    "nodegoat_id": "ngPW2L98bPWH0QcBcQ07cemCqRD",
+                    "object_id": 16248329,
+                    "object_name": "Alpenoi, metropolis of the Lokrians",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-13T14:46:15Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Alpenoi, metropolis of the Lokrians",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16218686
+                        ],
+                        "object_definition_value": [
+                            "Lokrian cities"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12433345
+                        ],
+                        "object_definition_value": [
+                            "Psylopyrgos - Alpinos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Stephanus cites Herodotus who talks of a village called Alpenoi near Thermopylae. He adds, however, there is also another Alpenoi, known as mother-city of the Lokrians.",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            16248121
+                        ],
+                        "object_definition_value": [
+                            "Stephanos of Byzantion s.v. Alpenoi"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            16218690,
+                            16218854,
+                            16218728
+                        ],
+                        "object_definition_value": [
+                            "Opous, mother-city of the Lokrians",
+                            "Opous, mother-city of the Epiknemedian Lokrians, bordering Hyampolis",
+                            "Opous, metropolis of the Lokrians and city of righteous laws"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16248431": {
+                "object": {
+                    "nodegoat_id": "ngRY3J18dTYJ2SeReTK92goEsSF",
+                    "object_id": 16248431,
+                    "object_name": "Bessa, named after its wooded landscape",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-13T14:50:40Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Bessa, named after its wooded landscape",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16218686
+                        ],
+                        "object_definition_value": [
+                            "Lokrian cities"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            14132975
+                        ],
+                        "object_definition_value": [
+                            "Arkitsa - Roustiana"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945227
+                        ],
+                        "object_definition_value": [
+                            "Formal naming of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            16248330
+                        ],
+                        "object_definition_value": [
+                            "Stephanos of Byzantion s.v. Bessa"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16258332": {
+                "object": {
+                    "nodegoat_id": "ngSZ3K28eUJKdTfEfSr04hpPtSG",
+                    "object_id": 16258332,
+                    "object_name": "The city of Kalliaros is named after its easily to plough soil",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-13T15:08:58Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "The city of Kalliaros is named after its easily to plough soil",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16218686
+                        ],
+                        "object_definition_value": [
+                            "Lokrian cities"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945198
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12512858
+                        ],
+                        "object_definition_value": [
+                            "Megaplatanos - Palaiokastra"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945227
+                        ],
+                        "object_definition_value": [
+                            "Formal naming of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14787055,
+                            14829838
+                        ],
+                        "object_definition_value": [
+                            "Stephanos of Byzantion s.v. Kalliaros",
+                            "Strabo FGrHist 1  F13"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            14829840
+                        ],
+                        "object_definition_value": [
+                            "The city of Kalliaros is named after Kalliaros, son of Odoidokos and Laonome"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16263139": {
+                "object": {
+                    "nodegoat_id": "ngZG3D98lAQRkAmVmZI79owIaAt",
+                    "object_id": 16263139,
+                    "object_name": "Background info Manto",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-13T19:20:47Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Background info Manto",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15370845
+                        ],
+                        "object_definition_value": [
+                            "The Mantids"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945194
+                        ],
+                        "object_definition_value": [
+                            "Western Anatolia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12429214
+                        ],
+                        "object_definition_value": [
+                            "Delphi"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12042240
+                        ],
+                        "object_definition_value": [
+                            "Kolophon"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231,
+                            11945236
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)",
+                            "Women"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14235754
+                        ],
+                        "object_definition_value": [
+                            "Manto"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "General background info on Manto",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12375254
+                        ],
+                        "object_definition_value": [
+                            "Euripides F73a"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16263141": {
+                "object": {
+                    "nodegoat_id": "ngBI4F18nByT6CoroC295qyUcCv",
+                    "object_id": 16263141,
+                    "object_name": "Neileus leading Ionian Migration",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-13T19:32:59Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Neileus leading Ionian Migration",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15276964
+                        ],
+                        "object_definition_value": [
+                            "Ionian Migration"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945194
+                        ],
+                        "object_definition_value": [
+                            "Western Anatolia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12409546
+                        ],
+                        "object_definition_value": [
+                            "Attika"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            16191889
+                        ],
+                        "object_definition_value": [
+                            "Ionia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231,
+                            11945232
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)",
+                            "Large groups"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            12398494
+                        ],
+                        "object_definition_value": [
+                            "Neileus"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12375259
+                        ],
+                        "object_definition_value": [
+                            "Harpokration Lexicon s.v. Έρυθραῖοι"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16263144": {
+                "object": {
+                    "nodegoat_id": "ngEL4E48qGLW7FrWrGX2ptbFfEy",
+                    "object_id": 16263144,
+                    "object_name": "Foundation of Posidonia",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-13T19:58:15Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Foundation of Posidonia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16263143
+                        ],
+                        "object_definition_value": [
+                            "Travels of Amphilochus"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945195
+                        ],
+                        "object_definition_value": [
+                            "Southern Anatolia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [
+                            12427796
+                        ],
+                        "object_definition_value": [
+                            "Troy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            14810302
+                        ],
+                        "object_definition_value": [
+                            "Posideion"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14341962
+                        ],
+                        "object_definition_value": [
+                            "Amphilochos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14810298
+                        ],
+                        "object_definition_value": [
+                            "Herodotos 3.91"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35555": {
+                        "object_description_id": 35555,
+                        "object_definition_ref_object_id": 12058487,
+                        "object_definition_value": "Nostoi, generation of",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23331400": {
+                        "object_sub": {
+                            "object_sub_id": 23331400,
+                            "object_sub_details_id": 14207,
+                            "object_sub_date_start": "-1800",
+                            "object_sub_date_end": "-1300",
+                            "object_sub_date_chronology": {
+                                "type": "period",
+                                "span": {
+                                    "period_amount": 0,
+                                    "period_unit": null,
+                                    "cycle_object_id": 0
+                                },
+                                "start": {
+                                    "start": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18513358,
+                                        "date_direction": null
+                                    }
+                                },
+                                "end": {
+                                    "end": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18513358,
+                                        "date_direction": null
+                                    }
+                                }
+                            },
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 0,
+                            "object_sub_location_ref_object_sub_details_id": 0,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": null,
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "16263145": {
+                "object": {
+                    "nodegoat_id": "ngFM4F58rHWX7GsJsGe36ucagGT",
+                    "object_id": 16263145,
+                    "object_name": "Mopsos and Amphilochus",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-13T20:08:00Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Mopsos and Amphilochus",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15370845
+                        ],
+                        "object_definition_value": [
+                            "The Mantids"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945195
+                        ],
+                        "object_definition_value": [
+                            "Southern Anatolia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            13561038
+                        ],
+                        "object_definition_value": [
+                            "Mallos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "aims to explain the foundation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14235755,
+                            14341962
+                        ],
+                        "object_definition_value": [
+                            "Mopsos",
+                            "Amphilochos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14810484,
+                            12375538,
+                            14810490,
+                            14810489
+                        ],
+                        "object_definition_value": [
+                            "Lykophron Alexandra 439-46",
+                            "Strabo 14.5.16",
+                            "Euphorion F103 Lightfoot",
+                            "Ioannes Tzetzes Schol.Lyk.Al. 440"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35555": {
+                        "object_description_id": 35555,
+                        "object_definition_ref_object_id": 12058487,
+                        "object_definition_value": "Nostoi, generation of",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23331401": {
+                        "object_sub": {
+                            "object_sub_id": 23331401,
+                            "object_sub_details_id": 14207,
+                            "object_sub_date_start": "-1200",
+                            "object_sub_date_end": "-800",
+                            "object_sub_date_chronology": {
+                                "type": "period",
+                                "span": {
+                                    "period_amount": 0,
+                                    "period_unit": null,
+                                    "cycle_object_id": 0
+                                },
+                                "start": {
+                                    "start": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404092,
+                                        "date_direction": null
+                                    }
+                                },
+                                "end": {
+                                    "end": {
+                                        "offset_amount": 0,
+                                        "offset_unit": null,
+                                        "cycle_object_id": 0,
+                                        "cycle_direction": null,
+                                        "date_value": null,
+                                        "date_object_sub_id": 18404092,
+                                        "date_direction": null
+                                    }
+                                }
+                            },
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 0,
+                            "object_sub_location_ref_object_sub_details_id": 0,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": null,
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "16263147": {
+                "object": {
+                    "nodegoat_id": "ngHO4H78tIeZ7IuPuJA57weMiJV",
+                    "object_id": 16263147,
+                    "object_name": "Mopsos versus Calchas",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-13T20:05:42Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Mopsos versus Calchas",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            15370845
+                        ],
+                        "object_definition_value": [
+                            "The Mantids"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [
+                            11945194
+                        ],
+                        "object_definition_value": [
+                            "Western Anatolia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12042240
+                        ],
+                        "object_definition_value": [
+                            "Kolophon"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            16263146
+                        ],
+                        "object_definition_value": [
+                            "Early history"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14235760,
+                            14235755
+                        ],
+                        "object_definition_value": [
+                            "Calchas",
+                            "Mopsos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14235759
+                        ],
+                        "object_definition_value": [
+                            "Euphorion F102 Lightfoot"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35555": {
+                        "object_description_id": 35555,
+                        "object_definition_ref_object_id": 12058487,
+                        "object_definition_value": "Nostoi, generation of",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
