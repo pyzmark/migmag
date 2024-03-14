@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-03-13T22:00:05+00:00",
+    "timestamp": "2024-03-14T22:00:06+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -32480,6 +32480,166 @@
                     "23305690": {
                         "object_sub": {
                             "object_sub_id": 23305690,
+                            "object_sub_details_id": 13427,
+                            "object_sub_date_start": 0,
+                            "object_sub_date_end": 0,
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 12160,
+                            "object_sub_location_ref_object_sub_details_id": 13068,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": "reference",
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "16263156": {
+                "object": {
+                    "nodegoat_id": "ngQX5C68cQXIcRdo6QJ48fnFrRE",
+                    "object_id": 16263156,
+                    "object_name": "Ptolemaios Lagu",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-14T07:54:37Z"
+                },
+                "object_definitions": {
+                    "35523": {
+                        "object_description_id": 35523,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Ptolemaios Lagu",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35520": {
+                        "object_description_id": 35520,
+                        "object_definition_ref_object_id": 11945253,
+                        "object_definition_value": "Author",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35535": {
+                        "object_description_id": 35535,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "www.trismegistos.org/author/796",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35536": {
+                        "object_description_id": 35536,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-367",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35537": {
+                        "object_description_id": 35537,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-285",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35556": {
+                        "object_description_id": 35556,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35539": {
+                        "object_description_id": 35539,
+                        "object_definition_ref_object_id": 12433936,
+                        "object_definition_value": "Egypt",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35540": {
+                        "object_description_id": 35540,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23331443": {
+                        "object_sub": {
+                            "object_sub_id": 23331443,
+                            "object_sub_details_id": 13427,
+                            "object_sub_date_start": "-367",
+                            "object_sub_date_end": "-285",
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": "{\"type\": \"GeometryCollection\", \"geometries\": [{\"type\": \"Polygon\", \"coordinates\": [[[32.508544921875, 31.052933985705163], [32.222900390625, 31.3348710339506], [31.904296874999996, 31.49426181553272], [30.860595703125, 31.606609719226913], [30.102539062499993, 31.40053532686393], [29.630126953125004, 31.25037814985571], [29.256591796874996, 30.93050081760779], [29.113769531250004, 30.6662659463233], [29.311523437499996, 30.38235321766959], [29.783935546874993, 29.88828093315927], [29.838867187500004, 29.410890376109], [30.091552734375, 28.53627451298992], [30.355224609375, 27.761329874505233], [30.893554687500004, 26.588527147308618], [31.201171875, 26.391869671769022], [31.904296874999996, 25.829561086053506], [32.354736328125, 25.651430347039724], [32.2998046875, 25.16517336866393], [32.45361328125, 24.37712083961039], [32.62939453125, 23.79539759797875], [32.98095703125, 23.614328594991676], [33.23364257812499, 23.68477416688374], [33.277587890625, 24.50714328310284], [33.409423828125, 24.98605802116759], [33.255615234375, 25.85922355476141], [33.101806640625, 26.303264239389534], [32.51953125, 26.61799672211676], [32.091064453125, 26.853479438420024], [31.761474609375, 27.28392560022976], [31.530761718750004, 27.9361805667694], [31.4208984375, 28.381735043223077], [31.44287109375, 28.84467368077179], [31.585693359375004, 29.152161283318915], [32.08007812499999, 29.382175075145295], [32.36572265625, 29.592565403314087], [32.508544921875, 29.869228848968312], [32.794189453125, 29.9834867184747], [33.101806640625, 30.240086360983423], [33.211669921875, 30.779598396611537], [33.145751953125, 31.024694128525137], [33.079833984375, 31.128199299111962], [32.508544921875, 31.052933985705163]]]}]}",
+                            "object_sub_location_geometry_ref_object_id": 12433936,
+                            "object_sub_location_geometry_ref_type_id": 12160,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 12160,
+                            "object_sub_location_ref_object_sub_details_id": 13068,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": "reference",
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "16263159": {
+                "object": {
+                    "nodegoat_id": "ngTA5B98fVKLdUgT9TM74iqMuTn",
+                    "object_id": 16263159,
+                    "object_name": "Anchiale",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-14T07:58:05Z"
+                },
+                "object_definitions": {
+                    "35523": {
+                        "object_description_id": 35523,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Anchiale",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35520": {
+                        "object_description_id": 35520,
+                        "object_definition_ref_object_id": 11945255,
+                        "object_definition_value": "Traveller: mythical",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35556": {
+                        "object_description_id": 35556,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35540": {
+                        "object_description_id": 35540,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23331445": {
+                        "object_sub": {
+                            "object_sub_id": 23331445,
                             "object_sub_details_id": 13427,
                             "object_sub_date_start": 0,
                             "object_sub_date_end": 0,

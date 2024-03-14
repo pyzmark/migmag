@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-03-13T22:00:07+00:00",
+    "timestamp": "2024-03-14T22:00:08+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -50032,12 +50032,8 @@
                     },
                     "47038": {
                         "object_description_id": 47038,
-                        "object_definition_ref_object_id": [
-                            16263146
-                        ],
-                        "object_definition_value": [
-                            "Early history"
-                        ],
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -50108,6 +50104,131 @@
                         "object_description_id": 35555,
                         "object_definition_ref_object_id": 12058487,
                         "object_definition_value": "Nostoi, generation of",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "16263160": {
+                "object": {
+                    "nodegoat_id": "ngUB6C08gVrM5VhYhUt85jrtvVo",
+                    "object_id": 16263160,
+                    "object_name": "Anchiale daughter of Iatpetos",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-03-14T07:58:39Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Anchiale daughter of Iatpetos",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12512902
+                        ],
+                        "object_definition_value": [
+                            "Mersin - Yumuktepe"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231,
+                            11945236
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)",
+                            "Women"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            16263159
+                        ],
+                        "object_definition_value": [
+                            "Anchiale"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            16263161
+                        ],
+                        "object_definition_value": [
+                            "Ptolemaios Lagu BNJ 138 F5"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
