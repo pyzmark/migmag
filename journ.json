@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-03-14T22:00:08+00:00",
+    "timestamp": "2024-03-15T22:00:09+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -2934,19 +2934,19 @@
                 "object": {
                     "nodegoat_id": "ngWD3A68iYNO8XjOjWF47ltBxWK",
                     "object_id": 13573536,
-                    "object_name": "Cilician foundations of Sardanapalus",
+                    "object_name": "Sardanapalus founds Anchiale and Tarsus",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-03-01T20:47:21Z"
+                    "object_dating": "2024-03-15T18:34:25Z"
                 },
                 "object_definitions": {
                     "35544": {
                         "object_description_id": 35544,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Cilician foundations of Sardanapalus",
+                        "object_definition_value": "Sardanapalus founds Anchiale and Tarsus",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -3054,14 +3054,16 @@
                             14819983,
                             14819985,
                             13038433,
-                            16024935
+                            16024935,
+                            16265892
                         ],
                         "object_definition_value": [
                             "Aristoboulos of Kassandreia BNJ 139 F9",
                             "Athenaios Deipnosophists 12.39",
                             "Arrian Anabasis 2.5.2-4",
                             "Strabo 14.5.9",
-                            "Stephanos of Byzantion s.v. Anchiale"
+                            "Stephanos of Byzantion s.v. Anchiale",
+                            "Suda s.v. Anchiale"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -50120,7 +50122,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-03-14T07:58:39Z"
+                    "object_dating": "2024-03-15T18:34:25Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -50203,10 +50205,12 @@
                     "35524": {
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
-                            16263161
+                            16263161,
+                            16265893
                         ],
                         "object_definition_value": [
-                            "Ptolemaios Lagu BNJ 138 F5"
+                            "Ptolemaios Lagu BNJ 138 F5",
+                            "Athenodoros of Tarsos BNJ 746 F1"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
