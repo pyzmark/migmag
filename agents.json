@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-03-25T22:00:05+00:00",
+    "timestamp": "2024-03-26T22:00:07+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -258,7 +258,7 @@
                             12042240
                         ],
                         "object_definition_value": [
-                            "Chios",
+                            "Chios Town",
                             "Athina",
                             "Kolophon"
                         ],
@@ -348,7 +348,7 @@
                     "35539": {
                         "object_description_id": 35539,
                         "object_definition_ref_object_id": 12042214,
-                        "object_definition_value": "Chios",
+                        "object_definition_value": "Chios Town",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -7496,7 +7496,7 @@
                     "35539": {
                         "object_description_id": 35539,
                         "object_definition_ref_object_id": 12042214,
-                        "object_definition_value": "Chios",
+                        "object_definition_value": "Chios Town",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -8057,7 +8057,7 @@
                     "35539": {
                         "object_description_id": 35539,
                         "object_definition_ref_object_id": 12042214,
-                        "object_definition_value": "Chios",
+                        "object_definition_value": "Chios Town",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -31246,7 +31246,7 @@
                             12042214
                         ],
                         "object_definition_value": [
-                            "Chios"
+                            "Chios Town"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
