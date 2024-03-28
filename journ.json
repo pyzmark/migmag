@@ -1,12 +1,13 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-03-27T22:00:07+00:00",
+    "timestamp": "2024-03-28T22:00:06+00:00",
     "authenticated": true,
     "data": {
         "objects": {
             "11945261": {
                 "object": {
                     "nodegoat_id": "ngVC6D18hVsNfWiHiWE92ksAwXJ",
+                    "type_id": 12173,
                     "object_id": 11945261,
                     "object_name": "Ionian Migration myth",
                     "object_name_plain": "Aelian, Varia Historia 8.5",
@@ -750,6 +751,7 @@
             "12345942": {
                 "object": {
                     "nodegoat_id": "ngCJ4C28oDpU2DpCpDV06rzLdCw",
+                    "type_id": 12173,
                     "object_id": 12345942,
                     "object_name": "Smyrna autochthony",
                     "object_name_plain": null,
@@ -987,6 +989,7 @@
             "12380935": {
                 "object": {
                     "nodegoat_id": "ngVC3Z58hWMN6WiViXO3fksAwVJ",
+                    "type_id": 12173,
                     "object_id": 12380935,
                     "object_name": "Amazonian foundation of Ephesos",
                     "object_name_plain": null,
@@ -1240,6 +1243,7 @@
             "12380939": {
                 "object": {
                     "nodegoat_id": "ngZG3D98lBQR1AmVmAS7jowWaAN",
+                    "type_id": 12173,
                     "object_id": 12380939,
                     "object_name": "Amazonian foundation of Smyrna",
                     "object_name_plain": null,
@@ -1471,6 +1475,7 @@
             "12499378": {
                 "object": {
                     "nodegoat_id": "ngMT7Y88yNzE3NzMzMV6ybjhnNA",
+                    "type_id": 12173,
                     "object_id": 12499378,
                     "object_name": "Myskellos founds Kroton",
                     "object_name_plain": null,
@@ -1735,6 +1740,7 @@
             "12536649": {
                 "object": {
                     "nodegoat_id": "ngJQ4J98vLAB0KwVwKC7tygakKd",
+                    "type_id": 12173,
                     "object_id": 12536649,
                     "object_name": "Arkadian Migration to Italy",
                     "object_name_plain": null,
@@ -1942,6 +1948,7 @@
             "13019509": {
                 "object": {
                     "nodegoat_id": "ngVC0Z98hXCN3WipiWO70ksIwGJ",
+                    "type_id": 12173,
                     "object_id": 13019509,
                     "object_name": "Menestheus founds Skylletion",
                     "object_name_plain": null,
@@ -2170,6 +2177,7 @@
             "13029976": {
                 "object": {
                     "nodegoat_id": "ngKR7a68wKhC9LxGxLT46zhblLe",
+                    "type_id": 12173,
                     "object_id": 13029976,
                     "object_name": "Mixed colonisation of Soli",
                     "object_name_plain": null,
@@ -2410,6 +2418,7 @@
             "13038439": {
                 "object": {
                     "nodegoat_id": "ngZG3D98lAQRjAmZmAS70owEaBN",
+                    "type_id": 12173,
                     "object_id": 13038439,
                     "object_name": "Tarsus colonisation",
                     "object_name_plain": null,
@@ -2683,6 +2692,7 @@
             "13038441": {
                 "object": {
                     "nodegoat_id": "ngBI4F18nCITmCoNoBa9mqyCcBv",
+                    "type_id": 12173,
                     "object_id": 13038441,
                     "object_name": "Foundation of Olba",
                     "object_name_plain": null,
@@ -2933,6 +2943,7 @@
             "13573536": {
                 "object": {
                     "nodegoat_id": "ngWD3A68iYNO8XjOjWF47ltBxWK",
+                    "type_id": 12173,
                     "object_id": 13573536,
                     "object_name": "Sardanapalus founds Anchiale and Tarsus",
                     "object_name_plain": null,
@@ -3216,6 +3227,7 @@
             "13574843": {
                 "object": {
                     "nodegoat_id": "ngDK4D38pFKV3EqHqEM13saQeFR",
+                    "type_id": 12173,
                     "object_id": 13574843,
                     "object_name": "Foundation of Miletus (uncertain)",
                     "object_name_plain": null,
@@ -3364,6 +3376,7 @@
             "13574848": {
                 "object": {
                     "nodegoat_id": "ngIP4I88uJfA9JvWvIB6uxfzjIc",
+                    "type_id": 12173,
                     "object_id": 13574848,
                     "object_name": "Miletus autochthony",
                     "object_name_plain": null,
@@ -3602,6 +3615,7 @@
             "13575060": {
                 "object": {
                     "nodegoat_id": "ngUB6C08gVBM4VhUhUN8ejrJvWI",
+                    "type_id": 12173,
                     "object_id": 13575060,
                     "object_name": "Athens to Euboea",
                     "object_name_plain": null,
@@ -3790,6 +3804,7 @@
             "13575061": {
                 "object": {
                     "nodegoat_id": "ngVC6D18hWsN5WiRiWO94ksEwWp",
+                    "type_id": 12173,
                     "object_id": 13575061,
                     "object_name": "Spartan foundation of Magnesia",
                     "object_name_plain": null,
@@ -3955,6 +3970,7 @@
             "13575549": {
                 "object": {
                     "nodegoat_id": "ngJQ4J98vKwB9KwhwKC79ygekLX",
+                    "type_id": 12173,
                     "object_id": 13575549,
                     "object_name": "Karian Migration",
                     "object_name_plain": null,
@@ -4189,6 +4205,7 @@
             "13575553": {
                 "object": {
                     "nodegoat_id": "ngNU5Z38zOaFxOalaOG14ckKoNB",
+                    "type_id": 12173,
                     "object_id": 13575553,
                     "object_name": "Indigenous inhabitation of Ephesus",
                     "object_name_plain": null,
@@ -4423,6 +4440,7 @@
             "13576000": {
                 "object": {
                     "nodegoat_id": "ngMT0E08yMzE1NzczNl8wbjBnMA",
+                    "type_id": 12173,
                     "object_id": 13576000,
                     "object_name": "Phokaian colonisation",
                     "object_name_plain": null,
@@ -4555,6 +4573,7 @@
             "13657327": {
                 "object": {
                     "nodegoat_id": "ngNU2J78zOEFyOaNaOG5ackmoNh",
+                    "type_id": 12173,
                     "object_id": 13657327,
                     "object_name": "Foundation of Métauros from Lokri",
                     "object_name_plain": null,
@@ -4698,6 +4717,7 @@
             "13657330": {
                 "object": {
                     "nodegoat_id": "ngQX3I08cSHI3RdUdRZ8cfnlrRE",
+                    "type_id": 12173,
                     "object_id": 13657330,
                     "object_name": "Achaians (and Troezenians) found Sybaris",
                     "object_name_plain": null,
@@ -4845,6 +4865,7 @@
             "13657331": {
                 "object": {
                     "nodegoat_id": "ngRY3J18dSeJ3SeheRq9dgoKsSl",
+                    "type_id": 12173,
                     "object_id": 13657331,
                     "object_name": "Foundation of Medma",
                     "object_name_plain": null,
@@ -4988,6 +5009,7 @@
             "13657332": {
                 "object": {
                     "nodegoat_id": "ngSZ3O28eSJK5TfqfTB07hpntUG",
+                    "type_id": 12173,
                     "object_id": 13657332,
                     "object_name": "Foundation of Kaulonia from Kroton",
                     "object_name_plain": null,
@@ -5156,6 +5178,7 @@
             "13657333": {
                 "object": {
                     "nodegoat_id": "ngTA3L38fVAL6UgLgTC1eiqUuUn",
+                    "type_id": 12173,
                     "object_id": 13657333,
                     "object_name": "Foundation of Terina",
                     "object_name_plain": null,
@@ -5312,6 +5335,7 @@
             "13657341": {
                 "object": {
                     "nodegoat_id": "ngBI4F18nCST2CoBoCU9lqyUcCv",
+                    "type_id": 12173,
                     "object_id": 13657341,
                     "object_name": "Foundation of Hipponion",
                     "object_name_plain": null,
@@ -5466,6 +5490,7 @@
             "13657344": {
                 "object": {
                     "nodegoat_id": "ngEL4I48qELWrFrSrF526tbvfFy",
+                    "type_id": 12173,
                     "object_id": 13657344,
                     "object_name": "Sardus travels to Libya",
                     "object_name_plain": null,
@@ -5611,6 +5636,7 @@
             "13657347": {
                 "object": {
                     "nodegoat_id": "ngHO4H78tHuZ1IuZuJQ52weUiHV",
+                    "type_id": 12173,
                     "object_id": 13657347,
                     "object_name": "Aristaios founds Karalis",
                     "object_name_plain": null,
@@ -5767,6 +5793,7 @@
             "13657352": {
                 "object": {
                     "nodegoat_id": "ngMT5Y28yNjExNzMzM302bjVnMg",
+                    "type_id": 12173,
                     "object_id": 13657352,
                     "object_name": "Norax founds Nora",
                     "object_name_plain": null,
@@ -5819,7 +5846,7 @@
                             12369996
                         ],
                         "object_definition_value": [
-                            "Nora"
+                            "Pula - Nora"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5947,7 +5974,7 @@
                             "object_sub_location_ref_object_id": 12369996,
                             "object_sub_location_ref_type_id": 12160,
                             "object_sub_location_ref_object_sub_details_id": 13068,
-                            "object_sub_location_ref_object_name": "Nora",
+                            "object_sub_location_ref_object_name": "Pula - Nora",
                             "object_sub_location_type": "reference",
                             "object_sub_sources": [],
                             "object_sub_version": "",
@@ -5981,6 +6008,7 @@
             "13657355": {
                 "object": {
                     "nodegoat_id": "ngPW5B58bPGH9QcDcQY3cemYqPj",
+                    "type_id": 12173,
                     "object_id": 13657355,
                     "object_name": "Iolaos travels to Sardinia",
                     "object_name_plain": null,
@@ -6139,6 +6167,7 @@
             "13961107": {
                 "object": {
                     "nodegoat_id": "ngTA0L78fTqL8UgLgTM5giqIuUH",
+                    "type_id": 12173,
                     "object_id": 13961107,
                     "object_name": "Foundation of Hyele",
                     "object_name_plain": null,
@@ -6308,6 +6337,7 @@
             "13961179": {
                 "object": {
                     "nodegoat_id": "ngNU7Z98zPEF9OaVaPG72ckWoNh",
+                    "type_id": 12173,
                     "object_id": 13961179,
                     "object_name": "Foundation of Kyme from Euboea",
                     "object_name_plain": null,
@@ -6466,6 +6496,7 @@
             "13961182": {
                 "object": {
                     "nodegoat_id": "ngQX8g28cQHI7RdCdRp0dfnFrSE",
+                    "type_id": 12173,
                     "object_id": 13961182,
                     "object_name": "Kymeans found Zankle",
                     "object_name_plain": null,
@@ -6626,6 +6657,7 @@
             "13961206": {
                 "object": {
                     "nodegoat_id": "ngSZ0q68eSJKdTfGfTr4fhpPtDG",
+                    "type_id": 12173,
                     "object_id": 13961206,
                     "object_name": "Foundation of Laos",
                     "object_name_plain": null,
@@ -6779,6 +6811,7 @@
             "13961228": {
                 "object": {
                     "nodegoat_id": "ngOV2K88aPFG2PbCbP96bdlBpOC",
+                    "type_id": 12173,
                     "object_id": 13961228,
                     "object_name": "Nestor and the Pylians found Metapontion",
                     "object_name_plain": null,
@@ -6937,6 +6970,7 @@
             "13961230": {
                 "object": {
                     "nodegoat_id": "ngQX3I08cSHI1RdgdRJ8bfnRrRk",
+                    "type_id": 12173,
                     "object_id": 13961230,
                     "object_name": "Foundation of Pithekoussai",
                     "object_name_plain": null,
@@ -7085,6 +7119,7 @@
             "13962573": {
                 "object": {
                     "nodegoat_id": "ngHO7x38tJYZ5IuPuH418weWiIV",
+                    "type_id": 12173,
                     "object_id": 13962573,
                     "object_name": "Poseidonia was founded by the Sybarites",
                     "object_name_plain": null,
@@ -7222,6 +7257,7 @@
             "13962582": {
                 "object": {
                     "nodegoat_id": "ngQX8g28cQHI7RdCdRJ07fnFrSE",
+                    "type_id": 12173,
                     "object_id": 13962582,
                     "object_name": "Mikythos founds Pyxous",
                     "object_name_plain": null,
@@ -7379,6 +7415,7 @@
             "13962586": {
                 "object": {
                     "nodegoat_id": "ngUB8M68gULMeVhMhV747jrlvVq46",
+                    "type_id": 12173,
                     "object_id": 13962586,
                     "object_name": "Foundation of Rhegion",
                     "object_name_plain": null,
@@ -7556,6 +7593,7 @@
             "14000780": {
                 "object": {
                     "nodegoat_id": "ngOV8A08aPbG0PbGbPH81dlXpPi",
+                    "type_id": 12173,
                     "object_id": 14000780,
                     "object_name": "First foundation of Neapolis",
                     "object_name_plain": null,
@@ -7700,6 +7738,7 @@
             "14000782": {
                 "object": {
                     "nodegoat_id": "ngQX8g28cQHI7RdUdQZ0afnVrRE",
+                    "type_id": 12173,
                     "object_id": 14000782,
                     "object_name": "Second foundation of Neapolis",
                     "object_name_plain": null,
@@ -7846,6 +7885,7 @@
             "14000899": {
                 "object": {
                     "nodegoat_id": "ngHO9b98tIeZrIuVuHA71weIiIb",
+                    "type_id": 12173,
                     "object_id": 14000899,
                     "object_name": "Siris was originally a city of the Chones",
                     "object_name_plain": null,
@@ -7981,6 +8021,7 @@
             "14000911": {
                 "object": {
                     "nodegoat_id": "ngXE1r18jXEPkYknkXG93muMyIL",
+                    "type_id": 12173,
                     "object_id": 14000911,
                     "object_name": "Exile of the Partheniai",
                     "object_name_plain": null,
@@ -8153,6 +8194,7 @@
             "14235752": {
                 "object": {
                     "nodegoat_id": "ngMT5Y28yNjE4NzAzMV0xbjNnMg",
+                    "type_id": 12173,
                     "object_id": 14235752,
                     "object_name": "Manto founds Kolophon",
                     "object_name_plain": null,
@@ -8451,6 +8493,7 @@
             "14235763": {
                 "object": {
                     "nodegoat_id": "ngXE6F38jXEP4YkTkYw15muCyZL",
+                    "type_id": 12173,
                     "object_id": 14235763,
                     "object_name": "Travels of Mopsos",
                     "object_name_plain": null,
@@ -8700,6 +8743,7 @@
             "14235885": {
                 "object": {
                     "nodegoat_id": "ngTA8r58fUqL0UgTgUs35iqUuUn",
+                    "type_id": 12173,
                     "object_id": 14235885,
                     "object_name": "Nostos of Calchas",
                     "object_name_plain": null,
@@ -8893,6 +8937,7 @@
             "14321248": {
                 "object": {
                     "nodegoat_id": "ngIP4I88uJvAvJvAvIh68xfXjIW",
+                    "type_id": 12173,
                     "object_id": 14321248,
                     "object_name": "Nostos of Menelaos",
                     "object_name_plain": null,
@@ -9096,6 +9141,7 @@
             "14321442": {
                 "object": {
                     "nodegoat_id": "ngCJ4C28oEJU5DpQpCb04rztdCw",
+                    "type_id": 12173,
                     "object_id": 14321442,
                     "object_name": "Nostos of Agamemnon",
                     "object_name_plain": null,
@@ -9256,6 +9302,7 @@
             "14341083": {
                 "object": {
                     "nodegoat_id": "ngRY8D38dTYJ4SeheRq1dgoKsRl",
+                    "type_id": 12173,
                     "object_id": 14341083,
                     "object_name": "Sunoikism of Athens",
                     "object_name_plain": null,
@@ -9400,6 +9447,7 @@
             "14386338": {
                 "object": {
                     "nodegoat_id": "ngYF3C88kYlQjZlYlZx6jnvVzZM",
+                    "type_id": 12173,
                     "object_id": 14386338,
                     "object_name": "Foundation of Herakleia",
                     "object_name_plain": null,
@@ -9552,6 +9600,7 @@
             "14392607": {
                 "object": {
                     "nodegoat_id": "ngTA0L78fTAL8UgFgUs51iqQuVH",
+                    "type_id": 12173,
                     "object_id": 14392607,
                     "object_name": "Aeneas' Journey from Troy to Italy",
                     "object_name_plain": null,
@@ -9691,6 +9740,7 @@
             "14392610": {
                 "object": {
                     "nodegoat_id": "ngWD1A08iWjOgXjqjWP8hltJxHK",
+                    "type_id": 12173,
                     "object_id": 14392610,
                     "object_name": "King Evander founds Rome",
                     "object_name_plain": null,
@@ -9839,6 +9889,7 @@
             "14392628": {
                 "object": {
                     "nodegoat_id": "ngOV2K88aPFGbPbibPH6adlTpQC",
+                    "type_id": 12173,
                     "object_id": 14392628,
                     "object_name": "Archias (and the Dorians) found Syracuse",
                     "object_name_plain": null,
@@ -10008,6 +10059,7 @@
             "14392637": {
                 "object": {
                     "nodegoat_id": "ngXE3B78jZOPkYkFkYG51muKyXL",
+                    "type_id": 12173,
                     "object_id": 14392637,
                     "object_name": "Philoktetes founds Krimissa",
                     "object_name_plain": null,
@@ -10170,6 +10222,7 @@
             "14790851": {
                 "object": {
                     "nodegoat_id": "ngLS5X18xMiDyMyZyMU96aikmMf",
+                    "type_id": 12173,
                     "object_id": 14790851,
                     "object_name": "Foundation of West Lokris by Lokros",
                     "object_name_plain": null,
@@ -10345,6 +10398,7 @@
             "14790852": {
                 "object": {
                     "nodegoat_id": "ngMT5Y28yMjE7NzYzNV05bjZnMA",
+                    "type_id": 12173,
                     "object_id": 14790852,
                     "object_name": "Foundation of Physkos",
                     "object_name_plain": null,
@@ -10510,6 +10564,7 @@
             "14790854": {
                 "object": {
                     "nodegoat_id": "ngOV5A48aOFG9PbSbP526dljpQC",
+                    "type_id": 12173,
                     "object_id": 14790854,
                     "object_name": "Foundation of Oiantheia",
                     "object_name_plain": null,
@@ -10669,6 +10724,7 @@
             "14790857": {
                 "object": {
                     "nodegoat_id": "ngRY5Z78dTYJ0SeJeTK5bgoOsRF",
+                    "type_id": 12173,
                     "object_id": 14790857,
                     "object_name": "Lokros, son of Maira, and the joint foundation of Thebes",
                     "object_name_plain": null,
@@ -10885,6 +10941,7 @@
             "14790868": {
                 "object": {
                     "nodegoat_id": "ngCJ6w88oCpU8DpOpEL69rzRdDQ",
+                    "type_id": 12173,
                     "object_id": 14790868,
                     "object_name": "Opous the younger, adopted son of Lokros",
                     "object_name_plain": null,
@@ -11063,6 +11120,7 @@
             "14790872": {
                 "object": {
                     "nodegoat_id": "ngGN7w28sIXY7HtUtH307vdPhGa",
+                    "type_id": 12173,
                     "object_id": 14790872,
                     "object_name": "Arrival of epoikoi and xenoi in Opous",
                     "object_name_plain": null,
@@ -11229,6 +11287,7 @@
             "14790875": {
                 "object": {
                     "nodegoat_id": "ngJQ7z58vJwB6KwRwJC3tygOkKX",
+                    "type_id": 12173,
                     "object_id": 14790875,
                     "object_name": "Lokros as leader of the Leleges, who were given to Deukalion by Zeus",
                     "object_name_plain": null,
@@ -11400,6 +11459,7 @@
             "14790879": {
                 "object": {
                     "nodegoat_id": "ngNU7Z98zPUFzOaFaO072ckmoOh",
+                    "type_id": 12173,
                     "object_id": 14790879,
                     "object_name": "Lokrians settle in Amphissa",
                     "object_name_plain": null,
@@ -11544,6 +11604,7 @@
             "14810259": {
                 "object": {
                     "nodegoat_id": "ngTA5B98fUgL9UgBgTM70iqUuTn",
+                    "type_id": 12173,
                     "object_id": 14810259,
                     "object_name": "Nagis' foundation of Nagidos",
                     "object_name_plain": null,
@@ -11697,6 +11758,7 @@
             "14810263": {
                 "object": {
                     "nodegoat_id": "ngXE6F38jXkPiYkBkZG13muKyZL",
+                    "type_id": 12173,
                     "object_id": 14810263,
                     "object_name": "Phoenician Ancestry of Cilicians",
                     "object_name_plain": null,
@@ -11851,6 +11913,7 @@
             "14810303": {
                 "object": {
                     "nodegoat_id": "ngPW0H38bPcH5QcHcQY14emMqPD",
+                    "type_id": 12173,
                     "object_id": 14810303,
                     "object_name": "Travels of Amphilochos",
                     "object_name_plain": null,
@@ -12140,6 +12203,7 @@
             "14810315": {
                 "object": {
                     "nodegoat_id": "ngBI1F58nCST6CoroC637qamcCP",
+                    "type_id": 12173,
                     "object_id": 14810315,
                     "object_name": "Trojan refugees south",
                     "object_name_plain": null,
@@ -12297,6 +12361,7 @@
             "14810494": {
                 "object": {
                     "nodegoat_id": "ngCJ9w48oETU6DpwpCL27rzDdDw",
+                    "type_id": 12173,
                     "object_id": 14810494,
                     "object_name": "Pyramus founds Mallos",
                     "object_name_plain": null,
@@ -12450,6 +12515,7 @@
             "14810700": {
                 "object": {
                     "nodegoat_id": "ngMT0E08yNDE4NzEzMF83bjBnMA",
+                    "type_id": 12173,
                     "object_id": 14810700,
                     "object_name": "Aias dysnostos - Trojan war",
                     "object_name_plain": null,
@@ -12710,6 +12776,7 @@
             "14810703": {
                 "object": {
                     "nodegoat_id": "ngPW0H38bPcH5QcHcQY18emYqPj",
+                    "type_id": 12173,
                     "object_id": 14810703,
                     "object_name": "Naryx as the birthplace of Aias the lesser",
                     "object_name_plain": null,
@@ -12926,6 +12993,7 @@
             "14810707": {
                 "object": {
                     "nodegoat_id": "ngTA0r78fTKL8UgLgUC58iqQuEH",
+                    "type_id": 12173,
                     "object_id": 14810707,
                     "object_name": "Dysnostoi - Lokrians and others",
                     "object_name_plain": null,
@@ -13155,6 +13223,7 @@
             "14810709": {
                 "object": {
                     "nodegoat_id": "ngVC0l98hVMNiWiNiVO79ksqwGJ",
+                    "type_id": 12173,
                     "object_id": 14810709,
                     "object_name": "Lokrian nostoi - settlement on the Libyan coast",
                     "object_name_plain": null,
@@ -13383,6 +13452,7 @@
             "14810711": {
                 "object": {
                     "nodegoat_id": "ngXE1B18jYkP1YkrkYQ9kmuUyIL",
+                    "type_id": 12173,
                     "object_id": 14810711,
                     "object_name": "Lokrian nostoi - settlement in Brutii (Calabria)",
                     "object_name_plain": null,
@@ -13592,6 +13662,7 @@
             "14810714": {
                 "object": {
                     "nodegoat_id": "ngAH1A48mBHS5BnAnB52mpxFbLO",
+                    "type_id": 12173,
                     "object_id": 14810714,
                     "object_name": "Foundation of West Lokris",
                     "object_name_plain": null,
@@ -13789,6 +13860,7 @@
             "14810715": {
                 "object": {
                     "nodegoat_id": "ngBI1F58nCST7CoFoBU3lqamcCP",
+                    "type_id": 12173,
                     "object_id": 14810715,
                     "object_name": "Foundation of Lokri Epizephyrioi by Ozolian Lokrians",
                     "object_name_plain": null,
@@ -14000,6 +14072,7 @@
             "14810718": {
                 "object": {
                     "nodegoat_id": "ngEL1E88qEbW2FrSrFN6otbdfEy",
+                    "type_id": 12173,
                     "object_id": 14810718,
                     "object_name": "Amphissa - Formal naming and origins of cult practice",
                     "object_name_plain": null,
@@ -14218,6 +14291,7 @@
             "14810721": {
                 "object": {
                     "nodegoat_id": "ngHO2D18tIuZ1IuZuIQ96wegiHb",
+                    "type_id": 12173,
                     "object_id": 14810721,
                     "object_name": "Opous - origins of Herakles's cult practice",
                     "object_name_plain": null,
@@ -14362,6 +14436,7 @@
             "14810723": {
                 "object": {
                     "nodegoat_id": "ngJQ2F38vKQBwKwhwKS13ygekLX",
+                    "type_id": 12173,
                     "object_id": 14810723,
                     "object_name": "Foundation of Abdera",
                     "object_name_plain": null,
@@ -14516,6 +14591,7 @@
             "14810725": {
                 "object": {
                     "nodegoat_id": "ngLS2H58xLyDwMyDyLk30aiAmMZ",
+                    "type_id": 12173,
                     "object_id": 14810725,
                     "object_name": "Lokrian heroes and the Argonautic expedition",
                     "object_name_plain": null,
@@ -14677,6 +14753,7 @@
             "14810726": {
                 "object": {
                     "nodegoat_id": "ngMT2I68yNDExNzkzOV48bjhnNA",
+                    "type_id": 12173,
                     "object_id": 14810726,
                     "object_name": "Lokrian foundation of Kanai (Aiolis)",
                     "object_name_plain": null,
@@ -14825,6 +14902,7 @@
             "14810728": {
                 "object": {
                     "nodegoat_id": "ngOV2K88aOVG3PbGbQH6zdlHpPi",
+                    "type_id": 12173,
                     "object_id": 14810728,
                     "object_name": "Lokrian nostoi - foundation of Thronio (Thesprotia)",
                     "object_name_plain": null,
@@ -15001,6 +15079,7 @@
             "14810729": {
                 "object": {
                     "nodegoat_id": "ngPW2L98bPcHzQcDcQY7aemCqPD",
+                    "type_id": 12173,
                     "object_id": 14810729,
                     "object_name": "Lokrian nostoi",
                     "object_name_plain": null,
@@ -15198,6 +15277,7 @@
             "14810731": {
                 "object": {
                     "nodegoat_id": "ngRY3N18dRIJ4SeNeRq9egoGsSF",
+                    "type_id": 12173,
                     "object_id": 14810731,
                     "object_name": "Lokrian maidens",
                     "object_name_plain": null,
@@ -15377,6 +15457,7 @@
             "14819954": {
                 "object": {
                     "nodegoat_id": "ngOV5A48aOFG9PbebPn27dlPpOi",
+                    "type_id": 12173,
                     "object_id": 14819954,
                     "object_name": "Dorian colonisation of Soli",
                     "object_name_plain": null,
@@ -15532,6 +15613,7 @@
             "14819962": {
                 "object": {
                     "nodegoat_id": "ngWD6E28iXtOiXjOjWv0jltvxXq",
+                    "type_id": 12173,
                     "object_id": 14819962,
                     "object_name": "Nagidos and Kelenderis colonisation",
                     "object_name_plain": null,
@@ -15676,6 +15758,7 @@
             "14821285": {
                 "object": {
                     "nodegoat_id": "ngTA8L58fTKLdUgXgTC38iqQuTZ3f",
+                    "type_id": 12173,
                     "object_id": 14821285,
                     "object_name": "Syrian foundation of Kelenderis",
                     "object_name_plain": null,
@@ -15826,6 +15909,7 @@
             "14821289": {
                 "object": {
                     "nodegoat_id": "ngXE8v98jYuPhYkBkZG7jmuUyXL",
+                    "type_id": 12173,
                     "object_id": 14821289,
                     "object_name": "Solon founds Soli",
                     "object_name_plain": null,
@@ -15988,6 +16072,7 @@
             "14822744": {
                 "object": {
                     "nodegoat_id": "ngEL4E48qGVWoFrWrEd24tbzfFS",
+                    "type_id": 12173,
                     "object_id": 14822744,
                     "object_name": "Sarpedon in Cilicia",
                     "object_name_plain": null,
@@ -16145,6 +16230,7 @@
             "14828524": {
                 "object": {
                     "nodegoat_id": "ngKR2G48wLhC4LxSxLD28zhZlLY",
+                    "type_id": 12173,
                     "object_id": 14828524,
                     "object_name": "Lokrian foundation of Lokri Epizephyrioi",
                     "object_name_plain": null,
@@ -16309,6 +16395,7 @@
             "14828529": {
                 "object": {
                     "nodegoat_id": "ngPW2L98bPmH3QcXcQI7bemYqQj",
+                    "type_id": 12173,
                     "object_id": 14828529,
                     "object_name": "Expulsion of Sicels by Epizephyrian Lokrians",
                     "object_name_plain": null,
@@ -16463,6 +16550,7 @@
             "14828581": {
                 "object": {
                     "nodegoat_id": "ngPW8B18bQcHbQcXcP295emYqQj",
+                    "type_id": 12173,
                     "object_id": 14828581,
                     "object_name": "Origin claims of the town of Kynos",
                     "object_name_plain": null,
@@ -16615,6 +16703,7 @@
             "14829798": {
                 "object": {
                     "nodegoat_id": "ngGN9a88sHXYrHtStHZ69vdDhHU",
+                    "type_id": 12173,
                     "object_id": 14829798,
                     "object_name": "Lokrians invited by Amphiktyon to participate in the Amphiktyony",
                     "object_name_plain": null,
@@ -16812,6 +16901,7 @@
             "14829799": {
                 "object": {
                     "nodegoat_id": "ngHO9b98tIOZ9IuHuIg79weMiHV",
+                    "type_id": 12173,
                     "object_id": 14829799,
                     "object_name": "Formal naming of the town of Larymna",
                     "object_name_plain": null,
@@ -16956,6 +17046,7 @@
             "14829800": {
                 "object": {
                     "nodegoat_id": "ngMT0E08yNDE4NzIzOV84bjBnMA",
+                    "type_id": 12173,
                     "object_id": 14829800,
                     "object_name": "Formal naming of Ozolian Lokrians (West Lokris)",
                     "object_name_plain": null,
@@ -17104,6 +17195,7 @@
             "14829840": {
                 "object": {
                     "nodegoat_id": "ngAH4E08mAxS2BnInAT85pxNbCO",
+                    "type_id": 12173,
                     "object_id": 14829840,
                     "object_name": "The city of Kalliaros is named after Kalliaros, son of Odoidokos and Laonome",
                     "object_name_plain": null,
@@ -17244,6 +17336,7 @@
             "14829846": {
                 "object": {
                     "nodegoat_id": "ngGN4G68sHdYqHtetGP49vdfhGa",
+                    "type_id": 12173,
                     "object_id": 14829846,
                     "object_name": "Lokrian foundation of Sybaris",
                     "object_name_plain": null,
@@ -17404,6 +17497,7 @@
             "14829848": {
                 "object": {
                     "nodegoat_id": "ngIP4I88uIvA0JvQvKR6txfBjIc",
+                    "type_id": 12173,
                     "object_id": 14829848,
                     "object_name": "Foundation of Lokri Epizephyrioi by Opountian Lokrians",
                     "object_name_plain": null,
@@ -17564,6 +17658,7 @@
             "14829853": {
                 "object": {
                     "nodegoat_id": "ngNU5Z38zOEFyOaNaPG1xckioOB",
+                    "type_id": 12173,
                     "object_id": 14829853,
                     "object_name": "Lokrian nostoi - settlement in Tunisia and foundation of Uzalis",
                     "object_name_plain": null,
@@ -17720,6 +17815,7 @@
             "14829860": {
                 "object": {
                     "nodegoat_id": "ngUB6C08gWLM2VhQhVD84jrHvVI",
+                    "type_id": 12173,
                     "object_id": 14829860,
                     "object_name": "Lokrian foundation of Metapontion",
                     "object_name_plain": null,
@@ -17872,6 +17968,7 @@
             "14837708": {
                 "object": {
                     "nodegoat_id": "ngUB0M88gULMeVhUhV962jrHvUI",
+                    "type_id": 12173,
                     "object_id": 14837708,
                     "object_name": "Daphnous and the division of East Lokris",
                     "object_name_plain": null,
@@ -18028,6 +18125,7 @@
             "14838002": {
                 "object": {
                     "nodegoat_id": "ngOV0G28aPlG3PbAbO30ydlnpPi",
+                    "type_id": 12173,
                     "object_id": 14838002,
                     "object_name": "Lokrian migration to Aiolis - Foundation of Kyme and occupation of Larisa",
                     "object_name_plain": null,
@@ -18196,6 +18294,7 @@
             "14838023": {
                 "object": {
                     "nodegoat_id": "ngJQ2F38vKQBuKwzwJS14ygGkKX",
+                    "type_id": 12173,
                     "object_id": 14838023,
                     "object_name": "Lokrian foundation of Matauros",
                     "object_name_plain": null,
@@ -18338,6 +18437,7 @@
             "14852113": {
                 "object": {
                     "nodegoat_id": "ngZG1V38lBQRkAmpmAI15owuaKN",
+                    "type_id": 12173,
                     "object_id": 14852113,
                     "object_name": "Opountians of Elis",
                     "object_name_plain": null,
@@ -18471,6 +18571,7 @@
             "15023059": {
                 "object": {
                     "nodegoat_id": "ngTA5B98fUgLeUgjgT073iqGuTH",
+                    "type_id": 12173,
                     "object_id": 15023059,
                     "object_name": "Formal naming and foundation of Tarphe/Pharygae",
                     "object_name_plain": null,
@@ -18613,6 +18714,7 @@
             "15023063": {
                 "object": {
                     "nodegoat_id": "ngXE6F38jXkPkYkJkXQ16muYyXr",
+                    "type_id": 12173,
                     "object_id": 15023063,
                     "object_name": "The cities of Alope",
                     "object_name_plain": null,
@@ -18745,6 +18847,7 @@
             "15037490": {
                 "object": {
                     "nodegoat_id": "ngYF9w08kYlQkZlQlZx8jnvDzZM",
+                    "type_id": 12173,
                     "object_id": 15037490,
                     "object_name": "Formal naming of Oiantheia",
                     "object_name_plain": null,
@@ -18940,6 +19043,7 @@
             "15041163": {
                 "object": {
                     "nodegoat_id": "ngXE6F38jXkPkYknkZG1kmuUyZL",
+                    "type_id": 12173,
                     "object_id": 15041163,
                     "object_name": "The sons of Phocus migrate to Phokis, where the territory has expanded into Lokris, near Skarpheia",
                     "object_name_plain": null,
@@ -19140,6 +19244,7 @@
             "15160939": {
                 "object": {
                     "nodegoat_id": "ngZG3D98lAwRjAmVmAI74owqaAt",
+                    "type_id": 12173,
                     "object_id": 15160939,
                     "object_name": "A Lokrian wife for Aitolarch Polykritos and their mixed child",
                     "object_name_plain": null,
@@ -19337,6 +19442,7 @@
             "15367874": {
                 "object": {
                     "nodegoat_id": "ngIP7y48uJvA5JvEvJR2txfJjJc",
+                    "type_id": 12173,
                     "object_id": 15367874,
                     "object_name": "Achilles' promise to Menoitios before going to Troy",
                     "object_name_plain": null,
@@ -19500,6 +19606,7 @@
             "15367928": {
                 "object": {
                     "nodegoat_id": "ngOV2K88aOVGbPbAbOH63dlTpQC",
+                    "type_id": 12173,
                     "object_id": 15367928,
                     "object_name": "Patroclos's spirit recalls his expulsion to Phthia and the first time he met Achilles",
                     "object_name_plain": null,
@@ -19707,6 +19814,7 @@
             "15368001": {
                 "object": {
                     "nodegoat_id": "ngNU0F18zOUFxOaFaN293ckKoNB",
+                    "type_id": 12173,
                     "object_id": 15368001,
                     "object_name": "Patroclos leaves Opous and is hosted by Achilles in Thessaly",
                     "object_name_plain": null,
@@ -19919,6 +20027,7 @@
             "15368154": {
                 "object": {
                     "nodegoat_id": "ngOV5A48aOVG4PbibPn2ydlBpQC",
+                    "type_id": 12173,
                     "object_id": 15368154,
                     "object_name": "Possible mothers of Patroclos",
                     "object_name_plain": null,
@@ -20123,6 +20232,7 @@
             "15370946": {
                 "object": {
                     "nodegoat_id": "ngGN4G68sHdY7HtetIZ40vdPhGa",
+                    "type_id": 12173,
                     "object_id": 15370946,
                     "object_name": "Foundation of the Peloponnese",
                     "object_name_plain": null,
@@ -20331,6 +20441,7 @@
             "15370947": {
                 "object": {
                     "nodegoat_id": "ngHO4H78tIuZ9IuxuIQ50weUiJV",
+                    "type_id": 12173,
                     "object_id": 15370947,
                     "object_name": "Theseus founds Smryna",
                     "object_name_plain": null,
@@ -20543,6 +20654,7 @@
             "15370949": {
                 "object": {
                     "nodegoat_id": "ngJQ4J98vKQBvKwJwLC7vygOkJX",
+                    "type_id": 12173,
                     "object_id": 15370949,
                     "object_name": "Alexander's refoundation of Smyrna",
                     "object_name_plain": null,
@@ -20747,6 +20859,7 @@
             "15371039": {
                 "object": {
                     "nodegoat_id": "ngZG3D98lAGRmAmVmZy71owAaAt",
+                    "type_id": 12173,
                     "object_id": 15371039,
                     "object_name": "Athenians founding Smyrna",
                     "object_name_plain": null,
@@ -20941,6 +21054,7 @@
             "15813826": {
                 "object": {
                     "nodegoat_id": "ngMT2I68yMzExNzkzNV40bjBnOA",
+                    "type_id": 12173,
                     "object_id": 15813826,
                     "object_name": "Foundation of Agathe",
                     "object_name_plain": null,
@@ -21078,6 +21192,7 @@
             "15813847": {
                 "object": {
                     "nodegoat_id": "ngHO4H78tIOZ2IubuJA50weAiIb",
+                    "type_id": 12173,
                     "object_id": 15813847,
                     "object_name": "Foundation of Antipolis",
                     "object_name_plain": null,
@@ -21219,6 +21334,7 @@
             "15986171": {
                 "object": {
                     "nodegoat_id": "ngFM7v18rHMXpGsXsHO9rucUgHT",
+                    "type_id": 12173,
                     "object_id": 15986171,
                     "object_name": "Foundation of Barke",
                     "object_name_plain": null,
@@ -21370,6 +21486,7 @@
             "15986175": {
                 "object": {
                     "nodegoat_id": "ngJQ7z58vKAB5KwRwKC36ygGkJX",
+                    "type_id": 12173,
                     "object_id": 15986175,
                     "object_name": "Foundation of Euhesperides",
                     "object_name_plain": null,
@@ -21524,6 +21641,7 @@
             "15986179": {
                 "object": {
                     "nodegoat_id": "ngNU7d98zNEF9OaFaOG70ckWoNh",
+                    "type_id": 12173,
                     "object_id": 15986179,
                     "object_name": "1: Dorieus founds Kinyps",
                     "object_name_plain": null,
@@ -21672,6 +21790,7 @@
             "15986182": {
                 "object": {
                     "nodegoat_id": "ngQX8C28cSHI7RdYdR304fnprQk",
+                    "type_id": 12173,
                     "object_id": 15986182,
                     "object_name": "Foundation of Kyrene",
                     "object_name_plain": null,
@@ -21834,6 +21953,7 @@
             "15986905": {
                 "object": {
                     "nodegoat_id": "ngRY0J58dRoJ6SeFeTA3dgoEsSF",
+                    "type_id": 12173,
                     "object_id": 15986905,
                     "object_name": "Foundation of Avenion",
                     "object_name_plain": null,
@@ -21965,6 +22085,7 @@
             "15986907": {
                 "object": {
                     "nodegoat_id": "ngTA0r78fVAL9UgFgT850iqGuEH",
+                    "type_id": 12173,
                     "object_id": 15986907,
                     "object_name": "Report of a Massaliote Azania",
                     "object_name_plain": null,
@@ -22106,6 +22227,7 @@
             "15986947": {
                 "object": {
                     "nodegoat_id": "ngHO4H78tIeZsIuLuJQ58weUiHV",
+                    "type_id": 12173,
                     "object_id": 15986947,
                     "object_name": "First Establishment of Alalie",
                     "object_name_plain": null,
@@ -22243,6 +22365,7 @@
             "15986950": {
                 "object": {
                     "nodegoat_id": "ngKR5W08wLhCvLxOxL180zhHlKY",
+                    "type_id": 12173,
                     "object_id": 15986950,
                     "object_name": "Relocation of the Phokaian Community to Alalie",
                     "object_name_plain": null,
@@ -22399,6 +22522,7 @@
             "15986964": {
                 "object": {
                     "nodegoat_id": "ngYF6G48kYlQiZlGlAR26nvDzZM",
+                    "type_id": 12173,
                     "object_id": 15986964,
                     "object_name": "Foundation of Emporion",
                     "object_name_plain": null,
@@ -22558,6 +22682,7 @@
             "15986987": {
                 "object": {
                     "nodegoat_id": "ngVC8t78hWiN7WiDiXE59ksSwWJ",
+                    "type_id": 12173,
                     "object_id": 15986987,
                     "object_name": "Foundation of Massalia",
                     "object_name_plain": null,
@@ -22725,6 +22850,7 @@
             "15986990": {
                 "object": {
                     "nodegoat_id": "ngYF9w08kYlQ5ZlMlYx85nvtzAM",
+                    "type_id": 12173,
                     "object_id": 15986990,
                     "object_name": "Foundation of Rhode",
                     "object_name_plain": null,
@@ -22868,6 +22994,7 @@
             "15986993": {
                 "object": {
                     "nodegoat_id": "ngBI9z38nBST7CoroBK16qyacBv",
+                    "type_id": 12173,
                     "object_id": 15986993,
                     "object_name": "Establishment of Nikaia",
                     "object_name_plain": null,
@@ -23013,6 +23140,7 @@
             "15986994": {
                 "object": {
                     "nodegoat_id": "ngCJ9w48oEJU8DpKpEV2prztdCw",
+                    "type_id": 12173,
                     "object_id": 15986994,
                     "object_name": "Establishment of Olbia",
                     "object_name_plain": null,
@@ -23144,6 +23272,7 @@
             "15986999": {
                 "object": {
                     "nodegoat_id": "ngHO9b98tIYZtIubuH073weMiJV",
+                    "type_id": 12173,
                     "object_id": 15986999,
                     "object_name": "Foundation of Rhodanousia",
                     "object_name_plain": null,
@@ -23289,6 +23418,7 @@
             "15987000": {
                 "object": {
                     "nodegoat_id": "ngMT0E08yNTE5NzgzN18wbjBnMA",
+                    "type_id": 12173,
                     "object_id": 15987000,
                     "object_name": "Establishment of Tauroeis",
                     "object_name_plain": null,
@@ -23418,6 +23548,7 @@
             "15987002": {
                 "object": {
                     "nodegoat_id": "ngOV0G28aPVG3PbSbOH06dlHpPi",
+                    "type_id": 12173,
                     "object_id": 15987002,
                     "object_name": "Foundation of Troizen (Massalia)",
                     "object_name_plain": null,
@@ -23558,6 +23689,7 @@
             "15987005": {
                 "object": {
                     "nodegoat_id": "ngRY0J58dRoJ6SeFeTA37goOsRF",
+                    "type_id": 12173,
                     "object_id": 15987005,
                     "object_name": "Foundation of Hemeroskopeion",
                     "object_name_plain": null,
@@ -23699,6 +23831,7 @@
             "15987008": {
                 "object": {
                     "nodegoat_id": "ngUB0o88gWBM0VhMhUt69jrHvFI",
+                    "type_id": 12173,
                     "object_id": 15987008,
                     "object_name": "Foundation of Mainake",
                     "object_name_plain": null,
@@ -23828,6 +23961,7 @@
             "15996955": {
                 "object": {
                     "nodegoat_id": "ngPW5B58bPmH7QcPcPY35emIqQj",
+                    "type_id": 12173,
                     "object_id": 15996955,
                     "object_name": "Dionysios founds Adranon",
                     "object_name_plain": null,
@@ -23975,6 +24109,7 @@
             "15997032": {
                 "object": {
                     "nodegoat_id": "ngSZ3K28eUJK2TfOfT303hprtSm",
+                    "type_id": 12173,
                     "object_id": 15997032,
                     "object_name": "Foundation of Akragas",
                     "object_name_plain": null,
@@ -24120,6 +24255,7 @@
             "15997969": {
                 "object": {
                     "nodegoat_id": "ngDK6x98pDUV4EqPqDc7nsaSeFR",
+                    "type_id": 12173,
                     "object_id": 15997969,
                     "object_name": "The Trojans under Aeneas found Alontion together with Patron the Thyrian",
                     "object_name_plain": null,
@@ -24292,6 +24428,7 @@
             "15997974": {
                 "object": {
                     "nodegoat_id": "ngIP7y48uJPA5JvIvJB29xfBjJc",
+                    "type_id": 12173,
                     "object_id": 15997974,
                     "object_name": "Foundation of Gela",
                     "object_name_plain": null,
@@ -24461,6 +24598,7 @@
             "15997978": {
                 "object": {
                     "nodegoat_id": "ngMT7c88yMTE1NzAzNl63bjRnMA",
+                    "type_id": 12173,
                     "object_id": 15997978,
                     "object_name": "Lokrians in the Homeric catalogue of ships",
                     "object_name_plain": null,
@@ -24669,6 +24807,7 @@
             "15997979": {
                 "object": {
                     "nodegoat_id": "ngNU7d98zNEF1OaFaOW72ckSoOB",
+                    "type_id": 12173,
                     "object_id": 15997979,
                     "object_name": "Lokrians in the Euripidian catalogue of ships",
                     "object_name_plain": null,
@@ -24888,6 +25027,7 @@
             "15997981": {
                 "object": {
                     "nodegoat_id": "ngPW8B18bRGH1QcTcQ295emQqPj",
+                    "type_id": 12173,
                     "object_id": 15997981,
                     "object_name": "Lokrians in Hyginus's catalogue of ships",
                     "object_name_plain": null,
@@ -25099,6 +25239,7 @@
             "15997982": {
                 "object": {
                     "nodegoat_id": "ngQX8C28cSHI7RdMdSZ03fnFrSE",
+                    "type_id": 12173,
                     "object_id": 15997982,
                     "object_name": "Lokrians in Apollodorus's catalogue of ships",
                     "object_name_plain": null,
@@ -25322,6 +25463,7 @@
             "15997984": {
                 "object": {
                     "nodegoat_id": "ngSZ8K48eSJKcTfSfSB25hprtTe2e",
+                    "type_id": 12173,
                     "object_id": 15997984,
                     "object_name": "Assembly of the Achaean fleet in Aulis before the Trojan War",
                     "object_name_plain": null,
@@ -25540,6 +25682,7 @@
             "15997986": {
                 "object": {
                     "nodegoat_id": "ngUB8s68gWLMfVhYhWN4ejrlvVo",
+                    "type_id": 12173,
                     "object_id": 15997986,
                     "object_name": "War training in Aulis before the Trojan war",
                     "object_name_plain": null,
@@ -25745,6 +25888,7 @@
             "15997987": {
                 "object": {
                     "nodegoat_id": "ngVC8t78hWiNfWiDiWO51ksqwVJ",
+                    "type_id": 12173,
                     "object_id": 15997987,
                     "object_name": "Lokrians in Malalas's catalogue of ships",
                     "object_name_plain": null,
@@ -25970,6 +26114,7 @@
             "15997988": {
                 "object": {
                     "nodegoat_id": "ngWD8u88iXDO3XjIjW960ltnxXq",
+                    "type_id": 12173,
                     "object_id": 15997988,
                     "object_name": "Lokrian war techniques in Troy",
                     "object_name_plain": null,
@@ -26175,6 +26320,7 @@
             "15998008": {
                 "object": {
                     "nodegoat_id": "ngUB0s88gUhM3VhQhVD6gjrpvFI",
+                    "type_id": 12173,
                     "object_id": 15998008,
                     "object_name": "Foundation of Henna",
                     "object_name_plain": null,
@@ -26314,6 +26460,7 @@
             "15998014": {
                 "object": {
                     "nodegoat_id": "ngAH1W48mAnS5BnOnAT24pxPbLO",
+                    "type_id": 12173,
                     "object_id": 15998014,
                     "object_name": "5: Foundation of Herakleia Minoa (Sicily)",
                     "object_name_plain": null,
@@ -26474,6 +26621,7 @@
             "15998093": {
                 "object": {
                     "nodegoat_id": "ngBI9z38nBITlCoNoBU17qyUcBv",
+                    "type_id": 12173,
                     "object_id": 15998093,
                     "object_name": "Patroclos flees to Phthia",
                     "object_name_plain": null,
@@ -26688,6 +26836,7 @@
             "15998095": {
                 "object": {
                     "nodegoat_id": "ngDK9x58pFUV9EqtqEc38saSeFR",
+                    "type_id": 12173,
                     "object_id": 15998095,
                     "object_name": "Patroclos, beloved by Achilles, follows him to the Trojan war",
                     "object_name_plain": null,
@@ -26909,6 +27058,7 @@
             "15998099": {
                 "object": {
                     "nodegoat_id": "ngHO9b98tIYZrIuZuIg7tweIiIb",
+                    "type_id": 12173,
                     "object_id": 15998099,
                     "object_name": "Patroclos' no return from the Trojan War and Achilles grief",
                     "object_name_plain": null,
@@ -27114,6 +27264,7 @@
             "15998103": {
                 "object": {
                     "nodegoat_id": "ngPW0H38bQGHbQcncQY13emQqPj",
+                    "type_id": 12173,
                     "object_id": 15998103,
                     "object_name": "Patroclos flees to Phthia but Menoitios continued to live in Opous",
                     "object_name_plain": null,
@@ -27315,6 +27466,7 @@
             "15998109": {
                 "object": {
                     "nodegoat_id": "ngVC0p98hViNfWiNiWE7fksAwGJ",
+                    "type_id": 12173,
                     "object_id": 15998109,
                     "object_name": "Aias from Naryx was king of the Opountians, and not Menoitios",
                     "object_name_plain": null,
@@ -27527,6 +27679,7 @@
             "15998696": {
                 "object": {
                     "nodegoat_id": "ngEL9y68qFrWqFrurFd40tbTfGS",
+                    "type_id": 12173,
                     "object_id": 15998696,
                     "object_name": "Lokrians allies in battle with Amphitryon who went to avenge the death of his wife's brothers",
                     "object_name_plain": null,
@@ -27683,6 +27836,7 @@
             "15999783": {
                 "object": {
                     "nodegoat_id": "ngRY8D38dSeJ7SeZeSq1bgoGsTF",
+                    "type_id": 12173,
                     "object_id": 15999783,
                     "object_name": "4: Dorieus founds Herakleia (Sicily)",
                     "object_name_plain": null,
@@ -27852,6 +28006,7 @@
             "15999792": {
                 "object": {
                     "nodegoat_id": "ngAH9y28mAxSlBnAnBT07pxrbAu",
+                    "type_id": 12173,
                     "object_id": 15999792,
                     "object_name": "Euryleon takes the survivors to Herakleia Minoa (Sicily)",
                     "object_name_plain": null,
@@ -27995,6 +28150,7 @@
             "15999847": {
                 "object": {
                     "nodegoat_id": "ngHO4H78tIOZ9IuxuHA51weyiIb",
+                    "type_id": 12173,
                     "object_id": 15999847,
                     "object_name": "Foundation of Himera",
                     "object_name_plain": null,
@@ -28144,6 +28300,7 @@
             "16013680": {
                 "object": {
                     "nodegoat_id": "ngOV8A08aQVG1PbWbPH82dlXpPi",
+                    "type_id": 12173,
                     "object_id": 16013680,
                     "object_name": "Kallipolis is founded from Naxos",
                     "object_name_plain": null,
@@ -28279,6 +28436,7 @@
             "16013710": {
                 "object": {
                     "nodegoat_id": "ngWD1m08iWtOjXjujYP8jltJxHK",
+                    "type_id": 12173,
                     "object_id": 16013710,
                     "object_name": "First Foundation of Kamarina (from Syracuse)",
                     "object_name_plain": null,
@@ -28422,6 +28580,7 @@
             "16013715": {
                 "object": {
                     "nodegoat_id": "ngBI1T58nByT8CoToDU3mqyOcMP",
+                    "type_id": 12173,
                     "object_id": 16013715,
                     "object_name": "Hippokrates founds Kamarina for the second time",
                     "object_name_plain": null,
@@ -28565,6 +28724,7 @@
             "16013722": {
                 "object": {
                     "nodegoat_id": "ngIP2E28uJvA5JvMvIR0uxfXjJW",
+                    "type_id": 12173,
                     "object_id": 16013722,
                     "object_name": "Depopulation and Resettlement of Kamarina",
                     "object_name_plain": null,
@@ -28711,6 +28871,7 @@
             "16013728": {
                 "object": {
                     "nodegoat_id": "ngOV2K88aOlG1PbmbPX62dljpPC",
+                    "type_id": 12173,
                     "object_id": 16013728,
                     "object_name": "Syracuse founds Kasmenai",
                     "object_name_plain": null,
@@ -28850,6 +29011,7 @@
             "16013742": {
                 "object": {
                     "nodegoat_id": "ngCJ4G28oCJUmDpapDV04rzxdDQ",
+                    "type_id": 12173,
                     "object_id": 16013742,
                     "object_name": "Katane is founded",
                     "object_name_plain": null,
@@ -28997,6 +29159,7 @@
             "16013745": {
                 "object": {
                     "nodegoat_id": "ngFM4F58rGsX9GsRsGe39ucKgHT",
+                    "type_id": 12173,
                     "object_id": 16013745,
                     "object_name": "Leontinoi is founded",
                     "object_name_plain": null,
@@ -29146,6 +29309,7 @@
             "16013755": {
                 "object": {
                     "nodegoat_id": "ngPW5B58bPmH7QcTcQ63cemkqQD",
+                    "type_id": 12173,
                     "object_id": 16013755,
                     "object_name": "Liparos founds Lipara",
                     "object_name_plain": null,
@@ -29299,6 +29463,7 @@
             "16013762": {
                 "object": {
                     "nodegoat_id": "ngWD6E28iXDO3XjEjYP0hltJxXK",
+                    "type_id": 12173,
                     "object_id": 16013762,
                     "object_name": "The Knidians found Lipara",
                     "object_name_plain": null,
@@ -29454,6 +29619,7 @@
             "16013786": {
                 "object": {
                     "nodegoat_id": "ngUB8s68gWLMfVhGhU746jrlvVo",
+                    "type_id": 12173,
                     "object_id": 16013786,
                     "object_name": "Knidians and Rhodians found Lipara",
                     "object_name_plain": null,
@@ -29601,6 +29767,7 @@
             "16013935": {
                 "object": {
                     "nodegoat_id": "ngVC3Z58hXCNhWiRiXO3hksAwVJ",
+                    "type_id": 12173,
                     "object_id": 16013935,
                     "object_name": "Thoukles founds Megara Hyblaia together with the Dorians and the Megarians",
                     "object_name_plain": null,
@@ -29754,6 +29921,7 @@
             "16013936": {
                 "object": {
                     "nodegoat_id": "ngWD3A68iYNOhXjWjX741ltrxYK",
+                    "type_id": 12173,
                     "object_id": 16013936,
                     "object_name": "Lamis founds Megara Hyblaia",
                     "object_name_plain": null,
@@ -29926,6 +30094,7 @@
             "16013938": {
                 "object": {
                     "nodegoat_id": "ngYF3C88kZvQiZlMlYR62nvRzYs",
+                    "type_id": 12173,
                     "object_id": 16013938,
                     "object_name": "Foundation of Mylai",
                     "object_name_plain": null,
@@ -30063,6 +30232,7 @@
             "16013940": {
                 "object": {
                     "nodegoat_id": "ngAH4E08mAnS4BnAnBT85pxFbAO",
+                    "type_id": 12173,
                     "object_id": 16013940,
                     "object_name": "Thoukles founds Naxos",
                     "object_name_plain": null,
@@ -30210,6 +30380,7 @@
             "16013942": {
                 "object": {
                     "nodegoat_id": "ngCJ4G28oCJUmDpapDV03rzbdDw",
+                    "type_id": 12173,
                     "object_id": 16013942,
                     "object_name": "The Chalkidians regain their fathers' lands",
                     "object_name_plain": null,
@@ -30359,6 +30530,7 @@
             "16016453": {
                 "object": {
                     "nodegoat_id": "ngNU5Z38zNaFzOaFaNW1xckAoPB",
+                    "type_id": 12173,
                     "object_id": 16016453,
                     "object_name": "Pamillos founds Selinous",
                     "object_name_plain": null,
@@ -30504,6 +30676,7 @@
             "16016464": {
                 "object": {
                     "nodegoat_id": "ngYF6G48kYlQlZlClAR26nvVzZM",
+                    "type_id": 12173,
                     "object_id": 16016464,
                     "object_name": "Zankle is a foundation of Naxos",
                     "object_name_plain": null,
@@ -30643,6 +30816,7 @@
             "16020084": {
                 "object": {
                     "nodegoat_id": "ngSZ8K48eSJKcTfSfSr26hpFtTe2e",
+                    "type_id": 12173,
                     "object_id": 16020084,
                     "object_name": "Herakles goes to Italia and foretells the foundation of Kroton",
                     "object_name_plain": null,
@@ -30800,6 +30974,7 @@
             "16020090": {
                 "object": {
                     "nodegoat_id": "ngYF9w08kZPQlZlUlAH84nvRzZs",
+                    "type_id": 12173,
                     "object_id": 16020090,
                     "object_name": "Myskellos and Archias consult the Oracle of Delphi",
                     "object_name_plain": null,
@@ -30946,6 +31121,7 @@
             "16020102": {
                 "object": {
                     "nodegoat_id": "ngOV0G28aPVGbPbebPn06dlfpPi",
+                    "type_id": 12173,
                     "object_id": 16020102,
                     "object_name": "The Trojan Women put fire to the ships on the Naethus",
                     "object_name_plain": null,
@@ -31095,6 +31271,7 @@
             "16021006": {
                 "object": {
                     "nodegoat_id": "ngSZ0K68eSZKcTfKfS74dhpFtUG",
+                    "type_id": 12173,
                     "object_id": 16021006,
                     "object_name": "2: Dorieus returns to Sparta",
                     "object_name_plain": null,
@@ -31245,6 +31422,7 @@
             "16021014": {
                 "object": {
                     "nodegoat_id": "ngAH1W48mAnSnBnynA52lpxXbLO",
+                    "type_id": 12173,
                     "object_id": 16021014,
                     "object_name": "3: Dorieus fights in the war between Sybaris and Kroton",
                     "object_name_plain": null,
@@ -31406,6 +31584,7 @@
             "16021015": {
                 "object": {
                     "nodegoat_id": "ngBI1T58nByT7CoBoCK3lqyQcMP",
+                    "type_id": 12173,
                     "object_id": 16021015,
                     "object_name": "The Aitolians under Thoas settle at Temesa",
                     "object_name_plain": null,
@@ -31550,6 +31729,7 @@
             "16021016": {
                 "object": {
                     "nodegoat_id": "ngCJ1U68oEJUnDpwpCL48rbndCG",
+                    "type_id": 12173,
                     "object_id": 16021016,
                     "object_name": "The Ausones found Temesa",
                     "object_name_plain": null,
@@ -31687,6 +31867,7 @@
             "16021028": {
                 "object": {
                     "nodegoat_id": "ngOV2K88aOlG2PbCbPH63dlBpQC",
+                    "type_id": 12173,
                     "object_id": 16021028,
                     "object_name": "Strabo calls Cosentia the metropolis of the Brettii",
                     "object_name_plain": null,
@@ -31827,6 +32008,7 @@
             "16021034": {
                 "object": {
                     "nodegoat_id": "ngUB3Y48gWBM8VhUhWD2fjrVvVo",
+                    "type_id": 12173,
                     "object_id": 16021034,
                     "object_name": "Pandosia was the capital of the Oenotrian kings",
                     "object_name_plain": null,
@@ -31962,6 +32144,7 @@
             "16021044": {
                 "object": {
                     "nodegoat_id": "ngEL4E48qGVW9FrMrEd2qtbFfEy",
+                    "type_id": 12173,
                     "object_id": 16021044,
                     "object_name": "Pandosia is an Achaian foundation",
                     "object_name_plain": null,
@@ -32101,6 +32284,7 @@
             "16021179": {
                 "object": {
                     "nodegoat_id": "ngNU7d98zNEF1OaRaNW72ckAoNB",
+                    "type_id": 12173,
                     "object_id": 16021179,
                     "object_name": "Kaulon is the founder of Kaulonia",
                     "object_name_plain": null,
@@ -32247,6 +32431,7 @@
             "16021181": {
                 "object": {
                     "nodegoat_id": "ngPW8B18bRGH1QcLcPI95emYqQj",
+                    "type_id": 12173,
                     "object_id": 16021181,
                     "object_name": "Lokrian foundation of Kaulonia",
                     "object_name_plain": null,
@@ -32388,6 +32573,7 @@
             "16021623": {
                 "object": {
                     "nodegoat_id": "ngJQ2F38vKgB5KwXwLS13ygWkJX",
+                    "type_id": 12173,
                     "object_id": 16021623,
                     "object_name": "Philoktetes builds a temple to Apollo near Krimissa",
                     "object_name_plain": null,
@@ -32535,6 +32721,7 @@
             "16021625": {
                 "object": {
                     "nodegoat_id": "ngLS2H58xMCD5MyTyMU39aikmLf",
+                    "type_id": 12173,
                     "object_id": 16021625,
                     "object_name": "Petelia was founded by Philoktetes",
                     "object_name_plain": null,
@@ -32682,6 +32869,7 @@
             "16021626": {
                 "object": {
                     "nodegoat_id": "ngMT2I68yMzEzNzgzMV4wbjFnNg",
+                    "type_id": 12173,
                     "object_id": 16021626,
                     "object_name": "Petelia is the metropolis of the Chones",
                     "object_name_plain": null,
@@ -32819,6 +33007,7 @@
             "16024937": {
                 "object": {
                     "nodegoat_id": "ngXE3B78jYkPiYkLkYQ58muoyYr",
+                    "type_id": 12173,
                     "object_id": 16024937,
                     "object_name": "Samians founded Dikaiarcheia",
                     "object_name_plain": null,
@@ -32956,6 +33145,7 @@
             "16025171": {
                 "object": {
                     "nodegoat_id": "ngFM7v18rHWX5GsBsHO91ucUgHT",
+                    "type_id": 12173,
                     "object_id": 16025171,
                     "object_name": "Epeious and the Phokaians found Lagaria",
                     "object_name_plain": null,
@@ -33097,6 +33287,7 @@
             "16025408": {
                 "object": {
                     "nodegoat_id": "ngUB0s88gVLMgVhUhVD63jrRvFI",
+                    "type_id": 12173,
                     "object_id": 16025408,
                     "object_name": "Philoktetes founds Makalla",
                     "object_name_plain": null,
@@ -33226,6 +33417,7 @@
             "16025956": {
                 "object": {
                     "nodegoat_id": "ngQX5C68cQXI7RdgdRp41fnZrRk",
+                    "type_id": 12173,
                     "object_id": 16025956,
                     "object_name": "Commemmorating Palinouros",
                     "object_name_plain": null,
@@ -33373,6 +33565,7 @@
             "16025960": {
                 "object": {
                     "nodegoat_id": "ngUB6C08gVhMfVhGhV182jrRvUI",
+                    "type_id": 12173,
                     "object_id": 16025960,
                     "object_name": "Rhodian foundation of Parthenope",
                     "object_name_plain": null,
@@ -33508,6 +33701,7 @@
             "16025964": {
                 "object": {
                     "nodegoat_id": "ngYF6G48kYlQ4ZlMlZR27nvRzZs",
+                    "type_id": 12173,
                     "object_id": 16025964,
                     "object_name": "Sybarites settle at Skidros",
                     "object_name_plain": null,
@@ -33643,6 +33837,7 @@
             "16025975": {
                 "object": {
                     "nodegoat_id": "ngJQ7z58vKAB0KwJwKi37ygekLX",
+                    "type_id": 12173,
                     "object_id": 16025975,
                     "object_name": "Foundation of Métauros from Zankle",
                     "object_name_plain": null,
@@ -33778,6 +33973,7 @@
             "16026863": {
                 "object": {
                     "nodegoat_id": "ngXE6F38jYOP3YkvkY41imuUyYL",
+                    "type_id": 12173,
                     "object_id": 16026863,
                     "object_name": "Metabos/Metapont founds Metapontion",
                     "object_name_plain": null,
@@ -33921,6 +34117,7 @@
             "16026864": {
                 "object": {
                     "nodegoat_id": "ngYF6G48kYlQ4ZlMlZR2invtzYM",
+                    "type_id": 12173,
                     "object_id": 16026864,
                     "object_name": "Daulios founds Metapontion",
                     "object_name_plain": null,
@@ -34054,6 +34251,7 @@
             "16026866": {
                 "object": {
                     "nodegoat_id": "ngAH6I68mAHSmBnAnBJ41pxXbCO",
+                    "type_id": 12173,
                     "object_id": 16026866,
                     "object_name": "The Achaians found Metapontion",
                     "object_name_plain": null,
@@ -34193,6 +34391,7 @@
             "16026867": {
                 "object": {
                     "nodegoat_id": "ngBI6v78nBoT9CoBoB851qyCcCv",
+                    "type_id": 12173,
                     "object_id": 16026867,
                     "object_name": "Epeios, the builder of the Trojan Horse, founds Metapontion",
                     "object_name_plain": null,
@@ -34344,6 +34543,7 @@
             "16026875": {
                 "object": {
                     "nodegoat_id": "ngJQ7z58vKAB0KwJwK636ygikKd",
+                    "type_id": 12173,
                     "object_id": 16026875,
                     "object_name": "Leukippos founds Metapontion",
                     "object_name_plain": null,
@@ -34495,6 +34695,7 @@
             "16026886": {
                 "object": {
                     "nodegoat_id": "ngUB8s68gWLMfVhMhUD46jrVvUo",
+                    "type_id": 12173,
                     "object_id": 16026886,
                     "object_name": "The Athenians found Ogryle",
                     "object_name_plain": null,
@@ -34640,6 +34841,7 @@
             "16026891": {
                 "object": {
                     "nodegoat_id": "ngZG9x18lZmRkAmxmBI96owMaAN",
+                    "type_id": 12173,
                     "object_id": 16026891,
                     "object_name": "Daedalus may have participated in Aristaios' foundation of Karalis",
                     "object_name_plain": null,
@@ -34788,6 +34990,7 @@
             "16026896": {
                 "object": {
                     "nodegoat_id": "ngEL9y68qFrWqFrIrEX46tbFfEy",
+                    "type_id": 12173,
                     "object_id": 16026896,
                     "object_name": "Unknown Dorians found Poseidonia",
                     "object_name_plain": null,
@@ -34919,6 +35122,7 @@
             "16026899": {
                 "object": {
                     "nodegoat_id": "ngHO9b98tHuZ4IuxuJQ72weQiIb",
+                    "type_id": 12173,
                     "object_id": 16026899,
                     "object_name": "Zankle is renamed Messina",
                     "object_name_plain": null,
@@ -35052,6 +35256,7 @@
             "16026900": {
                 "object": {
                     "nodegoat_id": "ngMT0E08yNjEwNzIzNl85bjBnMA",
+                    "type_id": 12173,
                     "object_id": 16026900,
                     "object_name": "Naxians found Zankle",
                     "object_name_plain": null,
@@ -35192,6 +35397,7 @@
             "16026902": {
                 "object": {
                     "nodegoat_id": "ngOV0G28aPVGbPbWbQX04dlHpOi",
+                    "type_id": 12173,
                     "object_id": 16026902,
                     "object_name": "Massaliotes colonize Rhode",
                     "object_name_plain": null,
@@ -35336,6 +35542,7 @@
             "16026904": {
                 "object": {
                     "nodegoat_id": "ngQX0I48cQdIbRdkdQ529fnVrSE",
+                    "type_id": 12173,
                     "object_id": 16026904,
                     "object_name": "Odysseus is the founder of Skylletion",
                     "object_name_plain": null,
@@ -35477,6 +35684,7 @@
             "16026908": {
                 "object": {
                     "nodegoat_id": "ngUB0s88gVLMgVhIhWD62jrJvFI",
+                    "type_id": 12173,
                     "object_id": 16026908,
                     "object_name": "Siris was a city of the Trojans first",
                     "object_name_plain": null,
@@ -35622,6 +35830,7 @@
             "16026909": {
                 "object": {
                     "nodegoat_id": "ngVC0p98hVsN2WiRiWO79ksqwGJ",
+                    "type_id": 12173,
                     "object_id": 16026909,
                     "object_name": "Ionians from Kolophon re-settle Siris and name it Polieion",
                     "object_name_plain": null,
@@ -35782,6 +35991,7 @@
             "16026915": {
                 "object": {
                     "nodegoat_id": "ngBI1T58nByT0CoBoCU30qyOcMP",
+                    "type_id": 12173,
                     "object_id": 16026915,
                     "object_name": "Siris was named after the daughter of Morges, king of the Sikuli",
                     "object_name_plain": null,
@@ -35925,6 +36135,7 @@
             "16026922": {
                 "object": {
                     "nodegoat_id": "ngIP2E28uJvA5JvUvIB06xfXjJW",
+                    "type_id": 12173,
                     "object_id": 16026922,
                     "object_name": "Re-foundation of Sybaris after its destruction by Kroton",
                     "object_name_plain": null,
@@ -36068,6 +36279,7 @@
             "16026924": {
                 "object": {
                     "nodegoat_id": "ngKR2G48wLRC5LxCxMT25zhblKe",
+                    "type_id": 12173,
                     "object_id": 16026924,
                     "object_name": "The Krotoniates drive out the Sybarites",
                     "object_name_plain": null,
@@ -36212,6 +36424,7 @@
             "16026925": {
                 "object": {
                     "nodegoat_id": "ngLS2H58xMCD6MyZyLk3waiQmMZ",
+                    "type_id": 12173,
                     "object_id": 16026925,
                     "object_name": "The Sybarites send an embassy to Lakedaimon and Athens",
                     "object_name_plain": null,
@@ -36357,6 +36570,7 @@
             "16026926": {
                 "object": {
                     "nodegoat_id": "ngMT2I68yMzEzNzQzM746bjNnNg",
+                    "type_id": 12173,
                     "object_id": 16026926,
                     "object_name": "Xenokrites and Lampon come to found Thourioi",
                     "object_name_plain": null,
@@ -36504,6 +36718,7 @@
             "16026927": {
                 "object": {
                     "nodegoat_id": "ngNU2J78zNkFaOaJaOm5xckeoNh",
+                    "type_id": 12173,
                     "object_id": 16026927,
                     "object_name": "The Athenians send word to the cities of the Peloponnese",
                     "object_name_plain": null,
@@ -36656,6 +36871,7 @@
             "16026929": {
                 "object": {
                     "nodegoat_id": "ngPW2L98bPWH1QcXcQo72emYqPj",
+                    "type_id": 12173,
                     "object_id": 16026929,
                     "object_name": "List of the people that settled at Thourioi",
                     "object_name_plain": null,
@@ -36802,6 +37018,7 @@
             "16026933": {
                 "object": {
                     "nodegoat_id": "ngTA3L38fUgLgUgLgT41eiqQuTH",
+                    "type_id": 12173,
                     "object_id": 16026933,
                     "object_name": "The Thourians send an embassy to Delphi",
                     "object_name_plain": null,
@@ -36944,6 +37161,7 @@
             "16026934": {
                 "object": {
                     "nodegoat_id": "ngUB3Y48gWBM8VhYhUD29jrpvUI",
+                    "type_id": 12173,
                     "object_id": 16026934,
                     "object_name": "The Thourians send out for new settlers from Greece",
                     "object_name_plain": null,
@@ -37086,6 +37304,7 @@
             "16026935": {
                 "object": {
                     "nodegoat_id": "ngVC3Z58hXCNhWipiVu37ksuwWp",
+                    "type_id": 12173,
                     "object_id": 16026935,
                     "object_name": "Thourioi was founded by Achaians from the Peloponnese",
                     "object_name_plain": null,
@@ -37223,6 +37442,7 @@
             "16026937": {
                 "object": {
                     "nodegoat_id": "ngXE3B78jYkPiYkLkYw58muoyYr",
+                    "type_id": 12173,
                     "object_id": 16026937,
                     "object_name": "Perikles sends a group of settlers to Thourioi",
                     "object_name_plain": null,
@@ -37373,6 +37593,7 @@
             "16026939": {
                 "object": {
                     "nodegoat_id": "ngZG3D98lAQR4AmZmZS74owuaAN",
+                    "type_id": 12173,
                     "object_id": 16026939,
                     "object_name": "Dionysios Chalkos was the leader of the founding expedition to Thourioi",
                     "object_name_plain": null,
@@ -37515,6 +37736,7 @@
             "16026942": {
                 "object": {
                     "nodegoat_id": "ngCJ4G28oCJUnDpGpD30mrzZdCQ",
+                    "type_id": 12173,
                     "object_id": 16026942,
                     "object_name": "Phokaians found Massalia",
                     "object_name_plain": null,
@@ -37668,6 +37890,7 @@
             "16026943": {
                 "object": {
                     "nodegoat_id": "ngDK4D38pFKV8EqbqEc14saSeER",
+                    "type_id": 12173,
                     "object_id": 16026943,
                     "object_name": "Kreontiades is the founder of Massalia",
                     "object_name_plain": null,
@@ -37819,6 +38042,7 @@
             "16026944": {
                 "object": {
                     "nodegoat_id": "ngEL4E48qGVW9FrurEX29tbvfEy",
+                    "type_id": 12173,
                     "object_id": 16026944,
                     "object_name": "The people of Massalia descend from the Phokaian Euxenos",
                     "object_name_plain": null,
@@ -37973,6 +38197,7 @@
             "16026945": {
                 "object": {
                     "nodegoat_id": "ngFM4F58rGsX9GsBsFY39ucYgGz",
+                    "type_id": 12173,
                     "object_id": 16026945,
                     "object_name": "Simos and Protis found Massalia",
                     "object_name_plain": null,
@@ -38144,6 +38369,7 @@
             "16026946": {
                 "object": {
                     "nodegoat_id": "ngGN4G68sHdY9HtCtIP49vdfhHa",
+                    "type_id": 12173,
                     "object_id": 16026946,
                     "object_name": "Aristarche accompanies the Phokaians to Massalia",
                     "object_name_plain": null,
@@ -38308,6 +38534,7 @@
             "16026951": {
                 "object": {
                     "nodegoat_id": "ngLS5X18xMSD1MyLyNE9xaigmLZ",
+                    "type_id": 12173,
                     "object_id": 16026951,
                     "object_name": "Trojan Refugees in Sardinia",
                     "object_name_plain": null,
@@ -38443,6 +38670,7 @@
             "16026954": {
                 "object": {
                     "nodegoat_id": "ngOV5A48aOlGzPbebP526dlPpPi",
+                    "type_id": 12173,
                     "object_id": 16026954,
                     "object_name": "The Libyans go to Sardinia again",
                     "object_name_plain": null,
@@ -38578,6 +38806,7 @@
             "16027019": {
                 "object": {
                     "nodegoat_id": "ngFM1F98rFWX9GsFsFY71ucegFz",
+                    "type_id": 12173,
                     "object_id": 16027019,
                     "object_name": "The Epeans and Pheneats travel to Italy",
                     "object_name_plain": null,
@@ -38730,6 +38959,7 @@
             "16027029": {
                 "object": {
                     "nodegoat_id": "ngPW2L98bPWH1QcXcQo70emoqQj",
+                    "type_id": 12173,
                     "object_id": 16027029,
                     "object_name": "Taras founded Taras first",
                     "object_name_plain": null,
@@ -38879,6 +39109,7 @@
             "16027826": {
                 "object": {
                     "nodegoat_id": "ngMT2I68yMzEzNzQzMl4ybjhnOA",
+                    "type_id": 12173,
                     "object_id": 16027826,
                     "object_name": "Phalantos founds Taras",
                     "object_name_plain": null,
@@ -39053,6 +39284,7 @@
             "16027864": {
                 "object": {
                     "nodegoat_id": "ngYF6G48kYlQ4ZlQlYH2knvVzZM",
+                    "type_id": 12173,
                     "object_id": 16027864,
                     "object_name": "The Pelasgians travel to Italy",
                     "object_name_plain": null,
@@ -39203,6 +39435,7 @@
             "16028179": {
                 "object": {
                     "nodegoat_id": "ngNU7d98zNEF0OahaOW70ckSoOB",
+                    "type_id": 12173,
                     "object_id": 16028179,
                     "object_name": "The Peuketians are Greek in Origin",
                     "object_name_plain": null,
@@ -39356,6 +39589,7 @@
             "16028182": {
                 "object": {
                     "nodegoat_id": "ngQX8C28cSHI6RdodR30cfnDrQE",
+                    "type_id": 12173,
                     "object_id": 16028182,
                     "object_name": "The Chones are Oenotrian",
                     "object_name_plain": null,
@@ -39485,6 +39719,7 @@
             "16028188": {
                 "object": {
                     "nodegoat_id": "ngWD8u88iXDO3XjujXP63ltPxXq",
+                    "type_id": 12173,
                     "object_id": 16028188,
                     "object_name": "Auson is the ancestor of the Ausones",
                     "object_name_plain": null,
@@ -39626,6 +39861,7 @@
             "16028190": {
                 "object": {
                     "nodegoat_id": "ngYF9w08kZPQlZlGlZR8lnvLzZM",
+                    "type_id": 12173,
                     "object_id": 16028190,
                     "object_name": "Sikelos is the ancestor of the Sikels",
                     "object_name_plain": null,
@@ -39755,6 +39991,7 @@
             "16028192": {
                 "object": {
                     "nodegoat_id": "ngAH9y28mAxSlBnOnBz03pxFbAO",
+                    "type_id": 12173,
                     "object_id": 16028192,
                     "object_name": "Italos is the ancestor of the Italians",
                     "object_name_plain": null,
@@ -39884,6 +40121,7 @@
             "16028193": {
                 "object": {
                     "nodegoat_id": "ngBI9z38nBITlCozoBa1mqyacBv",
+                    "type_id": 12173,
                     "object_id": 16028193,
                     "object_name": "Morges is the ancestor of the Morgetes",
                     "object_name_plain": null,
@@ -40013,6 +40251,7 @@
             "16191597": {
                 "object": {
                     "nodegoat_id": "ngFM9z78rGMX2GsdsFY52ucUgGT",
+                    "type_id": 12173,
                     "object_id": 16191597,
                     "object_name": "Origins Samian Heraion",
                     "object_name_plain": null,
@@ -40143,6 +40382,7 @@
             "16191598": {
                 "object": {
                     "nodegoat_id": "ngGN9a88sHNYqHtCtHf69vdfhHa",
+                    "type_id": 12173,
                     "object_id": 16191598,
                     "object_name": "Nostos of Neoptolemos",
                     "object_name_plain": null,
@@ -40288,6 +40528,7 @@
             "16191600": {
                 "object": {
                     "nodegoat_id": "ngMT0E08yNjExNzkzMV82bjBnMA",
+                    "type_id": 12173,
                     "object_id": 16191600,
                     "object_name": "Oinopion founds Chios",
                     "object_name_plain": null,
@@ -40429,6 +40670,7 @@
             "16191602": {
                 "object": {
                     "nodegoat_id": "ngOV0G28aPVGbPbGbQX06dlPpOi",
+                    "type_id": 12173,
                     "object_id": 16191602,
                     "object_name": "Foundation of Teos",
                     "object_name_plain": null,
@@ -40570,6 +40812,7 @@
             "16191603": {
                 "object": {
                     "nodegoat_id": "ngPW0H38bQGHbQcPcPo18emUqPD",
+                    "type_id": 12173,
                     "object_id": 16191603,
                     "object_name": "Achilles in Miletus",
                     "object_name_plain": null,
@@ -40773,6 +41016,7 @@
             "16191605": {
                 "object": {
                     "nodegoat_id": "ngRY0J58dRoJcSeleTA30goWsTF",
+                    "type_id": 12173,
                     "object_id": 16191605,
                     "object_name": "Athenian autochthony",
                     "object_name_plain": null,
@@ -40915,6 +41159,7 @@
             "16191607": {
                 "object": {
                     "nodegoat_id": "ngTA0L78fTKLfUgngUC52iqCuUn",
+                    "type_id": 12173,
                     "object_id": 16191607,
                     "object_name": "Aeolian Migration",
                     "object_name_plain": null,
@@ -41132,6 +41377,7 @@
             "16191609": {
                 "object": {
                     "nodegoat_id": "ngVC0p98hVsNiWiZiW073ksqwGJ",
+                    "type_id": 12173,
                     "object_id": 16191609,
                     "object_name": "Cretan Miletus",
                     "object_name_plain": null,
@@ -41346,6 +41592,7 @@
             "16191611": {
                 "object": {
                     "nodegoat_id": "ngXE1J18jXEP6YkvkZG96muKyIL",
+                    "type_id": 12173,
                     "object_id": 16191611,
                     "object_name": "Incestuous Smyrna",
                     "object_name_plain": null,
@@ -41491,6 +41738,7 @@
             "16191612": {
                 "object": {
                     "nodegoat_id": "ngYF1G28kYvQlZlGlZ30jnvVzJM",
+                    "type_id": 12173,
                     "object_id": 16191612,
                     "object_name": "Return of the Heracleidae",
                     "object_name_plain": null,
@@ -41630,6 +41878,7 @@
             "16191615": {
                 "object": {
                     "nodegoat_id": "ngBI1T58nBST6CoroBa36qyYcMP",
+                    "type_id": 12173,
                     "object_id": 16191615,
                     "object_name": "Nature spirits in Ionia",
                     "object_name_plain": null,
@@ -41825,6 +42074,7 @@
             "16191617": {
                 "object": {
                     "nodegoat_id": "ngDK1D78pDaV8EqtqEc52saSeDR",
+                    "type_id": 12173,
                     "object_id": 16191617,
                     "object_name": "Samos autochthony",
                     "object_name_plain": null,
@@ -41972,6 +42222,7 @@
             "16191619": {
                 "object": {
                     "nodegoat_id": "ngFM1F98rFWX1GsNsGe72ucKgHT",
+                    "type_id": 12173,
                     "object_id": 16191619,
                     "object_name": "Ion founds Athens",
                     "object_name_plain": null,
@@ -42099,6 +42350,7 @@
             "16191621": {
                 "object": {
                     "nodegoat_id": "ngHO2D18tJYZ3IuDuHQ93weUiHV",
+                    "type_id": 12173,
                     "object_id": 16191621,
                     "object_name": "Carian prehistory",
                     "object_name_plain": null,
@@ -42230,6 +42482,7 @@
             "16191623": {
                 "object": {
                     "nodegoat_id": "ngJQ2F38vKgB4KwzwJC15ygikJd",
+                    "type_id": 12173,
                     "object_id": 16191623,
                     "object_name": "Lelegian prehistory",
                     "object_name_plain": null,
@@ -42363,6 +42616,7 @@
             "16191624": {
                 "object": {
                     "nodegoat_id": "ngKR2G48wLRC6LxGxKj26zhPlKY",
+                    "type_id": 12173,
                     "object_id": 16191624,
                     "object_name": "Colophon early history",
                     "object_name_plain": null,
@@ -42478,6 +42732,7 @@
             "16191625": {
                 "object": {
                     "nodegoat_id": "ngLS2H58xMCD6MyHyM63yaikmMf",
+                    "type_id": 12173,
                     "object_id": 16191625,
                     "object_name": "Milesians colonisation in the Black Sea",
                     "object_name_plain": null,
@@ -42615,6 +42870,7 @@
             "16191626": {
                 "object": {
                     "nodegoat_id": "ngMT2I68yMzE7NzczMV48bjhnOA",
+                    "type_id": 12173,
                     "object_id": 16191626,
                     "object_name": "Magnesia colonised by Delphi",
                     "object_name_plain": null,
@@ -42738,6 +42994,7 @@
             "16207852": {
                 "object": {
                     "nodegoat_id": "ngMT5Y28yNDEzNzczMF02bjdnMg",
+                    "type_id": 12173,
                     "object_id": 16207852,
                     "object_name": "Land disputes between Ozolians and Phokians and the custom of sheep raiding",
                     "object_name_plain": null,
@@ -42954,6 +43211,7 @@
             "16215459": {
                 "object": {
                     "nodegoat_id": "ngTA5B98fVKLgUgTgVC71iqIuUH",
+                    "type_id": 12173,
                     "object_id": 16215459,
                     "object_name": "Lokrians and Argians both claim to house Prometheus's tomb",
                     "object_name_plain": null,
@@ -43151,6 +43409,7 @@
             "16216614": {
                 "object": {
                     "nodegoat_id": "ngAH1W48mAHS4BnAnBz28pxPbLO",
+                    "type_id": 12173,
                     "object_id": 16216614,
                     "object_name": "The making of a natural frontier between Lokrians and Phokians",
                     "object_name_plain": null,
@@ -43357,6 +43616,7 @@
             "16217585": {
                 "object": {
                     "nodegoat_id": "ngTA8r58fVALeUgngT639iqYuVH",
+                    "type_id": 12173,
                     "object_id": 16217585,
                     "object_name": "Defector Lokrians lying to the Peloponnesians on behalf of the Herakleides - naval invade and capture of Rhio",
                     "object_name_plain": null,
@@ -43497,6 +43757,7 @@
             "16217607": {
                 "object": {
                     "nodegoat_id": "ngTA0L78fTKLfUgFgTs5diqIuUH",
+                    "type_id": 12173,
                     "object_id": 16217607,
                     "object_name": "The foundation of Opous and of the first race (Leleges) by Deukalion and Pyrrha",
                     "object_name_plain": null,
@@ -43647,6 +43908,7 @@
             "16217615": {
                 "object": {
                     "nodegoat_id": "ngBI1T58nBST7CoNoDK3lqyQcMP",
+                    "type_id": 12173,
                     "object_id": 16217615,
                     "object_name": "Physkos, ancestor of the Leleges, now Lokrians",
                     "object_name_plain": null,
@@ -43776,6 +44038,7 @@
             "16217620": {
                 "object": {
                     "nodegoat_id": "ngGN2C08sINY1HtwtGZ8qvdfhHa",
+                    "type_id": 12173,
                     "object_id": 16217620,
                     "object_name": "Physkos' genealogy",
                     "object_name_plain": null,
@@ -43906,6 +44169,7 @@
             "16217630": {
                 "object": {
                     "nodegoat_id": "ngQX3M08cQHI1RdIdSJ8bfnlrRE",
+                    "type_id": 12173,
                     "object_id": 16217630,
                     "object_name": "Lokris ruled first by Deukalion, next by blood Aitolos, then Physkos, father Lokros",
                     "object_name_plain": null,
@@ -44056,6 +44320,7 @@
             "16217633": {
                 "object": {
                     "nodegoat_id": "ngTA3L38fUgL4UgBgT41diqMuTn",
+                    "type_id": 12173,
                     "object_id": 16217633,
                     "object_name": "Leleges, renamed Lokrians after Lokros",
                     "object_name_plain": null,
@@ -44193,6 +44458,7 @@
             "16218639": {
                 "object": {
                     "nodegoat_id": "ngZG3D98lAQR4AmtmZy79owWaBN",
+                    "type_id": 12173,
                     "object_id": 16218639,
                     "object_name": "Lokrians, surnamed Epiknemedioi, formerly called Leleges",
                     "object_name_plain": null,
@@ -44330,6 +44596,7 @@
             "16218644": {
                 "object": {
                     "nodegoat_id": "ngEL4E48qGVW8FryrE525tbdfEy",
+                    "type_id": 12173,
                     "object_id": 16218644,
                     "object_name": "Leleges, ancestors of the Lokrians, expelled previous populations to settle in Achaia-Phthiotis",
                     "object_name_plain": null,
@@ -44492,6 +44759,7 @@
             "16218660": {
                 "object": {
                     "nodegoat_id": "ngUB6C08gVhMhVhshUt8gjrJvUI",
+                    "type_id": 12173,
                     "object_id": 16218660,
                     "object_name": "Lokros, son of Phaiax of Corfu",
                     "object_name_plain": null,
@@ -44645,6 +44913,7 @@
             "16218662": {
                 "object": {
                     "nodegoat_id": "ngWD6E28iXDOjXjmjWP05ltXxXq",
+                    "type_id": 12173,
                     "object_id": 16218662,
                     "object_name": "Lokros, accepted as a guest by the Italian king Lakinos, and marries his daughter",
                     "object_name_plain": null,
@@ -44800,6 +45069,7 @@
             "16218663": {
                 "object": {
                     "nodegoat_id": "ngXE6F38jYOPjYkvkYQ18muGyYr",
+                    "type_id": 12173,
                     "object_id": 16218663,
                     "object_name": "Phaiakians claiming kinship ties with the Lokrians of Italy",
                     "object_name_plain": null,
@@ -44931,6 +45201,7 @@
             "16218674": {
                 "object": {
                     "nodegoat_id": "ngIP7y48uJPA7JvQvJh26xfNjIW",
+                    "type_id": 12173,
                     "object_id": 16218674,
                     "object_name": "Heracles and the cattle of Geryon, received as a guest by Lokros in Italy",
                     "object_name_plain": null,
@@ -45074,6 +45345,7 @@
             "16218675": {
                 "object": {
                     "nodegoat_id": "ngJQ7z58vKAB8KwNwKC3wygakJd",
+                    "type_id": 12173,
                     "object_id": 16218675,
                     "object_name": "The tragic death of Lokros and the foundation of Lokri Epizephyrioi",
                     "object_name_plain": null,
@@ -45226,6 +45498,7 @@
             "16218677": {
                 "object": {
                     "nodegoat_id": "ngLS7b78xLiD0MyHyME51aiAmMZ",
+                    "type_id": 12173,
                     "object_id": 16218677,
                     "object_name": "Leleges, now Lokrians, took possession of Boeotia too",
                     "object_name_plain": null,
@@ -45359,6 +45632,7 @@
             "16218679": {
                 "object": {
                     "nodegoat_id": "ngNU7d98zNEF2OaBaOm79ckGoNh",
+                    "type_id": 12173,
                     "object_id": 16218679,
                     "object_name": "Lokros, son of Physkos",
                     "object_name_plain": null,
@@ -45501,6 +45775,7 @@
             "16218681": {
                 "object": {
                     "nodegoat_id": "ngPW8B18bRGH3QcHcRI9cemCqQD",
+                    "type_id": 12173,
                     "object_id": 16218681,
                     "object_name": "Lokros, son of Physkos, son of Amphiktyon, and father of Opous",
                     "object_name_plain": null,
@@ -45640,6 +45915,7 @@
             "16218683": {
                 "object": {
                     "nodegoat_id": "ngRY8D38dSeJ5SeVeTA13goOsTF",
+                    "type_id": 12173,
                     "object_id": 16218683,
                     "object_name": "<span style=\"font-style: italic; opacity: 0.8;\">No Name</span>",
                     "object_name_plain": null,
@@ -45740,6 +46016,7 @@
             "16218684": {
                 "object": {
                     "nodegoat_id": "ngSZ8K48eSJKcTfOfTB29hpLtTo2c",
+                    "type_id": 12173,
                     "object_id": 16218684,
                     "object_name": "Physkos, descendant of Amphiktyon and Chtonopatra, father of Lokros, who is father of Opous",
                     "object_name_plain": null,
@@ -45875,6 +46152,7 @@
             "16218685": {
                 "object": {
                     "nodegoat_id": "ngTA8r58fVALeUgngTC3giqYuVH",
+                    "type_id": 12173,
                     "object_id": 16218685,
                     "object_name": "From Physkos come Physkeis, now called Lokroi after Lokros",
                     "object_name_plain": null,
@@ -46016,6 +46294,7 @@
             "16218690": {
                 "object": {
                     "nodegoat_id": "ngYF9w08kZPQjZlYlYH8jnvLzAM",
+                    "type_id": 12173,
                     "object_id": 16218690,
                     "object_name": "Opous, mother-city of the Lokrians",
                     "object_name_plain": null,
@@ -46158,6 +46437,7 @@
             "16218728": {
                 "object": {
                     "nodegoat_id": "ngOV2K88aOlG0PbCbP96adlBpQC",
+                    "type_id": 12173,
                     "object_id": 16218728,
                     "object_name": "Opous, metropolis of the Lokrians and city of righteous laws",
                     "object_name_plain": null,
@@ -46298,6 +46578,7 @@
             "16218730": {
                 "object": {
                     "nodegoat_id": "ngQX3M08cQHI1RdIdSZ8cfnDrQE",
+                    "type_id": 12173,
                     "object_id": 16218730,
                     "object_name": "Opous, hometown of Patroklos and Menoitios",
                     "object_name_plain": null,
@@ -46440,6 +46721,7 @@
             "16218854": {
                 "object": {
                     "nodegoat_id": "ngOV5A48aOlGbPbObQH27dlBpOC",
+                    "type_id": 12173,
                     "object_id": 16218854,
                     "object_name": "Opous, mother-city of the Epiknemedian Lokrians, bordering Hyampolis",
                     "object_name_plain": null,
@@ -46573,6 +46855,7 @@
             "16218857": {
                 "object": {
                     "nodegoat_id": "ngRY5D78dRIJ7SeNeRA5bgoOsTF",
+                    "type_id": 12173,
                     "object_id": 16218857,
                     "object_name": "Phoenician Thales founds Miletos",
                     "object_name_plain": null,
@@ -46712,6 +46995,7 @@
             "16218860": {
                 "object": {
                     "nodegoat_id": "ngUB6C08gVhMhVhshUt8gjrDvVo",
+                    "type_id": 12173,
                     "object_id": 16218860,
                     "object_name": "Melanthos to Attika",
                     "object_name_plain": null,
@@ -46848,6 +47132,7 @@
             "16218861": {
                 "object": {
                     "nodegoat_id": "ngVC6D18hWsNiWiNiWO92ksmwVp",
+                    "type_id": 12173,
                     "object_id": 16218861,
                     "object_name": "Ionians from Achaea",
                     "object_name_plain": null,
@@ -46977,6 +47262,7 @@
             "16218862": {
                 "object": {
                     "nodegoat_id": "ngWD6E28iXDOjXjmjWP03ltFxWq",
+                    "type_id": 12173,
                     "object_id": 16218862,
                     "object_name": "Neleus to Messenia",
                     "object_name_plain": null,
@@ -47108,6 +47394,7 @@
             "16218863": {
                 "object": {
                     "nodegoat_id": "ngXE6F38jYOPjYkvkYQ17musyYL",
+                    "type_id": 12173,
                     "object_id": 16218863,
                     "object_name": "Cretans found places",
                     "object_name_plain": null,
@@ -47243,6 +47530,7 @@
             "16218865": {
                 "object": {
                     "nodegoat_id": "ngZG6H58lZwRmAmDmZI38owMaAN",
+                    "type_id": 12173,
                     "object_id": 16218865,
                     "object_name": "Makareus",
                     "object_name_plain": null,
@@ -47384,6 +47672,7 @@
             "16218868": {
                 "object": {
                     "nodegoat_id": "ngCJ6w88oCzU2DpQpCV6przLdCw",
+                    "type_id": 12173,
                     "object_id": 16218868,
                     "object_name": "Thebans found Prience",
                     "object_name_plain": null,
@@ -47515,6 +47804,7 @@
             "16218869": {
                 "object": {
                     "nodegoat_id": "ngDK6x98pDUV2EqHqDc7psaSeER",
+                    "type_id": 12173,
                     "object_id": 16218869,
                     "object_name": "Panionion",
                     "object_name_plain": null,
@@ -47632,6 +47922,7 @@
             "16218870": {
                 "object": {
                     "nodegoat_id": "ngEL7u08qGLW3FrcrF182tbJfES",
+                    "type_id": 12173,
                     "object_id": 16218870,
                     "object_name": "Amazon founders",
                     "object_name_plain": null,
@@ -47765,6 +48056,7 @@
             "16218872": {
                 "object": {
                     "nodegoat_id": "ngGN7w28sHtY5HtwtHZ06vdThHU",
+                    "type_id": 12173,
                     "object_id": 16218872,
                     "object_name": "Chios autochthony",
                     "object_name_plain": null,
@@ -47890,6 +48182,7 @@
             "16218893": {
                 "object": {
                     "nodegoat_id": "ngBI9z38nBITmCoPoBa15qyOcDP",
+                    "type_id": 12173,
                     "object_id": 16218893,
                     "object_name": "Naupaktos and the practice of shipbuilding",
                     "object_name_plain": null,
@@ -48046,6 +48339,7 @@
             "16218894": {
                 "object": {
                     "nodegoat_id": "ngCJ9a48oCTUnDpKpDL28rzbdDw",
+                    "type_id": 12173,
                     "object_id": 16218894,
                     "object_name": "The Herakleidai building their fleet on Naupaktos",
                     "object_name_plain": null,
@@ -48202,6 +48496,7 @@
             "16218898": {
                 "object": {
                     "nodegoat_id": "ngGN9a88sHNYqHtUtG96tvdPhGa",
+                    "type_id": 12173,
                     "object_id": 16218898,
                     "object_name": "Oracle for the Herakleidai and the building of ships in Naupaktos",
                     "object_name_plain": null,
@@ -48345,6 +48640,7 @@
             "16218908": {
                 "object": {
                     "nodegoat_id": "ngUB0s88gUBM2VhshUN68jrZvFI",
+                    "type_id": 12173,
                     "object_id": 16218908,
                     "object_name": "Reputation of non-trustworthy Lokrians after they betrayed the Peloponnesians during the Herakleidai invasion",
                     "object_name_plain": null,
@@ -48476,6 +48772,7 @@
             "16247874": {
                 "object": {
                     "nodegoat_id": "ngIP7y48uJPA7JvAvKR2txfdjJW",
+                    "type_id": 12173,
                     "object_id": 16247874,
                     "object_name": "Sanctuary of Artemis Aitolian in Naupaktos",
                     "object_name_plain": null,
@@ -48606,6 +48903,7 @@
             "16247913": {
                 "object": {
                     "nodegoat_id": "ngZG1D38lZGR6AmDmAS1lowEaKN",
+                    "type_id": 12173,
                     "object_id": 16247913,
                     "object_name": "Axia in Ozolian Lokris and in Italy",
                     "object_name_plain": null,
@@ -48746,6 +49044,7 @@
             "16248114": {
                 "object": {
                     "nodegoat_id": "ngAH1W48mAHSkBnunAJ2lpxNbLO",
+                    "type_id": 12173,
                     "object_id": 16248114,
                     "object_name": "Nemea in Elis is Lokrian",
                     "object_name_plain": null,
@@ -48882,6 +49181,7 @@
             "16248329": {
                 "object": {
                     "nodegoat_id": "ngPW2L98bPWH0QcBcQ07cemCqRD",
+                    "type_id": 12173,
                     "object_id": 16248329,
                     "object_name": "Alpenoi, metropolis of the Lokrians",
                     "object_name_plain": null,
@@ -49020,6 +49320,7 @@
             "16248431": {
                 "object": {
                     "nodegoat_id": "ngRY3J18dTYJ2SeReTK92goEsSF",
+                    "type_id": 12173,
                     "object_id": 16248431,
                     "object_name": "Bessa, named after its wooded landscape",
                     "object_name_plain": null,
@@ -49151,6 +49452,7 @@
             "16258332": {
                 "object": {
                     "nodegoat_id": "ngSZ3K28eUJKdTfEfSr04hpPtSG",
+                    "type_id": 12173,
                     "object_id": 16258332,
                     "object_name": "The city of Kalliaros is named after its easily to plough soil",
                     "object_name_plain": null,
@@ -49288,6 +49590,7 @@
             "16263139": {
                 "object": {
                     "nodegoat_id": "ngZG3D98lAQRkAmVmZI79owIaAt",
+                    "type_id": 12173,
                     "object_id": 16263139,
                     "object_name": "Background info Manto",
                     "object_name_plain": null,
@@ -49432,6 +49735,7 @@
             "16263141": {
                 "object": {
                     "nodegoat_id": "ngBI4F18nByT6CoroC295qyUcCv",
+                    "type_id": 12173,
                     "object_id": 16263141,
                     "object_name": "Neileus leading Ionian Migration",
                     "object_name_plain": null,
@@ -49569,6 +49873,7 @@
             "16263144": {
                 "object": {
                     "nodegoat_id": "ngEL4E48qGLW7FrWrGX2ptbFfEy",
+                    "type_id": 12173,
                     "object_id": 16263144,
                     "object_name": "Foundation of Posidonia",
                     "object_name_plain": null,
@@ -49770,6 +50075,7 @@
             "16263145": {
                 "object": {
                     "nodegoat_id": "ngFM4F58rHWX7GsJsGe36ucagGT",
+                    "type_id": 12173,
                     "object_id": 16263145,
                     "object_name": "Mopsos and Amphilochus",
                     "object_name_plain": null,
@@ -49975,6 +50281,7 @@
             "16263147": {
                 "object": {
                     "nodegoat_id": "ngHO4H78tIeZ7IuPuJA57weMiJV",
+                    "type_id": 12173,
                     "object_id": 16263147,
                     "object_name": "Mopsos versus Calchas",
                     "object_name_plain": null,
@@ -50115,6 +50422,7 @@
             "16263160": {
                 "object": {
                     "nodegoat_id": "ngUB6C08gVrM5VhYhUt85jrtvVo",
+                    "type_id": 12173,
                     "object_id": 16263160,
                     "object_name": "Anchiale daughter of Iatpetos",
                     "object_name_plain": null,

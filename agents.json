@@ -1,12 +1,13 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-03-27T22:00:05+00:00",
+    "timestamp": "2024-03-28T22:00:05+00:00",
     "authenticated": true,
     "data": {
         "objects": {
             "11945191": {
                 "object": {
                     "nodegoat_id": "ngZG9x18lAmRmAmR1ZS93owEaZN",
+                    "type_id": 12174,
                     "object_id": 11945191,
                     "object_name": "Herodotos",
                     "object_name_plain": null,
@@ -107,6 +108,7 @@
             "12035292": {
                 "object": {
                     "nodegoat_id": "ngAH9u28mBnS7Bnq2Az0npxPbBO",
+                    "type_id": 12174,
                     "object_id": 12035292,
                     "object_name": "Theseus",
                     "object_name_plain": null,
@@ -191,6 +193,7 @@
             "12042299": {
                 "object": {
                     "nodegoat_id": "ngHO9b98tJYZtIuZ9JQ73weMiIV",
+                    "type_id": 12174,
                     "object_id": 12042299,
                     "object_name": "Homer",
                     "object_name_plain": null,
@@ -293,6 +296,7 @@
             "12042306": {
                 "object": {
                     "nodegoat_id": "ngSZ0K68eTZK6TfW6UL49hpHtSG",
+                    "type_id": 12174,
                     "object_id": 12042306,
                     "object_name": "Ion of Chios",
                     "object_name_plain": null,
@@ -391,6 +395,7 @@
             "12042309": {
                 "object": {
                     "nodegoat_id": "ngVC0Z98hVMNhWip9VE73ksAwGJ",
+                    "type_id": 12174,
                     "object_id": 12042309,
                     "object_name": "Nikander of Kolophon",
                     "object_name_plain": null,
@@ -485,6 +490,7 @@
             "12042372": {
                 "object": {
                     "nodegoat_id": "ngGN7a28sGNY7HtO2GP0tvdLhGU",
+                    "type_id": 12174,
                     "object_id": 12042372,
                     "object_name": "Olympichos",
                     "object_name_plain": null,
@@ -579,6 +585,7 @@
             "12042374": {
                 "object": {
                     "nodegoat_id": "ngIP7y48uKPA9JvW4KB25xfVjJW",
+                    "type_id": 12174,
                     "object_id": 12042374,
                     "object_name": "Panyassis",
                     "object_name_plain": null,
@@ -673,6 +680,7 @@
             "12042380": {
                 "object": {
                     "nodegoat_id": "ngOV8e08aObG4PbS0PH83dlBpPC",
+                    "type_id": 12174,
                     "object_id": 12042380,
                     "object_name": "Xenophanes of Kolophon",
                     "object_name_plain": null,
@@ -767,6 +775,7 @@
             "12042382": {
                 "object": {
                     "nodegoat_id": "ngQX8g28cQnI6Rdk2Q30afnDrQE",
+                    "type_id": 12174,
                     "object_id": 12042382,
                     "object_name": "Thucydides",
                     "object_name_plain": null,
@@ -861,6 +870,7 @@
             "12150561": {
                 "object": {
                     "nodegoat_id": "ngVC6D18hVCN4WiV1VO9gksmwWp",
+                    "type_id": 12174,
                     "object_id": 12150561,
                     "object_name": "Ailianos",
                     "object_name_plain": null,
@@ -959,6 +969,7 @@
             "12150562": {
                 "object": {
                     "nodegoat_id": "ngWD6E28iWNO3XjS2X307ltrxYK",
+                    "type_id": 12174,
                     "object_id": 12150562,
                     "object_name": "Aelius Aristeides",
                     "object_name_plain": null,
@@ -1053,6 +1064,7 @@
             "12150563": {
                 "object": {
                     "nodegoat_id": "ngXE6F38jYkP7YkT3ZQ14muUyXL",
+                    "type_id": 12174,
                     "object_id": 12150563,
                     "object_name": "Agias",
                     "object_name_plain": null,
@@ -1140,6 +1152,7 @@
             "12150564": {
                 "object": {
                     "nodegoat_id": "ngYF6G48kZvQ8ZlU4Yx2lnvpzYs",
+                    "type_id": 12174,
                     "object_id": 12150564,
                     "object_name": "Alkidamas",
                     "object_name_plain": null,
@@ -1234,6 +1247,7 @@
             "12150565": {
                 "object": {
                     "nodegoat_id": "ngZG6H58lAGR7AmV5ZS3jowEaBN",
+                    "type_id": 12174,
                     "object_id": 12150565,
                     "object_name": "Alexander of Aetolia",
                     "object_name_plain": null,
@@ -1332,6 +1346,7 @@
             "12150566": {
                 "object": {
                     "nodegoat_id": "ngAH6I68mBRS7BnA6Bz4kpxrbBu",
+                    "type_id": 12174,
                     "object_id": 12150566,
                     "object_name": "Ammianus Marcellinus",
                     "object_name_plain": null,
@@ -1426,6 +1441,7 @@
             "12150567": {
                 "object": {
                     "nodegoat_id": "ngBI6r78nDST0CoN7BK5oqyCcCv",
+                    "type_id": 12174,
                     "object_id": 12150567,
                     "object_name": "Anakreon",
                     "object_name_plain": null,
@@ -1520,6 +1536,7 @@
             "12150568": {
                 "object": {
                     "nodegoat_id": "ngCJ6s88oDpU0Dpw8EL60rzPdCQ",
+                    "type_id": 12174,
                     "object_id": 12150568,
                     "object_name": "Harpokration",
                     "object_name_plain": null,
@@ -1614,6 +1631,7 @@
             "12150569": {
                 "object": {
                     "nodegoat_id": "ngDK6t98pEqV9Eqt9DW79saEeDx",
+                    "type_id": 12174,
                     "object_id": 12150569,
                     "object_name": "Hekataios",
                     "object_name_plain": null,
@@ -1708,6 +1726,7 @@
             "12150570": {
                 "object": {
                     "nodegoat_id": "ngEL7u08qFbW1FrW0E18rtbRfFS",
+                    "type_id": 12174,
                     "object_id": 12150570,
                     "object_name": "Hegesippus",
                     "object_name_plain": null,
@@ -1802,6 +1821,7 @@
             "12150574": {
                 "object": {
                     "nodegoat_id": "ngIP7c48uIZA6JvW4I525xfBjJc",
+                    "type_id": 12174,
                     "object_id": 12150574,
                     "object_name": "Herodotos",
                     "object_name_plain": null,
@@ -1896,6 +1916,7 @@
             "12150575": {
                 "object": {
                     "nodegoat_id": "ngJQ7z58vJAB0KwR5JC37ygikKd",
+                    "type_id": 12174,
                     "object_id": 12150575,
                     "object_name": "Heropythos",
                     "object_name_plain": null,
@@ -1990,6 +2011,7 @@
             "12150576": {
                 "object": {
                     "nodegoat_id": "ngKR7W68wMRC0LxW6K74uzhTlKe",
+                    "type_id": 12174,
                     "object_id": 12150576,
                     "object_name": "Hesychios",
                     "object_name_plain": null,
@@ -2084,6 +2106,7 @@
             "12150578": {
                 "object": {
                     "nodegoat_id": "ngMT7Y88yNzE2NzU8MF61bjdnMg",
+                    "type_id": 12174,
                     "object_id": 12150578,
                     "object_name": "Homeric Hymns",
                     "object_name_plain": null,
@@ -2171,6 +2194,7 @@
             "12150579": {
                 "object": {
                     "nodegoat_id": "ngNU7d98zOUFxOaN9O07yckAoNB",
+                    "type_id": 12174,
                     "object_id": 12150579,
                     "object_name": "Hyginus",
                     "object_name_plain": null,
@@ -2269,6 +2293,7 @@
             "12150580": {
                 "object": {
                     "nodegoat_id": "ngOV8e08aObG5PbW0O18zdljpQC",
+                    "type_id": 12174,
                     "object_id": 12150580,
                     "object_name": "Iamblichos",
                     "object_name_plain": null,
@@ -2367,6 +2392,7 @@
             "12150582": {
                 "object": {
                     "nodegoat_id": "ngQX8g28cQnI5Rdo2Q30cfnprQk",
+                    "type_id": 12174,
                     "object_id": 12150582,
                     "object_name": "Isokrates",
                     "object_name_plain": null,
@@ -2461,6 +2487,7 @@
             "12150583": {
                 "object": {
                     "nodegoat_id": "ngRY8h38dRYJ6SeF3SA1dgoWsRF",
+                    "type_id": 12174,
                     "object_id": 12150583,
                     "object_name": "Kadmos",
                     "object_name_plain": null,
@@ -2555,6 +2582,7 @@
             "12150585": {
                 "object": {
                     "nodegoat_id": "ngTA8r58fUKL9UgF5Ts39iqouTH",
+                    "type_id": 12174,
                     "object_id": 12150585,
                     "object_name": "Konon",
                     "object_name_plain": null,
@@ -2649,6 +2677,7 @@
             "12150586": {
                 "object": {
                     "nodegoat_id": "ngUB8s68gUhM8VhY6VN4gjrlvVo",
+                    "type_id": 12174,
                     "object_id": 12150586,
                     "object_name": "Kreophylos",
                     "object_name_plain": null,
@@ -2743,6 +2772,7 @@
             "12150587": {
                 "object": {
                     "nodegoat_id": "ngVC8t78hVsN9WiV7XO5gksWwWp",
+                    "type_id": 12174,
                     "object_id": 12150587,
                     "object_name": "Kritias",
                     "object_name_plain": null,
@@ -2837,6 +2867,7 @@
             "12150588": {
                 "object": {
                     "nodegoat_id": "ngWD8u88iYDO3XjE8XP63ltBxYK",
+                    "type_id": 12174,
                     "object_id": 12150588,
                     "object_name": "Libanios",
                     "object_name_plain": null,
@@ -2931,6 +2962,7 @@
             "12150589": {
                 "object": {
                     "nodegoat_id": "ngXE8v98jZOP2YkF9Xw72muUyXL",
+                    "type_id": 12174,
                     "object_id": 12150589,
                     "object_name": "Lykourgos",
                     "object_name_plain": null,
@@ -3025,6 +3057,7 @@
             "12150590": {
                 "object": {
                     "nodegoat_id": "ngYF9w08kZlQ2ZlK0AR83nvLzZM",
+                    "type_id": 12174,
                     "object_id": 12150590,
                     "object_name": "Malakos",
                     "object_name_plain": null,
@@ -3119,6 +3152,7 @@
             "12150591": {
                 "object": {
                     "nodegoat_id": "ngZG9x18lAwR4AmV1BS9kowMaBN",
+                    "type_id": 12174,
                     "object_id": 12150591,
                     "object_name": "Maximus of Tyre",
                     "object_name_plain": null,
@@ -3213,6 +3247,7 @@
             "12150592": {
                 "object": {
                     "nodegoat_id": "ngAH9u28mBnSkBnq2AJ0npxPbCO",
+                    "type_id": 12174,
                     "object_id": 12150592,
                     "object_name": "Menekrates of Elea",
                     "object_name_plain": null,
@@ -3307,6 +3342,7 @@
             "12150593": {
                 "object": {
                     "nodegoat_id": "ngBI9v38nCIT8Cov3B415qyUcCv",
+                    "type_id": 12174,
                     "object_id": 12150593,
                     "object_name": "Menodotos",
                     "object_name_plain": null,
@@ -3401,6 +3437,7 @@
             "12150594": {
                 "object": {
                     "nodegoat_id": "ngCJ9w48oDJUmDpG4D52mrzbdCw",
+                    "type_id": 12174,
                     "object_id": 12150594,
                     "object_name": "Metrodoros",
                     "object_name_plain": null,
@@ -3495,6 +3532,7 @@
             "12150595": {
                 "object": {
                     "nodegoat_id": "ngDK9x58pDqV0Eqt5EM36saAeFR",
+                    "type_id": 12174,
                     "object_id": 12150595,
                     "object_name": "Mimnermos",
                     "object_name_plain": null,
@@ -3589,6 +3627,7 @@
             "12150596": {
                 "object": {
                     "nodegoat_id": "ngEL9c68qEbWpFrc6E741tbNfFy",
+                    "type_id": 12174,
                     "object_id": 12150596,
                     "object_name": "Nearchos",
                     "object_name_plain": null,
@@ -3683,6 +3722,7 @@
             "12150598": {
                 "object": {
                     "nodegoat_id": "ngGN9e88sGXYrHtY8Hf6rvdVhIU",
+                    "type_id": 12174,
                     "object_id": 12150598,
                     "object_name": "Nikolaos of Damaskos",
                     "object_name_plain": null,
@@ -3781,6 +3821,7 @@
             "12150599": {
                 "object": {
                     "nodegoat_id": "ngHO9b98tJYZ4IuV9HQ70weUiHV",
+                    "type_id": 12174,
                     "object_id": 12150599,
                     "object_name": "Nonnus",
                     "object_name_plain": null,
@@ -3875,6 +3916,7 @@
             "12150601": {
                 "object": {
                     "nodegoat_id": "ngNU0F18zNUF6OaN1NW9ackioPB",
+                    "type_id": 12174,
                     "object_id": 12150601,
                     "object_name": "Oppianos",
                     "object_name_plain": null,
@@ -3962,6 +4004,7 @@
             "12150602": {
                 "object": {
                     "nodegoat_id": "ngOV0G28aOFG7Pbm2OH04dlLpPC",
+                    "type_id": 12174,
                     "object_id": 12150602,
                     "object_name": "Ovid",
                     "object_name_plain": null,
@@ -4064,6 +4107,7 @@
             "12150604": {
                 "object": {
                     "nodegoat_id": "ngQX0k48cRdIaRdE4Q52bfnNrBE",
+                    "type_id": 12174,
                     "object_id": 12150604,
                     "object_name": "Parthenios",
                     "object_name_plain": null,
@@ -4162,6 +4206,7 @@
             "12150605": {
                 "object": {
                     "nodegoat_id": "ngRY0J58dSoJbSeN5RA35goWsSF",
+                    "type_id": 12174,
                     "object_id": 12150605,
                     "object_name": "Pausanias",
                     "object_name_plain": null,
@@ -4266,6 +4311,7 @@
             "12150606": {
                 "object": {
                     "nodegoat_id": "ngSZ0K68eTZKcTfK6TB4ehpntSG",
+                    "type_id": 12174,
                     "object_id": 12150606,
                     "object_name": "Phanodikos",
                     "object_name_plain": null,
@@ -4360,6 +4406,7 @@
             "12150607": {
                 "object": {
                     "nodegoat_id": "ngTA0L78fTgL0Ugr7Us58iqYuTH",
+                    "type_id": 12174,
                     "object_id": 12150607,
                     "object_name": "Pherekydes",
                     "object_name_plain": null,
@@ -4454,6 +4501,7 @@
             "12150608": {
                 "object": {
                     "nodegoat_id": "ngUB0M88gUrM1VhQ8VN63jrpvVI",
+                    "type_id": 12174,
                     "object_id": 12150608,
                     "object_name": "Philiskos of Miletos",
                     "object_name_plain": null,
@@ -4548,6 +4596,7 @@
             "12150609": {
                 "object": {
                     "nodegoat_id": "ngVC0V98hViN4WiD9WE74ksIwGJ",
+                    "type_id": 12174,
                     "object_id": 12150609,
                     "object_name": "Philostephanos",
                     "object_name_plain": null,
@@ -4642,6 +4691,7 @@
             "12150610": {
                 "object": {
                     "nodegoat_id": "ngWD1S08iWjOhXjO0X180ltBxHK",
+                    "type_id": 12174,
                     "object_id": 12150610,
                     "object_name": "Philostratos",
                     "object_name_plain": null,
@@ -4742,6 +4792,7 @@
             "12150611": {
                 "object": {
                     "nodegoat_id": "ngXE1P18jXEPhYkv1X296muKyIL",
+                    "type_id": 12174,
                     "object_id": 12150611,
                     "object_name": "Pindar",
                     "object_name_plain": null,
@@ -4836,6 +4887,7 @@
             "12150612": {
                 "object": {
                     "nodegoat_id": "ngYF1Q28kYPQlZlU2YR06nxjzYC",
+                    "type_id": 12174,
                     "object_id": 12150612,
                     "object_name": "Plato",
                     "object_name_plain": null,
@@ -4930,6 +4982,7 @@
             "12150613": {
                 "object": {
                     "nodegoat_id": "ngZG1p38lAQRlAmN3Zy15owOaKN",
+                    "type_id": 12174,
                     "object_id": 12150613,
                     "object_name": "Pliny the Elder",
                     "object_name_plain": null,
@@ -5032,6 +5085,7 @@
             "12150614": {
                 "object": {
                     "nodegoat_id": "ngAH1q48mAxS5BnO4AT29pxNbLO",
+                    "type_id": 12174,
                     "object_id": 12150614,
                     "object_name": "Plutarch",
                     "object_name_plain": null,
@@ -5134,6 +5188,7 @@
             "12150615": {
                 "object": {
                     "nodegoat_id": "ngBI1N58nBIT9CoX5Ca3lqyGcMP",
+                    "type_id": 12174,
                     "object_id": 12150615,
                     "object_name": "Polyainos",
                     "object_name_plain": null,
@@ -5232,6 +5287,7 @@
             "12150616": {
                 "object": {
                     "nodegoat_id": "ngCJ1K68oCzU6DpU6EV48rzHdNQ",
+                    "type_id": 12174,
                     "object_id": 12150616,
                     "object_name": "Polybius",
                     "object_name_plain": null,
@@ -5332,6 +5388,7 @@
             "12150617": {
                 "object": {
                     "nodegoat_id": "ngDK1Z78pFKVqEqV7FM50saueDx",
+                    "type_id": 12174,
                     "object_id": 12150617,
                     "object_name": "Pomponius Mela",
                     "object_name_plain": null,
@@ -5430,6 +5487,7 @@
             "12150618": {
                 "object": {
                     "nodegoat_id": "ngEL1A88qGVWoFrM8EN63tbFfFy",
+                    "type_id": 12174,
                     "object_id": 12150618,
                     "object_name": "Pseudo-Hesiod",
                     "object_name_plain": null,
@@ -5524,6 +5582,7 @@
             "12150619": {
                 "object": {
                     "nodegoat_id": "ngFM1B98rGsXqGsX9GO7sucYgGz",
+                    "type_id": 12174,
                     "object_id": 12150619,
                     "object_name": "Pseudo-Apollodoros",
                     "object_name_plain": null,
@@ -5611,6 +5670,7 @@
             "12150620": {
                 "object": {
                     "nodegoat_id": "ngGN2C08sHdYqHtC0H18tvdbhHU",
+                    "type_id": 12174,
                     "object_id": 12150620,
                     "object_name": "Pseudo-Herodotos",
                     "object_name_plain": null,
@@ -5698,6 +5758,7 @@
             "12150621": {
                 "object": {
                     "nodegoat_id": "ngHO2H18tHuZtIuZ1H292weyiHb",
+                    "type_id": 12174,
                     "object_id": 12150621,
                     "object_name": "Pseudo-Plutarch",
                     "object_name_plain": null,
@@ -5785,6 +5846,7 @@
             "12150622": {
                 "object": {
                     "nodegoat_id": "ngIP2I28uIfAtJvM2Ih0sxfJjIc",
+                    "type_id": 12174,
                     "object_id": 12150622,
                     "object_name": "Quintus Smyrnaeus",
                     "object_name_plain": null,
@@ -5879,6 +5941,7 @@
             "12150623": {
                 "object": {
                     "nodegoat_id": "ngJQ2J38vJQBuKwJ3KS16ygakJd",
+                    "type_id": 12174,
                     "object_id": 12150623,
                     "object_name": "Schol. Apol. Rhod.",
                     "object_name_plain": null,
@@ -5952,6 +6015,7 @@
             "12150624": {
                 "object": {
                     "nodegoat_id": "ngKR2G48wMRC9LxG4KT2vzhblLe",
+                    "type_id": 12174,
                     "object_id": 12150624,
                     "object_name": "Schol. Arat. Phaen.",
                     "object_name_plain": null,
@@ -6025,6 +6089,7 @@
             "12150625": {
                 "object": {
                     "nodegoat_id": "ngLS2H58xLCD5MyX5LU3vaiAmMZ",
+                    "type_id": 12174,
                     "object_id": 12150625,
                     "object_name": "Schol. Aristeides",
                     "object_name_plain": null,
@@ -6105,6 +6170,7 @@
             "12150626": {
                 "object": {
                     "nodegoat_id": "ngMT2E68yOTE7NzI6MF4ybjVnNg",
+                    "type_id": 12174,
                     "object_id": 12150626,
                     "object_name": "Schol. Aristoph. Vesp.",
                     "object_name_plain": null,
@@ -6178,6 +6244,7 @@
             "12150627": {
                 "object": {
                     "nodegoat_id": "ngNU2F78zPEF7OaN7Nm5ackeoNh",
+                    "type_id": 12174,
                     "object_id": 12150627,
                     "object_name": "Schol. Kallim.",
                     "object_name_plain": null,
@@ -6258,6 +6325,7 @@
             "12150628": {
                 "object": {
                     "nodegoat_id": "ngOV2G88aQFGaPbe8QH69dlBpQC",
+                    "type_id": 12174,
                     "object_id": 12150628,
                     "object_name": "Schol. Hom. Od.",
                     "object_name_plain": null,
@@ -6338,6 +6406,7 @@
             "12150629": {
                 "object": {
                     "nodegoat_id": "ngPW2H98bQcHbQcf9Qo71emUqQD",
+                    "type_id": 12174,
                     "object_id": 12150629,
                     "object_name": "Schol. Lyc. Alexandria",
                     "object_name_plain": null,
@@ -6418,6 +6487,7 @@
             "12150630": {
                 "object": {
                     "nodegoat_id": "ngQX3M08cRHI1Rdg0R18bfnFrRE",
+                    "type_id": 12174,
                     "object_id": 12150630,
                     "object_name": "Schol. Nikandr.",
                     "object_name_plain": null,
@@ -6498,6 +6568,7 @@
             "12150631": {
                 "object": {
                     "nodegoat_id": "ngRY3N18dReJeSeh1SK94goSsRl",
+                    "type_id": 12174,
                     "object_id": 12150631,
                     "object_name": "Semonides of Amorgos",
                     "object_name_plain": null,
@@ -6592,6 +6663,7 @@
             "12150632": {
                 "object": {
                     "nodegoat_id": "ngSZ3O28eSpKfTfG2S30dhpjtTm",
+                    "type_id": 12174,
                     "object_id": 12150632,
                     "object_name": "Servius",
                     "object_name_plain": null,
@@ -6686,6 +6758,7 @@
             "12150633": {
                 "object": {
                     "nodegoat_id": "ngTA3P38fTALgUgB3TM1fiqIuUH",
+                    "type_id": 12174,
                     "object_id": 12150633,
                     "object_name": "Simonides of Keos",
                     "object_name_plain": null,
@@ -6780,6 +6853,7 @@
             "12150634": {
                 "object": {
                     "nodegoat_id": "ngUB3Y48gVBM4VhY4VN24jrZvWI",
+                    "type_id": 12174,
                     "object_id": 12150634,
                     "object_name": "Solon",
                     "object_name_plain": null,
@@ -6874,6 +6948,7 @@
             "12150636": {
                 "object": {
                     "nodegoat_id": "ngWD3A68iWjOiXjW6XF40ltJxXK",
+                    "type_id": 12174,
                     "object_id": 12150636,
                     "object_name": "Strabo",
                     "object_name_plain": null,
@@ -6978,6 +7053,7 @@
             "12150637": {
                 "object": {
                     "nodegoat_id": "ngXE3B78jXuPiYkB7Y852muMyZL",
+                    "type_id": 12174,
                     "object_id": 12150637,
                     "object_name": "Suda",
                     "object_name_plain": null,
@@ -7072,6 +7148,7 @@
             "12150638": {
                 "object": {
                     "nodegoat_id": "ngYF3C88kAFQlZlY8AR6knvtzAM",
+                    "type_id": 12174,
                     "object_id": 12150638,
                     "object_name": "Tacitus",
                     "object_name_plain": null,
@@ -7166,6 +7243,7 @@
             "12150639": {
                 "object": {
                     "nodegoat_id": "ngZG3D98lBQRlAmL9Ay72owEaBN",
+                    "type_id": 12174,
                     "object_id": 12150639,
                     "object_name": "Themistagoras",
                     "object_name_plain": null,
@@ -7253,6 +7331,7 @@
             "12150640": {
                 "object": {
                     "nodegoat_id": "ngAH4E08mBnSnBnO0CJ82pxXbBO",
+                    "type_id": 12174,
                     "object_id": 12150640,
                     "object_name": "Theokritos",
                     "object_name_plain": null,
@@ -7347,6 +7426,7 @@
             "12150641": {
                 "object": {
                     "nodegoat_id": "ngBI4F18nCoTlCoz1BU9oqyUcCv",
+                    "type_id": 12174,
                     "object_id": 12150641,
                     "object_name": "Theophrastos",
                     "object_name_plain": null,
@@ -7441,6 +7521,7 @@
             "12150642": {
                 "object": {
                     "nodegoat_id": "ngCJ4C28oDpU4DpC2CV0nrzHdDQ",
+                    "type_id": 12174,
                     "object_id": 12150642,
                     "object_name": "Theopompos",
                     "object_name_plain": null,
@@ -7535,6 +7616,7 @@
             "12150643": {
                 "object": {
                     "nodegoat_id": "ngDK4D38pEaV5Eqt3E41osaIeDR",
+                    "type_id": 12174,
                     "object_id": 12150643,
                     "object_name": "Thucydides",
                     "object_name_plain": null,
@@ -7629,6 +7711,7 @@
             "12150644": {
                 "object": {
                     "nodegoat_id": "ngEL4E48qFLW6FrS4FN26tbTfGS",
+                    "type_id": 12174,
                     "object_id": 12150644,
                     "object_name": "Ioannes Tzetzes",
                     "object_name_plain": null,
@@ -7720,6 +7803,7 @@
             "12150645": {
                 "object": {
                     "nodegoat_id": "ngFM4F58rGWX5GsT5F63rucGgGz",
+                    "type_id": 12174,
                     "object_id": 12150645,
                     "object_name": "Vellius Paterculus",
                     "object_name_plain": null,
@@ -7814,6 +7898,7 @@
             "12150646": {
                 "object": {
                     "nodegoat_id": "ngGN4K68sGNY9Hta6HP40vdLhGU",
+                    "type_id": 12174,
                     "object_id": 12150646,
                     "object_name": "Vitruvius",
                     "object_name_plain": null,
@@ -7908,6 +7993,7 @@
             "12150647": {
                 "object": {
                     "nodegoat_id": "ngHO4L78tHYZ0IuV7HQ50weyiHb",
+                    "type_id": 12174,
                     "object_id": 12150647,
                     "object_name": "Xanthos the Lydian",
                     "object_name_plain": null,
@@ -8002,6 +8088,7 @@
             "12150649": {
                 "object": {
                     "nodegoat_id": "ngJQ4J98vLAB9KwF9K073ygWkLX",
+                    "type_id": 12174,
                     "object_id": 12150649,
                     "object_name": "Zenis of Chios",
                     "object_name_plain": null,
@@ -8096,6 +8183,7 @@
             "12150650": {
                 "object": {
                     "nodegoat_id": "ngKR5W08wKhC2LxK0Lj81zhblLe",
+                    "type_id": 12174,
                     "object_id": 12150650,
                     "object_name": "Zenobios",
                     "object_name_plain": null,
@@ -8190,6 +8278,7 @@
             "12150651": {
                 "object": {
                     "nodegoat_id": "ngLS5X18xLSD2MyX1MU9vaiQmMZ",
+                    "type_id": 12174,
                     "object_id": 12150651,
                     "object_name": "Zopyros of Magnesia",
                     "object_name_plain": null,
@@ -8284,6 +8373,7 @@
             "12150652": {
                 "object": {
                     "nodegoat_id": "ngMT5Y28yMDEzNzA2MV0ybjRnMA",
+                    "type_id": 12174,
                     "object_id": 12150652,
                     "object_name": "Zosimos",
                     "object_name_plain": null,
@@ -8378,6 +8468,7 @@
             "12336556": {
                 "object": {
                     "nodegoat_id": "ngQX5C68cRXIcRdI6R74afnhrRk",
+                    "type_id": 12174,
                     "object_id": 12336556,
                     "object_name": "Aethlios of Samos",
                     "object_name_plain": null,
@@ -8472,6 +8563,7 @@
             "12336557": {
                 "object": {
                     "nodegoat_id": "ngRY5D78dSIJcSeV7RK58goKsRl",
+                    "type_id": 12174,
                     "object_id": 12336557,
                     "object_name": "Andron of Halikarnassos",
                     "object_name_plain": null,
@@ -8544,6 +8636,7 @@
             "12336558": {
                 "object": {
                     "nodegoat_id": "ngSZ5E88eSfKcTfS8S96chpHtTG",
+                    "type_id": 12174,
                     "object_id": 12336558,
                     "object_name": "Antimachos",
                     "object_name_plain": null,
@@ -8638,6 +8731,7 @@
             "12336559": {
                 "object": {
                     "nodegoat_id": "ngTA5B98fTgL0UgF9U072iqGuVH",
+                    "type_id": 12174,
                     "object_id": 12336559,
                     "object_name": "Antipater of Sidon",
                     "object_name_plain": null,
@@ -8710,6 +8804,7 @@
             "12336560": {
                 "object": {
                     "nodegoat_id": "ngUB6C08gUrM0Vhs0U18gjrlvVo",
+                    "type_id": 12174,
                     "object_id": 12336560,
                     "object_name": "Anon",
                     "object_name_plain": null,
@@ -8754,6 +8849,7 @@
             "12336561": {
                 "object": {
                     "nodegoat_id": "ngVC6D18hVCNiWip1V293ksuwWp",
+                    "type_id": 12174,
                     "object_id": 12336561,
                     "object_name": "Antipater of Thessalonika",
                     "object_name_plain": null,
@@ -8848,6 +8944,7 @@
             "12336562": {
                 "object": {
                     "nodegoat_id": "ngWD6E28iWNO6XjW2Wv02ltrxXK",
+                    "type_id": 12174,
                     "object_id": 12336562,
                     "object_name": "Antoninus Liberalis",
                     "object_name_plain": null,
@@ -8935,6 +9032,7 @@
             "12336563": {
                 "object": {
                     "nodegoat_id": "ngXE6F38jZOPiYkB3Yw1kmuKyXL",
+                    "type_id": 12174,
                     "object_id": 12336563,
                     "object_name": "Apollodoros of Athens",
                     "object_name_plain": null,
@@ -9007,6 +9105,7 @@
             "12336564": {
                 "object": {
                     "nodegoat_id": "ngYF6G48kZlQiZlY4Z52invDzZM",
+                    "type_id": 12174,
                     "object_id": 12336564,
                     "object_name": "Apollonios of Rhodes",
                     "object_name_plain": null,
@@ -9107,6 +9206,7 @@
             "12336565": {
                 "object": {
                     "nodegoat_id": "ngZG6H58lAGR0AmL5Zy35owAaZt",
+                    "type_id": 12174,
                     "object_id": 12336565,
                     "object_name": "Aratos",
                     "object_name_plain": null,
@@ -9201,6 +9301,7 @@
             "12336566": {
                 "object": {
                     "nodegoat_id": "ngAH6I68mBRS0Bnu6BJ48pxNbAO",
+                    "type_id": 12174,
                     "object_id": 12336566,
                     "object_name": "Aristainetos",
                     "object_name_plain": null,
@@ -9292,6 +9393,7 @@
             "12336567": {
                 "object": {
                     "nodegoat_id": "ngBI6r78nDST2CoF7CU5nqyCcBv",
+                    "type_id": 12174,
                     "object_id": 12336567,
                     "object_name": "Aristarchos of Samothrake",
                     "object_name_plain": null,
@@ -9386,6 +9488,7 @@
             "12336568": {
                 "object": {
                     "nodegoat_id": "ngCJ6s88oDpU2DpO8D968rzDdDw",
+                    "type_id": 12174,
                     "object_id": 12336568,
                     "object_name": "Aristoboulos of Kassandreia",
                     "object_name_plain": null,
@@ -9480,6 +9583,7 @@
             "12336569": {
                 "object": {
                     "nodegoat_id": "ngDK6t98pEqVpEqx9D079saIeDR",
+                    "type_id": 12174,
                     "object_id": 12336569,
                     "object_name": "Aristokritos",
                     "object_name_plain": null,
@@ -9552,6 +9656,7 @@
             "12336570": {
                 "object": {
                     "nodegoat_id": "ngEL7u08qFbWqFrS0GX84tbFfFy",
+                    "type_id": 12174,
                     "object_id": 12336570,
                     "object_name": "Aristotle",
                     "object_name_plain": null,
@@ -9650,6 +9755,7 @@
             "12336571": {
                 "object": {
                     "nodegoat_id": "ngFM7z18rFsX2GsB1FY93ucKgHT",
+                    "type_id": 12174,
                     "object_id": 12336571,
                     "object_name": "Armenidas",
                     "object_name_plain": null,
@@ -9722,6 +9828,7 @@
             "12336572": {
                 "object": {
                     "nodegoat_id": "ngGN7a28sGdY2HtY2G30tvdfhHa",
+                    "type_id": 12174,
                     "object_id": 12336572,
                     "object_name": "Arrian",
                     "object_name_plain": null,
@@ -9794,6 +9901,7 @@
             "12336573": {
                 "object": {
                     "nodegoat_id": "ngHO7b38tHOZuIuH3Ig15weWiJV",
+                    "type_id": 12174,
                     "object_id": 12336573,
                     "object_name": "Asklepiades of Samos",
                     "object_name_plain": null,
@@ -9888,6 +9996,7 @@
             "12336574": {
                 "object": {
                     "nodegoat_id": "ngIP7c48uIZAuJvU4Ih2txfFjJW",
+                    "type_id": 12174,
                     "object_id": 12336574,
                     "object_name": "Asios",
                     "object_name_plain": null,
@@ -9982,6 +10091,7 @@
             "12336575": {
                 "object": {
                     "nodegoat_id": "ngJQ7z58vJQBvKwd5LC3vygOkLX",
+                    "type_id": 12174,
                     "object_id": 12336575,
                     "object_name": "Athenaios",
                     "object_name_plain": null,
@@ -10076,6 +10186,7 @@
             "12336576": {
                 "object": {
                     "nodegoat_id": "ngKR7a68wKBCwLxC6Kj49zhLlKe",
+                    "type_id": 12174,
                     "object_id": 12336576,
                     "object_name": "Bias",
                     "object_name_plain": null,
@@ -10148,6 +10259,7 @@
             "12336577": {
                 "object": {
                     "nodegoat_id": "ngLS7X78xNSDwMyL7NE5vaikmMf",
+                    "type_id": 12174,
                     "object_id": 12336577,
                     "object_name": "Kallimachos",
                     "object_name_plain": null,
@@ -10248,6 +10360,7 @@
             "12336578": {
                 "object": {
                     "nodegoat_id": "ngMT7Y88yODEwNzI8OF60bjRnNA",
+                    "type_id": 12174,
                     "object_id": 12336578,
                     "object_name": "Kallinos of Ephesos",
                     "object_name_plain": null,
@@ -10342,6 +10455,7 @@
             "12336579": {
                 "object": {
                     "nodegoat_id": "ngNU7d98zOUFaOaR9Nm71ckGoOh",
+                    "type_id": 12174,
                     "object_id": 12336579,
                     "object_name": "Kallisthenes",
                     "object_name_plain": null,
@@ -10436,6 +10550,7 @@
             "12336580": {
                 "object": {
                     "nodegoat_id": "ngOV8e08aPFGaPbA0PX85dlTpOC",
+                    "type_id": 12174,
                     "object_id": 12336580,
                     "object_name": "Kastor of Rhodos",
                     "object_name_plain": null,
@@ -10530,6 +10645,7 @@
             "12336581": {
                 "object": {
                     "nodegoat_id": "ngPW8f18bPcHaQcX1RI92emMqRD",
+                    "type_id": 12174,
                     "object_id": 12336581,
                     "object_name": "Klearchos",
                     "object_name_plain": null,
@@ -10624,6 +10740,7 @@
             "12336582": {
                 "object": {
                     "nodegoat_id": "ngQX8g28cQnI4RdE2R30cfnprQk",
+                    "type_id": 12174,
                     "object_id": 12336582,
                     "object_name": "Clemens of Alexandria",
                     "object_name_plain": null,
@@ -10726,6 +10843,7 @@
             "12336583": {
                 "object": {
                     "nodegoat_id": "ngRY8h38dRYJ4SeR3RK15goGsRF",
+                    "type_id": 12174,
                     "object_id": 12336583,
                     "object_name": "Klytos of Miletos",
                     "object_name_plain": null,
@@ -10820,6 +10938,7 @@
             "12336584": {
                 "object": {
                     "nodegoat_id": "ngSZ8q48eTZK5Tfm4UB2chpTtTm",
+                    "type_id": 12174,
                     "object_id": 12336584,
                     "object_name": "Demokritos",
                     "object_name_plain": null,
@@ -10914,6 +11033,7 @@
             "12336585": {
                 "object": {
                     "nodegoat_id": "ngTA8r58fUKL6UgL5Ts3giqUuUn",
+                    "type_id": 12174,
                     "object_id": 12336585,
                     "object_name": "Demon",
                     "object_name_plain": null,
@@ -10986,6 +11106,7 @@
             "12336586": {
                 "object": {
                     "nodegoat_id": "ngUB8s68gUhM6VhU6V749jrJvUI",
+                    "type_id": 12174,
                     "object_id": 12336586,
                     "object_name": "Diodorus Siculus",
                     "object_name_plain": null,
@@ -11058,6 +11179,7 @@
             "12336587": {
                 "object": {
                     "nodegoat_id": "ngVC8t78hVsNiWiR7XO5hksIwWJ",
+                    "type_id": 12174,
                     "object_id": 12336587,
                     "object_name": "Diogenes Laertios",
                     "object_name_plain": null,
@@ -11152,6 +11274,7 @@
             "12336588": {
                 "object": {
                     "nodegoat_id": "ngWD8u88iYDO0XjA8Wv6jltFxXq",
+                    "type_id": 12174,
                     "object_id": 12336588,
                     "object_name": "Dionysios Periegetes",
                     "object_name_plain": null,
@@ -11224,6 +11347,7 @@
             "12336589": {
                 "object": {
                     "nodegoat_id": "ngXE8v98jZEPhYkF9ZQ7jmuMyZL",
+                    "type_id": 12174,
                     "object_id": 12336589,
                     "object_name": "Dionysios of Halikarnassos",
                     "object_name_plain": null,
@@ -11322,6 +11446,7 @@
             "12336590": {
                 "object": {
                     "nodegoat_id": "ngYF9w08kZlQ5Zls0YH81nvDzAM",
+                    "type_id": 12174,
                     "object_id": 12336590,
                     "object_name": "Douris of Samos",
                     "object_name_plain": null,
@@ -11416,6 +11541,7 @@
             "12336591": {
                 "object": {
                     "nodegoat_id": "ngZG9x18lAwR6AmN1Ay96owOaAN",
+                    "type_id": 12174,
                     "object_id": 12336591,
                     "object_name": "Ephoros",
                     "object_name_plain": null,
@@ -11510,6 +11636,7 @@
             "12336592": {
                 "object": {
                     "nodegoat_id": "ngAH9u28mBnS2BnO2CT06pxNbAO",
+                    "type_id": 12174,
                     "object_id": 12336592,
                     "object_name": "Eratosthenes",
                     "object_name_plain": null,
@@ -11582,6 +11709,7 @@
             "12336593": {
                 "object": {
                     "nodegoat_id": "ngBI9v38nCyToCoB3CU1nqyYcCP",
+                    "type_id": 12174,
                     "object_id": 12336593,
                     "object_name": "Erxias",
                     "object_name_plain": null,
@@ -11680,6 +11808,7 @@
             "12336594": {
                 "object": {
                     "nodegoat_id": "ngCJ9w48oDJUoDpK4D526rzDdDw",
+                    "type_id": 12174,
                     "object_id": 12336594,
                     "object_name": "Eumelos of Korinth",
                     "object_name_plain": null,
@@ -11774,6 +11903,7 @@
             "12336595": {
                 "object": {
                     "nodegoat_id": "ngDK9x58pEUVoEqL5DW3psaQeER",
+                    "type_id": 12174,
                     "object_id": 12336595,
                     "object_name": "Euripides",
                     "object_name_plain": null,
@@ -11846,6 +11976,7 @@
             "12336596": {
                 "object": {
                     "nodegoat_id": "ngEL9c68qELW1Fry6F747tbTfGS",
+                    "type_id": 12174,
                     "object_id": 12336596,
                     "object_name": "Eusebius",
                     "object_name_plain": null,
@@ -11918,6 +12049,7 @@
             "12336597": {
                 "object": {
                     "nodegoat_id": "ngFM9d78rFWX2GsX7FY50ucagGT",
+                    "type_id": 12174,
                     "object_id": 12336597,
                     "object_name": "Eustathios",
                     "object_name_plain": null,
@@ -12016,6 +12148,7 @@
             "12336598": {
                 "object": {
                     "nodegoat_id": "ngGN9a88sINY2HtU8G968vdDhGU",
+                    "type_id": 12174,
                     "object_id": 12336598,
                     "object_name": "Hellanikos",
                     "object_name_plain": null,
@@ -12110,6 +12243,7 @@
             "12336599": {
                 "object": {
                     "nodegoat_id": "ngHO9b98tJYZ2IuD9Ig73weEiIV",
+                    "type_id": 12174,
                     "object_id": 12336599,
                     "object_name": "Herakleides Pontikos",
                     "object_name_plain": null,
@@ -12204,6 +12338,7 @@
             "12336600": {
                 "object": {
                     "nodegoat_id": "ngMT0E08yMjEzNzM0Nl82bjBnMA",
+                    "type_id": 12174,
                     "object_id": 12336600,
                     "object_name": "Herodoros",
                     "object_name_plain": null,
@@ -12298,6 +12433,7 @@
             "12336602": {
                 "object": {
                     "nodegoat_id": "ngOV0G28aOFG4Pbe2P307dlPpPi",
+                    "type_id": 12174,
                     "object_id": 12336602,
                     "object_name": "Kleitophon",
                     "object_name_plain": null,
@@ -12392,6 +12528,7 @@
             "12336603": {
                 "object": {
                     "nodegoat_id": "ngPW0n38bQWH5Qcj3QI14emMqAD",
+                    "type_id": 12174,
                     "object_id": 12336603,
                     "object_name": "Lykophron",
                     "object_name_plain": null,
@@ -12490,6 +12627,7 @@
             "12336604": {
                 "object": {
                     "nodegoat_id": "ngQX0k48cRHI9RdQ4SJ2dfnNrBE",
+                    "type_id": 12174,
                     "object_id": 12336604,
                     "object_name": "Maiandrios/Laeandrios",
                     "object_name_plain": null,
@@ -12562,6 +12700,7 @@
             "12336605": {
                 "object": {
                     "nodegoat_id": "ngRY0J58dSYJ9SeF5SA38gomsRF",
+                    "type_id": 12174,
                     "object_id": 12336605,
                     "object_name": "Ps-Hesiod",
                     "object_name_plain": null,
@@ -12627,6 +12766,7 @@
             "12336606": {
                 "object": {
                     "nodegoat_id": "ngSZ0K68eTJK8Tfq6UL46hpFtTG",
+                    "type_id": 12174,
                     "object_id": 12336606,
                     "object_name": "Stephanos of Byzantion",
                     "object_name_plain": null,
@@ -12718,6 +12858,7 @@
             "12336607": {
                 "object": {
                     "nodegoat_id": "ngTA0L78fUKLeUgX7U85eiqMuUn",
+                    "type_id": 12174,
                     "object_id": 12336607,
                     "object_name": "Timotheos",
                     "object_name_plain": null,
@@ -12812,6 +12953,7 @@
             "12345943": {
                 "object": {
                     "nodegoat_id": "ngDK4D38pEaVqEqH3FW16saAeDR",
+                    "type_id": 12174,
                     "object_id": 12345943,
                     "object_name": "Sipylos",
                     "object_name_plain": null,
@@ -12874,6 +13016,7 @@
             "12370097": {
                 "object": {
                     "nodegoat_id": "ngFM9d78rFWX2GsN7FY52ucKgHT",
+                    "type_id": 12174,
                     "object_id": 12370097,
                     "object_name": "Aischylos",
                     "object_name_plain": null,
@@ -12968,6 +13111,7 @@
             "12375119": {
                 "object": {
                     "nodegoat_id": "ngFM1B98rGcX2GsJ9FO72ucegFz",
+                    "type_id": 12174,
                     "object_id": 12375119,
                     "object_name": "Ekloge Historion",
                     "object_name_plain": null,
@@ -13062,6 +13206,7 @@
             "12375121": {
                 "object": {
                     "nodegoat_id": "ngHO2H18tHuZ2IuD1HQ92weMiIV",
+                    "type_id": 12174,
                     "object_id": 12375121,
                     "object_name": "Etymologicum Magnum",
                     "object_name_plain": null,
@@ -13156,6 +13301,7 @@
             "12378469": {
                 "object": {
                     "nodegoat_id": "ngDK6t98pEqVqEqR9E07nsaMeDx",
+                    "type_id": 12174,
                     "object_id": 12378469,
                     "object_name": "Photios",
                     "object_name_plain": null,
@@ -13250,6 +13396,7 @@
             "12378470": {
                 "object": {
                     "nodegoat_id": "ngEL7u08qFbWpFrM0FX8rtbdfEy",
+                    "type_id": 12174,
                     "object_id": 12378470,
                     "object_name": "Excerpta Constantiniana",
                     "object_name_plain": null,
@@ -13337,6 +13484,7 @@
             "12380919": {
                 "object": {
                     "nodegoat_id": "ngFM1B98rGcX2GsN9FO71ucKgFT",
+                    "type_id": 12174,
                     "object_id": 12380919,
                     "object_name": "Schol. Hom. Il",
                     "object_name_plain": null,
@@ -13417,6 +13565,7 @@
             "12380922": {
                 "object": {
                     "nodegoat_id": "ngIP2I28uIfA3JvW2JR05xfBjJc",
+                    "type_id": 12174,
                     "object_id": 12380922,
                     "object_name": "Schol. Plato",
                     "object_name_plain": null,
@@ -13483,6 +13632,7 @@
             "12398494": {
                 "object": {
                     "nodegoat_id": "ngCJ9w48oDJUpDpY4D528rzHdEQ",
+                    "type_id": 12174,
                     "object_id": 12398494,
                     "object_name": "Neileus",
                     "object_name_plain": null,
@@ -13571,6 +13721,7 @@
             "12398495": {
                 "object": {
                     "nodegoat_id": "ngDK9x58pEUVpEqV5FM3qsaWeEx",
+                    "type_id": 12174,
                     "object_id": 12398495,
                     "object_name": "Androklos",
                     "object_name_plain": null,
@@ -13659,6 +13810,7 @@
             "12411807": {
                 "object": {
                     "nodegoat_id": "ngTA0L78fUKLdUgB7U858iqouTH",
+                    "type_id": 12174,
                     "object_id": 12411807,
                     "object_name": "St. Jerome",
                     "object_name_plain": null,
@@ -13753,6 +13905,7 @@
             "12411817": {
                 "object": {
                     "nodegoat_id": "ngDK1Z78pFKVnEqL7FW50saEeDx",
+                    "type_id": 12174,
                     "object_id": 12411817,
                     "object_name": "Solinos",
                     "object_name_plain": null,
@@ -13840,6 +13993,7 @@
             "12414801": {
                 "object": {
                     "nodegoat_id": "ngNU0F18zNUF3OaZ1O29yckeoNh",
+                    "type_id": 12174,
                     "object_id": 12414801,
                     "object_name": "Myskellos",
                     "object_name_plain": null,
@@ -13917,6 +14071,7 @@
             "12414802": {
                 "object": {
                     "nodegoat_id": "ngOV0G28aOFG5PbO2OH03dlXpOi",
+                    "type_id": 12174,
                     "object_id": 12414802,
                     "object_name": "Evanthes",
                     "object_name_plain": null,
@@ -13987,6 +14142,7 @@
             "12427790": {
                 "object": {
                     "nodegoat_id": "ngYF9w08kZlQ5ZlC0Zx81nvDzYM",
+                    "type_id": 12174,
                     "object_id": 12427790,
                     "object_name": "Antimnestos",
                     "object_name_plain": null,
@@ -14066,6 +14222,7 @@
             "12498536": {
                 "object": {
                     "nodegoat_id": "ngWD3A68iWjOiXjq6WF4hltrxWK",
+                    "type_id": 12174,
                     "object_id": 12498536,
                     "object_name": "Pseudo-Skymnos",
                     "object_name_plain": null,
@@ -14153,6 +14310,7 @@
             "12513148": {
                 "object": {
                     "nodegoat_id": "ngIP4I88uKPA0JvU8JR6uxfhjIc",
+                    "type_id": 12174,
                     "object_id": 12513148,
                     "object_name": "Leukippos",
                     "object_name_plain": null,
@@ -14234,6 +14392,7 @@
             "12528741": {
                 "object": {
                     "nodegoat_id": "ngBI4F18nCyT4CoT1BK9mqyacBv",
+                    "type_id": 12174,
                     "object_id": 12528741,
                     "object_name": "Menestheus",
                     "object_name_plain": null,
@@ -14322,6 +14481,7 @@
             "12528750": {
                 "object": {
                     "nodegoat_id": "ngKR5W08wKhC3LxS0K18uzhblLe",
+                    "type_id": 12174,
                     "object_id": 12528750,
                     "object_name": "Cassiodorus",
                     "object_name_plain": null,
@@ -14409,6 +14569,7 @@
             "12536646": {
                 "object": {
                     "nodegoat_id": "ngGN4K68sGNY8HtS6GP40vdbhIU",
+                    "type_id": 12174,
                     "object_id": 12536646,
                     "object_name": "Oenotrus",
                     "object_name_plain": null,
@@ -14489,6 +14650,7 @@
             "12695120": {
                 "object": {
                     "nodegoat_id": "ngGN2G08sGdY4Hte0Hf8rvdZhHa",
+                    "type_id": 12174,
                     "object_id": 12695120,
                     "object_name": "Antiochus of Syrakuse",
                     "object_name_plain": null,
@@ -14583,6 +14745,7 @@
             "12695143": {
                 "object": {
                     "nodegoat_id": "ngDK4D38pFKVpEqx3Ec14saAeFR",
+                    "type_id": 12174,
                     "object_id": 12695143,
                     "object_name": "Virgil",
                     "object_name_plain": null,
@@ -14681,6 +14844,7 @@
             "13019625": {
                 "object": {
                     "nodegoat_id": "ngLS2H58xLSD5Myj5ME36aikmMf",
+                    "type_id": 12174,
                     "object_id": 13019625,
                     "object_name": "Sardus",
                     "object_name_plain": null,
@@ -14747,6 +14911,7 @@
             "13019646": {
                 "object": {
                     "nodegoat_id": "ngGN4G68sGtY9HtU6H740vdfhHa",
+                    "type_id": 12174,
                     "object_id": 13019646,
                     "object_name": "Iolaos",
                     "object_name_plain": null,
@@ -14820,6 +14985,7 @@
             "13019648": {
                 "object": {
                     "nodegoat_id": "ngIP4I88uJfAsJvA8IB63xfhjIc",
+                    "type_id": 12174,
                     "object_id": 13019648,
                     "object_name": "Aristaios",
                     "object_name_plain": null,
@@ -14900,6 +15066,7 @@
             "13019650": {
                 "object": {
                     "nodegoat_id": "ngKR5W08wKxCvLxe0KD82zhLlKe",
+                    "type_id": 12174,
                     "object_id": 13019650,
                     "object_name": "Norax",
                     "object_name_plain": null,
@@ -14973,6 +15140,7 @@
             "13038438": {
                 "object": {
                     "nodegoat_id": "ngYF3C88kYvQ3ZlC8Y968nvRzZs",
+                    "type_id": 12174,
                     "object_id": 13038438,
                     "object_name": "Triptolemos",
                     "object_name_plain": null,
@@ -15057,6 +15225,7 @@
             "13573530": {
                 "object": {
                     "nodegoat_id": "ngQX3I08cRnI4Rdg0RZ8bfnlrQE",
+                    "type_id": 12174,
                     "object_id": 13573530,
                     "object_name": "Sardanapalus",
                     "object_name_plain": null,
@@ -15136,6 +15305,7 @@
             "13657329": {
                 "object": {
                     "nodegoat_id": "ngPW2L98bQGHzQcL9Qo79emkqPD",
+                    "type_id": 12174,
                     "object_id": 13657329,
                     "object_name": "Sagaris",
                     "object_name_plain": null,
@@ -15213,6 +15383,7 @@
             "13961109": {
                 "object": {
                     "nodegoat_id": "ngVC0H98hVsN2WiN9VE72ksIwGJ",
+                    "type_id": 12174,
                     "object_id": 13961109,
                     "object_name": "Typhon of Aegion",
                     "object_name_plain": null,
@@ -15290,6 +15461,7 @@
             "13961151": {
                 "object": {
                     "nodegoat_id": "ngLS5X18xLyDyMyb1MU92aiMmMf",
+                    "type_id": 12174,
                     "object_id": 13961151,
                     "object_name": "Hippys",
                     "object_name_plain": null,
@@ -15363,6 +15535,7 @@
             "13961199": {
                 "object": {
                     "nodegoat_id": "ngHO9b98tIeZrIuL9Hg7uweciIV",
+                    "type_id": 12174,
                     "object_id": 13961199,
                     "object_name": "Hippokles of Euboean Kyme",
                     "object_name_plain": null,
@@ -15440,6 +15613,7 @@
             "13961201": {
                 "object": {
                     "nodegoat_id": "ngNU0F18zOEFaOaF1OW9xckeoOh",
+                    "type_id": 12174,
                     "object_id": 13961201,
                     "object_name": "Megasthenes",
                     "object_name_plain": null,
@@ -15524,6 +15698,7 @@
             "13961212": {
                 "object": {
                     "nodegoat_id": "ngYF1o28kYvQiZlG2Z304nvNzJM",
+                    "type_id": 12174,
                     "object_id": 13961212,
                     "object_name": "Pseudo-Skylax",
                     "object_name_plain": null,
@@ -15611,6 +15786,7 @@
             "13961218": {
                 "object": {
                     "nodegoat_id": "ngEL1A88qGLWrFry8Fd68tbBfFS",
+                    "type_id": 12174,
                     "object_id": 13961218,
                     "object_name": "Nestor",
                     "object_name_plain": null,
@@ -15701,6 +15877,7 @@
             "13961221": {
                 "object": {
                     "nodegoat_id": "ngHO2D18tIeZ3IuL1JQ92weUiIV",
+                    "type_id": 12174,
                     "object_id": 13961221,
                     "object_name": "Daulios",
                     "object_name_plain": null,
@@ -15778,6 +15955,7 @@
             "13961239": {
                 "object": {
                     "nodegoat_id": "ngZG3D98lZwR2AmZ9AS7lowSaZt",
+                    "type_id": 12174,
                     "object_id": 13961239,
                     "object_name": "Livy",
                     "object_name_plain": null,
@@ -15876,6 +16054,7 @@
             "13962580": {
                 "object": {
                     "nodegoat_id": "ngOV8A08aPbGbPbe0On80dljpPC",
+                    "type_id": 12174,
                     "object_id": 13962580,
                     "object_name": "Mikythos",
                     "object_name_plain": null,
@@ -15967,6 +16146,7 @@
             "13962597": {
                 "object": {
                     "nodegoat_id": "ngFM9z78rGWXpGsX7G85sucegFz",
+                    "type_id": 12174,
                     "object_id": 13962597,
                     "object_name": "Artimedes",
                     "object_name_plain": null,
@@ -16044,6 +16224,7 @@
             "14000789": {
                 "object": {
                     "nodegoat_id": "ngXE8v98jXkPiYkv9ZG72muYyYr",
+                    "type_id": 12174,
                     "object_id": 14000789,
                     "object_name": "Heraklides Lembus",
                     "object_name_plain": null,
@@ -16142,6 +16323,7 @@
             "14000900": {
                 "object": {
                     "nodegoat_id": "ngMT0E08yNDEwNzA0MF85bjBnMA",
+                    "type_id": 12174,
                     "object_id": 14000900,
                     "object_name": "Timaeos of Tauromenion",
                     "object_name_plain": null,
@@ -16236,6 +16418,7 @@
             "14000903": {
                 "object": {
                     "nodegoat_id": "ngPW0H38bQmH3Qcn3PI1zemEqRD",
+                    "type_id": 12174,
                     "object_id": 14000903,
                     "object_name": "Justin",
                     "object_name_plain": null,
@@ -16323,6 +16506,7 @@
             "14000918": {
                 "object": {
                     "nodegoat_id": "ngEL1A88qGLW8FrW8Ed61tbzfES",
+                    "type_id": 12174,
                     "object_id": 14000918,
                     "object_name": "Xenokrites",
                     "object_name_plain": null,
@@ -16400,6 +16584,7 @@
             "14000919": {
                 "object": {
                     "nodegoat_id": "ngFM1F98rFcX1GsT9F07pucUgFT",
+                    "type_id": 12174,
                     "object_id": 14000919,
                     "object_name": "Lampon",
                     "object_name_plain": null,
@@ -16477,6 +16662,7 @@
             "14235754": {
                 "object": {
                     "nodegoat_id": "ngOV5A48aOFGbPbi4QH24dlLpOC",
+                    "type_id": 12174,
                     "object_id": 14235754,
                     "object_name": "Manto",
                     "object_name_plain": null,
@@ -16567,6 +16753,7 @@
             "14235755": {
                 "object": {
                     "nodegoat_id": "ngPW5B58bPGHaQcn5RI3bemkqPD",
+                    "type_id": 12174,
                     "object_id": 14235755,
                     "object_name": "Mopsos",
                     "object_name_plain": null,
@@ -16657,6 +16844,7 @@
             "14235757": {
                 "object": {
                     "nodegoat_id": "ngRY5D78dRoJeSeh7RK5bgomsRF",
+                    "type_id": 12174,
                     "object_id": 14235757,
                     "object_name": "Teiresias",
                     "object_name_plain": null,
@@ -16745,6 +16933,7 @@
             "14235758": {
                 "object": {
                     "nodegoat_id": "ngSZ5E88eSZKdTfS8SB60hpPtUG",
+                    "type_id": 12174,
                     "object_id": 14235758,
                     "object_name": "Euphorion",
                     "object_name_plain": null,
@@ -16839,6 +17028,7 @@
             "14235760": {
                 "object": {
                     "nodegoat_id": "ngUB6C08gVLM5VhM0WN82jrpvVI",
+                    "type_id": 12174,
                     "object_id": 14235760,
                     "object_name": "Calchas",
                     "object_name_plain": null,
@@ -16929,6 +17119,7 @@
             "14235886": {
                 "object": {
                     "nodegoat_id": "ngUB8s68gWBM1VhQ6VN47jrNvUo",
+                    "type_id": 12174,
                     "object_id": 14235886,
                     "object_name": "Amphiareus",
                     "object_name_plain": null,
@@ -17021,6 +17212,7 @@
             "14311248": {
                 "object": {
                     "nodegoat_id": "ngIP4I88uJvAvJvE8Jh68xfhjJc",
+                    "type_id": 12174,
                     "object_id": 14311248,
                     "object_name": "Podaleirios",
                     "object_name_plain": null,
@@ -17109,6 +17301,7 @@
             "14321245": {
                 "object": {
                     "nodegoat_id": "ngFM4J58rFWX9GsF5F637ucwgGz",
+                    "type_id": 12174,
                     "object_id": 14321245,
                     "object_name": "Proclus",
                     "object_name_plain": null,
@@ -17207,6 +17400,7 @@
             "14321250": {
                 "object": {
                     "nodegoat_id": "ngKR5W08wLBC0Lxi0Lj80zhPlKY",
+                    "type_id": 12174,
                     "object_id": 14321250,
                     "object_name": "Menelaos",
                     "object_name_plain": null,
@@ -17299,6 +17493,7 @@
             "14321441": {
                 "object": {
                     "nodegoat_id": "ngBI4F18nCST6CoT1DK92qyUcCv",
+                    "type_id": 12174,
                     "object_id": 14321441,
                     "object_name": "Agamemnon",
                     "object_name_plain": null,
@@ -17389,6 +17584,7 @@
             "14341116": {
                 "object": {
                     "nodegoat_id": "ngCJ1Y68oEJUmDpY6CL40rzxdNQ",
+                    "type_id": 12174,
                     "object_id": 14341116,
                     "object_name": "Elais",
                     "object_name_plain": null,
@@ -17477,6 +17673,7 @@
             "14341119": {
                 "object": {
                     "nodegoat_id": "ngFM1F98rFsX9GsB9Ge7sucCgFT",
+                    "type_id": 12174,
                     "object_id": 14341119,
                     "object_name": "Oino",
                     "object_name_plain": null,
@@ -17565,6 +17762,7 @@
             "14341120": {
                 "object": {
                     "nodegoat_id": "ngGN2G08sGdY0HtY0G18svdDhGU",
+                    "type_id": 12174,
                     "object_id": 14341120,
                     "object_name": "Spermo",
                     "object_name_plain": null,
@@ -17653,6 +17851,7 @@
             "14341683": {
                 "object": {
                     "nodegoat_id": "ngRY8D38dTYJ4Seh3RA13gomsSF",
+                    "type_id": 12174,
                     "object_id": 14341683,
                     "object_name": "Aineias",
                     "object_name_plain": null,
@@ -17741,6 +17940,7 @@
             "14341684": {
                 "object": {
                     "nodegoat_id": "ngSZ8q48eTfK8TfK4SL27hpFtUG",
+                    "type_id": 12174,
                     "object_id": 14341684,
                     "object_name": "Alexander (Trojan)",
                     "object_name_plain": null,
@@ -17831,6 +18031,7 @@
             "14341685": {
                 "object": {
                     "nodegoat_id": "ngTA8r58fUqL8Ugn5UM3eiqkuTn",
+                    "type_id": 12174,
                     "object_id": 14341685,
                     "object_name": "Helen",
                     "object_name_plain": null,
@@ -17919,6 +18120,7 @@
             "14341686": {
                 "object": {
                     "nodegoat_id": "ngUB8M68gULMeVhI6WD47jrRvUq46",
+                    "type_id": 12174,
                     "object_id": 14341686,
                     "object_name": "Iphigeneia",
                     "object_name_plain": null,
@@ -18009,6 +18211,7 @@
             "14341735": {
                 "object": {
                     "nodegoat_id": "ngVC3Z58hWsNhWiZ5WE3iksWwWp",
+                    "type_id": 12174,
                     "object_id": 14341735,
                     "object_name": "Achilles",
                     "object_name_plain": null,
@@ -18097,6 +18300,7 @@
             "14341739": {
                 "object": {
                     "nodegoat_id": "ngZG3D98lZwRkAmx9Zy7kowWaZN",
+                    "type_id": 12174,
                     "object_id": 14341739,
                     "object_name": "Diomedes",
                     "object_name_plain": null,
@@ -18189,6 +18393,7 @@
             "14341744": {
                 "object": {
                     "nodegoat_id": "ngEL4I48qELW7FrI4FN27tbvfEy",
+                    "type_id": 12174,
                     "object_id": 14341744,
                     "object_name": "Leonteus",
                     "object_name_plain": null,
@@ -18279,6 +18484,7 @@
             "14341745": {
                 "object": {
                     "nodegoat_id": "ngFM4J58rFWX9GsJ5GO30ucagGT",
+                    "type_id": 12174,
                     "object_id": 14341745,
                     "object_name": "Polypoites",
                     "object_name_plain": null,
@@ -18369,6 +18575,7 @@
             "14341959": {
                 "object": {
                     "nodegoat_id": "ngTA5B98fUqLdUgF9VC7eiqIuUH",
+                    "type_id": 12174,
                     "object_id": 14341959,
                     "object_name": "Neoptolemos",
                     "object_name_plain": null,
@@ -18463,6 +18670,7 @@
             "14341960": {
                 "object": {
                     "nodegoat_id": "ngUB6C08gVLM5VhQ0U181jrDvVo",
+                    "type_id": 12174,
                     "object_id": 14341960,
                     "object_name": "Kassandra",
                     "object_name_plain": null,
@@ -18553,6 +18761,7 @@
             "14341962": {
                 "object": {
                     "nodegoat_id": "ngWD6E28iXtO5XjK2YP05ltJxXK",
+                    "type_id": 12174,
                     "object_id": 14341962,
                     "object_name": "Amphilochos",
                     "object_name_plain": null,
@@ -18643,6 +18852,7 @@
             "14341973": {
                 "object": {
                     "nodegoat_id": "ngHO7x38tJOZ5Iub3JA15weMiJV",
+                    "type_id": 12174,
                     "object_id": 14341973,
                     "object_name": "Odysseus",
                     "object_name_plain": null,
@@ -18741,6 +18951,7 @@
             "14341978": {
                 "object": {
                     "nodegoat_id": "ngMT7c88yMzE3Nzg8Ml69bjhnOA",
+                    "type_id": 12174,
                     "object_id": 14341978,
                     "object_name": "Jason",
                     "object_name_plain": null,
@@ -18841,6 +19052,7 @@
             "14341979": {
                 "object": {
                     "nodegoat_id": "ngNU7Z98zPEF3Oal9O07yckWoNh",
+                    "type_id": 12174,
                     "object_id": 14341979,
                     "object_name": "Dardanos",
                     "object_name_plain": null,
@@ -18929,6 +19141,7 @@
             "14342165": {
                 "object": {
                     "nodegoat_id": "ngZG6H58lZmR7Amp5A638owyaZt",
+                    "type_id": 12174,
                     "object_id": 14342165,
                     "object_name": "Acamas",
                     "object_name_plain": null,
@@ -19019,6 +19232,7 @@
             "14342168": {
                 "object": {
                     "nodegoat_id": "ngCJ6s88oEJU2Dps8DL6mrzxdDQ",
+                    "type_id": 12174,
                     "object_id": 14342168,
                     "object_name": "Demophon",
                     "object_name_plain": null,
@@ -19113,6 +19327,7 @@
             "14342169": {
                 "object": {
                     "nodegoat_id": "ngDK6x98pDqV2EqD9DM74saAeDR",
+                    "type_id": 12174,
                     "object_id": 14342169,
                     "object_name": "Elephenor",
                     "object_name_plain": null,
@@ -19201,6 +19416,7 @@
             "14342171": {
                 "object": {
                     "nodegoat_id": "ngFM7v18rGsXsGsR1G292ucegFz",
+                    "type_id": 12174,
                     "object_id": 14342171,
                     "object_name": "Agapenor",
                     "object_name_plain": null,
@@ -19291,6 +19507,7 @@
             "14342172": {
                 "object": {
                     "nodegoat_id": "ngGN7w28sHdY3HtU2HP06vdLhHU",
+                    "type_id": 12174,
                     "object_id": 14342172,
                     "object_name": "Agelaos - Achaian",
                     "object_name_plain": null,
@@ -19379,6 +19596,7 @@
             "14342173": {
                 "object": {
                     "nodegoat_id": "ngHO7x38tJOZ5Iuf3HA17weciHV",
+                    "type_id": 12174,
                     "object_id": 14342173,
                     "object_name": "Aias the greater",
                     "object_name_plain": null,
@@ -19467,6 +19685,7 @@
             "14342174": {
                 "object": {
                     "nodegoat_id": "ngIP7y48uKZA5JvI4JB2uxfFjIW",
+                    "type_id": 12174,
                     "object_id": 14342174,
                     "object_name": "Aias the lesser",
                     "object_name_plain": null,
@@ -19555,6 +19774,7 @@
             "14343727": {
                 "object": {
                     "nodegoat_id": "ngNU2J78zOEF1OaN7Om5yckWoNh",
+                    "type_id": 12174,
                     "object_id": 14343727,
                     "object_name": "Antilochos",
                     "object_name_plain": null,
@@ -19643,6 +19863,7 @@
             "14343734": {
                 "object": {
                     "nodegoat_id": "ngUB3Y48gVhM6VhU4U524jrHvWI",
+                    "type_id": 12174,
                     "object_id": 14343734,
                     "object_name": "Krethon",
                     "object_name_plain": null,
@@ -19731,6 +19952,7 @@
             "14345281": {
                 "object": {
                     "nodegoat_id": "ngPW8f18bPGH6QcT1RI9cemYqQj",
+                    "type_id": 12174,
                     "object_id": 14345281,
                     "object_name": "Epeios",
                     "object_name_plain": null,
@@ -19830,6 +20052,7 @@
             "14345284": {
                 "object": {
                     "nodegoat_id": "ngSZ8q48eTfK7Tfq4UL29hpXtTG",
+                    "type_id": 12174,
                     "object_id": 14345284,
                     "object_name": "Euryalos",
                     "object_name_plain": null,
@@ -19922,6 +20145,7 @@
             "14345289": {
                 "object": {
                     "nodegoat_id": "ngXE8v98jXuPkYkJ9X071musyYL",
+                    "type_id": 12174,
                     "object_id": 14345289,
                     "object_name": "Machaon",
                     "object_name_plain": null,
@@ -20014,6 +20238,7 @@
             "14345293": {
                 "object": {
                     "nodegoat_id": "ngBI9v38nDSToCoT3BU13qyUcBv",
+                    "type_id": 12174,
                     "object_id": 14345293,
                     "object_name": "Palamedes",
                     "object_name_plain": null,
@@ -20108,6 +20333,7 @@
             "14345311": {
                 "object": {
                     "nodegoat_id": "ngXE1n18jYEP3YkB1ZG92muUyIL",
+                    "type_id": 12174,
                     "object_id": 14345311,
                     "object_name": "Periphetes",
                     "object_name_plain": null,
@@ -20196,6 +20422,7 @@
             "14345316": {
                 "object": {
                     "nodegoat_id": "ngCJ1Y68oEJUnDpO6CL46rzxdNQ",
+                    "type_id": 12174,
                     "object_id": 14345316,
                     "object_name": "Sinon",
                     "object_name_plain": null,
@@ -20284,6 +20511,7 @@
             "14345317": {
                 "object": {
                     "nodegoat_id": "ngDK1D78pDKVpEqL7Dc51saEeDx",
+                    "type_id": 12174,
                     "object_id": 14345317,
                     "object_name": "Sthenelos",
                     "object_name_plain": null,
@@ -20374,6 +20602,7 @@
             "14389026": {
                 "object": {
                     "nodegoat_id": "ngMT2I68yMTE9NzA6NV47bjNnNg",
+                    "type_id": 12174,
                     "object_id": 14389026,
                     "object_name": "Horace",
                     "object_name_plain": null,
@@ -20468,6 +20697,7 @@
             "14391828": {
                 "object": {
                     "nodegoat_id": "ngOV2K88aPFGbPbi8PH63dljpPC",
+                    "type_id": 12174,
                     "object_id": 14391828,
                     "object_name": "Ajax son of Teucer",
                     "object_name_plain": null,
@@ -20549,6 +20779,7 @@
             "14391829": {
                 "object": {
                     "nodegoat_id": "ngPW2L98bPcH9QcL9PY73emUqQD",
+                    "type_id": 12174,
                     "object_id": 14391829,
                     "object_name": "Teucer",
                     "object_name_plain": null,
@@ -20639,6 +20870,7 @@
             "14392606": {
                 "object": {
                     "nodegoat_id": "ngSZ0m68eUZKcTfE6TB4ehpntDG",
+                    "type_id": 12174,
                     "object_id": 14392606,
                     "object_name": "Aeneas",
                     "object_name_plain": null,
@@ -20736,6 +20968,7 @@
             "14392609": {
                 "object": {
                     "nodegoat_id": "ngVC0D98hViNgWit9Vu74ksSwGJ",
+                    "type_id": 12174,
                     "object_id": 14392609,
                     "object_name": "Evander",
                     "object_name_plain": null,
@@ -20831,6 +21064,7 @@
             "14392619": {
                 "object": {
                     "nodegoat_id": "ngFM1F98rFsX0GsT9Ge71ucCgHT",
+                    "type_id": 12174,
                     "object_id": 14392619,
                     "object_name": "Epeus",
                     "object_name_plain": null,
@@ -20919,6 +21153,7 @@
             "14392627": {
                 "object": {
                     "nodegoat_id": "ngNU2J78zOEF1Oah7Om5xckWoNh",
+                    "type_id": 12174,
                     "object_id": 14392627,
                     "object_name": "Archias",
                     "object_name_plain": null,
@@ -21009,6 +21244,7 @@
             "14392629": {
                 "object": {
                     "nodegoat_id": "ngPW2L98bPcH9QcL9Po7aemQqPj",
+                    "type_id": 12174,
                     "object_id": 14392629,
                     "object_name": "Perieres of Chalkis",
                     "object_name_plain": null,
@@ -21093,6 +21329,7 @@
             "14392632": {
                 "object": {
                     "nodegoat_id": "ngSZ3O28eSJKfTfE2SL0chpntUG",
+                    "type_id": 12174,
                     "object_id": 14392632,
                     "object_name": "Krataemenes",
                     "object_name_plain": null,
@@ -21174,6 +21411,7 @@
             "14392636": {
                 "object": {
                     "nodegoat_id": "ngWD3A68iYDOjXjI6XF4gltJxXK",
+                    "type_id": 12174,
                     "object_id": 14392636,
                     "object_name": "Philoktetes",
                     "object_name_plain": null,
@@ -21266,6 +21504,7 @@
             "14774806": {
                 "object": {
                     "nodegoat_id": "ngSZ0K68eSpKfTfm6UL4fhprtSm",
+                    "type_id": 12174,
                     "object_id": 14774806,
                     "object_name": "Aischines",
                     "object_name_plain": null,
@@ -21353,6 +21592,7 @@
             "14774807": {
                 "object": {
                     "nodegoat_id": "ngTA0r78fTKL1UgL7T85eiqGuEH",
+                    "type_id": 12174,
                     "object_id": 14774807,
                     "object_name": "Xenophon",
                     "object_name_plain": null,
@@ -21440,6 +21680,7 @@
             "14774809": {
                 "object": {
                     "nodegoat_id": "ngVC0l98hVMN1WiR9XO70ksSwGJ",
+                    "type_id": 12174,
                     "object_id": 14774809,
                     "object_name": "Aeneas Tacticus",
                     "object_name_plain": null,
@@ -21527,6 +21768,7 @@
             "14774811": {
                 "object": {
                     "nodegoat_id": "ngXE1B18jYkP5YkT1X29hmuMyIL",
+                    "type_id": 12174,
                     "object_id": 14774811,
                     "object_name": "Demosthenes",
                     "object_name_plain": null,
@@ -21621,6 +21863,7 @@
             "14774812": {
                 "object": {
                     "nodegoat_id": "ngYF1G28kAPQ4Zlo2YH0invDzJM",
+                    "type_id": 12174,
                     "object_id": 14774812,
                     "object_name": "Didymus Chalcenterus",
                     "object_name_plain": null,
@@ -21708,6 +21951,7 @@
             "14774821": {
                 "object": {
                     "nodegoat_id": "ngHO2D18tIuZ1IuL1JQ95weQiHb",
+                    "type_id": 12174,
                     "object_id": 14774821,
                     "object_name": "Herodian",
                     "object_name_plain": null,
@@ -21806,6 +22050,7 @@
             "14786937": {
                 "object": {
                     "nodegoat_id": "ngXE3B78jYkP2YkJ7YG50muoyYr",
+                    "type_id": 12174,
                     "object_id": 14786937,
                     "object_name": "Orphic Argonautica",
                     "object_name_plain": null,
@@ -21893,6 +22138,7 @@
             "14787174": {
                 "object": {
                     "nodegoat_id": "ngIP7y48uJfA8Jvc4JR2sxfNjJW",
+                    "type_id": 12174,
                     "object_id": 14787174,
                     "object_name": "Memnon of Herakleia",
                     "object_name_plain": null,
@@ -21973,6 +22219,7 @@
             "14790850": {
                 "object": {
                     "nodegoat_id": "ngKR5W08wLRCwLxC0K184zhPlMY",
+                    "type_id": 12174,
                     "object_id": 14790850,
                     "object_name": "Lokros",
                     "object_name_plain": null,
@@ -22068,6 +22315,7 @@
             "14790861": {
                 "object": {
                     "nodegoat_id": "ngVC6D18hWCN1WiN1VO96ksSwWJ",
+                    "type_id": 12174,
                     "object_id": 14790861,
                     "object_name": "Deukalion",
                     "object_name_plain": null,
@@ -22157,6 +22405,7 @@
             "14790862": {
                 "object": {
                     "nodegoat_id": "ngWD6E28iXtOiXjA2WP02ltLxYK",
+                    "type_id": 12174,
                     "object_id": 14790862,
                     "object_name": "Pyrrha",
                     "object_name_plain": null,
@@ -22244,6 +22493,7 @@
             "14790865": {
                 "object": {
                     "nodegoat_id": "ngZG6H58lZQR9Amt5Zy3jowuaAN",
+                    "type_id": 12174,
                     "object_id": 14790865,
                     "object_name": "Protogeneia",
                     "object_name_plain": null,
@@ -22336,6 +22586,7 @@
             "14790871": {
                 "object": {
                     "nodegoat_id": "ngFM7v18rHWXqGsX1FO9rucUgGT",
+                    "type_id": 12174,
                     "object_id": 14790871,
                     "object_name": "Menoitios",
                     "object_name_plain": null,
@@ -22426,6 +22677,7 @@
             "14810253": {
                 "object": {
                     "nodegoat_id": "ngNU5Z38zOEFxOaN3Om14ckmoOh",
+                    "type_id": 12174,
                     "object_id": 14810253,
                     "object_name": "Nagis",
                     "object_name_plain": null,
@@ -22496,6 +22748,7 @@
             "14810262": {
                 "object": {
                     "nodegoat_id": "ngWD6E28iXtOiXjE2XF06ltLxYK",
+                    "type_id": 12174,
                     "object_id": 14810262,
                     "object_name": "Cilix",
                     "object_name_plain": null,
@@ -22586,6 +22839,7 @@
             "14810346": {
                 "object": {
                     "nodegoat_id": "ngGN4G68sHNY1Htw6IP40vdbhHU",
+                    "type_id": 12174,
                     "object_id": 14810346,
                     "object_name": "Sophocles",
                     "object_name_plain": null,
@@ -22680,6 +22934,7 @@
             "14810699": {
                 "object": {
                     "nodegoat_id": "ngHO9b98tIOZtIuV9IA71weUiHV",
+                    "type_id": 12174,
                     "object_id": 14810699,
                     "object_name": "Opous",
                     "object_name_plain": null,
@@ -22766,6 +23021,7 @@
             "14810701": {
                 "object": {
                     "nodegoat_id": "ngNU0F18zOUF3OaN1Om91ckeoNh",
+                    "type_id": 12174,
                     "object_id": 14810701,
                     "object_name": "Patroclos",
                     "object_name_plain": null,
@@ -22856,6 +23112,7 @@
             "14810708": {
                 "object": {
                     "nodegoat_id": "ngUB0M88gULMfVhU8WN60jrRvUI",
+                    "type_id": 12174,
                     "object_id": 14810708,
                     "object_name": "Ozolian Lokrians",
                     "object_name_plain": null,
@@ -22929,6 +23186,7 @@
             "14810710": {
                 "object": {
                     "nodegoat_id": "ngWD1q08iWDOhXjq0WP84ltBxHK",
+                    "type_id": 12174,
                     "object_id": 14810710,
                     "object_name": "Lokrians",
                     "object_name_plain": null,
@@ -22995,6 +23253,7 @@
             "14810712": {
                 "object": {
                     "nodegoat_id": "ngYF1G28kAPQlZlG2Y30invNzJM",
+                    "type_id": 12174,
                     "object_id": 14810712,
                     "object_name": "Epizephyrian Lokrians",
                     "object_name_plain": null,
@@ -23065,6 +23324,7 @@
             "14810716": {
                 "object": {
                     "nodegoat_id": "ngCJ1U68oDJUpDpC6CL41rzPdNQ",
+                    "type_id": 12174,
                     "object_id": 14810716,
                     "object_name": "Amphissa",
                     "object_name_plain": null,
@@ -23145,6 +23405,7 @@
             "14810717": {
                 "object": {
                     "nodegoat_id": "ngDK1D78pDKV2Eqx7DW5qsaueEx",
+                    "type_id": 12174,
                     "object_id": 14810717,
                     "object_name": "Thoas",
                     "object_name_plain": null,
@@ -23229,6 +23490,7 @@
             "14810722": {
                 "object": {
                     "nodegoat_id": "ngIP2E28uKZA3JvW2I30sxfFjIW",
+                    "type_id": 12174,
                     "object_id": 14810722,
                     "object_name": "Abderos",
                     "object_name_plain": null,
@@ -23313,6 +23575,7 @@
             "14810724": {
                 "object": {
                     "nodegoat_id": "ngKR2G48wLhCwLxG4KD2vzhflMY",
+                    "type_id": 12174,
                     "object_id": 14810724,
                     "object_name": "Oileus",
                     "object_name_plain": null,
@@ -23386,6 +23649,7 @@
             "14810730": {
                 "object": {
                     "nodegoat_id": "ngQX3I08cSXI4Rdo0R182fnprQk",
+                    "type_id": 12174,
                     "object_id": 14810730,
                     "object_name": "Lokrian maidens",
                     "object_name_plain": null,
@@ -23452,6 +23716,7 @@
             "14821284": {
                 "object": {
                     "nodegoat_id": "ngSZ8q48eUZKfTfm4T525hpntTG",
+                    "type_id": 12174,
                     "object_id": 14821284,
                     "object_name": "Sandocus",
                     "object_name_plain": null,
@@ -23533,6 +23798,7 @@
             "14821287": {
                 "object": {
                     "nodegoat_id": "ngVC8t78hXMN7Wip7W85fksmwWp",
+                    "type_id": 12174,
                     "object_id": 14821287,
                     "object_name": "Ptolemy",
                     "object_name_plain": null,
@@ -23627,6 +23893,7 @@
             "14822743": {
                 "object": {
                     "nodegoat_id": "ngDK4H38pDKVpEqV3E41nsaueDx",
+                    "type_id": 12174,
                     "object_id": 14822743,
                     "object_name": "Sarpedon",
                     "object_name_plain": null,
@@ -23715,6 +23982,7 @@
             "14828527": {
                 "object": {
                     "nodegoat_id": "ngNU2J78zNUFyOaJ7PG59ckmoOh",
+                    "type_id": 12174,
                     "object_id": 14828527,
                     "object_name": "Sicels",
                     "object_name_plain": null,
@@ -23792,6 +24060,7 @@
             "14830378": {
                 "object": {
                     "nodegoat_id": "ngMT7c88yMjEzNzg8NF6wbjFnMg",
+                    "type_id": 12174,
                     "object_id": 14830378,
                     "object_name": "Herakleidai - Dorians",
                     "object_name_plain": null,
@@ -23871,6 +24140,7 @@
             "14830383": {
                 "object": {
                     "nodegoat_id": "ngRY8D38dTYJbSeJ3R41cgoOsRF",
+                    "type_id": 12174,
                     "object_id": 14830383,
                     "object_name": "Dictys of Crete",
                     "object_name_plain": null,
@@ -23965,6 +24235,7 @@
             "14837617": {
                 "object": {
                     "nodegoat_id": "ngDK1D78pDKV0EqH7EW59saAeFR",
+                    "type_id": 12174,
                     "object_id": 14837617,
                     "object_name": "Tryphiodorus",
                     "object_name_plain": null,
@@ -24056,6 +24327,7 @@
             "14837659": {
                 "object": {
                     "nodegoat_id": "ngTA5B98fUgL1UgP9TC7fiqsuTn",
+                    "type_id": 12174,
                     "object_id": 14837659,
                     "object_name": "Ioannis Malalas",
                     "object_name_plain": null,
@@ -24154,6 +24426,7 @@
             "14837706": {
                 "object": {
                     "nodegoat_id": "ngSZ0K68eSpK6TfA6UB47hpHtUG",
+                    "type_id": 12174,
                     "object_id": 14837706,
                     "object_name": "Schedios",
                     "object_name_plain": null,
@@ -24235,6 +24508,7 @@
             "14837999": {
                 "object": {
                     "nodegoat_id": "ngHO9b98tIOZ9IuD9JA7tweMiHV",
+                    "type_id": 12174,
                     "object_id": 14837999,
                     "object_name": "Cleues",
                     "object_name_plain": null,
@@ -24313,6 +24587,7 @@
             "14838000": {
                 "object": {
                     "nodegoat_id": "ngMT0E08yNDE4NzM0OF8wbjBnMA",
+                    "type_id": 12174,
                     "object_id": 14838000,
                     "object_name": "Malaus",
                     "object_name_plain": null,
@@ -24387,6 +24662,7 @@
             "14844555": {
                 "object": {
                     "nodegoat_id": "ngPW5B58bPWH7Qcj5P636emCqPD",
+                    "type_id": 12174,
                     "object_id": 14844555,
                     "object_name": "Hellenica Oxyrhynchia",
                     "object_name_plain": null,
@@ -24474,6 +24750,7 @@
             "14858713": {
                 "object": {
                     "nodegoat_id": "ngZG1V38lBQRkAmR3BS17owOaKN",
+                    "type_id": 12174,
                     "object_id": 14858713,
                     "object_name": "Antigonus of Karystos",
                     "object_name_plain": null,
@@ -24574,6 +24851,7 @@
             "14858725": {
                 "object": {
                     "nodegoat_id": "ngLS2H58xLyDyMyH5MU36aiEmLf",
+                    "type_id": 12174,
                     "object_id": 14858725,
                     "object_name": "Phlegon of Tralles",
                     "object_name_plain": null,
@@ -24672,6 +24950,7 @@
             "15041162": {
                 "object": {
                     "nodegoat_id": "ngWD6E28iXtO2Xju2YF0gltXxXq",
+                    "type_id": 12174,
                     "object_id": 15041162,
                     "object_name": "Phocos (son of Ornytion)",
                     "object_name_plain": null,
@@ -24752,6 +25031,7 @@
             "15138731": {
                 "object": {
                     "nodegoat_id": "ngRY3N18dRIJ3SeZ1Sq96goEsRF",
+                    "type_id": 12174,
                     "object_id": 15138731,
                     "object_name": "Philostratos of Lemnos (major)",
                     "object_name_plain": null,
@@ -24846,6 +25126,7 @@
             "15140004": {
                 "object": {
                     "nodegoat_id": "ngQX0I48cRHIdRdM4SJ24fnRrQk",
+                    "type_id": 12174,
                     "object_id": 15140004,
                     "object_name": "Aelian",
                     "object_name_plain": null,
@@ -24944,6 +25225,7 @@
             "15368130": {
                 "object": {
                     "nodegoat_id": "ngQX3I08cSXIbRdU0Q185fnNrRE",
+                    "type_id": 12174,
                     "object_id": 15368130,
                     "object_name": "Sthenele",
                     "object_name_plain": null,
@@ -25028,6 +25310,7 @@
             "15368136": {
                 "object": {
                     "nodegoat_id": "ngWD3A68iXtOhXjm6YF4gltLxXK",
+                    "type_id": 12174,
                     "object_id": 15368136,
                     "object_name": "Polymele",
                     "object_name_plain": null,
@@ -25112,6 +25395,7 @@
             "15368146": {
                 "object": {
                     "nodegoat_id": "ngGN4G68sHdY8HtU6Gf4rvdfhHa",
+                    "type_id": 12174,
                     "object_id": 15368146,
                     "object_name": "Periopis",
                     "object_name_plain": null,
@@ -25196,6 +25480,7 @@
             "15370941": {
                 "object": {
                     "nodegoat_id": "ngBI4F18nBoT5Cor1BU9lqyUcCv",
+                    "type_id": 12174,
                     "object_id": 15370941,
                     "object_name": "Neleus",
                     "object_name_plain": null,
@@ -25280,6 +25565,7 @@
             "15370945": {
                 "object": {
                     "nodegoat_id": "ngFM4F58rHMX8Gsz5HY3pucKgHT",
+                    "type_id": 12174,
                     "object_id": 15370945,
                     "object_name": "Pelops",
                     "object_name_plain": null,
@@ -25368,6 +25654,7 @@
             "15370948": {
                 "object": {
                     "nodegoat_id": "ngIP4I88uJZAtJvU8J960xfXjJW",
+                    "type_id": 12174,
                     "object_id": 15370948,
                     "object_name": "Alexander of Macedon",
                     "object_name_plain": null,
@@ -25462,6 +25749,7 @@
             "15986173": {
                 "object": {
                     "nodegoat_id": "ngHO7x38tIeZ8Iuf3HA17weAiIb",
+                    "type_id": 12174,
                     "object_id": 15986173,
                     "object_name": "Theotimos",
                     "object_name_plain": null,
@@ -25542,6 +25830,7 @@
             "15986178": {
                 "object": {
                     "nodegoat_id": "ngMT7c88yMTE8NzI8NF62bjBnNA",
+                    "type_id": 12174,
                     "object_id": 15986178,
                     "object_name": "Dorieus",
                     "object_name_plain": null,
@@ -25619,6 +25908,7 @@
             "15986181": {
                 "object": {
                     "nodegoat_id": "ngPW8B18bRGHcQcn1QI9zemUqRD",
+                    "type_id": 12174,
                     "object_id": 15986181,
                     "object_name": "Battos of Thera",
                     "object_name_plain": null,
@@ -25703,6 +25993,7 @@
             "15986184": {
                 "object": {
                     "nodegoat_id": "ngSZ8K48eSJKcTfW4UL2fhpXtSe26",
+                    "type_id": 12174,
                     "object_id": 15986184,
                     "object_name": "Anagraphs of Lindos",
                     "object_name_plain": null,
@@ -25762,6 +26053,7 @@
             "15986909": {
                 "object": {
                     "nodegoat_id": "ngVC0l98hXCN9Wip9VE71ksKwGJ",
+                    "type_id": 12174,
                     "object_id": 15986909,
                     "object_name": "Philon of Byblos",
                     "object_name_plain": null,
@@ -25849,6 +26141,7 @@
             "15986962": {
                 "object": {
                     "nodegoat_id": "ngWD6E28iXDOgXjm2X30gltJxWK",
+                    "type_id": 12174,
                     "object_id": 15986962,
                     "object_name": "Silius Italicus",
                     "object_name_plain": null,
@@ -25936,6 +26229,7 @@
             "15986975": {
                 "object": {
                     "nodegoat_id": "ngJQ7z58vKAB5KwR5JS3vygGkKX",
+                    "type_id": 12174,
                     "object_id": 15986975,
                     "object_name": "Isocrates",
                     "object_name_plain": null,
@@ -26023,6 +26317,7 @@
             "15986981": {
                 "object": {
                     "nodegoat_id": "ngPW8B18bRGHcQcj1Q293emkqPD",
+                    "type_id": 12174,
                     "object_id": 15986981,
                     "object_name": "Euxenos",
                     "object_name_plain": null,
@@ -26100,6 +26395,7 @@
             "15986982": {
                 "object": {
                     "nodegoat_id": "ngQX8C28cSHI7RdY2RJ06fnVrRE",
+                    "type_id": 12174,
                     "object_id": 15986982,
                     "object_name": "Simos",
                     "object_name_plain": null,
@@ -26177,6 +26473,7 @@
             "15986983": {
                 "object": {
                     "nodegoat_id": "ngRY8D38dSeJ8SeV3RA14goKsRl",
+                    "type_id": 12174,
                     "object_id": 15986983,
                     "object_name": "Protis",
                     "object_name_plain": null,
@@ -26254,6 +26551,7 @@
             "15986985": {
                 "object": {
                     "nodegoat_id": "ngTA8r58fVAL5Ugj5U636iqCuTn",
+                    "type_id": 12174,
                     "object_id": 15986985,
                     "object_name": "Kreontiades",
                     "object_name_plain": null,
@@ -26320,6 +26618,7 @@
             "15986986": {
                 "object": {
                     "nodegoat_id": "ngUB8s68gWLM6VhG6VN49jrZvUI",
+                    "type_id": 12174,
                     "object_id": 15986986,
                     "object_name": "Aristarche",
                     "object_name_plain": null,
@@ -26379,6 +26678,7 @@
             "15997028": {
                 "object": {
                     "nodegoat_id": "ngOV2K88aOlG1Pbe8QX62dlHpPi",
+                    "type_id": 12174,
                     "object_id": 15997028,
                     "object_name": "Aristonoos",
                     "object_name_plain": null,
@@ -26456,6 +26756,7 @@
             "15997029": {
                 "object": {
                     "nodegoat_id": "ngPW2L98bPWH1Qcj9QI72emEqRD",
+                    "type_id": 12174,
                     "object_id": 15997029,
                     "object_name": "Pystilos",
                     "object_name_plain": null,
@@ -26526,6 +26827,7 @@
             "15997968": {
                 "object": {
                     "nodegoat_id": "ngCJ6w88oCzU9Dps8D968rzVdCw",
+                    "type_id": 12174,
                     "object_id": 15997968,
                     "object_name": "Patron the Thyrian",
                     "object_name_plain": null,
@@ -26611,6 +26913,7 @@
             "15997972": {
                 "object": {
                     "nodegoat_id": "ngGN7w28sHtY5HtU2Gf07vdVhIU",
+                    "type_id": 12174,
                     "object_id": 15997972,
                     "object_name": "Antiphemos",
                     "object_name_plain": null,
@@ -26688,6 +26991,7 @@
             "15997973": {
                 "object": {
                     "nodegoat_id": "ngHO7x38tIeZ5IuD3Ig1rweQiIb",
+                    "type_id": 12174,
                     "object_id": 15997973,
                     "object_name": "Entimos",
                     "object_name_plain": null,
@@ -26765,6 +27069,7 @@
             "15997980": {
                 "object": {
                     "nodegoat_id": "ngOV8A08aQVG1PbO0QH85dlXpPi",
+                    "type_id": 12174,
                     "object_id": 15997980,
                     "object_name": "Nymph Rhene",
                     "object_name_plain": null,
@@ -26855,6 +27160,7 @@
             "15997985": {
                 "object": {
                     "nodegoat_id": "ngTA8r58fVALfUgP5Ts39iqYuTH",
+                    "type_id": 12174,
                     "object_id": 15997985,
                     "object_name": "Menestheus the Athenian",
                     "object_name_plain": null,
@@ -26952,6 +27258,7 @@
             "15998704": {
                 "object": {
                     "nodegoat_id": "ngQX0I48cQdIcRdI4SZ28fnhrRk",
+                    "type_id": 12174,
                     "object_id": 15998704,
                     "object_name": "Boeotians",
                     "object_name_plain": null,
@@ -27025,6 +27332,7 @@
             "15998705": {
                 "object": {
                     "nodegoat_id": "ngRY0J58dRoJcSeN5S639goEsSF",
+                    "type_id": 12174,
                     "object_id": 15998705,
                     "object_name": "Phokians",
                     "object_name_plain": null,
@@ -27098,6 +27406,7 @@
             "15999788": {
                 "object": {
                     "nodegoat_id": "ngWD8u88iXDO3Xjm8XP60ltnxXq",
+                    "type_id": 12174,
                     "object_id": 15999788,
                     "object_name": "Thessalos",
                     "object_name_plain": null,
@@ -27164,6 +27473,7 @@
             "15999789": {
                 "object": {
                     "nodegoat_id": "ngXE8v98jYEPkYkv9YG7hmuMyZL",
+                    "type_id": 12174,
                     "object_id": 15999789,
                     "object_name": "Paraibates",
                     "object_name_plain": null,
@@ -27230,6 +27540,7 @@
             "15999790": {
                 "object": {
                     "nodegoat_id": "ngYF9w08kZPQlZlM0AH8invNzZM",
+                    "type_id": 12174,
                     "object_id": 15999790,
                     "object_name": "Keleas",
                     "object_name_plain": null,
@@ -27296,6 +27607,7 @@
             "15999791": {
                 "object": {
                     "nodegoat_id": "ngZG9x18lZmRlAmZ1A29mowMaBN",
+                    "type_id": 12174,
                     "object_id": 15999791,
                     "object_name": "Euryleon",
                     "object_name_plain": null,
@@ -27362,6 +27674,7 @@
             "15999795": {
                 "object": {
                     "nodegoat_id": "ngDK9x58pFUV9Eqt5D63psaIeDR",
+                    "type_id": 12174,
                     "object_id": 15999795,
                     "object_name": "Eukleides",
                     "object_name_plain": null,
@@ -27428,6 +27741,7 @@
             "15999796": {
                 "object": {
                     "nodegoat_id": "ngEL9y68qFrWqFrQ6EN4rtbdfFy",
+                    "type_id": 12174,
                     "object_id": 15999796,
                     "object_name": "Simos",
                     "object_name_plain": null,
@@ -27505,6 +27819,7 @@
             "15999797": {
                 "object": {
                     "nodegoat_id": "ngFM9z78rGcXqGsd7FO50ucwgGz",
+                    "type_id": 12174,
                     "object_id": 15999797,
                     "object_name": "Sakon",
                     "object_name_plain": null,
@@ -27571,6 +27886,7 @@
             "16013704": {
                 "object": {
                     "nodegoat_id": "ngQX0I48cQdIcRdQ4SJ2bfnFrSE",
+                    "type_id": 12174,
                     "object_id": 16013704,
                     "object_name": "Daskon",
                     "object_name_plain": null,
@@ -27637,6 +27953,7 @@
             "16013707": {
                 "object": {
                     "nodegoat_id": "ngTA0L78fTKL7UgF7U852iqGuTH",
+                    "type_id": 12174,
                     "object_id": 16013707,
                     "object_name": "Menekolos",
                     "object_name_plain": null,
@@ -27709,6 +28026,7 @@
             "16013713": {
                 "object": {
                     "nodegoat_id": "ngZG1Z38lBGRmAmD3ZI1kowWaKN",
+                    "type_id": 12174,
                     "object_id": 16013713,
                     "object_name": "Hippokrates, Tyrant of Gela",
                     "object_name_plain": null,
@@ -27807,6 +28125,7 @@
             "16013719": {
                 "object": {
                     "nodegoat_id": "ngFM1F98rFWX9GsJ9FO74ucwgGz",
+                    "type_id": 12174,
                     "object_id": 16013719,
                     "object_name": "Gelon",
                     "object_name_plain": null,
@@ -27891,6 +28210,7 @@
             "16013737": {
                 "object": {
                     "nodegoat_id": "ngXE3B78jYkPhYkJ7Xw59muGyYr",
+                    "type_id": 12174,
                     "object_id": 16013737,
                     "object_name": "Thoukles",
                     "object_name_plain": null,
@@ -27974,6 +28294,7 @@
             "16013738": {
                 "object": {
                     "nodegoat_id": "ngYF3C88kZvQiZlM8YR69nvNzYM",
+                    "type_id": 12174,
                     "object_id": 16013738,
                     "object_name": "Euarchos",
                     "object_name_plain": null,
@@ -28044,6 +28365,7 @@
             "16013751": {
                 "object": {
                     "nodegoat_id": "ngLS5X18xMSD1MyH1M29waiImNZ",
+                    "type_id": 12174,
                     "object_id": 16013751,
                     "object_name": "Liparos",
                     "object_name_plain": null,
@@ -28130,6 +28452,7 @@
             "16013753": {
                 "object": {
                     "nodegoat_id": "ngNU5Z38zNaFzOaJ3OG16ckAoPB",
+                    "type_id": 12174,
                     "object_id": 16013753,
                     "object_name": "Aiolos",
                     "object_name_plain": null,
@@ -28207,6 +28530,7 @@
             "16013775": {
                 "object": {
                     "nodegoat_id": "ngJQ7z58vKAB0KwN5LS3tygWkKX",
+                    "type_id": 12174,
                     "object_id": 16013775,
                     "object_name": "Pentathlos",
                     "object_name_plain": null,
@@ -28291,6 +28615,7 @@
             "16013783": {
                 "object": {
                     "nodegoat_id": "ngRY8D38dSeJ7SeR3S41bgoWsTF",
+                    "type_id": 12174,
                     "object_id": 16013783,
                     "object_name": "Gorgos",
                     "object_name_plain": null,
@@ -28361,6 +28686,7 @@
             "16013784": {
                 "object": {
                     "nodegoat_id": "ngSZ8K48eSJKcTfS4S52fhpPtTI24",
+                    "type_id": 12174,
                     "object_id": 16013784,
                     "object_name": "Thestor",
                     "object_name_plain": null,
@@ -28438,6 +28764,7 @@
             "16013785": {
                 "object": {
                     "nodegoat_id": "ngTA8r58fVALfUgT5VM3diqouTH",
+                    "type_id": 12174,
                     "object_id": 16013785,
                     "object_name": "Epithersides",
                     "object_name_plain": null,
@@ -28508,6 +28835,7 @@
             "16013918": {
                 "object": {
                     "nodegoat_id": "ngEL1E88qELW9FrE8Fd6rtbNfFy",
+                    "type_id": 12174,
                     "object_id": 16013918,
                     "object_name": "Lamis",
                     "object_name_plain": null,
@@ -28591,6 +28919,7 @@
             "16016452": {
                 "object": {
                     "nodegoat_id": "ngMT5Y28yNDEyNzk2OF0xbjFnMg",
+                    "type_id": 12174,
                     "object_id": 16016452,
                     "object_name": "Pamillos",
                     "object_name_plain": null,
@@ -28670,6 +28999,7 @@
             "16020079": {
                 "object": {
                     "nodegoat_id": "ngNU7d98zNEF1OaR9Nm73ckAoPB",
+                    "type_id": 12174,
                     "object_id": 16020079,
                     "object_name": "Herakles",
                     "object_name_plain": null,
@@ -28743,6 +29073,7 @@
             "16020080": {
                 "object": {
                     "nodegoat_id": "ngOV8A08aQVG1PbA0PX8zdlXpOi",
+                    "type_id": 12174,
                     "object_id": 16020080,
                     "object_name": "Lakinios",
                     "object_name_plain": null,
@@ -28813,6 +29144,7 @@
             "16020083": {
                 "object": {
                     "nodegoat_id": "ngRY8D38dSeJ7SeV3SK1bgoEsRF",
+                    "type_id": 12174,
                     "object_id": 16020083,
                     "object_name": "Kroton",
                     "object_name_plain": null,
@@ -28883,6 +29215,7 @@
             "16020258": {
                 "object": {
                     "nodegoat_id": "ngSZ5A88eUZKfTfW8Sr62hpntSG",
+                    "type_id": 12174,
                     "object_id": 16020258,
                     "object_name": "Brothers of Archesilaos",
                     "object_name_plain": null,
@@ -28960,6 +29293,7 @@
             "16020261": {
                 "object": {
                     "nodegoat_id": "ngVC6D18hWsNgWiN1WE96ksmwVp",
+                    "type_id": 12174,
                     "object_id": 16020261,
                     "object_name": "Haliarchos",
                     "object_name_plain": null,
@@ -29044,6 +29378,7 @@
             "16020264": {
                 "object": {
                     "nodegoat_id": "ngYF6G48kYlQlZlG4ZR2invtzAM",
+                    "type_id": 12174,
                     "object_id": 16020264,
                     "object_name": "Archesilaos",
                     "object_name_plain": null,
@@ -29124,6 +29459,7 @@
             "16020536": {
                 "object": {
                     "nodegoat_id": "ngWD3A68iYNOhXjA6Xv49ltJxXK",
+                    "type_id": 12174,
                     "object_id": 16020536,
                     "object_name": "Euphemos",
                     "object_name_plain": null,
@@ -29194,6 +29530,7 @@
             "16020539": {
                 "object": {
                     "nodegoat_id": "ngZG3D98lAQR4AmV9ZS79owuaBN",
+                    "type_id": 12174,
                     "object_id": 16020539,
                     "object_name": "Karrhotos",
                     "object_name_plain": null,
@@ -29264,6 +29601,7 @@
             "16021017": {
                 "object": {
                     "nodegoat_id": "ngDK1D78pDaV9EqP7Ec5qsaceEx",
+                    "type_id": 12174,
                     "object_id": 16021017,
                     "object_name": "Thoas (Aitolian)",
                     "object_name_plain": null,
@@ -29348,6 +29686,7 @@
             "16021178": {
                 "object": {
                     "nodegoat_id": "ngMT7c88yMTE1NzE8M960bjlnMg",
+                    "type_id": 12174,
                     "object_id": 16021178,
                     "object_name": "Kaulon",
                     "object_name_plain": null,
@@ -29414,6 +29753,7 @@
             "16021183": {
                 "object": {
                     "nodegoat_id": "ngRY8D38dSeJ7SeV3Rq17goSsRl",
+                    "type_id": 12174,
                     "object_id": 16021183,
                     "object_name": "Pheidippos",
                     "object_name_plain": null,
@@ -29491,6 +29831,7 @@
             "16021184": {
                 "object": {
                     "nodegoat_id": "ngSZ8K48eSJKcTfS4Sr25hpjtUY26",
+                    "type_id": 12174,
                     "object_id": 16021184,
                     "object_name": "Antiphos",
                     "object_name_plain": null,
@@ -29568,6 +29909,7 @@
             "16024934": {
                 "object": {
                     "nodegoat_id": "ngUB3Y48gWBM8VhY4VN2ejrlvVo",
+                    "type_id": 12174,
                     "object_id": 16024934,
                     "object_name": "Athenodoros of Tarsos",
                     "object_name_plain": null,
@@ -29659,6 +30001,7 @@
             "16025955": {
                 "object": {
                     "nodegoat_id": "ngPW5B58bPmH7QcD5Po3cemCqRD",
+                    "type_id": 12174,
                     "object_id": 16025955,
                     "object_name": "Palinouros",
                     "object_name_plain": null,
@@ -29743,6 +30086,7 @@
             "16025966": {
                 "object": {
                     "nodegoat_id": "ngAH6I68mAHSmBnA6BJ4mpxNbCO",
+                    "type_id": 12174,
                     "object_id": 16025966,
                     "object_name": "Chionis of Sparta",
                     "object_name_plain": null,
@@ -29827,6 +30171,7 @@
             "16026861": {
                 "object": {
                     "nodegoat_id": "ngVC6D18hWsNgWiZ1W29gksAwXJ",
+                    "type_id": 12174,
                     "object_id": 16026861,
                     "object_name": "Metabos/Metapont",
                     "object_name_plain": null,
@@ -29897,6 +30242,7 @@
             "16026885": {
                 "object": {
                     "nodegoat_id": "ngTA8r58fVALfUgB5VC35iqQuTH",
+                    "type_id": 12174,
                     "object_id": 16026885,
                     "object_name": "Ogrylos",
                     "object_name_plain": null,
@@ -29981,6 +30327,7 @@
             "16026888": {
                 "object": {
                     "nodegoat_id": "ngWD8u88iXtOgXjK8WP62ltPxXq",
+                    "type_id": 12174,
                     "object_id": 16026888,
                     "object_name": "Daedalos",
                     "object_name_plain": null,
@@ -30061,6 +30408,7 @@
             "16026903": {
                 "object": {
                     "nodegoat_id": "ngPW0H38bQGHcQcP3PY18emIqPj",
+                    "type_id": 12174,
                     "object_id": 16026903,
                     "object_name": "The Thespians",
                     "object_name_plain": null,
@@ -30138,6 +30486,7 @@
             "16026905": {
                 "object": {
                     "nodegoat_id": "ngRY0J58dRoJcSeD5SK35goqsSl",
+                    "type_id": 12174,
                     "object_id": 16026905,
                     "object_name": "Charax",
                     "object_name_plain": null,
@@ -30225,6 +30574,7 @@
             "16026912": {
                 "object": {
                     "nodegoat_id": "ngYF1G28kYPQjZlQ2AR0invDzJM",
+                    "type_id": 12174,
                     "object_id": 16026912,
                     "object_name": "Morges",
                     "object_name_plain": null,
@@ -30291,6 +30641,7 @@
             "16026913": {
                 "object": {
                     "nodegoat_id": "ngZG1Z38lBGR7AmL3ZI18owWaKN",
+                    "type_id": 12174,
                     "object_id": 16026913,
                     "object_name": "Siris, daughter of Morges",
                     "object_name_plain": null,
@@ -30357,6 +30708,7 @@
             "16026914": {
                 "object": {
                     "nodegoat_id": "ngAH1W48mAnSlBnW4CJ2kpxPbLO",
+                    "type_id": 12174,
                     "object_id": 16026914,
                     "object_name": "Skindos, husband of Siris",
                     "object_name_plain": null,
@@ -30423,6 +30775,7 @@
             "16026936": {
                 "object": {
                     "nodegoat_id": "ngWD3A68iYNOhXjS6W741ltrxWK",
+                    "type_id": 12174,
                     "object_id": 16026936,
                     "object_name": "Perikles",
                     "object_name_plain": null,
@@ -30503,6 +30856,7 @@
             "16026938": {
                 "object": {
                     "nodegoat_id": "ngYF3C88kZFQ3ZlG8Zx69nvtzYM",
+                    "type_id": 12174,
                     "object_id": 16026938,
                     "object_name": "Dionysios Chalkos",
                     "object_name_plain": null,
@@ -30587,6 +30941,7 @@
             "16027020": {
                 "object": {
                     "nodegoat_id": "ngGN2C08sINY0HtY0G18svdbhIU",
+                    "type_id": 12174,
                     "object_id": 16027020,
                     "object_name": "Taras",
                     "object_name_plain": null,
@@ -30664,6 +31019,7 @@
             "16027814": {
                 "object": {
                     "nodegoat_id": "ngAH1W48mAnSlBnM4AT29pxNbLO",
+                    "type_id": 12174,
                     "object_id": 16027814,
                     "object_name": "Phalanthos",
                     "object_name_plain": null,
@@ -30748,6 +31104,7 @@
             "16027825": {
                 "object": {
                     "nodegoat_id": "ngLS2H58xMCD5Myj5ME37aiImLZ",
+                    "type_id": 12174,
                     "object_id": 16027825,
                     "object_name": "Aethra",
                     "object_name_plain": null,
@@ -30832,6 +31189,7 @@
             "16028174": {
                 "object": {
                     "nodegoat_id": "ngIP7y48uJPA5JvW4JB27xfJjIc",
+                    "type_id": 12174,
                     "object_id": 16028174,
                     "object_name": "Peuketis",
                     "object_name_plain": null,
@@ -30916,6 +31274,7 @@
             "16028183": {
                 "object": {
                     "nodegoat_id": "ngRY8D38dSeJ7Sel3SK18gomsSF",
+                    "type_id": 12174,
                     "object_id": 16028183,
                     "object_name": "Auson",
                     "object_name_plain": null,
@@ -30982,6 +31341,7 @@
             "16028189": {
                 "object": {
                     "nodegoat_id": "ngXE8v98jYEPkYkJ9Yw71muCyXL",
+                    "type_id": 12174,
                     "object_id": 16028189,
                     "object_name": "Sikelos",
                     "object_name_plain": null,
@@ -31048,6 +31408,7 @@
             "16028191": {
                 "object": {
                     "nodegoat_id": "ngZG9x18lZmRkAmx1Zy92owWaZN",
+                    "type_id": 12174,
                     "object_id": 16028191,
                     "object_name": "Italos",
                     "object_name_plain": null,
@@ -31114,6 +31475,7 @@
             "16191594": {
                 "object": {
                     "nodegoat_id": "ngCJ9a48oCTUnDpO4CL2nrzxdCQ",
+                    "type_id": 12174,
                     "object_id": 16191594,
                     "object_name": "Amazons",
                     "object_name_plain": null,
@@ -31191,6 +31553,7 @@
             "16191599": {
                 "object": {
                     "nodegoat_id": "ngHO9b98tIYZrIux9JA72weIiIb",
+                    "type_id": 12174,
                     "object_id": 16191599,
                     "object_name": "Oinopion",
                     "object_name_plain": null,
@@ -31279,6 +31642,7 @@
             "16191601": {
                 "object": {
                     "nodegoat_id": "ngNU0F18zOkFzOah1OG9yckCoNB",
+                    "type_id": 12174,
                     "object_id": 16191601,
                     "object_name": "Athamas",
                     "object_name_plain": null,
@@ -31363,6 +31727,7 @@
             "16191604": {
                 "object": {
                     "nodegoat_id": "ngQX0I48cQdIcRdk4RZ2afnNrRE",
+                    "type_id": 12174,
                     "object_id": 16191604,
                     "object_name": "Erechtheus",
                     "object_name_plain": null,
@@ -31443,6 +31808,7 @@
             "16191608": {
                 "object": {
                     "nodegoat_id": "ngUB0s88gUBM3Vhs8UN69jrHvFI",
+                    "type_id": 12174,
                     "object_id": 16191608,
                     "object_name": "Miletus",
                     "object_name_plain": null,
@@ -31520,6 +31886,7 @@
             "16191610": {
                 "object": {
                     "nodegoat_id": "ngWD1m08iWDO1XjI0WP83ltTxHK",
+                    "type_id": 12174,
                     "object_id": 16191610,
                     "object_name": "Smyrna",
                     "object_name_plain": null,
@@ -31604,6 +31971,7 @@
             "16191616": {
                 "object": {
                     "nodegoat_id": "ngCJ1U68oCTUnDpC6Cb40rbndCG",
+                    "type_id": 12174,
                     "object_id": 16191616,
                     "object_name": "Ankaios",
                     "object_name_plain": null,
@@ -31670,6 +32038,7 @@
             "16191620": {
                 "object": {
                     "nodegoat_id": "ngGN2C08sINY1Htw0H184vdbhIU",
+                    "type_id": 12174,
                     "object_id": 16191620,
                     "object_name": "Carians",
                     "object_name_plain": null,
@@ -31736,6 +32105,7 @@
             "16191622": {
                 "object": {
                     "nodegoat_id": "ngIP2E28uJvA3JvE2Jh02xfXjKW",
+                    "type_id": 12174,
                     "object_id": 16191622,
                     "object_name": "Leleges",
                     "object_name_plain": null,
@@ -31802,6 +32172,7 @@
             "16215455": {
                 "object": {
                     "nodegoat_id": "ngPW5B58bPmH5QcT5QY37emoqPj",
+                    "type_id": 12174,
                     "object_id": 16215455,
                     "object_name": "Prometheus",
                     "object_name_plain": null,
@@ -31889,6 +32260,7 @@
             "16216611": {
                 "object": {
                     "nodegoat_id": "ngXE1J18jXuPjYkB1XG9hmuMyIL",
+                    "type_id": 12174,
                     "object_id": 16216611,
                     "object_name": "Peleus",
                     "object_name_plain": null,
@@ -31977,6 +32349,7 @@
             "16217614": {
                 "object": {
                     "nodegoat_id": "ngAH1W48mAHS4BnW4Bz29pxNbLO",
+                    "type_id": 12174,
                     "object_id": 16217614,
                     "object_name": "Physkos",
                     "object_name_plain": null,
@@ -32050,6 +32423,7 @@
             "16217629": {
                 "object": {
                     "nodegoat_id": "ngPW2L98bPWH0Qcn9RI7aemEqRD",
+                    "type_id": 12174,
                     "object_id": 16217629,
                     "object_name": "Amphiktyon",
                     "object_name_plain": null,
@@ -32130,6 +32504,7 @@
             "16218856": {
                 "object": {
                     "nodegoat_id": "ngQX5C68cQXIdRdC6R748fnDrRE",
+                    "type_id": 12174,
                     "object_id": 16218856,
                     "object_name": "Thales",
                     "object_name_plain": null,
@@ -32207,6 +32582,7 @@
             "16218864": {
                 "object": {
                     "nodegoat_id": "ngYF6G48kYlQkZls4Zx28nvZzYs",
+                    "type_id": 12174,
                     "object_id": 16218864,
                     "object_name": "Makarios",
                     "object_name_plain": null,
@@ -32277,6 +32653,7 @@
             "16218897": {
                 "object": {
                     "nodegoat_id": "ngFM9z78rGcXpGsX7F858ucwgFz",
+                    "type_id": 12174,
                     "object_id": 16218897,
                     "object_name": "Temenos",
                     "object_name_plain": null,
@@ -32357,6 +32734,7 @@
             "16247901": {
                 "object": {
                     "nodegoat_id": "ngNU0F18zOkFzOah1O29zckCoPB",
+                    "type_id": 12174,
                     "object_id": 16247901,
                     "object_name": "Clymenos",
                     "object_name_plain": null,
@@ -32437,6 +32815,7 @@
             "16247905": {
                 "object": {
                     "nodegoat_id": "ngRY0J58dRoJdSeZ5SK35goWsRF",
+                    "type_id": 12174,
                     "object_id": 16247905,
                     "object_name": "Axia",
                     "object_name_plain": null,
@@ -32503,6 +32882,7 @@
             "16263156": {
                 "object": {
                     "nodegoat_id": "ngQX5C68cQXIcRdo6QJ48fnFrRE",
+                    "type_id": 12174,
                     "object_id": 16263156,
                     "object_name": "Ptolemaios Lagu",
                     "object_name_plain": null,
@@ -32597,6 +32977,7 @@
             "16263159": {
                 "object": {
                     "nodegoat_id": "ngTA5B98fVKLdUgT9TM74iqMuTn",
+                    "type_id": 12174,
                     "object_id": 16263159,
                     "object_name": "Anchiale",
                     "object_name_plain": null,
@@ -32663,6 +33044,7 @@
             "16306341": {
                 "object": {
                     "nodegoat_id": "ngBI4F18nByT6CoF1BK94qywcCP",
+                    "type_id": 12174,
                     "object_id": 16306341,
                     "object_name": "Diodorus the Grammarian",
                     "object_name_plain": null,

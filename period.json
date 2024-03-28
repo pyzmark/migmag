@@ -1,12 +1,13 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-03-27T22:00:16+00:00",
+    "timestamp": "2024-03-28T22:00:15+00:00",
     "authenticated": true,
     "data": {
         "objects": {
             "12058482": {
                 "object": {
                     "nodegoat_id": "ngQX8g28cQnI6SHk6RZ0dfnlrRE",
+                    "type_id": 12188,
                     "object_id": 12058482,
                     "object_name": "Trojan War, generation of",
                     "object_name_plain": "Trojan War, generation of",
@@ -66,6 +67,7 @@
             "12058484": {
                 "object": {
                     "nodegoat_id": "ngSZ8q48eTpKcUJS8SL27hpTtTm",
+                    "type_id": 12188,
                     "object_id": 12058484,
                     "object_name": "Argonauts, generation of",
                     "object_name_plain": "Argonauts, generation of",
@@ -125,6 +127,7 @@
             "12058486": {
                 "object": {
                     "nodegoat_id": "ngUB8s68gVLMeWLM0UN40jrJvWI",
+                    "type_id": 12188,
                     "object_id": 12058486,
                     "object_name": "Epigonoi, generation of",
                     "object_name_plain": "Epigonoi, generation of",
@@ -184,6 +187,7 @@
             "12058487": {
                 "object": {
                     "nodegoat_id": "ngVC8t78hViNfXMJ1VO59ksuwVp",
+                    "type_id": 12188,
                     "object_id": 12058487,
                     "object_name": "Nostoi, generation of",
                     "object_name_plain": "Nostoi, generation of",
@@ -243,6 +247,7 @@
             "12345944": {
                 "object": {
                     "nodegoat_id": "ngEL4E48qFLWqGVu8F52ptbBfFS",
+                    "type_id": 12188,
                     "object_id": 12345944,
                     "object_name": "Niobids, generation of",
                     "object_name_plain": "Niobids, generation of",
@@ -302,6 +307,7 @@
             "13573535": {
                 "object": {
                     "nodegoat_id": "ngVC3Z58hWiN5XMl9Wu3hksEwWp",
+                    "type_id": 12188,
                     "object_id": 13573535,
                     "object_name": "Generic",
                     "object_name_plain": "Generic",
@@ -354,6 +360,7 @@
             "15371040": {
                 "object": {
                     "nodegoat_id": "ngAH4E08mAxSkCRq4CT8kpxJbBu",
+                    "type_id": 12188,
                     "object_id": 15371040,
                     "object_name": "Deep past",
                     "object_name_plain": "Deep past",
