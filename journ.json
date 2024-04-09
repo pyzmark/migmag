@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-04-08T22:00:05+00:00",
+    "timestamp": "2024-04-09T22:00:07+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -11407,7 +11407,7 @@
                             12375535
                         ],
                         "object_definition_value": [
-                            "Pseudo-Hesiod F82",
+                            "Ps-Hesiod F82",
                             "Strabo 7.7.2"
                         ],
                         "object_definition_sources": [],
@@ -22811,7 +22811,7 @@
                             "Timaeos of Tauromenion FGrHist 566 f72",
                             "Stephanos of Byzantion s. v. Massalia",
                             "Strabo 6.1.1.",
-                            "Isocrates Archidamos 84",
+                            "Isokrates Archidamos 84",
                             "Hekataios FGrHist 1 f55",
                             "Thucydides 1.13.6",
                             "Athenaios Deipnosophistes 13.36",
@@ -27804,7 +27804,7 @@
                             14790722
                         ],
                         "object_definition_value": [
-                            "Pseudo-Hesiod Hes. Sh. 1. 1-30"
+                            "Ps-Hesiod Hes. Sh. 1. 1-30"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -37857,7 +37857,7 @@
                             "Timaeos of Tauromenion FGrHist 566 f72",
                             "Stephanos of Byzantion s. v. Massalia",
                             "Hekataios FGrHist 1 f55",
-                            "Isocrates Archidamos 84",
+                            "Isokrates Archidamos 84",
                             "Thucydides 1.13.6"
                         ],
                         "object_definition_sources": [],
@@ -41286,7 +41286,7 @@
                             "Antipater of Sidon Palatine Anthology 9.790",
                             "Antipater of Thessalonika Palatine Anthology 7.398",
                             "Arrian Anabasis  5.6.4",
-                            "Demon FGrHist 327 F17 On Proverbs",
+                            "Demon of Athens FGrHist 327 F17 On Proverbs",
                             "Ephoros BNJ 70 F103"
                         ],
                         "object_definition_sources": [],
@@ -47098,8 +47098,8 @@
                         ],
                         "object_definition_value": [
                             "Athenaios Deipnosophists 3.50, 96D-E.",
-                            "Demon FGrHist 327 F1 Atthis",
-                            "Demon FGrHist 327 F22 On Proverbs",
+                            "Demon of Athens FGrHist 327 F1 Atthis",
+                            "Demon of Athens FGrHist 327 F22 On Proverbs",
                             "Ephoros BNJ 70 F22"
                         ],
                         "object_definition_sources": [],
