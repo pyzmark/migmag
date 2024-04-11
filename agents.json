@@ -1,117 +1,9 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-04-10T22:00:04+00:00",
+    "timestamp": "2024-04-11T22:00:04+00:00",
     "authenticated": true,
     "data": {
         "objects": {
-            "11945191": {
-                "object": {
-                    "nodegoat_id": "ngZG9x18lAmRmAmR1ZS93owEaZN",
-                    "type_id": 12174,
-                    "object_id": 11945191,
-                    "object_name": "Herodotos",
-                    "object_name_plain": null,
-                    "object_name_style": [],
-                    "object_style": [],
-                    "object_sources": [],
-                    "object_version": "",
-                    "object_dating": "2021-11-24T16:49:19Z"
-                },
-                "object_definitions": {
-                    "35523": {
-                        "object_description_id": 35523,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "Herodotos",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35520": {
-                        "object_description_id": 35520,
-                        "object_definition_ref_object_id": 11945253,
-                        "object_definition_value": "Author",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35535": {
-                        "object_description_id": 35535,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "https://trismegistos.org/author/376",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35536": {
-                        "object_description_id": 35536,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "-485",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35537": {
-                        "object_description_id": 35537,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "-400",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35556": {
-                        "object_description_id": 35556,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35539": {
-                        "object_description_id": 35539,
-                        "object_definition_ref_object_id": 12150533,
-                        "object_definition_value": "Halikarnassos",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35540": {
-                        "object_description_id": 35540,
-                        "object_definition_ref_object_id": [
-                            11943325,
-                            12155698
-                        ],
-                        "object_definition_value": [
-                            "Athina",
-                            "Thourioi"
-                        ],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "59539": {
-                        "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    }
-                },
-                "object_subs": {
-                    "18403991": {
-                        "object_sub": {
-                            "object_sub_id": 18403991,
-                            "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-485",
-                            "object_sub_date_end": "-400",
-                            "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.420201, 37.042901]}",
-                            "object_sub_location_geometry_ref_object_id": 12150533,
-                            "object_sub_location_geometry_ref_type_id": 12160,
-                            "object_sub_location_ref_object_id": 0,
-                            "object_sub_location_ref_type_id": 0,
-                            "object_sub_location_ref_object_sub_details_id": 0,
-                            "object_sub_location_ref_object_name": "",
-                            "object_sub_location_type": null,
-                            "object_sub_sources": [],
-                            "object_sub_version": "",
-                            "object_sub_style": []
-                        },
-                        "object_sub_definitions": []
-                    }
-                }
-            },
             "12035292": {
                 "object": {
                     "nodegoat_id": "ngAH9u28mBnS7Bnq2Az0npxPbBO",
@@ -215,7 +107,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-01T13:29:15Z"
+                    "object_dating": "2024-04-11T19:16:31Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -242,7 +134,7 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-800",
+                        "object_definition_value": "-750",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -282,6 +174,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358374,
+                        "object_definition_value": "Western Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -295,7 +194,7 @@
                         "object_sub": {
                             "object_sub_id": 18403973,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-800",
+                            "object_sub_date_start": "-750",
                             "object_sub_date_end": "-700",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.141386999999998, 38.41719605]}",
@@ -325,7 +224,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-08T19:56:21Z"
+                    "object_dating": "2024-04-11T19:05:00Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -352,14 +251,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-480",
+                        "object_definition_value": "-490",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-422",
+                        "object_definition_value": "-420",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -388,10 +287,21 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358376,
+                        "object_definition_value": "Eastern Aegean",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358371
+                        ],
+                        "object_definition_value": [
+                            "Southern Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -401,8 +311,8 @@
                         "object_sub": {
                             "object_sub_id": 18403993,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-480",
-                            "object_sub_date_end": "-422",
+                            "object_sub_date_start": "-490",
+                            "object_sub_date_end": "-420",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [26.134788512222094, 38.37126281708609]}",
                             "object_sub_location_geometry_ref_object_id": 12042214,
@@ -431,7 +341,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:57:44Z"
+                    "object_dating": "2024-04-11T19:31:05Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -458,7 +368,7 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-197",
+                        "object_definition_value": "-138",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -490,6 +400,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358374,
+                        "object_definition_value": "Western Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -503,7 +420,7 @@
                         "object_sub": {
                             "object_sub_id": 18404027,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-197",
+                            "object_sub_date_start": "-138",
                             "object_sub_date_end": "-133",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.1483085, 38.108253]}",
@@ -533,7 +450,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-01T13:29:15Z"
+                    "object_dating": "2024-04-11T19:08:52Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -589,6 +506,13 @@
                         "object_description_id": 35540,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358376,
+                        "object_definition_value": "Eastern Aegean",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -737,7 +661,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:57:16Z"
+                    "object_dating": "2024-04-11T19:31:31Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -764,14 +688,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-550",
+                        "object_definition_value": "-570",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-450",
+                        "object_definition_value": "-478",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -796,6 +720,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358374,
+                        "object_definition_value": "Western Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -809,8 +740,8 @@
                         "object_sub": {
                             "object_sub_id": 18403984,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-550",
-                            "object_sub_date_end": "-450",
+                            "object_sub_date_start": "-570",
+                            "object_sub_date_end": "-478",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.1483085, 38.108253]}",
                             "object_sub_location_geometry_ref_object_id": 12042240,
@@ -1057,7 +988,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-01T13:29:15Z"
+                    "object_dating": "2024-04-11T19:16:51Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -1113,6 +1044,13 @@
                         "object_description_id": 35540,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358374,
+                        "object_definition_value": "Western Anatolia",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -1564,7 +1502,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:55:18Z"
+                    "object_dating": "2024-04-11T19:17:40Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -1591,14 +1529,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-580",
+                        "object_definition_value": "-599",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-485",
+                        "object_definition_value": "-500",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -1623,6 +1561,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358374,
+                        "object_definition_value": "Western Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -1636,8 +1581,8 @@
                         "object_sub": {
                             "object_sub_id": 18403979,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-580",
-                            "object_sub_date_end": "-485",
+                            "object_sub_date_start": "-599",
+                            "object_sub_date_end": "-500",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [26.785397, 38.185491]}",
                             "object_sub_location_geometry_ref_object_id": 12042278,
@@ -1768,7 +1713,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T16:49:07Z"
+                    "object_dating": "2024-04-11T19:39:26Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -1795,14 +1740,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-560",
+                        "object_definition_value": "-550",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-480",
+                        "object_definition_value": "-479",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -1827,6 +1772,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358374,
+                        "object_definition_value": "Western Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -1840,8 +1792,8 @@
                         "object_sub": {
                             "object_sub_id": 18403981,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-560",
-                            "object_sub_date_end": "-480",
+                            "object_sub_date_start": "-550",
+                            "object_sub_date_end": "-479",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.278316833332998, 37.522904733333]}",
                             "object_sub_location_geometry_ref_object_id": 12150543,
@@ -1972,7 +1924,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:54:32Z"
+                    "object_dating": "2024-04-11T19:25:11Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -2006,7 +1958,7 @@
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-400",
+                        "object_definition_value": "-425",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -2026,15 +1978,30 @@
                     },
                     "35540": {
                         "object_description_id": 35540,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11943325
+                        ],
+                        "object_definition_value": [
+                            "Athina"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358374,
+                        "object_definition_value": "Western Anatolia",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358371
+                        ],
+                        "object_definition_value": [
+                            "Southern Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -2045,7 +2012,7 @@
                             "object_sub_id": 18403990,
                             "object_sub_details_id": 13427,
                             "object_sub_date_start": "-485",
-                            "object_sub_date_end": "-400",
+                            "object_sub_date_end": "-425",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.420201, 37.042901]}",
                             "object_sub_location_geometry_ref_object_id": 12150533,
@@ -2074,7 +2041,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-17T20:35:25Z"
+                    "object_dating": "2024-04-11T19:32:05Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -2101,14 +2068,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "100",
+                        "object_definition_value": "-450",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "300",
+                        "object_definition_value": "-350",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -2133,6 +2100,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358374,
+                        "object_definition_value": "Western Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -2146,8 +2120,8 @@
                         "object_sub": {
                             "object_sub_id": 18404048,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "100",
-                            "object_sub_date_end": "300",
+                            "object_sub_date_start": "-450",
+                            "object_sub_date_end": "-350",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.1483085, 38.108253]}",
                             "object_sub_location_geometry_ref_object_id": 12042240,
@@ -2687,7 +2661,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-17T20:37:47Z"
+                    "object_dating": "2024-04-11T19:40:00Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -2714,14 +2688,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-800",
+                        "object_definition_value": "-599",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-700",
+                        "object_definition_value": "-400",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -2746,6 +2720,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358374,
+                        "object_definition_value": "Western Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -2759,8 +2740,8 @@
                         "object_sub": {
                             "object_sub_id": 18403970,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-800",
-                            "object_sub_date_end": "-700",
+                            "object_sub_date_start": "-599",
+                            "object_sub_date_end": "-400",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.278316833332998, 37.522904733333]}",
                             "object_sub_location_geometry_ref_object_id": 12150543,
@@ -2789,7 +2770,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-01T13:29:15Z"
+                    "object_dating": "2024-04-11T19:00:18Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -2816,14 +2797,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-30",
+                        "object_definition_value": "-50",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "010",
+                        "object_definition_value": "050",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -2848,6 +2829,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358372,
+                        "object_definition_value": "Central and northern Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -2861,8 +2849,8 @@
                         "object_sub": {
                             "object_sub_id": 18404037,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-30",
-                            "object_sub_date_end": "010",
+                            "object_sub_date_start": "-50",
+                            "object_sub_date_end": "050",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"GeometryCollection\", \"geometries\": [{\"type\": \"Polygon\", \"coordinates\": [[[38.25439453125, 39.09596293630547], [37.44140625, 39.20671884491848], [36.177978515625, 39.138581990583525], [33.99169921875, 38.865374851611634], [33.64013671875, 38.65119833229951], [32.76123046875, 38.36750215395045], [32.420654296875, 37.97884504049713], [32.10205078125, 37.67512527892127], [32.222900390625, 37.405073750176925], [32.98095703125, 37.29153547292737], [33.7939453125, 37.35269280367274], [34.617919921875, 37.53586597792038], [35.101318359375, 37.65773212628272], [35.61767578125, 37.76202988573211], [36.298828125, 37.97018468810549], [36.815185546875, 38.03078569382294], [37.276611328125, 38.12591462924157], [37.760009765625, 38.487994609214795], [38.16650390625, 38.77121637244273], [38.38623046875, 38.94232097947902], [38.353271484375, 39.06184913429154], [38.25439453125, 39.09596293630547]]]}]}",
                             "object_sub_location_geometry_ref_object_id": 12150522,
@@ -2891,7 +2879,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T16:48:18Z"
+                    "object_dating": "2024-04-11T19:24:04Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -2918,7 +2906,7 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-300",
+                        "object_definition_value": "-430",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -2950,6 +2938,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358374,
+                        "object_definition_value": "Western Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -2963,7 +2958,7 @@
                         "object_sub": {
                             "object_sub_id": 18404018,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-300",
+                            "object_sub_date_start": "-430",
                             "object_sub_date_end": "-200",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.339721999999995, 37.941944]}",
@@ -3299,7 +3294,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-01T13:29:15Z"
+                    "object_dating": "2024-04-11T19:09:24Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -3326,14 +3321,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-350",
+                        "object_definition_value": "-323",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-200",
+                        "object_definition_value": "225",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -3358,6 +3353,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358376,
+                        "object_definition_value": "Eastern Aegean",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -3371,8 +3373,8 @@
                         "object_sub": {
                             "object_sub_id": 18404014,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-350",
-                            "object_sub_date_end": "-200",
+                            "object_sub_date_start": "-323",
+                            "object_sub_date_end": "225",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": null,
                             "object_sub_location_geometry_ref_object_id": 0,
@@ -3605,7 +3607,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:51:59Z"
+                    "object_dating": "2024-04-11T19:10:40Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -3639,7 +3641,7 @@
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "200",
+                        "object_definition_value": "-200",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -3664,6 +3666,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358376,
+                        "object_definition_value": "Eastern Aegean",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -3678,7 +3687,7 @@
                             "object_sub_id": 18404023,
                             "object_sub_details_id": 13427,
                             "object_sub_date_start": "-230",
-                            "object_sub_date_end": "200",
+                            "object_sub_date_end": "-200",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": null,
                             "object_sub_location_geometry_ref_object_id": 0,
@@ -3707,7 +3716,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-01T13:29:15Z"
+                    "object_dating": "2024-04-11T19:15:28Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -3734,14 +3743,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-150",
+                        "object_definition_value": "-145",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-50",
+                        "object_definition_value": "-70",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -3766,6 +3775,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358375,
+                        "object_definition_value": "Northeastern Aegean",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -3779,8 +3795,8 @@
                         "object_sub": {
                             "object_sub_id": 18404028,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-150",
-                            "object_sub_date_end": "-50",
+                            "object_sub_date_start": "-145",
+                            "object_sub_date_end": "-70",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [26.688003000000002, 39.82554]}",
                             "object_sub_location_geometry_ref_object_id": 12150552,
@@ -3809,7 +3825,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:51:33Z"
+                    "object_dating": "2024-04-11T19:32:27Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -3843,7 +3859,7 @@
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-610",
+                        "object_definition_value": "-600",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -3868,6 +3884,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358377,
+                        "object_definition_value": "Western Aegean",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -3882,7 +3905,7 @@
                             "object_sub_id": 18403975,
                             "object_sub_details_id": 13427,
                             "object_sub_date_start": "-650",
-                            "object_sub_date_end": "-610",
+                            "object_sub_date_end": "-600",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.1483085, 38.108253]}",
                             "object_sub_location_geometry_ref_object_id": 12042240,
@@ -4227,7 +4250,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:50:40Z"
+                    "object_dating": "2024-04-11T18:33:17Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -4272,10 +4295,24 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "35539": {
+                        "object_description_id": 35539,
+                        "object_definition_ref_object_id": 12336542,
+                        "object_definition_value": "Laertes",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "35540": {
                         "object_description_id": 35540,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358373,
+                        "object_definition_value": "Southern Anatolia",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -4295,8 +4332,8 @@
                             "object_sub_date_start": "177",
                             "object_sub_date_end": "180",
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [30.465671, 36.435722]}",
-                            "object_sub_location_geometry_ref_object_id": 12150654,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [32.165512, 36.51049]}",
+                            "object_sub_location_geometry_ref_object_id": 12336542,
                             "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 0,
@@ -4432,7 +4469,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:50:09Z"
+                    "object_dating": "2024-04-11T18:58:00Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -4459,7 +4496,7 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-70",
+                        "object_definition_value": "-90",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -4495,10 +4532,21 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358372,
+                        "object_definition_value": "Central and northern Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358380
+                        ],
+                        "object_definition_value": [
+                            "Central Italy"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -4508,7 +4556,7 @@
                         "object_sub": {
                             "object_sub_id": 18404031,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-70",
+                            "object_sub_date_start": "-90",
                             "object_sub_date_end": "-10",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [29.714681666666998, 40.429093666667]}",
@@ -4538,7 +4586,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-12-07T16:20:39Z"
+                    "object_dating": "2024-04-11T19:37:38Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -4565,14 +4613,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "143",
+                        "object_definition_value": "110",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "176",
+                        "object_definition_value": "180",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -4607,10 +4655,23 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358374,
+                        "object_definition_value": "Western Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358380,
+                            18358371
+                        ],
+                        "object_definition_value": [
+                            "Central Italy",
+                            "Southern Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -4620,8 +4681,8 @@
                         "object_sub": {
                             "object_sub_id": 18404052,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "143",
-                            "object_sub_date_end": "176",
+                            "object_sub_date_start": "110",
+                            "object_sub_date_end": "180",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"GeometryCollection\", \"geometries\": [{\"type\": \"Polygon\", \"coordinates\": [[[27.608642578124996, 39.16839998800286], [27.322998046875, 39.10875135935859], [27.2406005859375, 38.80975079723835], [27.257080078125, 38.646908247760706], [27.2955322265625, 38.49229419236133], [27.344970703125004, 38.36750215395045], [27.449340820312496, 38.095659755295614], [27.4822998046875, 37.9051994823157], [27.6416015625, 37.80544394934271], [28.3447265625, 37.76637243960179], [28.6358642578125, 37.84015683604136], [28.899536132812504, 37.896530447543], [29.069824218749996, 37.90953361677018], [29.2620849609375, 38.10430528370985], [29.5587158203125, 38.28131307922966], [29.690551757812504, 38.37611542403604], [29.805908203125, 38.54816542304656], [29.915771484374996, 38.659777730712534], [29.888305664062496, 38.83542884007305], [29.756469726562496, 38.89103282648846], [29.701538085937496, 38.97222194853654], [29.46533203125, 39.08743603215884], [29.036865234375, 39.15136267949029], [28.685302734374996, 39.18117526158749], [28.328247070312504, 39.21097520599528], [28.004150390625, 39.20246222588238], [27.773437499999996, 39.20246222588238], [27.608642578124996, 39.16839998800286]]]}]}",
                             "object_sub_location_geometry_ref_object_id": 12150539,
@@ -4854,7 +4915,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T16:53:15Z"
+                    "object_dating": "2024-04-11T19:40:27Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -4881,7 +4942,7 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-400",
+                        "object_definition_value": "-350",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -4913,6 +4974,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358374,
+                        "object_definition_value": "Western Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -4926,7 +4994,7 @@
                         "object_sub": {
                             "object_sub_id": 18404006,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-400",
+                            "object_sub_date_start": "-350",
                             "object_sub_date_end": "-300",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.278316833332998, 37.522904733333]}",
@@ -5610,7 +5678,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:49:16Z"
+                    "object_dating": "2024-04-11T18:37:52Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -5637,7 +5705,7 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "161",
+                        "object_definition_value": "100",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -5673,10 +5741,21 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358372,
+                        "object_definition_value": "Central and northern Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358370
+                        ],
+                        "object_definition_value": [
+                            "Northern Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -5686,7 +5765,7 @@
                         "object_sub": {
                             "object_sub_id": 18404056,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "161",
+                            "object_sub_date_start": "100",
                             "object_sub_date_end": "180",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"GeometryCollection\", \"geometries\": [{\"type\": \"Polygon\", \"coordinates\": [[[29.091796875, 41.19518982948959], [28.992919921875004, 41.09591205639546], [29.102783203125, 40.93841495689795], [29.245605468749996, 40.86367966548168], [29.33349609375, 40.81380923056958], [29.487304687499996, 40.78054143186033], [29.410400390625, 40.72228267283148], [29.190673828124996, 40.6723059714534], [28.992919921875004, 40.6306300839918], [28.937988281249996, 40.61395244116659], [28.7841796875, 40.55554790286311], [28.883056640625, 40.455307212131494], [29.014892578125, 40.455307212131494], [29.0478515625, 40.40513069752789], [28.883056640625, 40.38002840251183], [28.685302734374996, 40.38002840251183], [28.828124999999993, 40.195659093364654], [29.02587890625, 39.99395569397331], [29.355468750000007, 39.87601941962116], [29.487304687499996, 39.93501296038254], [29.827880859374996, 39.93501296038254], [30.025634765625, 39.93501296038254], [30.234375, 39.9602803542957], [30.47607421875, 39.9602803542957], [30.794677734375, 40.04443758460856], [31.003417968749996, 40.07807142745009], [31.146240234375004, 40.07807142745009], [31.387939453125, 40.07807142745009], [31.585693359375004, 40.07807142745009], [31.728515624999996, 40.094882122321145], [31.893310546875, 40.212440718286466], [32.091064453125, 40.38002840251183], [32.156982421875, 40.6306300839918], [32.18994140625, 40.763901280945866], [32.266845703125, 40.96330795307353], [32.32177734374999, 41.02964338716638], [32.420654296875, 41.11246878918088], [32.6513671875, 41.19518982948959], [33.0029296875, 41.28606238749825], [33.33251953125, 41.33557597312392], [33.59619140624999, 41.33557597312392], [33.662109375, 41.343824581185686], [34.03564453125, 41.376808565702355], [34.310302734375, 41.4509614012039], [34.464111328125, 41.4509614012039], [34.881591796875, 41.376808565702355], [35.299072265625, 41.269549502842565], [35.562744140625, 41.269549502842565], [35.77148437499999, 41.31082388091818], [35.9912109375, 41.3850519497068], [36.090087890625, 41.566141964768384], [36.002197265625, 41.73033005046653], [35.88134765625, 41.73033005046653], [35.68359375, 41.63186741069748], [35.5078125, 41.65649719441145], [35.244140625, 41.75492216766298], [35.13427734375, 41.86137915587359], [35.1123046875, 41.91045347666418], [35.1123046875, 41.96765920367816], [35.15625, 42.00032514831621], [35.2001953125, 42.04113400940807], [35.1123046875, 42.04929263868683], [34.991455078125, 42.09007006868398], [34.859619140625, 42.01665183556825], [34.617919921875, 41.95131994679697], [34.288330078125, 41.96765920367816], [33.848876953125, 41.9921602333763], [33.47534179687499, 42.00848901572399], [33.33251953125, 42.032974332441405], [33.0029296875, 41.92680320648791], [32.552490234375, 41.81226714359981], [32.025146484375, 41.60722821271717], [31.70654296875, 41.43449030894922], [31.4208984375, 41.343824581185686], [31.387939453125, 41.16211393939692], [31.157226562499996, 41.062786068733026], [30.596923828125, 41.1290213474951], [30.201416015625004, 41.21172151054787], [29.970703124999993, 41.1455697310095], [29.355468750000007, 41.22824901518529], [29.190673828124996, 41.22824901518529], [29.091796875, 41.19518982948959]]]}]}",
@@ -6215,7 +6294,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-01T13:29:15Z"
+                    "object_dating": "2024-04-11T19:17:14Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -6242,14 +6321,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "350",
+                        "object_definition_value": "300",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "400",
+                        "object_definition_value": "399",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -6274,6 +6353,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358374,
+                        "object_definition_value": "Western Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -6287,8 +6373,8 @@
                         "object_sub": {
                             "object_sub_id": 18404065,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "350",
-                            "object_sub_date_end": "400",
+                            "object_sub_date_start": "300",
+                            "object_sub_date_end": "399",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.141386999999998, 38.41719605]}",
                             "object_sub_location_geometry_ref_object_id": 12042264,
@@ -7408,7 +7494,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-12-07T15:06:29Z"
+                    "object_dating": "2024-04-11T18:37:08Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -7442,7 +7528,7 @@
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "021",
+                        "object_definition_value": "024",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -7477,10 +7563,25 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358372,
+                        "object_definition_value": "Central and northern Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358380,
+                            18358379,
+                            18358369
+                        ],
+                        "object_definition_value": [
+                            "Central Italy",
+                            "North Africa",
+                            "Central Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -7491,7 +7592,7 @@
                             "object_sub_id": 18404032,
                             "object_sub_details_id": 13427,
                             "object_sub_date_start": "-64",
-                            "object_sub_date_end": "021",
+                            "object_sub_date_end": "024",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [35.82794385, 40.66680835]}",
                             "object_sub_location_geometry_ref_object_id": 12150516,
@@ -7520,7 +7621,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-18T12:25:19Z"
+                    "object_dating": "2024-04-11T18:50:35Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -7576,6 +7677,13 @@
                         "object_description_id": 35540,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358375,
+                        "object_definition_value": "Northeastern Aegean",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -7724,7 +7832,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-01T13:29:15Z"
+                    "object_dating": "2024-04-11T19:36:16Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -7751,14 +7859,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-200",
+                        "object_definition_value": "-299",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "200",
+                        "object_definition_value": "-200",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -7769,17 +7877,39 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "35539": {
+                        "object_description_id": 35539,
+                        "object_definition_ref_object_id": 12433936,
+                        "object_definition_value": "Egypt",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "35540": {
                         "object_description_id": 35540,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            12336555
+                        ],
+                        "object_definition_value": [
+                            "Herakleia on the Latmos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358379,
+                        "object_definition_value": "North Africa",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358374
+                        ],
+                        "object_definition_value": [
+                            "Western Anatolia"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -7789,12 +7919,12 @@
                         "object_sub": {
                             "object_sub_id": 18404025,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-200",
-                            "object_sub_date_end": "200",
+                            "object_sub_date_start": "-299",
+                            "object_sub_date_end": "-200",
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": null,
-                            "object_sub_location_geometry_ref_object_id": null,
-                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_geometry": "{\"type\": \"GeometryCollection\", \"geometries\": [{\"type\": \"Polygon\", \"coordinates\": [[[32.508544921875, 31.052933985705163], [32.222900390625, 31.3348710339506], [31.904296874999996, 31.49426181553272], [30.860595703125, 31.606609719226913], [30.102539062499993, 31.40053532686393], [29.630126953125004, 31.25037814985571], [29.256591796874996, 30.93050081760779], [29.113769531250004, 30.6662659463233], [29.311523437499996, 30.38235321766959], [29.783935546874993, 29.88828093315927], [29.838867187500004, 29.410890376109], [30.091552734375, 28.53627451298992], [30.355224609375, 27.761329874505233], [30.893554687500004, 26.588527147308618], [31.201171875, 26.391869671769022], [31.904296874999996, 25.829561086053506], [32.354736328125, 25.651430347039724], [32.2998046875, 25.16517336866393], [32.45361328125, 24.37712083961039], [32.62939453125, 23.79539759797875], [32.98095703125, 23.614328594991676], [33.23364257812499, 23.68477416688374], [33.277587890625, 24.50714328310284], [33.409423828125, 24.98605802116759], [33.255615234375, 25.85922355476141], [33.101806640625, 26.303264239389534], [32.51953125, 26.61799672211676], [32.091064453125, 26.853479438420024], [31.761474609375, 27.28392560022976], [31.530761718750004, 27.9361805667694], [31.4208984375, 28.381735043223077], [31.44287109375, 28.84467368077179], [31.585693359375004, 29.152161283318915], [32.08007812499999, 29.382175075145295], [32.36572265625, 29.592565403314087], [32.508544921875, 29.869228848968312], [32.794189453125, 29.9834867184747], [33.101806640625, 30.240086360983423], [33.211669921875, 30.779598396611537], [33.145751953125, 31.024694128525137], [33.079833984375, 31.128199299111962], [32.508544921875, 31.052933985705163]]]}]}",
+                            "object_sub_location_geometry_ref_object_id": 12433936,
+                            "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 0,
                             "object_sub_location_ref_object_sub_details_id": 0,
@@ -7921,7 +8051,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-01T13:29:15Z"
+                    "object_dating": "2024-04-11T19:03:23Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -7980,6 +8110,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358375,
+                        "object_definition_value": "Northeastern Aegean",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -8023,7 +8160,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:46:27Z"
+                    "object_dating": "2024-04-11T19:05:55Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -8050,14 +8187,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-400",
+                        "object_definition_value": "-380",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-300",
+                        "object_definition_value": "-315",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -8082,6 +8219,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358376,
+                        "object_definition_value": "Eastern Aegean",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -8095,8 +8239,8 @@
                         "object_sub": {
                             "object_sub_id": 18404005,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-400",
-                            "object_sub_date_end": "-300",
+                            "object_sub_date_start": "-380",
+                            "object_sub_date_end": "-315",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [26.134788512222094, 38.37126281708609]}",
                             "object_sub_location_geometry_ref_object_id": 12042214,
@@ -8237,7 +8381,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-12-08T10:20:08Z"
+                    "object_dating": "2024-04-11T19:34:55Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -8282,14 +8426,24 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "35539": {
+                        "object_description_id": 35539,
+                        "object_definition_ref_object_id": 12150527,
+                        "object_definition_value": "Konstantinopolis - Istanbul",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "35540": {
                         "object_description_id": 35540,
-                        "object_definition_ref_object_id": [
-                            12150527
-                        ],
-                        "object_definition_value": [
-                            "Konstantinopolis - Istanbul"
-                        ],
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358375,
+                        "object_definition_value": "Northeastern Aegean",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -8309,9 +8463,9 @@
                             "object_sub_date_start": "1110",
                             "object_sub_date_end": "1185",
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": null,
-                            "object_sub_location_geometry_ref_object_id": null,
-                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [28.961291608299003, 41.00779080957]}",
+                            "object_sub_location_geometry_ref_object_id": 12150527,
+                            "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 0,
                             "object_sub_location_ref_object_sub_details_id": 0,
@@ -8540,7 +8694,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-01T13:29:15Z"
+                    "object_dating": "2024-04-11T19:38:28Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -8567,14 +8721,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-470",
+                        "object_definition_value": "-499",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-430",
+                        "object_definition_value": "-400",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -8599,6 +8753,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358374,
+                        "object_definition_value": "Western Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -8612,8 +8773,8 @@
                         "object_sub": {
                             "object_sub_id": 18403994,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-470",
-                            "object_sub_date_end": "-430",
+                            "object_sub_date_start": "-499",
+                            "object_sub_date_end": "-400",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"GeometryCollection\", \"geometries\": [{\"type\": \"Polygon\", \"coordinates\": [[[27.608642578124996, 39.16839998800286], [27.322998046875, 39.10875135935859], [27.2406005859375, 38.80975079723835], [27.257080078125, 38.646908247760706], [27.2955322265625, 38.49229419236133], [27.344970703125004, 38.36750215395045], [27.449340820312496, 38.095659755295614], [27.4822998046875, 37.9051994823157], [27.6416015625, 37.80544394934271], [28.3447265625, 37.76637243960179], [28.6358642578125, 37.84015683604136], [28.899536132812504, 37.896530447543], [29.069824218749996, 37.90953361677018], [29.2620849609375, 38.10430528370985], [29.5587158203125, 38.28131307922966], [29.690551757812504, 38.37611542403604], [29.805908203125, 38.54816542304656], [29.915771484374996, 38.659777730712534], [29.888305664062496, 38.83542884007305], [29.756469726562496, 38.89103282648846], [29.701538085937496, 38.97222194853654], [29.46533203125, 39.08743603215884], [29.036865234375, 39.15136267949029], [28.685302734374996, 39.18117526158749], [28.328247070312504, 39.21097520599528], [28.004150390625, 39.20246222588238], [27.773437499999996, 39.20246222588238], [27.608642578124996, 39.16839998800286]]]}]}",
                             "object_sub_location_geometry_ref_object_id": 12150539,
@@ -8642,7 +8803,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-01T13:29:15Z"
+                    "object_dating": "2024-04-11T19:07:14Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -8698,6 +8859,13 @@
                         "object_description_id": 35540,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358376,
+                        "object_definition_value": "Eastern Aegean",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -8846,7 +9014,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:37:17Z"
+                    "object_dating": "2024-04-11T19:38:57Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -8873,14 +9041,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-400",
+                        "object_definition_value": "-325",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-300",
+                        "object_definition_value": "-275",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -8905,6 +9073,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358374,
+                        "object_definition_value": "Western Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -8918,8 +9093,8 @@
                         "object_sub": {
                             "object_sub_id": 18404003,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-400",
-                            "object_sub_date_end": "-300",
+                            "object_sub_date_start": "-325",
+                            "object_sub_date_end": "-275",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.518987, 37.848006]}",
                             "object_sub_location_geometry_ref_object_id": 12150541,
@@ -8948,7 +9123,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:36:54Z"
+                    "object_dating": "2024-04-11T18:49:21Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -8975,14 +9150,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "500",
+                        "object_definition_value": "450",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "600",
+                        "object_definition_value": "499",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -9007,6 +9182,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358375,
+                        "object_definition_value": "Northeastern Aegean",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -9020,8 +9202,8 @@
                         "object_sub": {
                             "object_sub_id": 18404068,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "500",
-                            "object_sub_date_end": "600",
+                            "object_sub_date_start": "450",
+                            "object_sub_date_end": "499",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [28.961291608299003, 41.00779080957]}",
                             "object_sub_location_geometry_ref_object_id": 12150527,
@@ -9050,7 +9232,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:36:15Z"
+                    "object_dating": "2024-04-11T19:11:05Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -9077,14 +9259,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-450",
+                        "object_definition_value": "-499",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-350",
+                        "object_definition_value": "-399",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -9109,6 +9291,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358376,
+                        "object_definition_value": "Eastern Aegean",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -9122,8 +9311,8 @@
                         "object_sub": {
                             "object_sub_id": 18577340,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-450",
-                            "object_sub_date_end": "-350",
+                            "object_sub_date_start": "-499",
+                            "object_sub_date_end": "-399",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": null,
                             "object_sub_location_geometry_ref_object_id": 0,
@@ -9152,7 +9341,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-28T19:32:34Z"
+                    "object_dating": "2024-04-11T19:25:34Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -9179,14 +9368,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-425",
+                        "object_definition_value": "-399",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-350",
+                        "object_definition_value": "-300",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -9211,6 +9400,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358374,
+                        "object_definition_value": "Western Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -9219,7 +9415,29 @@
                         "object_definition_style": []
                     }
                 },
-                "object_subs": []
+                "object_subs": {
+                    "23724263": {
+                        "object_sub": {
+                            "object_sub_id": 23724263,
+                            "object_sub_details_id": 13427,
+                            "object_sub_date_start": "-399",
+                            "object_sub_date_end": "-300",
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.420201, 37.042901]}",
+                            "object_sub_location_geometry_ref_object_id": 12150533,
+                            "object_sub_location_geometry_ref_type_id": 12160,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 12160,
+                            "object_sub_location_ref_object_sub_details_id": 13068,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": "reference",
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
             },
             "12336558": {
                 "object": {
@@ -9232,7 +9450,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:14:00Z"
+                    "object_dating": "2024-04-11T19:18:02Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -9259,7 +9477,7 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-800",
+                        "object_definition_value": "-699",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -9291,6 +9509,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358374,
+                        "object_definition_value": "Western Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -9304,7 +9529,7 @@
                         "object_sub": {
                             "object_sub_id": 18576692,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-800",
+                            "object_sub_date_start": "-699",
                             "object_sub_date_end": "-600",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [26.785397, 38.185491]}",
@@ -9877,7 +10102,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:24:50Z"
+                    "object_dating": "2024-04-11T18:34:15Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -9933,6 +10158,13 @@
                         "object_description_id": 35540,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358373,
+                        "object_definition_value": "Southern Anatolia",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -10078,7 +10310,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:25:01Z"
+                    "object_dating": "2024-04-11T19:07:47Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -10137,6 +10369,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358375,
+                        "object_definition_value": "Northeastern Aegean",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -10180,7 +10419,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-03-12T15:27:29Z"
+                    "object_dating": "2024-04-11T19:23:25Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -10207,14 +10446,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-350",
+                        "object_definition_value": "-375",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-280",
+                        "object_definition_value": "-301",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -10227,8 +10466,8 @@
                     },
                     "35539": {
                         "object_description_id": 35539,
-                        "object_definition_ref_object_id": 12042254,
-                        "object_definition_value": "Phokaia",
+                        "object_definition_ref_object_id": 12336513,
+                        "object_definition_value": "Kassandreia",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -10239,10 +10478,24 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358370,
+                        "object_definition_value": "Northern Greece",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Not native of Kassandreia as it was founded too late, but there is doubt as to hometown, BNJ suggests it is in the Chalkidike somewhere",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -10252,11 +10505,11 @@
                         "object_sub": {
                             "object_sub_id": 18576701,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-350",
-                            "object_sub_date_end": "-280",
+                            "object_sub_date_start": "-375",
+                            "object_sub_date_end": "-301",
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [26.752984, 38.6703365]}",
-                            "object_sub_location_geometry_ref_object_id": 12042254,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [23.327812, 40.193696]}",
+                            "object_sub_location_geometry_ref_object_id": 12336513,
                             "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 12160,
@@ -10282,7 +10535,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-28T19:23:25Z"
+                    "object_dating": "2024-04-11T19:40:52Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -10316,7 +10569,7 @@
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-100",
+                        "object_definition_value": "-200",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -10341,6 +10594,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358374,
+                        "object_definition_value": "Western Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -10349,7 +10609,29 @@
                         "object_definition_style": []
                     }
                 },
-                "object_subs": []
+                "object_subs": {
+                    "23724264": {
+                        "object_sub": {
+                            "object_sub_id": 23724264,
+                            "object_sub_details_id": 13427,
+                            "object_sub_date_start": "-300",
+                            "object_sub_date_end": "-200",
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.278316833332998, 37.522904733333]}",
+                            "object_sub_location_geometry_ref_object_id": 12150543,
+                            "object_sub_location_geometry_ref_type_id": 12160,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 12160,
+                            "object_sub_location_ref_object_sub_details_id": 13068,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": "reference",
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
             },
             "12336570": {
                 "object": {
@@ -10578,7 +10860,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-28T19:22:27Z"
+                    "object_dating": "2024-04-11T18:58:31Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -10605,14 +10887,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "092",
+                        "object_definition_value": "086",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "175",
+                        "object_definition_value": "160",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -10637,6 +10919,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358372,
+                        "object_definition_value": "Central and northern Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -10645,7 +10934,29 @@
                         "object_definition_style": []
                     }
                 },
-                "object_subs": []
+                "object_subs": {
+                    "23724261": {
+                        "object_sub": {
+                            "object_sub_id": 23724261,
+                            "object_sub_details_id": 13427,
+                            "object_sub_date_start": "086",
+                            "object_sub_date_end": "160",
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [29.93341556090309, 40.76694971433849]}",
+                            "object_sub_location_geometry_ref_object_id": 12336529,
+                            "object_sub_location_geometry_ref_type_id": 12160,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 12160,
+                            "object_sub_location_ref_object_sub_details_id": 13068,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": "reference",
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
             },
             "12336573": {
                 "object": {
@@ -10658,7 +10969,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:26:37Z"
+                    "object_dating": "2024-04-11T19:11:27Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -10717,6 +11028,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358376,
+                        "object_definition_value": "Eastern Aegean",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -10760,7 +11078,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:15:42Z"
+                    "object_dating": "2024-04-11T19:11:45Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -10816,6 +11134,13 @@
                         "object_description_id": 35540,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358376,
+                        "object_definition_value": "Eastern Aegean",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -10964,7 +11289,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-28T19:19:14Z"
+                    "object_dating": "2024-04-11T19:19:17Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -10991,14 +11316,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-600",
+                        "object_definition_value": "-599",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-550",
+                        "object_definition_value": "-500",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -11023,6 +11348,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358374,
+                        "object_definition_value": "Western Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -11031,7 +11363,29 @@
                         "object_definition_style": []
                     }
                 },
-                "object_subs": []
+                "object_subs": {
+                    "23724262": {
+                        "object_sub": {
+                            "object_sub_id": 23724262,
+                            "object_sub_details_id": 13427,
+                            "object_sub_date_start": "-599",
+                            "object_sub_date_end": "-500",
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.298333, 37.66]}",
+                            "object_sub_location_geometry_ref_object_id": 12042262,
+                            "object_sub_location_geometry_ref_type_id": 12160,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 12160,
+                            "object_sub_location_ref_object_sub_details_id": 13068,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": "reference",
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
             },
             "12336577": {
                 "object": {
@@ -11152,7 +11506,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:27:48Z"
+                    "object_dating": "2024-04-11T19:24:25Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -11208,6 +11562,13 @@
                         "object_description_id": 35540,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358374,
+                        "object_definition_value": "Western Anatolia",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -11364,7 +11725,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T16:49:56Z"
+                    "object_dating": "2024-04-11T18:23:24Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -11391,7 +11752,7 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-150",
+                        "object_definition_value": "-99",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -11423,6 +11784,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358376,
+                        "object_definition_value": "Eastern Aegean",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -11436,7 +11804,7 @@
                         "object_sub": {
                             "object_sub_id": 18545098,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-150",
+                            "object_sub_date_start": "-99",
                             "object_sub_date_end": "-50",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"GeometryCollection\", \"geometries\": [{\"type\": \"Polygon\", \"coordinates\": [[[28.221130371093746, 36.45221769643571], [28.195037841796875, 36.436751611390264], [28.17306518554687, 36.4223874864237], [28.149719238281243, 36.4223874864237], [28.108520507812496, 36.410231151040215], [28.057708740234375, 36.39696752441776], [28.01651000976563, 36.379279167407965], [27.97531127929687, 36.366010258936925], [27.94647216796875, 36.34942094089192], [27.912139892578125, 36.34057185894721], [27.879180908203125, 36.32618995618608], [27.85858154296875, 36.30073854794736], [27.8118896484375, 36.27860013544234], [27.799530029296875, 36.255348043040904], [27.77755737304688, 36.23319675732526], [27.770690917968754, 36.19884985954492], [27.745971679687496, 36.18887535558557], [27.71026611328125, 36.16892253622743], [27.6800537109375, 36.153400163891945], [27.691040039062504, 36.14896463588831], [27.700653076171875, 36.130110843400146], [27.714385986328125, 36.11236195924294], [27.73773193359375, 36.107924111286465], [27.75970458984374, 36.09017021216552], [27.754211425781246, 36.04798862759408], [27.739105224609375, 36.00467348670187], [27.7349853515625, 35.97356075349624], [27.715759277343746, 35.951329861522666], [27.726745605468743, 35.930204718146754], [27.739105224609375, 35.9146352101371], [27.755584716796875, 35.902399875143615], [27.787170410156246, 35.891275201659134], [27.80364990234375, 35.90017506551962], [27.828369140625, 35.913522985137384], [27.850341796875004, 35.92464453144099], [27.879180908203125, 35.94799468798152], [27.89566040039062, 35.968003617226884], [27.906646728515625, 35.991340960635405], [27.92312622070313, 36.02133597448135], [27.94784545898437, 36.039105412048464], [27.97393798828125, 36.0513195750255], [28.011016845703125, 36.06575205170711], [28.03024291992188, 36.071302299422406], [28.048095703124996, 36.06908224732973], [28.05908203125, 36.061311571582486], [28.074188232421875, 36.053540128339755], [28.07968139648437, 36.05798104702501], [28.07281494140625, 36.07685215551436], [28.086547851562496, 36.0857311106239], [28.09341430664062, 36.09349937380574], [28.07830810546875, 36.107924111286465], [28.0645751953125, 36.12678323326426], [28.086547851562496, 36.155617833818525], [28.104400634765625, 36.17557404062257], [28.12362670898438, 36.18555023858626], [28.1304931640625, 36.18998369654791], [28.14697265625, 36.20549882293361], [28.155212402343754, 36.217687122250574], [28.164825439453125, 36.234304470709226], [28.17169189453125, 36.24316561280259], [28.1744384765625, 36.25202575042051], [28.1744384765625, 36.28081425933677], [28.19229125976562, 36.31401858021655], [28.2183837890625, 36.33614694088851], [28.221130371093746, 36.358269017192455], [28.236236572265625, 36.3693276982337], [28.2513427734375, 36.39033486213649], [28.236236572265625, 36.40249431065168], [28.23348999023437, 36.41907231092499], [28.23760986328125, 36.43343704922667], [28.234863281250004, 36.44227556709968], [28.221130371093746, 36.45221769643571]]]}]}",
@@ -11466,7 +11834,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:29:32Z"
+                    "object_dating": "2024-04-11T18:34:47Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -11522,6 +11890,13 @@
                         "object_description_id": 35540,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358373,
+                        "object_definition_value": "Southern Anatolia",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -11676,7 +12051,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T16:50:07Z"
+                    "object_dating": "2024-04-11T19:41:25Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -11703,14 +12078,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-450",
+                        "object_definition_value": "-399",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-350",
+                        "object_definition_value": "-250",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -11735,6 +12110,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358374,
+                        "object_definition_value": "Western Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -11748,8 +12130,8 @@
                         "object_sub": {
                             "object_sub_id": 18545097,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-450",
-                            "object_sub_date_end": "-350",
+                            "object_sub_date_start": "-399",
+                            "object_sub_date_end": "-250",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.278316833332998, 37.522904733333]}",
                             "object_sub_location_geometry_ref_object_id": 12150543,
@@ -12068,7 +12450,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:24:24Z"
+                    "object_dating": "2024-04-11T18:33:47Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -12124,6 +12506,13 @@
                         "object_description_id": 35540,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358373,
+                        "object_definition_value": "Southern Anatolia",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -12250,7 +12639,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-12-07T15:29:06Z"
+                    "object_dating": "2024-04-11T19:26:03Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -12277,14 +12666,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-30",
+                        "object_definition_value": "-60",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "020",
+                        "object_definition_value": "7",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -12313,10 +12702,21 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358374,
+                        "object_definition_value": "Western Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358380
+                        ],
+                        "object_definition_value": [
+                            "Central Italy"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -12326,8 +12726,8 @@
                         "object_sub": {
                             "object_sub_id": 18576709,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-30",
-                            "object_sub_date_end": "020",
+                            "object_sub_date_start": "-60",
+                            "object_sub_date_end": "7",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.420201, 37.042901]}",
                             "object_sub_location_geometry_ref_object_id": 12150533,
@@ -12356,7 +12756,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:33:59Z"
+                    "object_dating": "2024-04-11T19:12:07Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -12390,7 +12790,7 @@
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-281",
+                        "object_definition_value": "-275",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -12415,6 +12815,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358376,
+                        "object_definition_value": "Eastern Aegean",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -12429,7 +12836,7 @@
                             "object_sub_id": 18576710,
                             "object_sub_details_id": 13427,
                             "object_sub_date_start": "-350",
-                            "object_sub_date_end": "-281",
+                            "object_sub_date_end": "-275",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": null,
                             "object_sub_location_geometry_ref_object_id": 0,
@@ -12458,7 +12865,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:34:12Z"
+                    "object_dating": "2024-04-11T19:38:02Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -12485,7 +12892,7 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-405",
+                        "object_definition_value": "-400",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -12517,6 +12924,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358374,
+                        "object_definition_value": "Western Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -12530,7 +12944,7 @@
                         "object_sub": {
                             "object_sub_id": 18576711,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-405",
+                            "object_sub_date_start": "-400",
                             "object_sub_date_end": "-330",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [26.939218500000003, 38.760689]}",
@@ -12640,7 +13054,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-17T20:34:46Z"
+                    "object_dating": "2024-04-11T18:29:18Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -12667,14 +13081,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "100",
+                        "object_definition_value": "-100",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "300",
+                        "object_definition_value": "-200",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -12703,10 +13117,21 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358376,
+                        "object_definition_value": "Eastern Aegean",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358374
+                        ],
+                        "object_definition_value": [
+                            "Western Anatolia"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -12716,8 +13141,8 @@
                         "object_sub": {
                             "object_sub_id": 18545100,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "100",
-                            "object_sub_date_end": "300",
+                            "object_sub_date_start": "-100",
+                            "object_sub_date_end": "-200",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"GeometryCollection\", \"geometries\": [{\"type\": \"Polygon\", \"coordinates\": [[[28.221130371093746, 36.45221769643571], [28.195037841796875, 36.436751611390264], [28.17306518554687, 36.4223874864237], [28.149719238281243, 36.4223874864237], [28.108520507812496, 36.410231151040215], [28.057708740234375, 36.39696752441776], [28.01651000976563, 36.379279167407965], [27.97531127929687, 36.366010258936925], [27.94647216796875, 36.34942094089192], [27.912139892578125, 36.34057185894721], [27.879180908203125, 36.32618995618608], [27.85858154296875, 36.30073854794736], [27.8118896484375, 36.27860013544234], [27.799530029296875, 36.255348043040904], [27.77755737304688, 36.23319675732526], [27.770690917968754, 36.19884985954492], [27.745971679687496, 36.18887535558557], [27.71026611328125, 36.16892253622743], [27.6800537109375, 36.153400163891945], [27.691040039062504, 36.14896463588831], [27.700653076171875, 36.130110843400146], [27.714385986328125, 36.11236195924294], [27.73773193359375, 36.107924111286465], [27.75970458984374, 36.09017021216552], [27.754211425781246, 36.04798862759408], [27.739105224609375, 36.00467348670187], [27.7349853515625, 35.97356075349624], [27.715759277343746, 35.951329861522666], [27.726745605468743, 35.930204718146754], [27.739105224609375, 35.9146352101371], [27.755584716796875, 35.902399875143615], [27.787170410156246, 35.891275201659134], [27.80364990234375, 35.90017506551962], [27.828369140625, 35.913522985137384], [27.850341796875004, 35.92464453144099], [27.879180908203125, 35.94799468798152], [27.89566040039062, 35.968003617226884], [27.906646728515625, 35.991340960635405], [27.92312622070313, 36.02133597448135], [27.94784545898437, 36.039105412048464], [27.97393798828125, 36.0513195750255], [28.011016845703125, 36.06575205170711], [28.03024291992188, 36.071302299422406], [28.048095703124996, 36.06908224732973], [28.05908203125, 36.061311571582486], [28.074188232421875, 36.053540128339755], [28.07968139648437, 36.05798104702501], [28.07281494140625, 36.07685215551436], [28.086547851562496, 36.0857311106239], [28.09341430664062, 36.09349937380574], [28.07830810546875, 36.107924111286465], [28.0645751953125, 36.12678323326426], [28.086547851562496, 36.155617833818525], [28.104400634765625, 36.17557404062257], [28.12362670898438, 36.18555023858626], [28.1304931640625, 36.18998369654791], [28.14697265625, 36.20549882293361], [28.155212402343754, 36.217687122250574], [28.164825439453125, 36.234304470709226], [28.17169189453125, 36.24316561280259], [28.1744384765625, 36.25202575042051], [28.1744384765625, 36.28081425933677], [28.19229125976562, 36.31401858021655], [28.2183837890625, 36.33614694088851], [28.221130371093746, 36.358269017192455], [28.236236572265625, 36.3693276982337], [28.2513427734375, 36.39033486213649], [28.236236572265625, 36.40249431065168], [28.23348999023437, 36.41907231092499], [28.23760986328125, 36.43343704922667], [28.234863281250004, 36.44227556709968], [28.221130371093746, 36.45221769643571]]]}]}",
                             "object_sub_location_geometry_ref_object_id": 12150549,
@@ -13034,7 +13459,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-12-08T10:21:00Z"
+                    "object_dating": "2024-04-11T18:45:46Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -13097,6 +13522,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358375,
+                        "object_definition_value": "Northeastern Aegean",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -13140,7 +13572,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:35:14Z"
+                    "object_dating": "2024-04-11T19:03:54Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -13167,14 +13599,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-460",
+                        "object_definition_value": "-495",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-400",
+                        "object_definition_value": "-405",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -13199,6 +13631,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358375,
+                        "object_definition_value": "Northeastern Aegean",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -13212,8 +13651,8 @@
                         "object_sub": {
                             "object_sub_id": 18577337,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-460",
-                            "object_sub_date_end": "-400",
+                            "object_sub_date_start": "-495",
+                            "object_sub_date_end": "-405",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"GeometryCollection\", \"geometries\": [{\"type\": \"Polygon\", \"coordinates\": [[[26.2518310546875, 39.38207950167204], [26.20651245117187, 39.38101803294523], [26.180419921875, 39.38101803294523], [26.16806030273438, 39.37677199661635], [26.159820556640625, 39.35553794109382], [26.174926757812504, 39.335359608681216], [26.128234863281246, 39.32155002466662], [26.11862182617187, 39.310925412127155], [26.070556640625, 39.308800296002914], [26.044464111328125, 39.29498546816049], [26.01287841796875, 39.29285986803579], [25.992279052734375, 39.2832938689385], [25.96893310546875, 39.2832938689385], [25.94146728515625, 39.28223089949212], [25.91949462890625, 39.29179704377487], [25.896148681640625, 39.287545585410435], [25.857696533203125, 39.26628442213066], [25.85357666015625, 39.23969889541686], [25.8453369140625, 39.216295294574024], [25.843963623046868, 39.18862643257856], [25.852203369140625, 39.17691709496078], [25.86318969726562, 39.15668728161543], [25.885162353515625, 39.150297710716686], [25.8892822265625, 39.142842478062505], [25.9112548828125, 39.14071226655259], [25.934600830078125, 39.13006024213511], [25.948333740234375, 39.11621020143469], [25.95657348632813, 39.102357437817595], [25.99090576171875, 39.105554471086165], [26.034851074218746, 39.10022600175347], [26.070556640625, 39.09063374203144], [26.085662841796875, 39.091699613104595], [26.096649169921875, 39.11088253765179], [26.107635498046875, 39.11088253765179], [26.11724853515625, 39.13432124527173], [26.13235473632812, 39.14177738036501], [26.158447265625, 39.15775215369096], [26.161193847656246, 39.18117526158749], [26.19277954101562, 39.19714108934392], [26.229858398437496, 39.20139803081811], [26.26144409179688, 39.20246222588238], [26.279296874999996, 39.193948213963665], [26.28753662109375, 39.1833042481843], [26.2847900390625, 39.16733527710071], [26.255950927734375, 39.15136267949029], [26.22573852539062, 39.13645165015621], [26.198272705078125, 39.128994951066765], [26.173553466796875, 39.11940660636222], [26.169433593749993, 39.10662011662115], [26.14471435546875, 39.09276546806873], [26.114501953125, 39.09596293630547], [26.10076904296875, 39.08850195155841], [26.0870361328125, 39.07890809706475], [26.093902587890625, 39.07464374293251], [26.11175537109375, 39.06824672852526], [26.124114990234375, 39.055450960258554], [26.150207519531254, 39.02665200282546], [26.173553466796875, 39.00637903337455], [26.21063232421875, 39.01918369029134], [26.236724853515625, 39.01598274340996], [26.258697509765625, 39.011714588834074], [26.295776367187504, 38.997841307500714], [26.31500244140625, 38.98503278695909], [26.338348388671875, 38.97222194853654], [26.36993408203125, 38.971154274048345], [26.415252685546875, 38.96154447940714], [26.4605712890625, 38.9668834151496], [26.511383056640625, 38.971154274048345], [26.531982421874996, 38.9871677013526], [26.531982421874996, 39.01278165162774], [26.519622802734375, 39.03091925576062], [26.48529052734375, 39.06398173012625], [26.450958251953125, 39.079974145329246], [26.439971923828125, 39.09916025955624], [26.452331542968746, 39.11194810263149], [26.479797363281246, 39.11727568585598], [26.49627685546875, 39.11088253765179], [26.522369384765625, 39.08743603215884], [26.522369384765625, 39.07570985562645], [26.516876220703125, 39.059716474034666], [26.520996093750004, 39.04051963289309], [26.531982421874996, 39.027718840211605], [26.547088623046875, 39.01598274340996], [26.560821533203125, 39.01918369029134], [26.592407226562496, 39.01811672409787], [26.60751342773438, 39.01598274340996], [26.610260009765625, 39.036252959636606], [26.588287353515618, 39.07037913108751], [26.564941406249996, 39.10342313168426], [26.564941406249996, 39.11407918425643], [26.548461914062504, 39.12579898118161], [26.544342041015625, 39.13645165015621], [26.533355712890625, 39.144972625112224], [26.54022216796875, 39.15988184949157], [26.533355712890625, 39.16946468278697], [26.5264892578125, 39.18117526158749], [26.48529052734375, 39.20991113991019], [26.471557617187496, 39.229061862530656], [26.441345214843754, 39.246080341096295], [26.401519775390625, 39.26203141523749], [26.38229370117188, 39.27266344858914], [26.39190673828125, 39.29179704377487], [26.40289306640625, 39.31623792008409], [26.415252685546875, 39.328986293384574], [26.42074584960937, 39.339608162804474], [26.40289306640625, 39.34173234304089], [26.378173828125, 39.34385645872588], [26.349334716796875, 39.35978526869001], [26.356201171875, 39.36934081158634], [26.361694335937504, 39.37571044717935], [26.34109497070313, 39.386325215154336], [26.334228515625004, 39.39057067035076], [26.323242187499996, 39.38101803294523], [26.29852294921875, 39.38101803294523], [26.269683837890625, 39.38101803294523], [26.2518310546875, 39.38207950167204]]]}]}",
                             "object_sub_location_geometry_ref_object_id": 12150538,
@@ -13242,7 +13681,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:09:00Z"
+                    "object_dating": "2024-04-11T18:38:27Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -13276,7 +13715,7 @@
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-322",
+                        "object_definition_value": "-310",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -13301,6 +13740,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358372,
+                        "object_definition_value": "Central and northern Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -13315,7 +13761,7 @@
                             "object_sub_id": 18518873,
                             "object_sub_details_id": 13427,
                             "object_sub_date_start": "-390",
-                            "object_sub_date_end": "-322",
+                            "object_sub_date_end": "-310",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [31.417413666667, 41.283255333333]}",
                             "object_sub_location_geometry_ref_object_id": 12150534,
@@ -13344,7 +13790,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:35:35Z"
+                    "object_dating": "2024-04-11T19:26:53Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -13378,7 +13824,7 @@
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-350",
+                        "object_definition_value": "-375",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -13403,6 +13849,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358374,
+                        "object_definition_value": "Western Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -13417,7 +13870,7 @@
                             "object_sub_id": 18577338,
                             "object_sub_details_id": 13427,
                             "object_sub_date_start": "-450",
-                            "object_sub_date_end": "-350",
+                            "object_sub_date_end": "-375",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.525011, 37.501842]}",
                             "object_sub_location_geometry_ref_object_id": 12336555,
@@ -13446,7 +13899,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-08T20:00:30Z"
+                    "object_dating": "2024-04-11T18:31:20Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -13502,6 +13955,13 @@
                         "object_description_id": 35540,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358376,
+                        "object_definition_value": "Eastern Aegean",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -13654,7 +14114,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-28T19:33:13Z"
+                    "object_dating": "2024-04-11T19:41:47Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -13713,6 +14173,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358374,
+                        "object_definition_value": "Western Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -13721,7 +14188,29 @@
                         "object_definition_style": []
                     }
                 },
-                "object_subs": []
+                "object_subs": {
+                    "23724265": {
+                        "object_sub": {
+                            "object_sub_id": 23724265,
+                            "object_sub_details_id": 13427,
+                            "object_sub_date_start": "-400",
+                            "object_sub_date_end": "-300",
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.278316833332998, 37.522904733333]}",
+                            "object_sub_location_geometry_ref_object_id": 12150543,
+                            "object_sub_location_geometry_ref_type_id": 12160,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 12160,
+                            "object_sub_location_ref_object_sub_details_id": 13068,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": "reference",
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
             },
             "12336605": {
                 "object": {
@@ -13840,7 +14329,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-12-08T10:12:23Z"
+                    "object_dating": "2024-04-11T19:34:36Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -13885,14 +14374,24 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "35539": {
+                        "object_description_id": 35539,
+                        "object_definition_ref_object_id": 12150527,
+                        "object_definition_value": "Konstantinopolis - Istanbul",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "35540": {
                         "object_description_id": 35540,
-                        "object_definition_ref_object_id": [
-                            12150527
-                        ],
-                        "object_definition_value": [
-                            "Konstantinopolis - Istanbul"
-                        ],
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358375,
+                        "object_definition_value": "Northeastern Aegean",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -13912,9 +14411,9 @@
                             "object_sub_date_start": "500",
                             "object_sub_date_end": "600",
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": null,
-                            "object_sub_location_geometry_ref_object_id": null,
-                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [28.961291608299003, 41.00779080957]}",
+                            "object_sub_location_geometry_ref_object_id": 12150527,
+                            "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 12160,
                             "object_sub_location_ref_object_sub_details_id": 13068,
@@ -13939,7 +14438,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:23:07Z"
+                    "object_dating": "2024-04-11T19:42:15Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -13966,14 +14465,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-400",
+                        "object_definition_value": "-446",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-355",
+                        "object_definition_value": "-357",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -13998,6 +14497,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358374,
+                        "object_definition_value": "Western Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -14011,8 +14517,8 @@
                         "object_sub": {
                             "object_sub_id": 18574678,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-400",
-                            "object_sub_date_end": "-355",
+                            "object_sub_date_start": "-446",
+                            "object_sub_date_end": "-357",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.278316833332998, 37.522904733333]}",
                             "object_sub_location_geometry_ref_object_id": 12150543,
@@ -14213,7 +14719,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-18T09:50:39Z"
+                    "object_dating": "2024-04-11T18:53:40Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -14247,7 +14753,7 @@
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "1200",
+                        "object_definition_value": "899",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -14272,6 +14778,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358375,
+                        "object_definition_value": "Northeastern Aegean",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -14286,7 +14799,7 @@
                             "object_sub_id": 18545111,
                             "object_sub_details_id": 13427,
                             "object_sub_date_start": "800",
-                            "object_sub_date_end": "1200",
+                            "object_sub_date_end": "899",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [28.961291608299003, 41.00779080957]}",
                             "object_sub_location_geometry_ref_object_id": 12150527,
@@ -14315,7 +14828,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-18T09:51:46Z"
+                    "object_dating": "2024-04-11T18:54:14Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -14342,14 +14855,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "1100",
+                        "object_definition_value": "1150",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "2300",
+                        "object_definition_value": "1170",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -14374,6 +14887,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358375,
+                        "object_definition_value": "Northeastern Aegean",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -14387,8 +14907,8 @@
                         "object_sub": {
                             "object_sub_id": 18545113,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "1100",
-                            "object_sub_date_end": "2300",
+                            "object_sub_date_start": "1150",
+                            "object_sub_date_end": "1170",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [28.961291608299003, 41.00779080957]}",
                             "object_sub_location_geometry_ref_object_id": 12150527,
@@ -14417,7 +14937,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:23:29Z"
+                    "object_dating": "2024-04-11T18:54:54Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -14476,6 +14996,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358375,
+                        "object_definition_value": "Northeastern Aegean",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -14519,7 +15046,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-02-22T09:45:42Z"
+                    "object_dating": "2024-04-11T18:56:36Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -14539,14 +15066,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "913",
+                        "object_definition_value": "945",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "960",
+                        "object_definition_value": "958",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -14571,6 +15098,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358375,
+                        "object_definition_value": "Northeastern Aegean",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -14584,8 +15118,8 @@
                         "object_sub": {
                             "object_sub_id": 18546890,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "913",
-                            "object_sub_date_end": "960",
+                            "object_sub_date_start": "945",
+                            "object_sub_date_end": "958",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [28.961291608299003, 41.00779080957]}",
                             "object_sub_location_geometry_ref_object_id": 12150527,
@@ -18752,7 +19286,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-02-02T14:51:10Z"
+                    "object_dating": "2024-04-11T18:57:21Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -18815,10 +19349,21 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358372,
+                        "object_definition_value": "Central and northern Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358375
+                        ],
+                        "object_definition_value": [
+                            "Northeastern Aegean"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -23960,7 +24505,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-05-02T13:14:44Z"
+                    "object_dating": "2024-04-11T18:41:05Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -23974,6 +24519,13 @@
                         "object_description_id": 35520,
                         "object_definition_ref_object_id": 11945253,
                         "object_definition_value": "Author",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35536": {
+                        "object_description_id": 35536,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-99",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -24005,6 +24557,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358372,
+                        "object_definition_value": "Central and northern Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
@@ -24018,7 +24577,7 @@
                         "object_sub": {
                             "object_sub_id": 21841690,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": 0,
+                            "object_sub_date_start": "-99",
                             "object_sub_date_end": "099",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [31.417413666667, 41.283255333333]}",
@@ -26897,7 +27456,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-12-07T16:05:18Z"
+                    "object_dating": "2024-04-11T19:18:38Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -26960,10 +27519,21 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358374,
+                        "object_definition_value": "Western Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358380
+                        ],
+                        "object_definition_value": [
+                            "Central Italy"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -27091,7 +27661,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-08-03T13:51:00Z"
+                    "object_dating": "2024-04-11T19:02:55Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -27147,6 +27717,13 @@
                         "object_description_id": 35540,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358375,
+                        "object_definition_value": "Northeastern Aegean",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -32403,7 +32980,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-03-12T15:13:48Z"
+                    "object_dating": "2024-04-11T18:35:42Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -32434,6 +33011,13 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "35537": {
+                        "object_description_id": 35537,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "1",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "35556": {
                         "object_description_id": 35556,
                         "object_definition_ref_object_id": [],
@@ -32459,10 +33043,21 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358373,
+                        "object_definition_value": "Southern Anatolia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358380
+                        ],
+                        "object_definition_value": [
+                            "Central Italy"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -32473,7 +33068,7 @@
                             "object_sub_id": 23121648,
                             "object_sub_details_id": 13427,
                             "object_sub_date_start": "-99",
-                            "object_sub_date_end": 0,
+                            "object_sub_date_end": "1",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [34.898228, 36.914956]}",
                             "object_sub_location_geometry_ref_object_id": 12375020,
