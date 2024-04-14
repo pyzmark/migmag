@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-04-13T22:00:08+00:00",
+    "timestamp": "2024-04-14T22:00:08+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -1714,7 +1714,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T15:10:08Z"
+                    "object_dating": "2024-04-14T06:49:38Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -1812,11 +1812,27 @@
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
                             12536646,
-                            16028174
+                            16028174,
+                            18362774,
+                            18362775,
+                            18362780,
+                            18362781,
+                            18362783,
+                            18362782,
+                            18362785,
+                            18362784
                         ],
                         "object_definition_value": [
                             "Oenotrus",
-                            "Peuketis"
+                            "Peuketis",
+                            "Oenotrians",
+                            "Aborigines",
+                            "Peuketians",
+                            "Kyllene",
+                            "Pelasgians",
+                            "Trojans",
+                            "Pheneats",
+                            "Epeans"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -1824,7 +1840,7 @@
                     "35519": {
                         "object_description_id": 35519,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Both Oenotrus and Peuketis are the sons of Lycaon and Kyllene, who is a Naiad nymph (Dion. Hal. Ant. Rom. 1.11-13).",
+                        "object_definition_value": "Both Oenotrus and Peuketis are the sons of Lycaon and Kyllene, who is a Naiad nymph = Nature Spirit (Dion. Hal. Ant. Rom. 1.11-13). This is repeated several times in the sources, although it is not directly relevant to the trajectory of the myth.",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -4511,7 +4527,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:46:57Z"
+                    "object_dating": "2024-04-14T07:28:59Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -4603,8 +4619,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            14810712
+                        ],
+                        "object_definition_value": [
+                            "Epizephyrian Lokrians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -4656,7 +4676,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T12:26:34Z"
+                    "object_dating": "2024-04-14T07:55:23Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -4750,8 +4770,14 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362794,
+                            18362816
+                        ],
+                        "object_definition_value": [
+                            "Achaians",
+                            "Troezenians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -4807,7 +4833,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:03:27Z"
+                    "object_dating": "2024-04-14T07:15:24Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -4899,8 +4925,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            14810712
+                        ],
+                        "object_definition_value": [
+                            "Epizephyrian Lokrians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -4954,7 +4984,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:21:18Z"
+                    "object_dating": "2024-04-14T07:50:40Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -5051,10 +5081,14 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            13961109
+                            13961109,
+                            18362813,
+                            18362794
                         ],
                         "object_definition_value": [
-                            "Typhon of Aegion"
+                            "Typhon of Aegion",
+                            "Krotoniates",
+                            "Achaians"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5126,7 +5160,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:22:15Z"
+                    "object_dating": "2024-04-14T07:50:08Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -5220,8 +5254,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362813
+                        ],
+                        "object_definition_value": [
+                            "Krotoniates"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -5286,7 +5324,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:03:06Z"
+                    "object_dating": "2024-04-14T07:15:38Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -5380,8 +5418,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            14810712
+                        ],
+                        "object_definition_value": [
+                            "Epizephyrian Lokrians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -5436,19 +5478,19 @@
                     "nodegoat_id": "ngEL4I48qELWrFrSrF526tbvfFy",
                     "type_id": 12173,
                     "object_id": 13657344,
-                    "object_name": "Sardus travels to Libya",
+                    "object_name": "Sardus travels to Sardinia",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:26:39Z"
+                    "object_dating": "2024-04-14T07:46:31Z"
                 },
                 "object_definitions": {
                     "35544": {
                         "object_description_id": 35544,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Sardus travels to Libya",
+                        "object_definition_value": "Sardus travels to Sardinia",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -5539,10 +5581,12 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            13019625
+                            13019625,
+                            18362811
                         ],
                         "object_definition_value": [
-                            "Sardus"
+                            "Sardus",
+                            "Libyans"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5589,19 +5633,19 @@
                     "nodegoat_id": "ngHO4H78tHuZ1IuZuJQ52weUiHV",
                     "type_id": 12173,
                     "object_id": 13657347,
-                    "object_name": "Aristaios founds Karalis",
+                    "object_name": "Aristaios settles in Sardinia (and founds Karalis)",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:45:49Z"
+                    "object_dating": "2024-04-14T09:30:08Z"
                 },
                 "object_definitions": {
                     "35544": {
                         "object_description_id": 35544,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Aristaios founds Karalis",
+                        "object_definition_value": "Aristaios settles in Sardinia (and founds Karalis)",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -5680,11 +5724,13 @@
                         "object_description_id": 35542,
                         "object_definition_ref_object_id": [
                             14321443,
-                            11945231
+                            11945231,
+                            14810500
                         ],
                         "object_definition_value": [
                             "Band of companions of a hero",
-                            "Heroes (named individuals)"
+                            "Heroes (named individuals)",
+                            "Nature spirits"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5692,10 +5738,14 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            13019648
+                            13019648,
+                            18362765,
+                            18362764
                         ],
                         "object_definition_value": [
-                            "Aristaios"
+                            "Aristaios",
+                            "Apollo",
+                            "Kyrene"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5703,7 +5753,7 @@
                     "35519": {
                         "object_description_id": 35519,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Aristaios, the son of Apollo, comes to Sardinia and founds Karalis, nowadays Cagliari",
+                        "object_definition_value": "Aristaios, the son of Apollo and the nymph Kyrene, comes to Sardinia and founds Karalis, nowadays Cagliari.",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -5711,11 +5761,15 @@
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
                             13019624,
-                            16026836
+                            16026836,
+                            18362823,
+                            18362824
                         ],
                         "object_definition_value": [
                             "Solinos Polyhistor 4.2",
-                            "Pausanias 10.17.3"
+                            "Pausanias 10.17.3",
+                            "Diodorus Siculus 4.82.3-4",
+                            "Silius Italicus 12.366-375"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -5755,7 +5809,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:25:12Z"
+                    "object_dating": "2024-04-14T07:47:23Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -5846,10 +5900,12 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            13019650
+                            13019650,
+                            18362812
                         ],
                         "object_definition_value": [
-                            "Norax"
+                            "Norax",
+                            "Iberians"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6074,7 +6130,7 @@
                         ],
                         "object_definition_value": [
                             "Iolaos",
-                            "The Thespians",
+                            "Thespians",
                             "Athenians"
                         ],
                         "object_definition_sources": [],
@@ -6137,7 +6193,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:34:02Z"
+                    "object_dating": "2024-04-14T07:38:38Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -6237,8 +6293,14 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362795,
+                            18362774
+                        ],
+                        "object_definition_value": [
+                            "Phokaians",
+                            "Oenotrians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -6303,7 +6365,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:51:51Z"
+                    "object_dating": "2024-04-14T07:22:45Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -6399,11 +6461,15 @@
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
                             13961201,
-                            13961199
+                            13961199,
+                            18362762,
+                            18362802
                         ],
                         "object_definition_value": [
                             "Megasthenes",
-                            "Hippokles of Euboean Kyme"
+                            "Hippokles of Euboean Kyme",
+                            "Chalkidians",
+                            "Eretrians"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6465,7 +6531,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:30:14Z"
+                    "object_dating": "2024-04-14T07:40:35Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -6559,11 +6625,13 @@
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
                             14392629,
-                            14392632
+                            14392632,
+                            18362809
                         ],
                         "object_definition_value": [
                             "Perieres of Chalkis",
-                            "Krataemenes"
+                            "Krataemenes",
+                            "Kymeans"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6629,7 +6697,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:51:09Z"
+                    "object_dating": "2024-04-14T07:24:32Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -6721,8 +6789,14 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362803,
+                            18362801
+                        ],
+                        "object_definition_value": [
+                            "Thourioi",
+                            "Sybarites"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -6788,7 +6862,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:40:47Z"
+                    "object_dating": "2024-04-14T07:35:26Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -6889,10 +6963,12 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            13961218
+                            13961218,
+                            18362808
                         ],
                         "object_definition_value": [
-                            "Nestor"
+                            "Nestor",
+                            "Pylians"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -6952,7 +7028,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-12T14:56:51Z"
+                    "object_dating": "2024-04-14T08:04:51Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -7044,8 +7120,14 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362762,
+                            18362802
+                        ],
+                        "object_definition_value": [
+                            "Chalkidians",
+                            "Eretrians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -7104,7 +7186,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:32:30Z"
+                    "object_dating": "2024-04-14T07:39:08Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -7192,8 +7274,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362801
+                        ],
+                        "object_definition_value": [
+                            "Sybarites"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -7406,7 +7492,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:22:42Z"
+                    "object_dating": "2024-04-14T07:49:14Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -7509,11 +7595,13 @@
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
                             12427790,
-                            13962597
+                            13962597,
+                            18362762
                         ],
                         "object_definition_value": [
                             "Antimnestos",
-                            "Artimedes"
+                            "Artimedes",
+                            "Chalkidians"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -7587,7 +7675,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:37:41Z"
+                    "object_dating": "2024-04-14T07:37:45Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -7674,8 +7762,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362809
+                        ],
+                        "object_definition_value": [
+                            "Kymeans"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -7732,7 +7824,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:37:22Z"
+                    "object_dating": "2024-04-14T07:38:04Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -7821,8 +7913,16 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18359342,
+                            18362810,
+                            18362762
+                        ],
+                        "object_definition_value": [
+                            "Athenians",
+                            "Pithekoussans",
+                            "Chalkidians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -7879,7 +7979,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T12:39:04Z"
+                    "object_dating": "2024-04-14T07:53:36Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -7967,8 +8067,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362814
+                        ],
+                        "object_definition_value": [
+                            "Chones"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -8018,7 +8122,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T15:27:28Z"
+                    "object_dating": "2024-04-14T06:40:16Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -8116,8 +8220,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362779
+                        ],
+                        "object_definition_value": [
+                            "Partheniai"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -9524,7 +9632,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:46:28Z"
+                    "object_dating": "2024-04-14T07:30:47Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -9620,15 +9728,19 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362807
+                        ],
+                        "object_definition_value": [
+                            "Tarentines"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35519": {
                         "object_description_id": 35519,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "The city of Herakleia is populated by people from Taras, Siris, and Thourioi, although the foundation is ascribed to Taras.",
+                        "object_definition_value": "The city of Herakleia is populated by people from Taras, Siris, and Thourioi, although the foundation is ascribed to Taras.\r\n\r\n\"Inhabitants of Siris\" instead of \"Sirians\": not put in.",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -9682,7 +9794,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:29:12Z"
+                    "object_dating": "2024-04-14T06:45:19Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -9768,10 +9880,12 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            14392606
+                            14392606,
+                            18362782
                         ],
                         "object_definition_value": [
-                            "Aeneas"
+                            "Aeneas",
+                            "Trojans"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -9822,7 +9936,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:28:49Z"
+                    "object_dating": "2024-04-14T06:48:54Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -9971,7 +10085,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:16:29Z"
+                    "object_dating": "2024-04-14T07:51:03Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -10057,11 +10171,11 @@
                         "object_description_id": 35542,
                         "object_definition_ref_object_id": [
                             11945231,
-                            11945232
+                            11945235
                         ],
                         "object_definition_value": [
                             "Heroes (named individuals)",
-                            "Large groups"
+                            "Whole communities (named)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -10069,10 +10183,12 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            14392627
+                            14392627,
+                            18362792
                         ],
                         "object_definition_value": [
-                            "Archias"
+                            "Archias",
+                            "Dorians"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -13874,7 +13990,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T12:17:47Z"
+                    "object_dating": "2024-04-14T07:58:46Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -13969,10 +14085,12 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            12414802
+                            12414802,
+                            14810708
                         ],
                         "object_definition_value": [
-                            "Evanthes"
+                            "Evanthes",
+                            "Ozolian Lokrians"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -16195,7 +16313,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T12:17:30Z"
+                    "object_dating": "2024-04-14T07:59:20Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -16297,8 +16415,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            14810710
+                        ],
+                        "object_definition_value": [
+                            "Lokrians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -17280,7 +17402,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T12:27:16Z"
+                    "object_dating": "2024-04-14T07:55:07Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -17379,10 +17501,14 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            13657329
+                            13657329,
+                            18362816,
+                            14810710
                         ],
                         "object_definition_value": [
-                            "Sagaris"
+                            "Sagaris",
+                            "Troezenians",
+                            "Lokrians"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -17446,7 +17572,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T12:17:00Z"
+                    "object_dating": "2024-04-14T08:00:03Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -17544,8 +17670,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362818
+                        ],
+                        "object_definition_value": [
+                            "Opountian Lokrians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -21768,7 +21898,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:50:39Z"
+                    "object_dating": "2024-04-14T07:27:20Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -21867,11 +21997,15 @@
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
                             15986181,
-                            16025966
+                            16025966,
+                            18362804,
+                            18362805
                         ],
                         "object_definition_value": [
                             "Battos of Thera",
-                            "Chionis of Sparta"
+                            "Chionis of Sparta",
+                            "Lindians",
+                            "Theraians"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -22232,7 +22366,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:10:59Z"
+                    "object_dating": "2024-04-14T07:09:56Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -22324,8 +22458,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362795
+                        ],
+                        "object_definition_value": [
+                            "Phokaians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -22377,7 +22515,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T12:47:49Z"
+                    "object_dating": "2024-04-14T07:52:10Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -22480,15 +22618,19 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362795
+                        ],
+                        "object_definition_value": [
+                            "Phokaians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35519": {
                         "object_description_id": 35519,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Other: The whole Phokaian community settles at a place that they have founded before. I wouldn't describe this as foundational.",
+                        "object_definition_value": "Other: The whole Phokaian community settles at a place that they have founded before.",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -22705,7 +22847,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:27:56Z"
+                    "object_dating": "2024-04-14T09:40:34Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -22804,14 +22946,16 @@
                             15986982,
                             15986983,
                             15986985,
-                            15986986
+                            15986986,
+                            18362795
                         ],
                         "object_definition_value": [
                             "Euxenos",
                             "Simos",
                             "Protis",
                             "Kreontiades",
-                            "Aristarche"
+                            "Aristarche",
+                            "Phokaians"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -22886,7 +23030,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:28:11Z"
+                    "object_dating": "2024-04-14T07:43:33Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -22978,8 +23122,14 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362789,
+                            18362761
+                        ],
+                        "object_definition_value": [
+                            "Rhodians",
+                            "Massaliotes"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -24087,7 +24237,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:59:29Z"
+                    "object_dating": "2024-04-14T07:16:41Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -24183,8 +24333,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362790
+                        ],
+                        "object_definition_value": [
+                            "Syracusans"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -24401,7 +24555,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:14:06Z"
+                    "object_dating": "2024-04-14T07:08:58Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -24508,11 +24662,13 @@
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
                             15997968,
-                            14392606
+                            14392606,
+                            18362782
                         ],
                         "object_definition_value": [
                             "Patron the Thyrian",
-                            "Aeneas"
+                            "Aeneas",
+                            "Trojans"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -26440,7 +26596,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:00:03Z"
+                    "object_dating": "2024-04-14T07:16:28Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -26532,8 +26688,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362790
+                        ],
+                        "object_definition_value": [
+                            "Syracusans"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -26583,7 +26743,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:07:34Z"
+                    "object_dating": "2024-04-14T07:12:35Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -26684,10 +26844,12 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            15999791
+                            15999791,
+                            18362796
                         ],
                         "object_definition_value": [
-                            "Euryleon"
+                            "Euryleon",
+                            "Selinuntians"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -26695,7 +26857,7 @@
                     "35519": {
                         "object_description_id": 35519,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Euryleon and the rest of the Herakleians go and take Herakleia Minoa, an actual apoikia from Selinous. This then is an overlay or conquest of an earlier settlement.\r\n\r\nMyth 5 in the Cluster.",
+                        "object_definition_value": "Euryleon and the rest of the Herakleians go and take Herakleia Minoa, an actual apoikia from Selinous. This then is an overlay or conquest of an earlier settlement.\r\n\r\nMyth 5 in the Cluster.\r\n\r\n\"The people of Selinous\", not \"Selinuntians\" or similar.",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -28421,7 +28583,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:24:30Z"
+                    "object_dating": "2024-04-14T06:51:34Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -28509,8 +28671,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362786
+                        ],
+                        "object_definition_value": [
+                            "Naxians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -28560,7 +28726,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:01:46Z"
+                    "object_dating": "2024-04-14T07:16:03Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -28658,11 +28824,13 @@
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
                             16013704,
-                            16013707
+                            16013707,
+                            18362790
                         ],
                         "object_definition_value": [
                             "Daskon",
-                            "Menekolos"
+                            "Menekolos",
+                            "Syracusans"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -28864,7 +29032,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:20:01Z"
+                    "object_dating": "2024-04-14T06:55:39Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -28957,10 +29125,14 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            16013719
+                            16013719,
+                            18362790,
+                            18362791
                         ],
                         "object_definition_value": [
-                            "Gelon"
+                            "Gelon",
+                            "Syracusans",
+                            "Geloans"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -29018,7 +29190,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:00:22Z"
+                    "object_dating": "2024-04-14T07:16:15Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -29110,8 +29282,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362790
+                        ],
+                        "object_definition_value": [
+                            "Syracusans"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -29312,7 +29488,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:24:20Z"
+                    "object_dating": "2024-04-14T06:53:02Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -29409,10 +29585,14 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            16013737
+                            16013737,
+                            18362762,
+                            18362787
                         ],
                         "object_definition_value": [
-                            "Thoukles"
+                            "Thoukles",
+                            "Chalkidians",
+                            "Katanians"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -29622,7 +29802,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:20:26Z"
+                    "object_dating": "2024-04-14T06:57:29Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -29717,10 +29897,12 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            16013775
+                            16013775,
+                            18362788
                         ],
                         "object_definition_value": [
-                            "Pentathlos"
+                            "Pentathlos",
+                            "Knidians"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -29781,7 +29963,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:22:26Z"
+                    "object_dating": "2024-04-14T06:54:30Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -29881,13 +30063,17 @@
                             16013775,
                             16013783,
                             16013784,
-                            16013785
+                            16013785,
+                            18362788,
+                            18362789
                         ],
                         "object_definition_value": [
                             "Pentathlos",
                             "Gorgos",
                             "Thestor",
-                            "Epithersides"
+                            "Epithersides",
+                            "Knidians",
+                            "Rhodians"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -29944,7 +30130,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:19:25Z"
+                    "object_dating": "2024-04-14T07:00:23Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -30037,10 +30223,14 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            16013737
+                            16013737,
+                            18362792,
+                            18362793
                         ],
                         "object_definition_value": [
-                            "Thoukles"
+                            "Thoukles",
+                            "Dorians",
+                            "Megarians"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -30099,7 +30289,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:19:44Z"
+                    "object_dating": "2024-04-14T06:58:42Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -30203,11 +30393,13 @@
                         "object_description_id": 35542,
                         "object_definition_ref_object_id": [
                             11945231,
-                            14321443
+                            14321443,
+                            11945235
                         ],
                         "object_definition_value": [
                             "Heroes (named individuals)",
-                            "Band of companions of a hero"
+                            "Band of companions of a hero",
+                            "Whole communities (named)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -30215,10 +30407,12 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            16013918
+                            16013918,
+                            18362762
                         ],
                         "object_definition_value": [
-                            "Lamis"
+                            "Lamis",
+                            "Chalkidians"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -30273,7 +30467,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:18:46Z"
+                    "object_dating": "2024-04-14T07:01:39Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -30369,12 +30563,12 @@
                     "35524": {
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
-                            15999808,
-                            16013934
+                            16013934,
+                            15999808
                         ],
                         "object_definition_value": [
-                            "Strabo 6.2.6",
-                            "Pseudo-Skymnos 264-277"
+                            "Pseudo-Skymnos 264-277",
+                            "Strabo 6.2.6"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -30414,7 +30608,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:18:29Z"
+                    "object_dating": "2024-04-14T07:03:34Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -30511,10 +30705,12 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            16013737
+                            16013737,
+                            18362762
                         ],
                         "object_definition_value": [
-                            "Thoukles"
+                            "Thoukles",
+                            "Chalkidians"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -30565,7 +30761,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:18:10Z"
+                    "object_dating": "2024-04-14T07:03:50Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -30659,8 +30855,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362762
+                        ],
+                        "object_definition_value": [
+                            "Chalkidians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -30714,7 +30914,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:17:25Z"
+                    "object_dating": "2024-04-14T07:05:37Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -30795,11 +30995,11 @@
                         "object_description_id": 35542,
                         "object_definition_ref_object_id": [
                             11945231,
-                            11945235
+                            14321443
                         ],
                         "object_definition_value": [
                             "Heroes (named individuals)",
-                            "Whole communities (named)"
+                            "Band of companions of a hero"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -30861,7 +31061,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:16:47Z"
+                    "object_dating": "2024-04-14T07:06:43Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -30951,6 +31151,13 @@
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "The whole community is named as that being of Naxos, but no plural noun \"Naxians\" is in the text.",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -31317,7 +31524,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:15:12Z"
+                    "object_dating": "2024-04-14T07:08:08Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -31415,8 +31622,14 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362782,
+                            18362794
+                        ],
+                        "object_definition_value": [
+                            "Trojans",
+                            "Achaians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -31793,7 +32006,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:05:47Z"
+                    "object_dating": "2024-04-14T07:13:22Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -31880,10 +32093,12 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            14810717
+                            14810717,
+                            18362797
                         ],
                         "object_definition_value": [
-                            "Thoas"
+                            "Thoas",
+                            "Aitolians"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -31941,7 +32156,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:05:00Z"
+                    "object_dating": "2024-04-14T07:13:50Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -32025,8 +32240,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362798
+                        ],
+                        "object_definition_value": [
+                            "Ausones"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -32080,7 +32299,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:04:34Z"
+                    "object_dating": "2024-04-14T07:14:09Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -32166,8 +32385,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362799
+                        ],
+                        "object_definition_value": [
+                            "Brettians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -32224,7 +32447,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T12:44:39Z"
+                    "object_dating": "2024-04-14T07:52:59Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -32312,8 +32535,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362774
+                        ],
+                        "object_definition_value": [
+                            "Oenotrians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -32363,7 +32590,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:03:43Z"
+                    "object_dating": "2024-04-14T07:14:30Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -32455,8 +32682,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362794
+                        ],
+                        "object_definition_value": [
+                            "Achaians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -32656,7 +32887,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:57:19Z"
+                    "object_dating": "2024-04-14T07:16:51Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -32750,8 +32981,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            14810712
+                        ],
+                        "object_definition_value": [
+                            "Epizephyrian Lokrians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -33107,7 +33342,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T12:44:53Z"
+                    "object_dating": "2024-04-14T07:52:48Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -33197,8 +33432,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362814
+                        ],
+                        "object_definition_value": [
+                            "Chones"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -33248,7 +33487,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:55:15Z"
+                    "object_dating": "2024-04-14T07:18:01Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -33332,8 +33571,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362800
+                        ],
+                        "object_definition_value": [
+                            "Samians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -33389,7 +33632,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:54:56Z"
+                    "object_dating": "2024-04-14T07:18:41Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -33484,10 +33727,12 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            14345281
+                            14345281,
+                            18362795
                         ],
                         "object_definition_value": [
-                            "Epeios"
+                            "Epeios",
+                            "Phokaians"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -33538,7 +33783,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:54:21Z"
+                    "object_dating": "2024-04-14T20:51:12Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -33634,6 +33879,13 @@
                         "object_definition_value": [
                             "Philoktetes"
                         ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Origins: Practices as there is also said to be a sanctuary of Philoktetes there.",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -33836,7 +34088,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:53:29Z"
+                    "object_dating": "2024-04-14T07:19:11Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -33924,8 +34176,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362789
+                        ],
+                        "object_definition_value": [
+                            "Rhodians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -33975,7 +34231,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:52:53Z"
+                    "object_dating": "2024-04-14T07:20:18Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -34063,8 +34319,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362801
+                        ],
+                        "object_definition_value": [
+                            "Sybarites"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -34114,7 +34374,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:47:48Z"
+                    "object_dating": "2024-04-14T07:28:48Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -34202,8 +34462,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362806
+                        ],
+                        "object_definition_value": [
+                            "Zanklians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -34541,7 +34805,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:42:53Z"
+                    "object_dating": "2024-04-14T07:33:30Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -34633,8 +34897,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362794
+                        ],
+                        "object_definition_value": [
+                            "Achaians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -35141,7 +35409,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:24:42Z"
+                    "object_dating": "2024-04-14T07:48:16Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -35219,10 +35487,12 @@
                     "35542": {
                         "object_description_id": 35542,
                         "object_definition_ref_object_id": [
-                            11945231
+                            11945231,
+                            14321443
                         ],
                         "object_definition_value": [
-                            "Heroes (named individuals)"
+                            "Heroes (named individuals)",
+                            "Band of companions of a hero"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -35293,7 +35563,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:33:20Z"
+                    "object_dating": "2024-04-14T07:38:55Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -35377,8 +35647,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362792
+                        ],
+                        "object_definition_value": [
+                            "Dorians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -35569,7 +35843,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:31:02Z"
+                    "object_dating": "2024-04-14T07:40:12Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -35653,8 +35927,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362786
+                        ],
+                        "object_definition_value": [
+                            "Naxians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -35717,7 +35995,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T13:27:50Z"
+                    "object_dating": "2024-04-14T07:43:51Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -35805,8 +36083,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362761
+                        ],
+                        "object_definition_value": [
+                            "Massaliotes"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -36003,7 +36285,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T12:51:37Z"
+                    "object_dating": "2024-04-14T07:51:22Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -36097,8 +36379,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362782
+                        ],
+                        "object_definition_value": [
+                            "Trojans"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -36152,7 +36438,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T12:36:52Z"
+                    "object_dating": "2024-04-14T07:54:10Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -36250,8 +36536,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362815
+                        ],
+                        "object_definition_value": [
+                            "Ionians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -36467,7 +36757,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T12:26:18Z"
+                    "object_dating": "2024-04-14T07:56:31Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -36561,8 +36851,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362817
+                        ],
+                        "object_definition_value": [
+                            "Thessalians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -36621,7 +36915,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T12:42:22Z"
+                    "object_dating": "2024-04-14T07:53:22Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -36711,8 +37005,14 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362813,
+                            18362801
+                        ],
+                        "object_definition_value": [
+                            "Krotoniates",
+                            "Sybarites"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -36771,7 +37071,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T12:23:44Z"
+                    "object_dating": "2024-04-14T07:57:10Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -36865,8 +37165,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362801
+                        ],
+                        "object_definition_value": [
+                            "Sybarites"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -37069,7 +37373,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T12:22:33Z"
+                    "object_dating": "2024-04-14T07:57:26Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -37163,11 +37467,13 @@
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
                             14000918,
-                            14000919
+                            14000919,
+                            18359342
                         ],
                         "object_definition_value": [
                             "Xenokrites",
-                            "Lampon"
+                            "Lampon",
+                            "Athenians"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -37225,7 +37531,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T12:15:32Z"
+                    "object_dating": "2024-04-14T08:02:30Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -37305,18 +37611,38 @@
                     "35542": {
                         "object_description_id": 35542,
                         "object_definition_ref_object_id": [
-                            11945232
+                            11945235
                         ],
                         "object_definition_value": [
-                            "Large groups"
+                            "Whole communities (named)"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362819,
+                            18362794,
+                            18362820,
+                            15998704,
+                            18362792,
+                            18362815,
+                            18359342,
+                            18362821,
+                            18362822
+                        ],
+                        "object_definition_value": [
+                            "Arkadians",
+                            "Achaians",
+                            "Eleans",
+                            "Boeotians",
+                            "Dorians",
+                            "Ionians",
+                            "Athenians",
+                            "Euboeans",
+                            "Amphyctionians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -37375,7 +37701,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T12:21:17Z"
+                    "object_dating": "2024-04-14T07:57:54Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -37467,8 +37793,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362803
+                        ],
+                        "object_definition_value": [
+                            "Thourioi"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -37525,7 +37855,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T12:20:33Z"
+                    "object_dating": "2024-04-14T07:58:03Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -37617,8 +37947,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362803
+                        ],
+                        "object_definition_value": [
+                            "Thourioi"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -37675,7 +38009,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T12:48:13Z"
+                    "object_dating": "2024-04-14T07:51:35Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -37769,8 +38103,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362794
+                        ],
+                        "object_definition_value": [
+                            "Achaians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -38132,7 +38470,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T12:10:55Z"
+                    "object_dating": "2024-04-14T08:02:47Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -38226,8 +38564,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362795
+                        ],
+                        "object_definition_value": [
+                            "Phokaians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -38438,19 +38780,19 @@
                     "nodegoat_id": "ngEL4E48qGVW9FrurEX29tbvfEy",
                     "type_id": 12173,
                     "object_id": 16026944,
-                    "object_name": "The people of Massalia descend from the Phokaian Euxenos",
+                    "object_name": "The Protiadai",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T12:10:39Z"
+                    "object_dating": "2024-04-14T20:45:03Z"
                 },
                 "object_definitions": {
                     "35544": {
                         "object_description_id": 35544,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "The people of Massalia descend from the Phokaian Euxenos",
+                        "object_definition_value": "The Protiadai",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -38529,8 +38871,14 @@
                     },
                     "35542": {
                         "object_description_id": 35542,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11945235,
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Whole communities (named)",
+                            "Heroes (named individuals)"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -38538,11 +38886,17 @@
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
                             15986981,
-                            15986983
+                            15986983,
+                            18362761,
+                            18362904,
+                            18362905
                         ],
                         "object_definition_value": [
                             "Euxenos",
-                            "Protis"
+                            "Protis",
+                            "Massaliotes",
+                            "Protiadai",
+                            "Petta/Aristoxena"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -38550,7 +38904,7 @@
                     "35519": {
                         "object_description_id": 35519,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Aristotle/Athenaios and Justin tell a similar story. However, in Aristotle/Athenaios, it is Euxenos who forms a relationship with the family of Nanus, whereas in Justin it is Protis, in the former the son of Euxenos on the princess Aristoxena.",
+                        "object_definition_value": "The people of Massalia descend from the Phokaian Euxenos.\r\n\r\nAristotle/Athenaios and Justin tell a similar story. However, in Aristotle/Athenaios, it is Euxenos who forms a relationship with the family of Nanus, whereas in Justin it is Protis, in the former the son of Euxenos on the princess Aristoxena. The feminine noun is the Protiadai!",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -38583,8 +38937,12 @@
                     },
                     "47960": {
                         "object_description_id": 47960,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16026945
+                        ],
+                        "object_definition_value": [
+                            "Simos and Protis found Massalia"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -38758,7 +39116,7 @@
                             16026944
                         ],
                         "object_definition_value": [
-                            "The people of Massalia descend from the Phokaian Euxenos"
+                            "The Protiadai"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -38777,7 +39135,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T12:08:41Z"
+                    "object_dating": "2024-04-14T08:03:42Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -38887,10 +39245,12 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            15986986
+                            15986986,
+                            18362795
                         ],
                         "object_definition_value": [
-                            "Aristarche"
+                            "Aristarche",
+                            "Phokaians"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -38941,7 +39301,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T12:07:58Z"
+                    "object_dating": "2024-04-14T08:03:55Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -39029,8 +39389,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362782
+                        ],
+                        "object_definition_value": [
+                            "Trojans"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -39080,7 +39444,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T11:23:44Z"
+                    "object_dating": "2024-04-14T08:04:26Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -39170,8 +39534,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362811
+                        ],
+                        "object_definition_value": [
+                            "Libyans"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -39221,7 +39589,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T11:31:30Z"
+                    "object_dating": "2024-04-14T06:48:23Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -39316,10 +39684,14 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            16020079
+                            16020079,
+                            18362785,
+                            18362775
                         ],
                         "object_definition_value": [
-                            "Herakles"
+                            "Herakles",
+                            "Pheneats",
+                            "Aborigines"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -39726,7 +40098,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T11:32:15Z"
+                    "object_dating": "2024-04-14T06:50:09Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -39818,8 +40190,12 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18362783
+                        ],
+                        "object_definition_value": [
+                            "Pelasgians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -39880,7 +40256,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T15:01:16Z"
+                    "object_dating": "2024-04-14T06:43:54Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -39973,10 +40349,12 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            16028174
+                            16028174,
+                            18362780
                         ],
                         "object_definition_value": [
-                            "Peuketis"
+                            "Peuketis",
+                            "Peuketians"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -40037,7 +40415,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T11:40:04Z"
+                    "object_dating": "2024-04-14T19:14:15Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -40121,15 +40499,14 @@
                     },
                     "35543": {
                         "object_description_id": 35543,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35519": {
-                        "object_description_id": 35519,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "Named Collective: Chones/Oenotrians",
+                        "object_definition_ref_object_id": [
+                            18362814,
+                            18362774
+                        ],
+                        "object_definition_value": [
+                            "Chones",
+                            "Oenotrians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -40162,8 +40539,12 @@
                     },
                     "47960": {
                         "object_description_id": 47960,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            16028192
+                        ],
+                        "object_definition_value": [
+                            "Italos is the ancestor of the Italians"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -40326,7 +40707,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T15:00:24Z"
+                    "object_dating": "2024-04-14T06:44:04Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -40407,10 +40788,12 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            16028189
+                            16028189,
+                            18362776
                         ],
                         "object_definition_value": [
-                            "Sikelos"
+                            "Sikelos",
+                            "Sikels"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -40470,7 +40853,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T14:59:50Z"
+                    "object_dating": "2024-04-14T09:53:01Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -40570,11 +40953,13 @@
                         "object_description_id": 35524,
                         "object_definition_ref_object_id": [
                             12695121,
-                            12695122
+                            12695122,
+                            14455221
                         ],
                         "object_definition_value": [
                             "Dionysios of Halikarnassos Ant. Rom. 1.12.3",
-                            "Antiochus of Syrakuse FGrHist 555 f2"
+                            "Antiochus of Syrakuse FGrHist 555 f2",
+                            "Dionysios of Halikarnassos Ant. Rom. 1.35.1"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -40614,7 +40999,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-13T15:00:09Z"
+                    "object_dating": "2024-04-14T19:29:31Z"
                 },
                 "object_definitions": {
                     "35544": {
@@ -40695,10 +41080,12 @@
                     "35543": {
                         "object_description_id": 35543,
                         "object_definition_ref_object_id": [
-                            16026912
+                            16026912,
+                            18362777
                         ],
                         "object_definition_value": [
-                            "Morges"
+                            "Morges",
+                            "Morgetes"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -53558,6 +53945,990 @@
                         ],
                         "object_definition_value": [
                             "Diodorus Siculus 4.81.1"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "18362898": {
+                "object": {
+                    "nodegoat_id": "ngGN9a88sGtY1HtwtGf61vdThGU",
+                    "type_id": 12173,
+                    "object_id": 18362898,
+                    "object_name": "Italos gave the Oenotrians the practice of common meals",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-04-14T19:16:31Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Italos gave the Oenotrians the practice of common meals",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16028194
+                        ],
+                        "object_definition_value": [
+                            "Stories about the Ancestry of Early Italian Peoples"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": 11945197,
+                        "object_definition_value": "Southern Italy",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235458
+                        ],
+                        "object_definition_value": [
+                            "Origins: Practices"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59566": {
+                        "object_description_id": 59566,
+                        "object_definition_ref_object_id": 18359003,
+                        "object_definition_value": "Named individual(s) plus collective",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945235,
+                            18359349
+                        ],
+                        "object_definition_value": [
+                            "Whole communities (named)",
+                            "Eponymous heroes"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            18362774,
+                            16028191
+                        ],
+                        "object_definition_value": [
+                            "Oenotrians",
+                            "Italos"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35519": {
+                        "object_description_id": 35519,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "No \"Activity Undertaken\" chosen, as this myth does not pertain to mobility.",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12695130
+                        ],
+                        "object_definition_value": [
+                            "Aristotle Pol. 1329B"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [
+                            16028182
+                        ],
+                        "object_definition_value": [
+                            "The Chones are Oenotrian"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "18362899": {
+                "object": {
+                    "nodegoat_id": "ngHO9b98tHeZ1IufuIA73wegiHb",
+                    "type_id": 12173,
+                    "object_id": 18362899,
+                    "object_name": "The Oenotrians turn from a pastoral life to agriculture",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-04-14T19:17:44Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "The Oenotrians turn from a pastoral life to agriculture",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16028194
+                        ],
+                        "object_definition_value": [
+                            "Stories about the Ancestry of Early Italian Peoples"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": 11945197,
+                        "object_definition_value": "Southern Italy",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235887
+                        ],
+                        "object_definition_value": [
+                            "Foundational"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59566": {
+                        "object_description_id": 59566,
+                        "object_definition_ref_object_id": 18359003,
+                        "object_definition_value": "Named individual(s) plus collective",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            14350871
+                        ],
+                        "object_definition_value": [
+                            "Immobility / remaining"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945235,
+                            18359349
+                        ],
+                        "object_definition_value": [
+                            "Whole communities (named)",
+                            "Eponymous heroes"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            16028191,
+                            18362774
+                        ],
+                        "object_definition_value": [
+                            "Italos",
+                            "Oenotrians"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12695130
+                        ],
+                        "object_definition_value": [
+                            "Aristotle Pol. 1329B"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "18362900": {
+                "object": {
+                    "nodegoat_id": "ngMT0E08yODEzNzYzMl85bjBnMA",
+                    "type_id": 12173,
+                    "object_id": 18362900,
+                    "object_name": "The Morgetes are Oenotrian",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-04-14T19:29:05Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "The Morgetes are Oenotrian",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16028194
+                        ],
+                        "object_definition_value": [
+                            "Stories about the Ancestry of Early Italian Peoples"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": 11945197,
+                        "object_definition_value": "Southern Italy",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235457
+                        ],
+                        "object_definition_value": [
+                            "Origins: People"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59566": {
+                        "object_description_id": 59566,
+                        "object_definition_ref_object_id": 18358999,
+                        "object_definition_value": "Named collective",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945235
+                        ],
+                        "object_definition_value": [
+                            "Whole communities (named)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            18362777,
+                            18362774
+                        ],
+                        "object_definition_value": [
+                            "Morgetes",
+                            "Oenotrians"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12695121,
+                            12695122
+                        ],
+                        "object_definition_value": [
+                            "Dionysios of Halikarnassos Ant. Rom. 1.12.3",
+                            "Antiochus of Syrakuse FGrHist 555 f2"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "18362901": {
+                "object": {
+                    "nodegoat_id": "ngNU0F18zPEFaOaBaPG9xckCoNB",
+                    "type_id": 12173,
+                    "object_id": 18362901,
+                    "object_name": "The Italietes are Oenotrian",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-04-14T19:33:34Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "The Italietes are Oenotrian",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16028194
+                        ],
+                        "object_definition_value": [
+                            "Stories about the Ancestry of Early Italian Peoples"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": 11945197,
+                        "object_definition_value": "Southern Italy",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235457
+                        ],
+                        "object_definition_value": [
+                            "Origins: People"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59566": {
+                        "object_description_id": 59566,
+                        "object_definition_ref_object_id": 18358999,
+                        "object_definition_value": "Named collective",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945235
+                        ],
+                        "object_definition_value": [
+                            "Whole communities (named)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            18362778,
+                            18362774
+                        ],
+                        "object_definition_value": [
+                            "Italietes",
+                            "Oenotrians"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12695122,
+                            12695121
+                        ],
+                        "object_definition_value": [
+                            "Antiochus of Syrakuse FGrHist 555 f2",
+                            "Dionysios of Halikarnassos Ant. Rom. 1.12.3"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "18362902": {
+                "object": {
+                    "nodegoat_id": "ngOV0G28aPbGaPbKbQH0zdlXpPi",
+                    "type_id": 12173,
+                    "object_id": 18362902,
+                    "object_name": "The Sikels are Oenotrian",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-04-14T19:35:50Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "The Sikels are Oenotrian",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16028194
+                        ],
+                        "object_definition_value": [
+                            "Stories about the Ancestry of Early Italian Peoples"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": 11945197,
+                        "object_definition_value": "Southern Italy",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235457
+                        ],
+                        "object_definition_value": [
+                            "Origins: People"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59566": {
+                        "object_description_id": 59566,
+                        "object_definition_ref_object_id": 18358999,
+                        "object_definition_value": "Named collective",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945235
+                        ],
+                        "object_definition_value": [
+                            "Whole communities (named)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            18362776,
+                            18362774
+                        ],
+                        "object_definition_value": [
+                            "Sikels",
+                            "Oenotrians"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12695121,
+                            12695122
+                        ],
+                        "object_definition_value": [
+                            "Dionysios of Halikarnassos Ant. Rom. 1.12.3",
+                            "Antiochus of Syrakuse FGrHist 555 f2"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "18362903": {
+                "object": {
+                    "nodegoat_id": "ngPW0L38bPGHcQcLcPI1zemEqRD",
+                    "type_id": 12173,
+                    "object_id": 18362903,
+                    "object_name": "The Sybarite Curse",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-04-14T20:35:23Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "The Sybarite Curse",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16026920
+                        ],
+                        "object_definition_value": [
+                            "Versions of the Sybarite foundation"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": 11945197,
+                        "object_definition_value": "Southern Italy",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235887
+                        ],
+                        "object_definition_value": [
+                            "Foundational"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59566": {
+                        "object_description_id": 59566,
+                        "object_definition_ref_object_id": 18358999,
+                        "object_definition_value": "Named collective",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945235
+                        ],
+                        "object_definition_value": [
+                            "Whole communities (named)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            18362801,
+                            18362816
+                        ],
+                        "object_definition_value": [
+                            "Sybarites",
+                            "Troezenians"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            12411836
+                        ],
+                        "object_definition_value": [
+                            "Aristotle Pol. 5.1303a"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "18362906": {
+                "object": {
+                    "nodegoat_id": "ngSZ0O68eSZKeTfAfSr4dhpTtSm",
+                    "type_id": 12173,
+                    "object_id": 18362906,
+                    "object_name": "The shrine of Philoktetes at Makalla",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-04-14T20:53:33Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "The shrine of Philoktetes at Makalla",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16021632
+                        ],
+                        "object_definition_value": [
+                            "Wandering of Philoktetes"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": 11945197,
+                        "object_definition_value": "Southern Italy",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235458
+                        ],
+                        "object_definition_value": [
+                            "Origins: Practices"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59566": {
+                        "object_description_id": 59566,
+                        "object_definition_ref_object_id": 18358997,
+                        "object_definition_value": "Named individual(s)",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [
+                            11945231
+                        ],
+                        "object_definition_value": [
+                            "Heroes (named individuals)"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14392636
+                        ],
+                        "object_definition_value": [
+                            "Philoktetes"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            16025412,
+                            16025405
+                        ],
+                        "object_definition_value": [
+                            "Stephanos of Byzantion s. v. Makalla",
+                            "Ioannes Tzetzes Lycoph. Alex. 927"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
