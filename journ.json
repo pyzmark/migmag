@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-04-14T22:00:08+00:00",
+    "timestamp": "2024-04-15T22:00:08+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -9016,7 +9016,7 @@
                             "Ioannes Tzetzes Schol. Lyc. Alex. 980",
                             "Kallinos of Ephesos in Strabo 14.4.3",
                             "Proclus Chestomathia II",
-                            "Ps-Hesiod Melampodia F278 M-W",
+                            "Hesiod Melampodia F278 M-W",
                             "Pseudo-Apollodoros Epitome 6.2-4",
                             "Quintus Smyrnaeus Posthomerica 14.360-9",
                             "Sophocles F180 Radt",
@@ -11573,7 +11573,7 @@
                             12375535
                         ],
                         "object_definition_value": [
-                            "Ps-Hesiod F82",
+                            "Hesiod F82",
                             "Strabo 7.7.2"
                         ],
                         "object_definition_sources": [],
@@ -28057,7 +28057,7 @@
                             14790722
                         ],
                         "object_definition_value": [
-                            "Ps-Hesiod Hes. Sh. 1. 1-30"
+                            "Hesiod Hes. Sh. 1. 1-30"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -54929,6 +54929,149 @@
                         "object_definition_value": [
                             "Stephanos of Byzantion s. v. Makalla",
                             "Ioannes Tzetzes Lycoph. Alex. 927"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "38607": {
+                        "object_description_id": 38607,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "49101": {
+                        "object_description_id": 49101,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47960": {
+                        "object_description_id": 47960,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": []
+            },
+            "18363374": {
+                "object": {
+                    "nodegoat_id": "ngIP7g48uIPAsJvAvIh25xfNjIW",
+                    "type_id": 12173,
+                    "object_id": 18363374,
+                    "object_name": "The artichoke thorn and civic foundation in West Lokris",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-04-15T21:52:54Z"
+                },
+                "object_definitions": {
+                    "35544": {
+                        "object_description_id": 35544,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "The artichoke thorn and civic foundation in West Lokris",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "53491": {
+                        "object_description_id": 53491,
+                        "object_definition_ref_object_id": [
+                            16218686,
+                            18363373
+                        ],
+                        "object_definition_value": [
+                            "Lokrian cities",
+                            "West Lokris"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "50791": {
+                        "object_description_id": 50791,
+                        "object_definition_ref_object_id": 11945198,
+                        "object_definition_value": "Central Greece",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "47038": {
+                        "object_description_id": 47038,
+                        "object_definition_ref_object_id": [
+                            14235456
+                        ],
+                        "object_definition_value": [
+                            "Origins: Place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59566": {
+                        "object_description_id": 59566,
+                        "object_definition_ref_object_id": 18358997,
+                        "object_definition_value": "Named individual(s)",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35546": {
+                        "object_description_id": 35546,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35547": {
+                        "object_description_id": 35547,
+                        "object_definition_ref_object_id": [
+                            12486316
+                        ],
+                        "object_definition_value": [
+                            "West Lokris - Lokris Ozolia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35518": {
+                        "object_description_id": 35518,
+                        "object_definition_ref_object_id": [
+                            11945217
+                        ],
+                        "object_definition_value": [
+                            "Settlement / first occupation of a place"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35542": {
+                        "object_description_id": 35542,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35543": {
+                        "object_description_id": 35543,
+                        "object_definition_ref_object_id": [
+                            14790850
+                        ],
+                        "object_definition_value": [
+                            "Lokros"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35524": {
+                        "object_description_id": 35524,
+                        "object_definition_ref_object_id": [
+                            14774814,
+                            14774813
+                        ],
+                        "object_definition_value": [
+                            "Didymus Chalcenterus BNJ 709 F4",
+                            "Athenaios Deipnosophists 2.82"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []

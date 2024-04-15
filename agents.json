@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-04-14T22:00:06+00:00",
+    "timestamp": "2024-04-15T22:00:06+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -777,7 +777,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-09T14:10:13Z"
+                    "object_dating": "2024-04-15T11:15:18Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -835,21 +835,45 @@
                             12433939,
                             18358204,
                             12427795,
-                            12443617
+                            12443617,
+                            12429214
                         ],
                         "object_definition_value": [
                             "Thrace",
                             "Amphipolis",
                             "Peloponnese",
-                            "Thasos"
+                            "Thasos",
+                            "Delphi"
                         ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358371,
+                        "object_definition_value": "Southern Greece",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358370,
+                            18358371,
+                            18358369
+                        ],
+                        "object_definition_value": [
+                            "Northern Greece",
+                            "Southern Greece",
+                            "Central Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://referenceworks-brill-com.uaccess.univie.ac.at/display/entries/NPOE/e1212620.xml?rskey=4JjoaJ&result=1",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -1111,7 +1135,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-01T13:29:15Z"
+                    "object_dating": "2024-04-15T12:40:57Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -1125,6 +1149,13 @@
                         "object_description_id": 35520,
                         "object_definition_ref_object_id": 11945253,
                         "object_definition_value": "Author",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35535": {
+                        "object_description_id": 35535,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://www.trismegistos.org/authors/detail.php?quick=8787",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -1163,10 +1194,24 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358371,
+                        "object_definition_value": "Southern Greece",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://referenceworks-brill-com.uaccess.univie.ac.at/display/entries/NPOE/e825210.xml?rskey=sD9eIF&result=12; https://scholarlyeditions-brill-com.uaccess.univie.ac.at/reader/urn:cts:greekLit:fgrh.0305.bnjo-2-comm1-eng:1/",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -1206,7 +1251,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:56:09Z"
+                    "object_dating": "2024-04-15T12:25:14Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -1260,15 +1305,37 @@
                     },
                     "35540": {
                         "object_description_id": 35540,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            11943325
+                        ],
+                        "object_definition_value": [
+                            "Athina"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358370,
+                        "object_definition_value": "Northern Greece",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358371
+                        ],
+                        "object_definition_value": [
+                            "Southern Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://referenceworks-brill-com.uaccess.univie.ac.at/display/entries/NPOE/e115330.xml?rskey=E0Gc3e&result=1",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -1308,7 +1375,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-09T12:33:51Z"
+                    "object_dating": "2024-04-15T09:14:09Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -1371,10 +1438,28 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358370,
+                        "object_definition_value": "Northern Greece",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358379
+                        ],
+                        "object_definition_value": [
+                            "North Africa"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://referenceworks-brill-com.uaccess.univie.ac.at/display/entries/NPOE/e114170.xml?rskey=UhVnze&result=9",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -1858,7 +1943,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-01T13:29:15Z"
+                    "object_dating": "2024-04-15T09:19:16Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -1917,10 +2002,24 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358370,
+                        "object_definition_value": "Northern Greece",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://scholarlyeditions-brill-com.uaccess.univie.ac.at/reader/urn:cts:greekLit:fgrh.0391.bnjo-3-comm1-eng:1/",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -2613,7 +2712,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:53:43Z"
+                    "object_dating": "2024-04-15T09:02:00Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -2667,15 +2766,37 @@
                     },
                     "35540": {
                         "object_description_id": 35540,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            12427801
+                        ],
+                        "object_definition_value": [
+                            "Thessaly"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358371,
+                        "object_definition_value": "Southern Greece",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358370
+                        ],
+                        "object_definition_value": [
+                            "Northern Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://referenceworks-brill-com.uaccess.univie.ac.at/display/entries/NPOE/e528160.xml?rskey=t5ua8J&result=1",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -3042,7 +3163,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-01T13:29:15Z"
+                    "object_dating": "2024-04-15T08:54:56Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -3096,15 +3217,37 @@
                     },
                     "35540": {
                         "object_description_id": 35540,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            12427801
+                        ],
+                        "object_definition_value": [
+                            "Thessaly"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358371,
+                        "object_definition_value": "Southern Greece",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358370
+                        ],
+                        "object_definition_value": [
+                            "Northern Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://scholarlyeditions-brill-com.uaccess.univie.ac.at/reader/urn:cts:greekLit:fgrh.0338A.bnjo-2-comm1-eng:1/",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -3246,7 +3389,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:53:01Z"
+                    "object_dating": "2024-04-15T08:49:57Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -3305,10 +3448,24 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358371,
+                        "object_definition_value": "Southern Greece",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://referenceworks-brill-com.uaccess.univie.ac.at/display/entries/NPOE/e714060.xml",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -3995,7 +4152,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-09T11:37:39Z"
+                    "object_dating": "2024-04-15T09:36:40Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -4051,19 +4208,43 @@
                         "object_description_id": 35540,
                         "object_definition_ref_object_id": [
                             18358204,
-                            12433183
+                            12433183,
+                            12444594,
+                            12375043
                         ],
                         "object_definition_value": [
                             "Amphipolis",
-                            "Lykia"
+                            "Lykia",
+                            "Persia",
+                            "Gaza"
                         ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358377,
+                        "object_definition_value": "Western Aegean",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358370,
+                            18358378
+                        ],
+                        "object_definition_value": [
+                            "Northern Greece",
+                            "Levant"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://scholarlyeditions-brill-com.uaccess.univie.ac.at/reader/urn:cts:greekLit:fgrh.0133.bnjo-2-comm1-eng:1/",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -4790,7 +4971,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-01T13:29:15Z"
+                    "object_dating": "2024-04-15T12:52:43Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -4849,10 +5030,24 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358377,
+                        "object_definition_value": "Western Aegean",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://scholarlyeditions-brill-com.uaccess.univie.ac.at/reader/urn:cts:greekLit:fgrh.0397.bnjo-3-comm1-eng:1/",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -4892,7 +5087,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-09T14:51:03Z"
+                    "object_dating": "2024-04-15T08:45:21Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -4951,10 +5146,24 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358371,
+                        "object_definition_value": "Southern Greece",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://scholarlyeditions-brill-com.uaccess.univie.ac.at/reader/urn:cts:greekLit:fgrh.0003.bnjo-3-comm1-eng:1/",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -5320,7 +5529,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-09T10:49:56Z"
+                    "object_dating": "2024-04-15T10:08:35Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -5379,22 +5588,46 @@
                             12336532,
                             12433159,
                             11943325,
-                            12042005
+                            12042005,
+                            12150549
                         ],
                         "object_definition_value": [
                             "Akragas",
                             "Kyrene",
                             "Aigina",
                             "Athina",
-                            "Argos"
+                            "Argos",
+                            "Rhodos"
                         ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358369,
+                        "object_definition_value": "Central Greece",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358379,
+                            18358371,
+                            18358376
+                        ],
+                        "object_definition_value": [
+                            "North Africa",
+                            "Southern Greece",
+                            "Eastern Aegean"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://referenceworks-brill-com.uaccess.univie.ac.at/display/entries/NPOE/e925700.xml?rskey=zCRx3R&result=1",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -5434,7 +5667,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-09T15:21:01Z"
+                    "object_dating": "2024-04-15T08:40:11Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -5489,18 +5722,46 @@
                     "35540": {
                         "object_description_id": 35540,
                         "object_definition_ref_object_id": [
-                            12150554
+                            12150554,
+                            12433936,
+                            12336532,
+                            12411849
                         ],
                         "object_definition_value": [
-                            "Syrakus"
+                            "Syrakus",
+                            "Egypt",
+                            "Kyrene",
+                            "Taras"
                         ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358371,
+                        "object_definition_value": "Southern Greece",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358383,
+                            18358379,
+                            18358382
+                        ],
+                        "object_definition_value": [
+                            "Sicily",
+                            "North Africa",
+                            "Southern Italy"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://referenceworks-brill-com.uaccess.univie.ac.at/display/entries/NPOE/e927070.xml?rskey=wmlmnv&result=1",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -5665,7 +5926,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-09T09:59:38Z"
+                    "object_dating": "2024-04-15T10:33:16Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -5740,6 +6001,13 @@
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://scholarlyeditions-brill-com.uaccess.univie.ac.at/reader/urn:cts:greekLit:fgrh.0388.bnjo-2-comm1-eng:1/ ; https://referenceworks-brill-com.uaccess.univie.ac.at/display/entries/NPOE/e928690.xml?rskey=FTFuiN",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -5896,7 +6164,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-12-08T14:13:44Z"
+                    "object_dating": "2024-04-15T12:34:39Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -5961,10 +6229,36 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358371,
+                        "object_definition_value": "Southern Greece",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358380,
+                            18358385,
+                            18358379,
+                            18358381,
+                            18358371
+                        ],
+                        "object_definition_value": [
+                            "Central Italy",
+                            "Iberia",
+                            "North Africa",
+                            "Northern Italy",
+                            "Southern Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://scholarlyeditions-brill-com.uaccess.univie.ac.at/reader/urn:cts:greekLit:fgrh.0173.bnjo-3-comm1-eng:1/",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -7198,7 +7492,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-10-01T13:29:15Z"
+                    "object_dating": "2024-04-15T12:47:05Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -7257,10 +7551,24 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358377,
+                        "object_definition_value": "Western Aegean",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://scholarlyeditions-brill-com.uaccess.univie.ac.at/reader/urn:cts:greekLit:fgrh.0534.bnjo-2-comm1-eng:1/",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -7416,7 +7724,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:46:58Z"
+                    "object_dating": "2024-04-15T12:56:50Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -7443,14 +7751,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-500",
+                        "object_definition_value": "-556",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-400",
+                        "object_definition_value": "-468",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -7475,10 +7783,24 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358377,
+                        "object_definition_value": "Western Aegean",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://scholarlyeditions-brill-com.uaccess.univie.ac.at/reader/urn:cts:greekLit:fgrh.0008.bnjo-3-comm1-eng:1/",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -7488,8 +7810,8 @@
                         "object_sub": {
                             "object_sub_id": 18403986,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-500",
-                            "object_sub_date_end": "-400",
+                            "object_sub_date_start": "-556",
+                            "object_sub_date_end": "-468",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [24.333333, 37.616667]}",
                             "object_sub_location_geometry_ref_object_id": 12150535,
@@ -7518,7 +7840,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-09T15:26:12Z"
+                    "object_dating": "2024-04-15T11:12:02Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -7577,10 +7899,24 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358371,
+                        "object_definition_value": "Southern Greece",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://referenceworks-brill-com.uaccess.univie.ac.at/display/entries/NPOE/e1116670.xml?rskey=dFckIA&result=1",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -8425,7 +8761,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-09T14:09:41Z"
+                    "object_dating": "2024-04-15T11:15:11Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -8483,21 +8819,45 @@
                             12433939,
                             18358204,
                             12427795,
-                            12443617
+                            12443617,
+                            12429214
                         ],
                         "object_definition_value": [
                             "Thrace",
                             "Amphipolis",
                             "Peloponnese",
-                            "Thasos"
+                            "Thasos",
+                            "Delphi"
                         ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358371,
+                        "object_definition_value": "Southern Greece",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358370,
+                            18358371,
+                            18358369
+                        ],
+                        "object_definition_value": [
+                            "Northern Greece",
+                            "Southern Greece",
+                            "Central Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://referenceworks-brill-com.uaccess.univie.ac.at/display/entries/NPOE/e1212620.xml?rskey=4JjoaJ&result=1",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -9875,7 +10235,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-09T12:43:30Z"
+                    "object_dating": "2024-04-15T09:10:23Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -9930,18 +10290,40 @@
                     "35540": {
                         "object_description_id": 35540,
                         "object_definition_ref_object_id": [
-                            12150550
+                            12150550,
+                            11943325
                         ],
                         "object_definition_value": [
-                            "Rome"
+                            "Rome",
+                            "Athina"
                         ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358370,
+                        "object_definition_value": "Northern Greece",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358380,
+                            18358371
+                        ],
+                        "object_definition_value": [
+                            "Central Italy",
+                            "Southern Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://referenceworks-brill-com.uaccess.univie.ac.at/display/entries/NPOE/e124860.xml?rskey=E7xOev&result=1",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -10076,7 +10458,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-09T15:42:20Z"
+                    "object_dating": "2024-04-15T11:19:31Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -10130,15 +10512,41 @@
                     },
                     "35540": {
                         "object_description_id": 35540,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            12150515,
+                            12493139
+                        ],
+                        "object_definition_value": [
+                            "Alexandria",
+                            "Pergamon"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358371,
+                        "object_definition_value": "Southern Greece",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358374,
+                            18358379
+                        ],
+                        "object_definition_value": [
+                            "Western Anatolia",
+                            "North Africa"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://scholarlyeditions-brill-com.uaccess.univie.ac.at/reader/urn:cts:greekLit:fgrh.0244.bnjo-1-comm1-eng:1/",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -10839,7 +11247,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-09T11:51:35Z"
+                    "object_dating": "2024-04-15T09:24:30Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -10910,10 +11318,34 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358370,
+                        "object_definition_value": "Northern Greece",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358371,
+                            18358375,
+                            18358374,
+                            18358370
+                        ],
+                        "object_definition_value": [
+                            "Southern Greece",
+                            "Northeastern Aegean",
+                            "Western Anatolia",
+                            "Northern Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://referenceworks-brill-com.uaccess.univie.ac.at/display/entries/NPOE/e136530.xml?rskey=RPxhfT&result=1",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -10953,7 +11385,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-09T10:56:17Z"
+                    "object_dating": "2024-04-15T09:45:19Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -11012,10 +11444,24 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358369,
+                        "object_definition_value": "Central Greece",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://scholarlyeditions-brill-com.uaccess.univie.ac.at/reader/urn:cts:greekLit:fgrh.0378.bnjo-2-comm1-eng:1/",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -11828,7 +12274,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-09T12:12:33Z"
+                    "object_dating": "2024-04-15T09:16:19Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -11895,10 +12341,28 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358370,
+                        "object_definition_value": "Northern Greece",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358369
+                        ],
+                        "object_definition_value": [
+                            "Central Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://scholarlyeditions-brill-com.uaccess.univie.ac.at/reader/urn:cts:greekLit:fgrh.0124.bnjo-2-comm1-eng:1/",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -12156,7 +12620,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-09T15:54:19Z"
+                    "object_dating": "2024-04-15T11:21:59Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -12212,19 +12676,45 @@
                         "object_description_id": 35540,
                         "object_definition_ref_object_id": [
                             12150522,
-                            11943325
+                            11943325,
+                            12443615,
+                            12150518
                         ],
                         "object_definition_value": [
                             "Cappadocia",
-                            "Athina"
+                            "Athina",
+                            "Syria",
+                            "Antioch on the Orontes"
                         ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358379,
+                        "object_definition_value": "North Africa",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358371,
+                            18358378,
+                            18358372
+                        ],
+                        "object_definition_value": [
+                            "Southern Greece",
+                            "Levant",
+                            "Central and northern Anatolia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://scholarlyeditions-brill-com.uaccess.univie.ac.at/reader/urn:cts:greekLit:fgrh.0102.bnjo-3-comm1-eng:1/",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -12481,7 +12971,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-09T16:01:28Z"
+                    "object_dating": "2024-04-15T11:23:20Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -12540,10 +13030,24 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358371,
+                        "object_definition_value": "Southern Greece",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://referenceworks-brill-com.uaccess.univie.ac.at/display/entries/NPOE/e315180.xml?rskey=GW7B35&result=2",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -13475,7 +13979,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2021-11-24T17:34:37Z"
+                    "object_dating": "2024-04-15T12:28:28Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -13502,14 +14006,14 @@
                     "35536": {
                         "object_description_id": 35536,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-800",
+                        "object_definition_value": "-799",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "35537": {
                         "object_description_id": 35537,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "-600",
+                        "object_definition_value": "-700",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -13534,10 +14038,24 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358371,
+                        "object_definition_value": "Southern Greece",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://scholarlyeditions-brill-com.uaccess.univie.ac.at/reader/urn:cts:greekLit:fgrh.0451.bnjo-3-comm1-eng:1/",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -13547,8 +14065,8 @@
                         "object_sub": {
                             "object_sub_id": 18576712,
                             "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-800",
-                            "object_sub_date_end": "-600",
+                            "object_sub_date_start": "-799",
+                            "object_sub_date_end": "-700",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [22.881545291764, 37.906399779089]}",
                             "object_sub_location_geometry_ref_object_id": 12035293,
@@ -13577,7 +14095,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-09T16:09:10Z"
+                    "object_dating": "2024-04-15T11:24:17Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -13632,18 +14150,38 @@
                     "35540": {
                         "object_description_id": 35540,
                         "object_definition_ref_object_id": [
-                            11943325
+                            11943325,
+                            12150540
                         ],
                         "object_definition_value": [
-                            "Athina"
+                            "Athina",
+                            "Macedonia"
                         ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358371,
+                        "object_definition_value": "Southern Greece",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358370
+                        ],
+                        "object_definition_value": [
+                            "Northern Greece"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://referenceworks-brill-com.uaccess.univie.ac.at/display/entries/NPOE/e405880.xml?rskey=s0gHy5&result=1",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -14312,7 +14850,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-09T10:25:11Z"
+                    "object_dating": "2024-04-15T10:24:48Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -14359,8 +14897,8 @@
                     },
                     "35539": {
                         "object_description_id": 35539,
-                        "object_definition_ref_object_id": 12433943,
-                        "object_definition_value": "Euboia",
+                        "object_definition_ref_object_id": 12427788,
+                        "object_definition_value": "Chalkis",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -14375,10 +14913,28 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358369,
+                        "object_definition_value": "Central Greece",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358379
+                        ],
+                        "object_definition_value": [
+                            "North Africa"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Disputed attribution of 'Alexandra' and trouble with dating the work.  https://referenceworks-brill-com.uaccess.univie.ac.at/display/entries/NPOE/e713710.xml?rskey=nF8MpY&result=1",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -14391,8 +14947,8 @@
                             "object_sub_date_start": "-320",
                             "object_sub_date_end": "-200",
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": "{\"type\": \"GeometryCollection\", \"geometries\": [{\"type\": \"Polygon\", \"coordinates\": [[[23.617858886718743, 38.453588708941375], [23.634338378906246, 38.425621828142184], [23.637084960937504, 38.41055825094609], [23.6590576171875, 38.41055825094609], [23.692016601562496, 38.41486245064945], [23.76068115234375, 38.395491532971896], [23.81561279296875, 38.38472766885085], [23.86505126953125, 38.40410147066251], [23.93096923828125, 38.40194908237822], [23.9886474609375, 38.39979663000095], [24.035339355468754, 38.382574703770246], [24.05181884765625, 38.361041528596026], [24.046325683593746, 38.339501946274574], [24.0380859375, 38.324420427006544], [24.11773681640625, 38.315801006824984], [24.09576416015625, 38.268375880204744], [24.0985107421875, 38.229550455326134], [24.17816162109375, 38.225235239076824], [24.18365478515625, 38.19718009396176], [24.18365478515625, 38.112949789189614], [24.219360351562496, 38.10646650598286], [24.268798828125, 38.0934982133674], [24.3072509765625, 38.05025395161289], [24.315490722656254, 38.00049145082287], [24.3731689453125, 37.98100996893789], [24.381408691406254, 37.972349871995256], [24.3896484375, 38.01131226070673], [24.43634033203125, 38.01131226070673], [24.472045898437496, 37.97884504049713], [24.4830322265625, 37.965854128749434], [24.50775146484375, 37.965854128749434], [24.565429687499996, 38.03078569382294], [24.554443359375004, 38.06971703320484], [24.568176269531254, 38.112949789189614], [24.598388671874996, 38.156156969924915], [24.499511718749996, 38.151837403006766], [24.406127929687496, 38.14751758025121], [24.3621826171875, 38.1734326790354], [24.3182373046875, 38.190704293996504], [24.26605224609375, 38.2273928792016], [24.25506591796875, 38.26190641637658], [24.2523193359375, 38.30502529053749], [24.208374023437504, 38.35673412466715], [24.208374023437504, 38.38472766885085], [24.1973876953125, 38.453588708941375], [24.205627441406246, 38.494443887725055], [24.22760009765625, 38.51808630316305], [24.17816162109375, 38.55031345037904], [24.128723144531246, 38.60399327559168], [24.13421630859375, 38.63618191259742], [24.139709472656246, 38.646908247760706], [24.0655517578125, 38.6833657775237], [24.0106201171875, 38.687653678261704], [23.947448730468746, 38.67478920520597], [23.859558105468743, 38.676933444637925], [23.744201660156254, 38.71980474264237], [23.71124267578125, 38.762650338334154], [23.678283691406246, 38.76479194327964], [23.623352050781254, 38.76693348394693], [23.524475097656246, 38.80975079723835], [23.44482421875, 38.86323626888358], [23.42559814453125, 38.927365763942475], [23.43109130859375, 38.950865400919994], [23.3843994140625, 38.974357249228206], [23.376159667968743, 39.00851330385611], [23.32672119140625, 39.04051963289309], [23.258056640625, 39.03838632847035], [23.1536865234375, 39.01278165162774], [23.087768554687496, 38.9871677013526], [23.03558349609375, 38.94445718138944], [22.93670654296875, 38.884619201291905], [22.884521484375, 38.865374851611634], [22.818603515625, 38.841846903808985], [22.933959960937496, 38.83756825896614], [23.016357421875, 38.839707613545144], [22.972412109375, 38.87606680031536], [23.01910400390625, 38.884619201291905], [23.038330078125, 38.86965182408357], [23.060302734375, 38.84826438869913], [23.115234374999996, 38.84826438869913], [23.15093994140625, 38.84826438869913], [23.18389892578125, 38.83328935686689], [23.23333740234375, 38.80975079723835], [23.282775878906246, 38.77121637244273], [23.3074951171875, 38.758366935612784], [23.3734130859375, 38.71551876930462], [23.40911865234375, 38.67907761983558], [23.450317382812496, 38.655488159953], [23.497009277343743, 38.6275996886131], [23.521728515625, 38.57393751557591], [23.5821533203125, 38.57179019417367], [23.62884521484375, 38.533127435052776], [23.6260986328125, 38.515937313413474], [23.617858886718743, 38.453588708941375]]]}]}",
-                            "object_sub_location_geometry_ref_object_id": 12433943,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [23.60336759829369, 38.46380316956897]}",
+                            "object_sub_location_geometry_ref_object_id": 12427788,
                             "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 12160,
@@ -14521,19 +15077,19 @@
                     "nodegoat_id": "ngRY0J58dSYJ9SeF5SA38gomsRF",
                     "type_id": 12174,
                     "object_id": 12336605,
-                    "object_name": "Ps-Hesiod",
+                    "object_name": "Hesiod",
                     "object_name_plain": null,
                     "object_name_style": [],
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-09T09:49:16Z"
+                    "object_dating": "2024-04-15T10:42:34Z"
                 },
                 "object_definitions": {
                     "35523": {
                         "object_description_id": 35523,
                         "object_definition_ref_object_id": null,
-                        "object_definition_value": "Ps-Hesiod",
+                        "object_definition_value": "Hesiod",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -14594,6 +15150,13 @@
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "The authenticity of the ‘Theogony’ and the ‘Works and Days’ is assured, but the greater part of the ‘Shield’ is not genuine. The authenticity of the ‘Catalogue of Women’ has been questioned, at least in recent times (cf. [22. 125-176]). It is difficult to judge the authenticity of other works attributed to H. https://referenceworks-brill-com.uaccess.univie.ac.at/display/entries/NPOE/e512160.xml?rskey=wwDTic&result=1",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -14921,7 +15484,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-09T16:18:27Z"
+                    "object_dating": "2024-04-15T11:26:03Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -14975,15 +15538,39 @@
                     },
                     "35540": {
                         "object_description_id": 35540,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            12150554,
+                            12429226
+                        ],
+                        "object_definition_value": [
+                            "Syrakus",
+                            "Gela"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358371,
+                        "object_definition_value": "Southern Greece",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358383
+                        ],
+                        "object_definition_value": [
+                            "Sicily"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://referenceworks-brill-com.uaccess.univie.ac.at/display/entries/NPOE/e110710.xml?rskey=fw9j7M&result=1",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -19302,7 +19889,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-09T10:06:43Z"
+                    "object_dating": "2024-04-15T10:30:21Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -19367,10 +19954,30 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358369,
+                        "object_definition_value": "Central Greece",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358371,
+                            18358378
+                        ],
+                        "object_definition_value": [
+                            "Southern Greece",
+                            "Levant"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://referenceworks-brill-com.uaccess.univie.ac.at/display/entries/NPOE/e405580.xml?rskey=jXLdAC&result=1",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -24255,7 +24862,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-04-26T07:46:27Z"
+                    "object_dating": "2024-04-15T12:01:15Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -24269,6 +24876,13 @@
                         "object_description_id": 35520,
                         "object_definition_ref_object_id": 11945253,
                         "object_definition_value": "Author",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35535": {
+                        "object_description_id": 35535,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://www.trismegistos.org/authors/detail.php?author_id=23",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -24307,10 +24921,24 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358371,
+                        "object_definition_value": "Southern Greece",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Uncertain other places. https://referenceworks-brill-com.uaccess.univie.ac.at/display/entries/NPOE/e110600.xml?rskey=j5McXv&result=3",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -24350,7 +24978,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-04-26T07:51:23Z"
+                    "object_dating": "2024-04-15T12:07:49Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -24364,6 +24992,13 @@
                         "object_description_id": 35520,
                         "object_definition_ref_object_id": 11945253,
                         "object_definition_value": "Author",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35535": {
+                        "object_description_id": 35535,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://www.trismegistos.org/authors/detail.php?author_id=972",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -24399,6 +25034,13 @@
                         "object_description_id": 35540,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358371,
+                        "object_definition_value": "Southern Greece",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -24540,7 +25182,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-04-26T08:04:32Z"
+                    "object_dating": "2024-04-15T12:14:05Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -24594,15 +25236,30 @@
                     },
                     "35540": {
                         "object_description_id": 35540,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            12427795
+                        ],
+                        "object_definition_value": [
+                            "Peloponnese"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358371,
+                        "object_definition_value": "Southern Greece",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358371
+                        ],
+                        "object_definition_value": [
+                            "Southern Greece"
+                        ],
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -25734,7 +26391,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2023-05-25T10:39:21Z"
+                    "object_dating": "2024-04-15T12:21:24Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -25748,6 +26405,13 @@
                         "object_description_id": 35520,
                         "object_definition_ref_object_id": 11945253,
                         "object_definition_value": "Author",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35535": {
+                        "object_description_id": 35535,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://www.trismegistos.org/authors/detail.php?author_id=865",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -25793,10 +26457,24 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358371,
+                        "object_definition_value": "Southern Greece",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://referenceworks-brill-com.uaccess.univie.ac.at/display/entries/NPOE/e1117150.xml?rskey=AFHEPQ&result=1",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -27721,7 +28399,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-09T10:36:32Z"
+                    "object_dating": "2024-04-15T10:15:39Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -27786,10 +28464,28 @@
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358369,
+                        "object_definition_value": "Central Greece",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
                     "59539": {
                         "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
+                        "object_definition_ref_object_id": [
+                            18358374
+                        ],
+                        "object_definition_value": [
+                            "Western Anatolia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://referenceworks-brill-com.uaccess.univie.ac.at/display/entries/NPOE/e124050.xml",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -29228,101 +29924,6 @@
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [11.876974999999998, 45.409561]}",
                             "object_sub_location_geometry_ref_object_id": 12486341,
-                            "object_sub_location_geometry_ref_type_id": 12160,
-                            "object_sub_location_ref_object_id": 0,
-                            "object_sub_location_ref_type_id": 12160,
-                            "object_sub_location_ref_object_sub_details_id": 13068,
-                            "object_sub_location_ref_object_name": "",
-                            "object_sub_location_type": "reference",
-                            "object_sub_sources": [],
-                            "object_sub_version": "",
-                            "object_sub_style": []
-                        },
-                        "object_sub_definitions": []
-                    }
-                }
-            },
-            "15986975": {
-                "object": {
-                    "nodegoat_id": "ngJQ7z58vKAB5KwR5JS3vygGkKX",
-                    "type_id": 12174,
-                    "object_id": 15986975,
-                    "object_name": "Isocrates",
-                    "object_name_plain": null,
-                    "object_name_style": [],
-                    "object_style": [],
-                    "object_sources": [],
-                    "object_version": "",
-                    "object_dating": "2024-03-12T15:15:07Z"
-                },
-                "object_definitions": {
-                    "35523": {
-                        "object_description_id": 35523,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "Isocrates",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35520": {
-                        "object_description_id": 35520,
-                        "object_definition_ref_object_id": 11945253,
-                        "object_definition_value": "Author",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35536": {
-                        "object_description_id": 35536,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "-436",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35537": {
-                        "object_description_id": 35537,
-                        "object_definition_ref_object_id": null,
-                        "object_definition_value": "-338",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35556": {
-                        "object_description_id": 35556,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35539": {
-                        "object_description_id": 35539,
-                        "object_definition_ref_object_id": 11943325,
-                        "object_definition_value": "Athina",
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "35540": {
-                        "object_description_id": 35540,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    },
-                    "59539": {
-                        "object_description_id": 59539,
-                        "object_definition_ref_object_id": [],
-                        "object_definition_value": [],
-                        "object_definition_sources": [],
-                        "object_definition_style": []
-                    }
-                },
-                "object_subs": {
-                    "23077416": {
-                        "object_sub": {
-                            "object_sub_id": 23077416,
-                            "object_sub_details_id": 13427,
-                            "object_sub_date_start": "-436",
-                            "object_sub_date_end": "-338",
-                            "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [23.722746101726, 37.972633872616]}",
-                            "object_sub_location_geometry_ref_object_id": 11943325,
                             "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 12160,
