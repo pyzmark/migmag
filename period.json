@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-04-15T22:00:17+00:00",
+    "timestamp": "2024-04-16T22:00:17+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -400,6 +400,59 @@
                             "object_sub_details_id": 13430,
                             "object_sub_date_start": "-2000",
                             "object_sub_date_end": "-1500",
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 0,
+                            "object_sub_location_ref_object_sub_details_id": 0,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": null,
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "18366287": {
+                "object": {
+                    "nodegoat_id": "ngVC8H78hXCN8XMR1Vu5iksqwVJ",
+                    "type_id": 12188,
+                    "object_id": 18366287,
+                    "object_name": "Generation post-Nostoi",
+                    "object_name_plain": "Generation post-Nostoi",
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-04-16T21:06:43Z"
+                },
+                "object_definitions": {
+                    "35553": {
+                        "object_description_id": 35553,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "900",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35554": {
+                        "object_description_id": 35554,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "500",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23726533": {
+                        "object_sub": {
+                            "object_sub_id": 23726533,
+                            "object_sub_details_id": 13430,
+                            "object_sub_date_start": "900",
+                            "object_sub_date_end": "500",
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": null,
                             "object_sub_location_geometry_ref_object_id": null,

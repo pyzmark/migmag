@@ -7,7 +7,7 @@ ngGN7a28sGNY7HtO2GP0tvdLhGU,12042372,Olympichos,Author
 ngIP7y48uKPA9JvW4KB25xfVjJW,12042374,Panyassis,Author
 ngOV8e08aObG4PbS0PH83dlBpPC,12042380,Xenophanes of Kolophon,Author
 ngQX8g28cQnI6Rdk2Q30afnDrQE,12042382,Thucydides,Author
-ngVC6D18hVCN4WiV1VO9gksmwWp,12150561,Ailianos,Author
+ngVC6D18hVCN4WiV1VO9gksmwWp,12150561,Aelianus,Author
 ngWD6E28iWNO3XjS2X307ltrxYK,12150562,Aelius Aristeides,Author
 ngXE6F38jYkP7YkT3ZQ14muUyXL,12150563,Agias,Author
 ngYF6G48kZvQ8ZlU4Yx2lnvpzYs,12150564,Alkidamas,Author
@@ -65,7 +65,7 @@ ngLS2H58xLCD5MyX5LU3vaiAmMZ,12150625,Schol. Aristeides,Author
 ngMT2E68yOTE7NzI6MF4ybjVnNg,12150626,Schol. Aristoph. Vesp.,Author
 ngNU2F78zPEF7OaN7Nm5ackeoNh,12150627,Schol. Kallim.,Author
 ngOV2G88aQFGaPbe8QH69dlBpQC,12150628,Schol. Hom. Od.,Author
-ngPW2H98bQcHbQcf9Qo71emUqQD,12150629,Schol. Lyc. Alexandria,Author
+ngPW2H98bQcHbQcf9Qo71emUqQD,12150629,Schol. Lyc. Alexandra,Author
 ngQX3M08cRHI1Rdg0R18bfnFrRE,12150630,Schol. Nikandr.,Author
 ngRY3N18dReJeSeh1SK94goSsRl,12150631,Semonides of Amorgos,Author
 ngSZ3O28eSpKfTfG2S30dhpjtTm,12150632,Servius,Author
@@ -239,7 +239,7 @@ ngSZ0K68eSpKfTfm6UL4fhprtSm,14774806,Aischines,Author
 ngTA0r78fTKL1UgL7T85eiqGuEH,14774807,Xenophon,Author
 ngVC0l98hVMN1WiR9XO70ksSwGJ,14774809,Aeneas Tacticus,Author
 ngXE1B18jYkP5YkT1X29hmuMyIL,14774811,Demosthenes,Author
-ngYF1G28kAPQ4Zlo2YH0invDzJM,14774812,Didymus Chalcenterus,Author
+ngYF1G28kAPQ4Zlo2YH0invDzJM,14774812,Didymus of Alexandria,Author
 ngHO2D18tIuZ1IuL1JQ95weQiHb,14774821,Herodian,Author
 ngXE3B78jYkP2YkJ7YG50muoyYr,14786937,Orphic Argonautica,Author
 ngIP7y48uJfA8Jvc4JR2sxfNjJW,14787174,Memnon of Herakleia,Author
@@ -379,7 +379,7 @@ ngBI4F18nByT6CoF1BK94qywcCP,16306341,Diodorus the Grammarian,Author
 ngCJ4O28oCTU5Dpw2CL02rzPdEQ,18359342,Athenians,Groups/collectives (spanning mythical and historical)
 ngFM9z78rFWX9Gsz7GO58ucOgFz,18359397,Chians,Groups/collectives (spanning mythical and historical)
 ngYF9o08kZPQ2ZlG0YH84nvpzYs,18362690,Antheus,Traveller: mythical
-ngDK9t58pEqV6Eqb5E636saIeFR,18362695,Author of the Dictys Cretenses,Author
+ngDK9t58pEqV6Eqb5E636saIeFR,18362695,Dictys Cretenses,Author
 ngVC6Z18hWCNiWiD1VE9iksWwWp,18362761,Massaliotes,Groups/collectives (spanning mythical and historical)
 ngWD6A28iXNOiXjm2YF07ltLxWK,18362762,Chalkidians,Groups/collectives (spanning mythical and historical)
 ngYF6C48kZvQkZlw4Yx2jnvpzYs,18362764,Kyrene,Traveller: mythical
@@ -435,3 +435,21 @@ ngHO2T18tHYZrIuH1Hg9tweciSV,18362821,Euboeans,Groups/collectives (spanning mythi
 ngIP2M28uKPAuJvM2JB06xfdjTW,18362822,Amphyctionians,Groups/collectives (spanning mythical and historical)
 ngQX0I48cSXIcRdU4QJ2bfnVrQE,18362904,Protiadai,Groups/collectives (spanning mythical and historical)
 ngRY0N58dRoJeSeZ5Sq37goOsSF,18362905,Petta/Aristoxena,Traveller: mythical
+ngXE6B38jYkPkYkv3ZQ1kmuoyXr,18366063,Anon. Milesiaka (BNJ 496),Author
+ngPW5P58bRWHbQcn5PY37emkqRD,18366155,Myrsilos of Methymna,Author
+ngJQ7h58vKABtKwh5KS3tygWkKX,18366175,Zaleukos,Traveller: mythical
+ngLS7j78xMiDwMyL7NE59aiQmLZ,18366177,Orestes,Traveller: mythical
+ngQX8I28cQHIaRdI2Q30cfnJrQm02,18366182,Chthonopatra,Traveller: mythical
+ngRY8p38dTYJbSeZ3Sq13goAsSl,18366183,Physkeis,Groups/collectives (spanning mythical and historical)
+ngWD1S08iXDOjXjK0XP81ltvxWq,18366210,Lucius Septimus,Author
+ngNU2F78zNkFxOaZ7OW5xckKoPB,18366227,Couretes,Groups/collectives (spanning mythical and historical)
+ngUB6Y08gUrMgVhG0WD8ejrNvVo,18366260,Isos of Helike,Traveller: mythical
+ngWD6A28iXNOiXjm2YF03ltTxWK,18366262,Samia,Traveller: mythical
+ngZG6D58lBGR5AmN5BS35owMaZN,18366265,Daunios,Traveller: mythical
+ngCJ6w88oCpU2Dpa8D96nrzZdEQ,18366268,Iapyx,Traveller: mythical
+ngEL7y08qFbW5FrM0Fd8otbdfFy,18366270,Messapius,Traveller: mythical
+ngJQ7h58vKABtKwh5KS3uygakJd,18366275,Philochoros,Author
+ngKR7i68wKxCuLxC6MT40zhjlLe,18366276,Andraimon,Traveller: mythical
+ngPW8H18bPGHzQcH1QY95emgqPb9b,18366281,Erginos,Traveller: mythical
+ngTA8F58fUgL6UgL5TC39iqsuTn,18366285,Pieria,Traveller: mythical
+ngYF9o08kZPQ2ZlG0YH8lnvpzZs,18366290,Schol. Parthenius,Author
