@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-04-23T22:00:06+00:00",
+    "timestamp": "2024-04-24T22:00:06+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -6831,7 +6831,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-16T19:23:32Z"
+                    "object_dating": "2024-04-24T09:35:49Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -6880,6 +6880,13 @@
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [],
                         "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59567": {
+                        "object_description_id": 59567,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "It could be any of the three main scholiasts of 1-2nd centuries CE: Theon and Lucillus Tarrhaeus (1st c), or Sophocles (2nd c). Scholiasts for Apol. Rhod. are both transmitted directly on manuscripts of Apol. Rhod., and also indirectly, in Byzantine works such as the Etym. Magn, Steph. Byz., Eustasthius and John Tzetzes.",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     }
@@ -52941,6 +52948,912 @@
                             "object_sub_date_chronology": null,
                             "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [23.722746101726, 37.972633872616]}",
                             "object_sub_location_geometry_ref_object_id": 11943325,
+                            "object_sub_location_geometry_ref_type_id": 12160,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 12160,
+                            "object_sub_location_ref_object_sub_details_id": 13068,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": "reference",
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "18379248": {
+                "object": {
+                    "nodegoat_id": "ngIP4U88uJfA2JvE8Ih6txfNjJW",
+                    "type_id": 12174,
+                    "object_id": 18379248,
+                    "object_name": "Schol. Plato (T+)",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-04-23T22:25:49Z"
+                },
+                "object_definitions": {
+                    "35523": {
+                        "object_description_id": 35523,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Schol. Plato (T+)",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35520": {
+                        "object_description_id": 35520,
+                        "object_definition_ref_object_id": 11945253,
+                        "object_definition_value": "Author",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35556": {
+                        "object_description_id": 35556,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35540": {
+                        "object_description_id": 35540,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59539": {
+                        "object_description_id": 59539,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23734253": {
+                        "object_sub": {
+                            "object_sub_id": 23734253,
+                            "object_sub_details_id": 13427,
+                            "object_sub_date_start": 0,
+                            "object_sub_date_end": 0,
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 12160,
+                            "object_sub_location_ref_object_sub_details_id": 13068,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": "reference",
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "18379265": {
+                "object": {
+                    "nodegoat_id": "ngZG6D58lBGRmAmx5ZS39owAaAt",
+                    "type_id": 12174,
+                    "object_id": 18379265,
+                    "object_name": "Schol. Apol. Rhod. (L+)",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-04-23T23:08:11Z"
+                },
+                "object_definitions": {
+                    "35523": {
+                        "object_description_id": 35523,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Schol. Apol. Rhod. (L+)",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35520": {
+                        "object_description_id": 35520,
+                        "object_definition_ref_object_id": 11945253,
+                        "object_definition_value": "Author",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35556": {
+                        "object_description_id": 35556,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35540": {
+                        "object_description_id": 35540,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59539": {
+                        "object_description_id": 59539,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23734269": {
+                        "object_sub": {
+                            "object_sub_id": 23734269,
+                            "object_sub_details_id": 13427,
+                            "object_sub_date_start": 0,
+                            "object_sub_date_end": 0,
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 12160,
+                            "object_sub_location_ref_object_sub_details_id": 13068,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": "reference",
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "18381191": {
+                "object": {
+                    "nodegoat_id": "ngZG9p18lZmR2Amx1ZI92owOaAN",
+                    "type_id": 12174,
+                    "object_id": 18381191,
+                    "object_name": "Knopos",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-04-23T23:54:58Z"
+                },
+                "object_definitions": {
+                    "35523": {
+                        "object_description_id": 35523,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Knopos",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35520": {
+                        "object_description_id": 35520,
+                        "object_definition_ref_object_id": 11945255,
+                        "object_definition_value": "Traveller: mythical",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35556": {
+                        "object_description_id": 35556,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35540": {
+                        "object_description_id": 35540,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59539": {
+                        "object_description_id": 59539,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23735831": {
+                        "object_sub": {
+                            "object_sub_id": 23735831,
+                            "object_sub_details_id": 13427,
+                            "object_sub_date_start": 0,
+                            "object_sub_date_end": 0,
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 12160,
+                            "object_sub_location_ref_object_sub_details_id": 13068,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": "reference",
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "18381597": {
+                "object": {
+                    "nodegoat_id": "ngFM9z78rFWX0GsT7GO5qucSgFT",
+                    "type_id": 12174,
+                    "object_id": 18381597,
+                    "object_name": "Cretans",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-04-24T07:51:43Z"
+                },
+                "object_definitions": {
+                    "35523": {
+                        "object_description_id": 35523,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Cretans",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35520": {
+                        "object_description_id": 35520,
+                        "object_definition_ref_object_id": 11945255,
+                        "object_definition_value": "Traveller: mythical",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35556": {
+                        "object_description_id": 35556,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35539": {
+                        "object_description_id": 35539,
+                        "object_definition_ref_object_id": 12370098,
+                        "object_definition_value": "Crete",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35540": {
+                        "object_description_id": 35540,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59539": {
+                        "object_description_id": 59539,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23736213": {
+                        "object_sub": {
+                            "object_sub_id": 23736213,
+                            "object_sub_details_id": 13427,
+                            "object_sub_date_start": 0,
+                            "object_sub_date_end": 0,
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [24.984579005240004, 35.219518451031]}",
+                            "object_sub_location_geometry_ref_object_id": 12370098,
+                            "object_sub_location_geometry_ref_type_id": 12160,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 12160,
+                            "object_sub_location_ref_object_sub_details_id": 13068,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": "reference",
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "18381658": {
+                "object": {
+                    "nodegoat_id": "ngSZ5W88eSJKeTfG8UL68hpjtSm",
+                    "type_id": 12174,
+                    "object_id": 18381658,
+                    "object_name": "Kilix",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-04-24T08:28:47Z"
+                },
+                "object_definitions": {
+                    "35523": {
+                        "object_description_id": 35523,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Kilix",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35520": {
+                        "object_description_id": 35520,
+                        "object_definition_ref_object_id": 11945255,
+                        "object_definition_value": "Traveller: mythical",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35521": {
+                        "object_description_id": 35521,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://resource.manto.unh.edu/8188023",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35556": {
+                        "object_description_id": 35556,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35539": {
+                        "object_description_id": 35539,
+                        "object_definition_ref_object_id": 12433413,
+                        "object_definition_value": "Phoenicia",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35540": {
+                        "object_description_id": 35540,
+                        "object_definition_ref_object_id": [
+                            12443614
+                        ],
+                        "object_definition_value": [
+                            "Cilicia"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59539": {
+                        "object_description_id": 59539,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23736227": {
+                        "object_sub": {
+                            "object_sub_id": 23736227,
+                            "object_sub_details_id": 13427,
+                            "object_sub_date_start": 0,
+                            "object_sub_date_end": 0,
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": "{\"type\": \"GeometryCollection\", \"geometries\": [{\"type\": \"Polygon\", \"coordinates\": [[[35.13427734375, 33.073130945006625], [35.430908203125, 33.091541548655215], [35.584716796875, 33.22030778968541], [35.804443359375, 33.568861182555565], [36.2109375, 33.988918483762156], [36.507568359375, 34.361576287484176], [36.419677734375, 34.67839374011646], [36.474609375, 35.137879119634185], [36.5185546875, 35.43381992014202], [36.419677734375, 35.7286770448517], [36.38671875, 35.84453450421662], [36.199951171875, 35.90684930677121], [36.01318359374999, 35.9157474194997], [35.947265625, 35.92464453144099], [35.83740234375, 35.862343734896484], [35.70556640625, 35.66622234103479], [35.8154296875, 35.576916524038616], [35.88134765625, 35.32633026307483], [35.89233398437499, 35.074964853989556], [35.782470703125, 34.92197103616377], [35.92529296875, 34.642247047768535], [35.859375, 34.50655662164561], [35.65063476562499, 34.379712580462204], [35.562744140625, 34.21634468843463], [35.52978515624999, 34.05265942137599], [35.419921875, 33.925129700072], [35.28808593749999, 33.660353121928814], [35.189208984375, 33.38558626887102], [35.101318359375, 33.22949814144951], [35.13427734375, 33.073130945006625]]]}]}",
+                            "object_sub_location_geometry_ref_object_id": 12433413,
+                            "object_sub_location_geometry_ref_type_id": 12160,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 12160,
+                            "object_sub_location_ref_object_sub_details_id": 13068,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": "reference",
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "18381664": {
+                "object": {
+                    "nodegoat_id": "ngYF6C48kZvQkZlo4ZR2invtzYM",
+                    "type_id": 12174,
+                    "object_id": 18381664,
+                    "object_name": "Agroitas",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-04-24T08:37:13Z"
+                },
+                "object_definitions": {
+                    "35523": {
+                        "object_description_id": 35523,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Agroitas",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35520": {
+                        "object_description_id": 35520,
+                        "object_definition_ref_object_id": 11945253,
+                        "object_definition_value": "Author",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35535": {
+                        "object_description_id": 35535,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://www.trismegistos.org/author/4131",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35536": {
+                        "object_description_id": 35536,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-399",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35537": {
+                        "object_description_id": 35537,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-100",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35556": {
+                        "object_description_id": 35556,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35540": {
+                        "object_description_id": 35540,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59539": {
+                        "object_description_id": 59539,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23736232": {
+                        "object_sub": {
+                            "object_sub_id": 23736232,
+                            "object_sub_details_id": 13427,
+                            "object_sub_date_start": "-399",
+                            "object_sub_date_end": "-100",
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": null,
+                            "object_sub_location_geometry_ref_object_id": null,
+                            "object_sub_location_geometry_ref_type_id": null,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 12160,
+                            "object_sub_location_ref_object_sub_details_id": 13068,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": "reference",
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "18381670": {
+                "object": {
+                    "nodegoat_id": "ngEL7y08qFbW5FrI0EX82tbdfFy",
+                    "type_id": 12174,
+                    "object_id": 18381670,
+                    "object_name": "Ariaithos Tegeates",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-04-24T08:50:28Z"
+                },
+                "object_definitions": {
+                    "35523": {
+                        "object_description_id": 35523,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Ariaithos Tegeates",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35520": {
+                        "object_description_id": 35520,
+                        "object_definition_ref_object_id": 11945253,
+                        "object_definition_value": "Author",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35535": {
+                        "object_description_id": 35535,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://www.trismegistos.org/author/4279",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35536": {
+                        "object_description_id": 35536,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-299",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35537": {
+                        "object_description_id": 35537,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-120",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35556": {
+                        "object_description_id": 35556,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35539": {
+                        "object_description_id": 35539,
+                        "object_definition_ref_object_id": 12042032,
+                        "object_definition_value": "Tegea",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35540": {
+                        "object_description_id": 35540,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358369,
+                        "object_definition_value": "Central Greece",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59539": {
+                        "object_description_id": 59539,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23736233": {
+                        "object_sub": {
+                            "object_sub_id": 23736233,
+                            "object_sub_details_id": 13427,
+                            "object_sub_date_start": "-299",
+                            "object_sub_date_end": "-120",
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [22.420672, 37.455301]}",
+                            "object_sub_location_geometry_ref_object_id": 12042032,
+                            "object_sub_location_geometry_ref_type_id": 12160,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 12160,
+                            "object_sub_location_ref_object_sub_details_id": 13068,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": "reference",
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "18381713": {
+                "object": {
+                    "nodegoat_id": "ngZG1Z38lZQR3AmR3BS1mowAaAt",
+                    "type_id": 12174,
+                    "object_id": 18381713,
+                    "object_name": "Akesandros",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-04-24T09:42:01Z"
+                },
+                "object_definitions": {
+                    "35523": {
+                        "object_description_id": 35523,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Akesandros",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35520": {
+                        "object_description_id": 35520,
+                        "object_definition_ref_object_id": 11945253,
+                        "object_definition_value": "Author",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35535": {
+                        "object_description_id": 35535,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://www.trismegistos.org/author/4138",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35536": {
+                        "object_description_id": 35536,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-399",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35537": {
+                        "object_description_id": 35537,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-100",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35556": {
+                        "object_description_id": 35556,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35539": {
+                        "object_description_id": 35539,
+                        "object_definition_ref_object_id": 12336532,
+                        "object_definition_value": "Kyrene",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35540": {
+                        "object_description_id": 35540,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358379,
+                        "object_definition_value": "North Africa",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59539": {
+                        "object_description_id": 59539,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23736253": {
+                        "object_sub": {
+                            "object_sub_id": 23736253,
+                            "object_sub_details_id": 13427,
+                            "object_sub_date_start": "-399",
+                            "object_sub_date_end": "-100",
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [21.856554688114, 32.820348544997]}",
+                            "object_sub_location_geometry_ref_object_id": 12336532,
+                            "object_sub_location_geometry_ref_type_id": 12160,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 12160,
+                            "object_sub_location_ref_object_sub_details_id": 13068,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": "reference",
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "18381718": {
+                "object": {
+                    "nodegoat_id": "ngEL1y88qFLW1FrE8GX62tdpfGS",
+                    "type_id": 12174,
+                    "object_id": 18381718,
+                    "object_name": "Phylarchos",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-04-24T09:45:44Z"
+                },
+                "object_definitions": {
+                    "35523": {
+                        "object_description_id": 35523,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Phylarchos",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35520": {
+                        "object_description_id": 35520,
+                        "object_definition_ref_object_id": 11945253,
+                        "object_definition_value": "Author",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35535": {
+                        "object_description_id": 35535,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "https://www.trismegistos.org/author/689",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35536": {
+                        "object_description_id": 35536,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-275",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35537": {
+                        "object_description_id": 35537,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "-200",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35556": {
+                        "object_description_id": 35556,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35539": {
+                        "object_description_id": 35539,
+                        "object_definition_ref_object_id": 11943325,
+                        "object_definition_value": "Athina",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35540": {
+                        "object_description_id": 35540,
+                        "object_definition_ref_object_id": [
+                            12336530
+                        ],
+                        "object_definition_value": [
+                            "Naukratis"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59538": {
+                        "object_description_id": 59538,
+                        "object_definition_ref_object_id": 18358369,
+                        "object_definition_value": "Central Greece",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59539": {
+                        "object_description_id": 59539,
+                        "object_definition_ref_object_id": [
+                            18358379
+                        ],
+                        "object_definition_value": [
+                            "North Africa"
+                        ],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23736260": {
+                        "object_sub": {
+                            "object_sub_id": 23736260,
+                            "object_sub_details_id": 13427,
+                            "object_sub_date_start": "-275",
+                            "object_sub_date_end": "-200",
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [23.722746101726, 37.972633872616]}",
+                            "object_sub_location_geometry_ref_object_id": 11943325,
+                            "object_sub_location_geometry_ref_type_id": 12160,
+                            "object_sub_location_ref_object_id": 0,
+                            "object_sub_location_ref_type_id": 12160,
+                            "object_sub_location_ref_object_sub_details_id": 13068,
+                            "object_sub_location_ref_object_name": "",
+                            "object_sub_location_type": "reference",
+                            "object_sub_sources": [],
+                            "object_sub_version": "",
+                            "object_sub_style": []
+                        },
+                        "object_sub_definitions": []
+                    }
+                }
+            },
+            "18381734": {
+                "object": {
+                    "nodegoat_id": "ngUB3C48gUBM6Vhk4UD24jrHvWI",
+                    "type_id": 12174,
+                    "object_id": 18381734,
+                    "object_name": "Eurypilos",
+                    "object_name_plain": null,
+                    "object_name_style": [],
+                    "object_style": [],
+                    "object_sources": [],
+                    "object_version": "",
+                    "object_dating": "2024-04-24T10:03:42Z"
+                },
+                "object_definitions": {
+                    "35523": {
+                        "object_description_id": 35523,
+                        "object_definition_ref_object_id": null,
+                        "object_definition_value": "Eurypilos",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35520": {
+                        "object_description_id": 35520,
+                        "object_definition_ref_object_id": 11945255,
+                        "object_definition_value": "Traveller: mythical",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35556": {
+                        "object_description_id": 35556,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35539": {
+                        "object_description_id": 35539,
+                        "object_definition_ref_object_id": 12336532,
+                        "object_definition_value": "Kyrene",
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "35540": {
+                        "object_description_id": 35540,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    },
+                    "59539": {
+                        "object_description_id": 59539,
+                        "object_definition_ref_object_id": [],
+                        "object_definition_value": [],
+                        "object_definition_sources": [],
+                        "object_definition_style": []
+                    }
+                },
+                "object_subs": {
+                    "23736270": {
+                        "object_sub": {
+                            "object_sub_id": 23736270,
+                            "object_sub_details_id": 13427,
+                            "object_sub_date_start": 0,
+                            "object_sub_date_end": 0,
+                            "object_sub_date_chronology": null,
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [21.856554688114, 32.820348544997]}",
+                            "object_sub_location_geometry_ref_object_id": 12336532,
                             "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
                             "object_sub_location_ref_type_id": 12160,
