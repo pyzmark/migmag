@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-04-24T22:00:06+00:00",
+    "timestamp": "2024-04-25T22:00:06+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -197,7 +197,7 @@
                             "object_sub_date_start": "-750",
                             "object_sub_date_end": "-700",
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.141386999999998, 38.41719605]}",
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.138118743896484, 38.419099146811455]}",
                             "object_sub_location_geometry_ref_object_id": 12042264,
                             "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
@@ -979,7 +979,7 @@
                             "object_sub_date_start": "117",
                             "object_sub_date_end": "181",
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.141386999999998, 38.41719605]}",
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.138118743896484, 38.419099146811455]}",
                             "object_sub_location_geometry_ref_object_id": 12042264,
                             "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
@@ -6804,7 +6804,7 @@
                             "object_sub_date_start": "300",
                             "object_sub_date_end": "399",
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.141386999999998, 38.41719605]}",
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.138118743896484, 38.419099146811455]}",
                             "object_sub_location_geometry_ref_object_id": 12042264,
                             "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
@@ -15009,7 +15009,7 @@
                     "object_style": [],
                     "object_sources": [],
                     "object_version": "",
-                    "object_dating": "2024-04-15T10:24:48Z"
+                    "object_dating": "2024-04-25T12:21:44Z"
                 },
                 "object_definitions": {
                     "35523": {
@@ -15064,10 +15064,12 @@
                     "35540": {
                         "object_description_id": 35540,
                         "object_definition_ref_object_id": [
-                            12150515
+                            12150515,
+                            13965172
                         ],
                         "object_definition_value": [
-                            "Alexandria"
+                            "Alexandria",
+                            "Rhègion"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -15082,10 +15084,12 @@
                     "59539": {
                         "object_description_id": 59539,
                         "object_definition_ref_object_id": [
-                            18358379
+                            18358379,
+                            18358382
                         ],
                         "object_definition_value": [
-                            "North Africa"
+                            "North Africa",
+                            "Southern Italy"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -29326,7 +29330,7 @@
                             "object_sub_date_start": 0,
                             "object_sub_date_end": 0,
                             "object_sub_date_chronology": null,
-                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.141386999999998, 38.41719605]}",
+                            "object_sub_location_geometry": "{\"type\": \"Point\", \"coordinates\": [27.138118743896484, 38.419099146811455]}",
                             "object_sub_location_geometry_ref_object_id": 12042264,
                             "object_sub_location_geometry_ref_type_id": 12160,
                             "object_sub_location_ref_object_id": 0,
