@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-04-25T22:00:06+00:00",
+    "timestamp": "2024-04-26T22:00:07+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -23107,7 +23107,7 @@
                     "35539": {
                         "object_description_id": 35539,
                         "object_definition_ref_object_id": 12433359,
-                        "object_definition_value": "Reggini - Palaiokastra - Naryx",
+                        "object_definition_value": "Naryx",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -26093,7 +26093,7 @@
                             11943325
                         ],
                         "object_definition_value": [
-                            "Atalanti - Opous",
+                            "Opous",
                             "East Lokris - Opountian Lokris",
                             "Phthia",
                             "Thessaly",
@@ -26189,7 +26189,7 @@
                             14790859
                         ],
                         "object_definition_value": [
-                            "Atalanti - Opous",
+                            "Opous",
                             "East Lokris - Opountian Lokris",
                             "Thessaly",
                             "Mount Parnassos"
@@ -26290,7 +26290,7 @@
                             14790864
                         ],
                         "object_definition_value": [
-                            "Atalanti - Opous",
+                            "Opous",
                             "East Lokris - Opountian Lokris",
                             "Mount Mainalo"
                         ],
@@ -26390,7 +26390,7 @@
                         ],
                         "object_definition_value": [
                             "Thessaly",
-                            "Atalanti - Opous"
+                            "Opous"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
@@ -26771,7 +26771,7 @@
                     "35539": {
                         "object_description_id": 35539,
                         "object_definition_ref_object_id": 12408013,
-                        "object_definition_value": "Atalanti - Opous",
+                        "object_definition_value": "Opous",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -26782,7 +26782,7 @@
                             12446232
                         ],
                         "object_definition_value": [
-                            "Atalanti - Opous",
+                            "Opous",
                             "Elis"
                         ],
                         "object_definition_sources": [],
@@ -26869,7 +26869,7 @@
                     "35539": {
                         "object_description_id": 35539,
                         "object_definition_ref_object_id": 12408013,
-                        "object_definition_value": "Atalanti - Opous",
+                        "object_definition_value": "Opous",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
@@ -41808,7 +41808,7 @@
                     "35539": {
                         "object_description_id": 35539,
                         "object_definition_ref_object_id": 12408013,
-                        "object_definition_value": "Atalanti - Opous",
+                        "object_definition_value": "Opous",
                         "object_definition_sources": [],
                         "object_definition_style": []
                     },
