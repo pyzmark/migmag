@@ -1,6 +1,6 @@
 {
     "info": "Welcome to the nodegoat Data API. For more information visit https://documentation.nodegoat.net/API.",
-    "timestamp": "2024-04-27T22:00:07+00:00",
+    "timestamp": "2024-04-28T22:00:06+00:00",
     "authenticated": true,
     "data": {
         "objects": {
@@ -28244,7 +28244,7 @@
                             12408022
                         ],
                         "object_definition_value": [
-                            "Ag. Konstantinos - Isiomata - Daphnous"
+                            "Daphnous"
                         ],
                         "object_definition_sources": [],
                         "object_definition_style": []
