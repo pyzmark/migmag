@@ -262,7 +262,11 @@ def cull_list(column):
         journ.drop(indexdrop , inplace=True)
 
 cull_list(journ['Place From'])
+journ = journ.reset_index()
+journ = journ.drop(columns=['index'])
 cull_list(journ['Place to'])
+journ = journ.reset_index()
+journ = journ.drop(columns=['index'])
 
 # This is a nice method of de-listing lists in these columns.
 # It runs into problems in the object_id columns because, unlike

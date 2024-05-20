@@ -19,7 +19,7 @@ app_subtitle = 'An exploratory tool for mythical journeys. For internal use by M
 
 # Visualizations
 def display_map(authors, journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, author_name, journj, agentsj, evidj, mode_move, time_period, mob_word):
-    latitude = 38
+    latitude = 42
     longitude = 25
 
     errors = []
@@ -30,12 +30,12 @@ def display_map(authors, journ, agents, evid, places, range_min, range_max, hero
         zoom_start=4, 
         tiles=None)
     # Add several basemap layers onto the blank space prepared above
-    folium.TileLayer('https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png',
-                     name='Carto DB - Dark',
-                     attr = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>').add_to(odyssey_map)
     folium.TileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}',
                      name='ESRI - World Shader Relief - Light',
                      attr='Tiles &copy; Esri &mdash; Source: Esri').add_to(odyssey_map)
+    folium.TileLayer('https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png',
+                     name='Carto DB - Dark',
+                     attr = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>').add_to(odyssey_map)
     # This controls whether or not a text_display field is generated in the main function
     # If no journies have been selected in search boxes (see if statemenes below),
     # then that st field will be blank.
