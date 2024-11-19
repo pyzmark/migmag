@@ -5,7 +5,6 @@ from streamlit_folium import folium_static
 import numpy as np
 import re
 import folium
-from folium import plugins
 import altair as alt
 import ast
 from odyssey_func import *
@@ -23,19 +22,6 @@ def display_map(authors, journ, agents, evid, places, range_min, range_max, hero
     longitude = 25
 
     errors = []
-    # Create map and display it
-    # Create map and display it
-    odyssey_map = folium.Map(
-        location=[latitude, longitude], 
-        zoom_start=4, 
-        tiles=None)
-    # Add several basemap layers onto the blank space prepared above
-    folium.TileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}',
-                     name='ESRI - World Shader Relief - Light',
-                     attr='Tiles &copy; Esri &mdash; Source: Esri').add_to(odyssey_map)
-    folium.TileLayer('https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png',
-                     name='Carto DB - Dark',
-                     attr = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>').add_to(odyssey_map)
     # This controls whether or not a text_display field is generated in the main function
     # If no journies have been selected in search boxes (see if statemenes below),
     # then that st field will be blank.
@@ -133,103 +119,123 @@ def display_map(authors, journ, agents, evid, places, range_min, range_max, hero
     j_pt = list(journ['Place to - Object ID'])
     j_id = list(journ['Object ID'])
 
-    # These empty lists are needed to house geojson objects that are to be converted to one big
-    # feature group
-    features = []
-    line_features = []
+    for i in st.session_state.keys():
+        del st.session_state[i]
+    # Create map and display it
+    if 'map' not in st.session_state or st.session_state.map is None:
+        odyssey_map = folium.Map(
+            location=[latitude, longitude], 
+            zoom_start=4, 
+            tiles=None)
+        # Add several basemap layers onto the blank space prepared above
+        folium.TileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}',
+                        name='ESRI - World Shader Relief - Light',
+                        attr='Tiles &copy; Esri &mdash; Source: Esri').add_to(odyssey_map)
+        folium.TileLayer('https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png',
+                        name='Carto DB - Dark',
+                        attr = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>').add_to(odyssey_map)
 
-    # Make markers and polygons for origins and destinations
-    for i in list(set(j_pf + j_pt)):
-        try:
-            marker = geo_grabber(i)
-            try: 
-                marker = marker['geometries'][0]
+        # These empty lists are needed to house geojson objects that are to be converted to one big
+        # feature group
+        features = []
+        line_features = []
+
+        # Make markers and polygons for origins and destinations
+        for i in list(set(j_pf + j_pt)):
+            try:
+                marker = geo_grabber(i)
+                try: 
+                    marker = marker['geometries'][0]
+                except:
+                    marker = marker
+                marker = shape(marker)
+            #    marker = marker.centroid
+            #    marker = tuple((marker.coords[:])[0])
+            #    label = places[places['Object ID']==i]['Name'].values[0]
+                place_name = places[places['Object ID']==i]['Name'].values[0]
+                feature = Feature(geometry=marker, properties={"Name": place_name})
+                features.append(feature)
             except:
-                marker = marker
-            marker = shape(marker)
-        #    marker = marker.centroid
-        #    marker = tuple((marker.coords[:])[0])
-        #    label = places[places['Object ID']==i]['Name'].values[0]
-            place_name = places[places['Object ID']==i]['Name'].values[0]
-            feature = Feature(geometry=marker, properties={"Name": place_name})
-            features.append(feature)
-        except:
-            continue
+                continue
 
-    # Make lines for journeys
-    for name, object_id, pf_id, pt_id in zip(j_names, j_id, j_pf, j_pt):
-        try:
-            journey = journey_maker(name, pf_id, pt_id)
-            journey_label = journey[0]
-            pointa = journey[1]
-            pointb = journey[2]
-            # This uses shapely, not geojson-py, to find the centroid of polygons as line anchors
-            # It can be used for points too---it just returns the point
-            pointa_anchor = shape(pointa)
-            pointa_anchor = pointa_anchor.centroid
-            pointa_anchor = tuple((pointa_anchor.coords[:])[0])
-            pointb_anchor = shape(pointb)
-            pointb_anchor = pointb_anchor.centroid
-            pointb_anchor = tuple((pointb_anchor.coords[:])[0])
-            line = LineString([pointa_anchor, pointb_anchor])
-            line_feature = Feature(geometry=line, properties={"Journey": journey[0]})
-            line_features.append(line_feature)
-        except:
-            # The thought here is to maintain a list of truly impossible journeys as an error output
-            errors.append(journey)
-            continue
-    markers = FeatureCollection(features)
-    lines = FeatureCollection(line_features)
-    #st.write(markers)
-    style = lambda x: {
-        'color' : 'white',
-        'opacity' : '0.60',
-        'weight' : '1',
-        'radius' : '8',
-        'fill' : 'True',
-        'fillOpacity' : '0',
-        'fillColor' : 'white'
-            }
-    highlight = lambda x: {
-        'color' : 'white',
-        'opacity' : '0.80',
-        'weight' : '5',
-        'fill' : 'True',
-        'fillOpacity' : '0.3',
-        'fillColor' : 'white'
-            }
-    folium.features.GeoJson(markers, 
-                    style_function=style,
-                    highlight_function=highlight,
-                    name='Markers', 
-                    overlay=True, 
-                    control=True, 
-                    show=True, 
-                    smooth_factor=True, 
-                    tooltip=folium.GeoJsonTooltip(fields=['Name'], labels=False),
-                    embed=True, 
-                    popup=None, 
-                    zoom_on_click=False, 
-                    marker=folium.CircleMarker()).add_to(odyssey_map)
-    folium.features.GeoJson(lines, 
-                    style_function=style,
-                    highlight_function=highlight,
-                    name='Mythical Journeys', 
-                    overlay=True, 
-                    control=True, 
-                    show=True, 
-                    smooth_factor=True, 
-                    tooltip=folium.GeoJsonTooltip(fields=['Journey'], labels=False),
-                    embed=True, 
-                    popup=None, 
-                    zoom_on_click=False, 
-                    marker=folium.CircleMarker()).add_to(odyssey_map)
+        # Make lines for journeys
+        for name, object_id, pf_id, pt_id in zip(j_names, j_id, j_pf, j_pt):
+            try:
+                journey = journey_maker(name, pf_id, pt_id)
+                journey_label = journey[0]
+                pointa = journey[1]
+                pointb = journey[2]
+                # This uses shapely, not geojson-py, to find the centroid of polygons as line anchors
+                # It can be used for points too---it just returns the point
+                pointa_anchor = shape(pointa)
+                pointa_anchor = pointa_anchor.centroid
+                pointa_anchor = tuple((pointa_anchor.coords[:])[0])
+                pointb_anchor = shape(pointb)
+                pointb_anchor = pointb_anchor.centroid
+                pointb_anchor = tuple((pointb_anchor.coords[:])[0])
+                line = LineString([pointa_anchor, pointb_anchor])
+                line_feature = Feature(geometry=line, properties={"Journey": journey[0]})
+                line_features.append(line_feature)
+            except:
+                # The thought here is to maintain a list of truly impossible journeys as an error output
+                errors.append(journey)
+                continue
+        markers = FeatureCollection(features)
+        lines = FeatureCollection(line_features)
+        #st.write(markers)
+        style = lambda x: {
+            'color' : 'white',
+            'opacity' : '0.60',
+            'weight' : '1',
+            'radius' : '8',
+            'fill' : 'True',
+            'fillOpacity' : '0',
+            'fillColor' : 'white'
+                }
+        highlight = lambda x: {
+            'color' : 'white',
+            'opacity' : '0.80',
+            'weight' : '5',
+            'fill' : 'True',
+            'fillOpacity' : '0.3',
+            'fillColor' : 'white'
+                }
+        folium.features.GeoJson(markers, 
+                        style_function=style,
+                        highlight_function=highlight,
+                        name='Markers', 
+                        overlay=True, 
+                        control=True, 
+                        show=True, 
+                        smooth_factor=True, 
+                        tooltip=folium.GeoJsonTooltip(fields=['Name'], labels=False),
+                        embed=True, 
+                        popup=None, 
+                        zoom_on_click=False, 
+                        marker=folium.CircleMarker()).add_to(odyssey_map)
+        folium.features.GeoJson(lines, 
+                        style_function=style,
+                        highlight_function=highlight,
+                        name='Mythical Journeys', 
+                        overlay=True, 
+                        control=True, 
+                        show=True, 
+                        smooth_factor=True, 
+                        tooltip=folium.GeoJsonTooltip(fields=['Journey'], labels=False),
+                        embed=True, 
+                        popup=None, 
+                        zoom_on_click=False, 
+                        marker=folium.CircleMarker()).add_to(odyssey_map)
+        folium.LayerControl().add_to(odyssey_map)
 
-    return odyssey_map, export, journ, text_display, author_export, errors
+        st.session_state.map = odyssey_map
+
+    return st.session_state.map, export, journ, text_display, author_export, errors
 
 def main():
     # Load Data
-    agents = pd.read_csv('agents.csv')
+    if 'agents' not in st.session_state or st.session_state.agents is None:
+        agents = pd.read_csv('agents.csv')
     journ = pd.read_csv('mythjour.csv')
     evid = pd.read_csv('textevid.csv')
     places = pd.read_csv('places.csv')
@@ -253,17 +259,26 @@ def main():
     # Right now these interface with the csv files that are custom exported.
     # The goal would be to create those simplified arrays from the JSON when the 
     # program starts up
-    with open('agents.json', 'r') as f:
-        agentsj = json.load(f)
-
-    with open('places.json', 'r') as f:
-        placesj = json.load(f)
-
-    with open('journ.json', 'r') as f:
-        journj = json.load(f)
-
-    with open('evid.json', 'r') as f:
-        evidj = json.load(f)
+    try:
+        agentsj
+    except:
+        with open('agents.json', 'r') as f:
+            agentsj = json.load(f)
+    try:
+        placesj
+    except:
+        with open('places.json', 'r') as f:
+            placesj = json.load(f)
+    try:
+        journj
+    except:
+        with open('journ.json', 'r') as f:
+            journj = json.load(f)
+    try:
+        evidj
+    except:
+        with open('evid.json', 'r') as f:
+            evidj = json.load(f)
 
 
     # Create basic visual elements
@@ -273,7 +288,7 @@ def main():
     st.markdown("""
             <style>
                 .block-container {
-                        padding-top: 1.5rem;
+                        padding-top: 2.5rem;
                         padding-bottom: 0rem;
                         padding-left: 1rem;
                         padding-right: 1rem;
@@ -344,7 +359,7 @@ def main():
                 output = json_search(data, string_value)
         except:
             output = float('NaN')
-        return output    
+        return output
 
     # We need to separate out the authors from travellers, should be done here and passed into map function
     authors = agents
@@ -490,13 +505,12 @@ def main():
     odyssey_map, export, modjourn, text_display, author_export, errors = display_map(authors, journ, agents, evid, places, range_min, range_max, hero_name, journ_name, dest_name, port_name, trav_type, author_name, journj, agentsj, evidj, mode_move, time_period, mob_word)
 
 
-    folium.LayerControl().add_to(odyssey_map)
     # This begins the mapping function
 #    import streamlit.components.v1 as components
 #    iframe = odyssey_map._repr_html_()
 #    components.html(iframe, width=950, height=500)
     try:
-        st.data = st_folium(odyssey_map, width=950, height=500)
+        st.data = folium_static(odyssey_map, width=950, height=500)
     except:
         st.write("It looks like the filters you've chosen do not produce any results. Try removing your last selection and replacing it with something else.")
 
@@ -564,10 +578,11 @@ _This text contains the following Words of Mobility: {mobwloc}_
                 except:
                     st.write("Something isn't working!")
 
+    #st.write(st.session_state)
+    #st.write(evid)
 
     # The following generate a data dump button
     # When you are ready to complete this, docs are at: https://docs.streamlit.io/library/api-reference/widgets/st.download_button
-    @st.cache_data
     def convert_df(df):
         # IMPORTANT: Cache the conversion to prevent computation on every rerun
         return df.to_csv().encode('utf-8')
